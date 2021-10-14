@@ -2,6 +2,8 @@
 ## Anki Karteikartenset
 
 Set für die Deutsch-Russisch Bücherreihe von Olga Schöne: "Ein guter Anfang" (A1 und A2) für das Karteikartensystem Anki (https://apps.ankiweb.net/)
+Enthalten sind sämtliche Vokabeln, die hinten in den Büchern aufgeführt werden, inklusive ihrer Übersetzung.
+Zudem werden diverse Grammatikfragen, Konjugationen und auch ganze Sätze abgefragt.
 
 ## Installation
 
