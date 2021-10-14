@@ -11,3 +11,14 @@ Zudem werden diverse Grammatikfragen, Konjugationen und auch ganze Sätze abgefr
 1. Anki herunterladen https://apps.ankiweb.net/
 2. CrowdAnki installieren https://ankiweb.net/shared/info/17886707782
 3. In Anki via "CrowdAnki: Import from git repository" importieren, URL: https://github.com/JuliusJacobsohn/Anki-Russisch-Olga-Schoene-Ein-Guter-Anfang/
+
+## Todo
+
+* Texte vom Buch eintragen
+* TTS für Sätze
+* Cloze Aufgaben für Grammatikaufgaben
+* Andere Aufgaben auch übertragen
+* Extra "Geschlecht?" Fragen hinzufügen für alle Endungen (20, "a" hat 19 verbleibend)
+* Präpositiv Beiwort Fragen hinzufügen
+* Verben in neues Format umwandeln
+* Auf ankiweb publishen
