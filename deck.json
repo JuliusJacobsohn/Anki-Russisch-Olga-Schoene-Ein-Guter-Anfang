@@ -9643,7 +9643,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "судов<font color=\"#ff0000\">о</font>льствием",
+                                "с удов<font color=\"#ff0000\">о</font>льствием",
                                 "",
                                 "gerne",
                                 "mit Vergnügen",
@@ -14819,7 +14819,7 @@
             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
             "desc": "",
             "dyn": 0,
-            "extendNew": 0,
+            "extendNew": 110,
             "extendRev": 0,
             "media_files": [],
             "name": "A1",
@@ -15396,7 +15396,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "гор<font color=\"#ff0000\">я</font>чий",
-                                "Adj.",
+                                "",
                                 "heiß",
                                 "Adj.",
                                 "",
@@ -16609,7 +16609,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Говорят, что Петербург - это Северная столица России.",
+                                "Говорят, что Петербург - это северная столица России.",
                                 "Man sagt, dass St. Petersburg die nördliche Hauptstadt Russlands ist."
                             ],
                             "guid": "qjg/R,.hf/",
@@ -16675,7 +16675,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Там находится Зимний дворец.",
-                                "Dort ist der Winterpalast."
+                                "Dort befindet sich&nbsp;<span style=\"color: var(--field-fg); background: var(--field-bg);\">der Winterpalast.</span>"
                             ],
                             "guid": "hK^KV<)Y<f",
                             "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -18152,7 +18152,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "акту<font color=\"#ff0000\">а</font>льный",
-                                "Adj.",
+                                "",
                                 "aktuell",
                                 "Adj.",
                                 "",
@@ -27023,7 +27023,7 @@
     "extendRev": 10,
     "inactiveTags": [],
     "media_files": [],
-    "mid": 1634150365689,
+    "mid": 1620114685456,
     "name": "Russisch - Olga Schöne - Ein guter Anfang",
     "note_models": [
         {
