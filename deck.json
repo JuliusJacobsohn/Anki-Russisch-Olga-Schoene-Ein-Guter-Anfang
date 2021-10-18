@@ -894,9 +894,635 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [],
+                            "media_files": [
+                                "paste-02c0ddb59d038c2fa3422800a8fdac961acf12c1.jpg",
+                                "paste-04747172843369e6a522d8999635e121c0436d55.jpg",
+                                "paste-09a21d6e4750d937fd344f41dc41c562af14ee2e.jpg",
+                                "paste-0e69339fa807348feadae6386574b8a07c8776fa.jpg",
+                                "paste-137638ccfcaa6c43e2287fd4579fd6b914692130.jpg",
+                                "paste-142344ba19c645247cc5e76f6678083e4add47a3.jpg",
+                                "paste-1a806b3a8d2a9f030bb79004a842c537e1019f83.jpg",
+                                "paste-1aea6e4eae6a46f9624c2e6db9cc02ffd0d883d1.jpg",
+                                "paste-1b69aeeea0ea2a614967ce859dde86cccd5b71f3.jpg",
+                                "paste-227cef54ff3678a7b515cdf31aba619eb9d1e561.jpg",
+                                "paste-30a6e82bd5476ceb33a298f2b11e05160fe63633.jpg",
+                                "paste-399b9b8e69d1a37ec9af69a4d94674f5c81373a4.jpg",
+                                "paste-421a7787ece6e83eda4749d9a3ac1c995cd54e5a.jpg",
+                                "paste-4574cff9e42ccffd030453bb09732f0d1094b11c.jpg",
+                                "paste-4943c8217750a6e6ef208533a3bcd414fbb5d0b1.jpg",
+                                "paste-4c781de2fc5c165a2a466a3095666735e4b868e7.jpg",
+                                "paste-4cf0e9b5eed2b0c2bb6ac8805d68921ac6979491.jpg",
+                                "paste-4cf98af51c5797da4c5ec524cda753f2a38244a8.jpg",
+                                "paste-4ee0739ae47b6bada5cb55648ebf1df9b6fb854f.jpg",
+                                "paste-5278677e801d6a253b5c370ce32c902e98372c42.jpg",
+                                "paste-529926c928a6f085f51ebffb31ac698bce16bdd7.jpg",
+                                "paste-55521d20c31ccadd408ad9a0fd1452988e102a77.jpg",
+                                "paste-5dfd9231b61419f7ec53a831b4d4c6e2c8ecaddf.jpg",
+                                "paste-5e3bca988cd99564d64312a106e63eb6e6dbef18.jpg",
+                                "paste-5f56e6ccaf2f66a7271e49972a29fe22bdd65c3c.jpg",
+                                "paste-61937c9c1138265a625dfa2be4a50903ba149a9a.jpg",
+                                "paste-624687f0515637b2b354c77ca27b433f18ab4a48.jpg",
+                                "paste-6826097434bd0bea0cef6010177ec9322c7edce9.jpg",
+                                "paste-6b3602b54df34653134c538ede117722e8b9e6f0.jpg",
+                                "paste-6d3123c68465dfbaff8923ba36d118c1df653e55.jpg",
+                                "paste-71012049f75163649b02be60cdf36aebf62859f2.jpg",
+                                "paste-74d0e28869ce7d16448e88d26a9d6b72259b8ef1.jpg",
+                                "paste-77dc1e5ed7b30c6b0fb768e0bb443bf6dc00428c.jpg",
+                                "paste-795734322ccf8cadd900829be184dea2f18d35a2.jpg",
+                                "paste-7c36d22f9202accea4af2e617be2a9bada7856aa.jpg",
+                                "paste-7e956548df97c26654d9d00a9de2126c4815cb18.jpg",
+                                "paste-83a669e6a122d99b0719c82f2e6f367eae87d31f.jpg",
+                                "paste-86bdc656fae73f50cedc5113a731a7b1a55111f1.jpg",
+                                "paste-89953ea93030da4e61f92686c4e68216b933567c.jpg",
+                                "paste-8a43b511f6ed669905a3d357c01dbf23b48a2445.jpg",
+                                "paste-8b54698c08095d5a96822bd5d97bc45bca657cad.jpg",
+                                "paste-8b74c0a38e49e4fa19fa980ba0b7c570d27c11bd.jpg",
+                                "paste-8b8457d91947bab74b894bcf40121372ab9c20b8.jpg",
+                                "paste-942c5385f93489a62540670bdef85af678968ad3.jpg",
+                                "paste-9553e91ae5b0c4f4e17c9a29bfe9d496e36be87a.jpg",
+                                "paste-95e22b3ddf99c707c06f5a423659652c4a7a5959.jpg",
+                                "paste-a83ac0bb0b3c29cd89ad6ee5f2a89e11d33d9cd4.jpg",
+                                "paste-ab836b68fa451a7a88f122b37ad438d7c203aef2.jpg",
+                                "paste-af948ec7ff19ee9138677add86d9844ecd0a328a.jpg",
+                                "paste-b86458077ce4fbd642c89d3625dbd9ad5466d952.jpg",
+                                "paste-bc34c4c7f66a0e1dcabf218af20b1222a2e41cdb.jpg",
+                                "paste-bda22b64c111ea3a93317e2624bb8a4fa83c70f4.jpg",
+                                "paste-be454ba3568d218c0df4d562c500f71da6c06868.jpg",
+                                "paste-c46bbad9985edce63daf6daf07893889c8dba948.jpg",
+                                "paste-cc9084ebaa9685e2985c2b743c1040661c0cb01c.jpg",
+                                "paste-d46d151fa6767a42842dfde9b12d524878098069.jpg",
+                                "paste-d7ee3ba2e7239526dd0886514033d1c31ef77c72.jpg",
+                                "paste-d84a81c5b7e0105ee473d1856ad30ee489c4c27c.jpg",
+                                "paste-da1103507213c68de09a805acd97e695887d66eb.jpg",
+                                "paste-e0df9a41992caaf3fd218e3af50347040469b2ec.jpg",
+                                "paste-e7a75acf602a6f6138798240a2ac1e811d0c1a75.jpg",
+                                "paste-ecec827a7ac0279d1dfd65535f5a6e01f85d6899.jpg",
+                                "paste-ff9d6015fa6c814f7f31b4831b95b47ccc1907e4.jpg"
+                            ],
                             "name": "02 Grammatik",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A",
+                                        "<img src=\"paste-74d0e28869ce7d16448e88d26a9d6b72259b8ef1.jpg\">",
+                                        "a",
+                                        "<img src=\"paste-86bdc656fae73f50cedc5113a731a7b1a55111f1.jpg\">",
+                                        "a"
+                                    ],
+                                    "guid": "k*r:*,6+u6",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Б",
+                                        "<img src=\"paste-55521d20c31ccadd408ad9a0fd1452988e102a77.jpg\">",
+                                        "б",
+                                        "<img src=\"paste-1a806b3a8d2a9f030bb79004a842c537e1019f83.jpg\">",
+                                        "b"
+                                    ],
+                                    "guid": "s3(?}#[IBP",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В",
+                                        "<img src=\"paste-89953ea93030da4e61f92686c4e68216b933567c.jpg\">",
+                                        "в",
+                                        "<img src=\"paste-4c781de2fc5c165a2a466a3095666735e4b868e7.jpg\">",
+                                        "w"
+                                    ],
+                                    "guid": "MX~nTbj.EG",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Г",
+                                        "<img src=\"paste-6b3602b54df34653134c538ede117722e8b9e6f0.jpg\">",
+                                        "г",
+                                        "<img src=\"paste-9553e91ae5b0c4f4e17c9a29bfe9d496e36be87a.jpg\">",
+                                        "g"
+                                    ],
+                                    "guid": "x&d;SMLzMb",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Д",
+                                        "<img src=\"paste-8a43b511f6ed669905a3d357c01dbf23b48a2445.jpg\">",
+                                        "д",
+                                        "<img src=\"paste-c46bbad9985edce63daf6daf07893889c8dba948.jpg\">",
+                                        "d"
+                                    ],
+                                    "guid": "la3V*KNg5j",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Е",
+                                        "<img src=\"paste-83a669e6a122d99b0719c82f2e6f367eae87d31f.jpg\">",
+                                        "е",
+                                        "<img src=\"paste-529926c928a6f085f51ebffb31ac698bce16bdd7.jpg\">",
+                                        "je oder e mit<br>einem i-Ansatz"
+                                    ],
+                                    "guid": "q)eG<Ir.Jz",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ё",
+                                        "<img src=\"paste-8b74c0a38e49e4fa19fa980ba0b7c570d27c11bd.jpg\">",
+                                        "ё",
+                                        "<img src=\"paste-02c0ddb59d038c2fa3422800a8fdac961acf12c1.jpg\">",
+                                        "jo oder o mit<br>einem i-Ansatz"
+                                    ],
+                                    "guid": "zLmxk@wa_k",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ж",
+                                        "<img src=\"paste-b86458077ce4fbd642c89d3625dbd9ad5466d952.jpg\">",
+                                        "ж",
+                                        "<img src=\"paste-0e69339fa807348feadae6386574b8a07c8776fa.jpg\">",
+                                        "stimmhaftes sch (Etage)"
+                                    ],
+                                    "guid": "n./81~OkJ6",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "З",
+                                        "<img src=\"paste-399b9b8e69d1a37ec9af69a4d94674f5c81373a4.jpg\">",
+                                        "з",
+                                        "<img src=\"paste-795734322ccf8cadd900829be184dea2f18d35a2.jpg\">",
+                                        "stimmhaftes s (sagen)"
+                                    ],
+                                    "guid": "PflN#gS}qm",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "И",
+                                        "<img src=\"paste-09a21d6e4750d937fd344f41dc41c562af14ee2e.jpg\">",
+                                        "и",
+                                        "<img src=\"paste-ecec827a7ac0279d1dfd65535f5a6e01f85d6899.jpg\">",
+                                        "i"
+                                    ],
+                                    "guid": "CeTypkc>^$",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Й",
+                                        "<img src=\"paste-942c5385f93489a62540670bdef85af678968ad3.jpg\">",
+                                        "й",
+                                        "<img src=\"paste-bda22b64c111ea3a93317e2624bb8a4fa83c70f4.jpg\">",
+                                        "j"
+                                    ],
+                                    "guid": "n{U`#&?)5$",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "К",
+                                        "<img src=\"paste-5278677e801d6a253b5c370ce32c902e98372c42.jpg\">",
+                                        "к",
+                                        "<img src=\"paste-da1103507213c68de09a805acd97e695887d66eb.jpg\">",
+                                        "k"
+                                    ],
+                                    "guid": "zp8V>kA4XA",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Л",
+                                        "<img src=\"paste-e0df9a41992caaf3fd218e3af50347040469b2ec.jpg\">",
+                                        "л",
+                                        "<img src=\"paste-d46d151fa6767a42842dfde9b12d524878098069.jpg\">",
+                                        "i"
+                                    ],
+                                    "guid": "wS}`ZHnkNi",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "М",
+                                        "<img src=\"paste-227cef54ff3678a7b515cdf31aba619eb9d1e561.jpg\">",
+                                        "м",
+                                        "<img src=\"paste-4cf0e9b5eed2b0c2bb6ac8805d68921ac6979491.jpg\">",
+                                        "m"
+                                    ],
+                                    "guid": "BMsT:uk1-V",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Н",
+                                        "<img src=\"paste-1b69aeeea0ea2a614967ce859dde86cccd5b71f3.jpg\">",
+                                        "н",
+                                        "<img src=\"paste-71012049f75163649b02be60cdf36aebf62859f2.jpg\">",
+                                        "n"
+                                    ],
+                                    "guid": "IMv[1e`3EZ",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "О",
+                                        "<img src=\"paste-1aea6e4eae6a46f9624c2e6db9cc02ffd0d883d1.jpg\">",
+                                        "о",
+                                        "<img src=\"paste-4574cff9e42ccffd030453bb09732f0d1094b11c.jpg\">",
+                                        "o"
+                                    ],
+                                    "guid": "pyLJIC9l[l",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "П",
+                                        "<img src=\"paste-af948ec7ff19ee9138677add86d9844ecd0a328a.jpg\">",
+                                        "п",
+                                        "<img src=\"paste-04747172843369e6a522d8999635e121c0436d55.jpg\">",
+                                        "p"
+                                    ],
+                                    "guid": "dO#>vBri*z",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Р",
+                                        "<img src=\"paste-be454ba3568d218c0df4d562c500f71da6c06868.jpg\">",
+                                        "р",
+                                        "<img src=\"paste-142344ba19c645247cc5e76f6678083e4add47a3.jpg\">",
+                                        "r"
+                                    ],
+                                    "guid": "m>njMj^s3O",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "С",
+                                        "<img src=\"paste-77dc1e5ed7b30c6b0fb768e0bb443bf6dc00428c.jpg\">",
+                                        "с",
+                                        "<img src=\"paste-61937c9c1138265a625dfa2be4a50903ba149a9a.jpg\">",
+                                        "stimmloses s (Post)"
+                                    ],
+                                    "guid": "l3}kBe6IO7",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Т",
+                                        "<img src=\"paste-4cf98af51c5797da4c5ec524cda753f2a38244a8.jpg\">",
+                                        "т",
+                                        "<img src=\"paste-ff9d6015fa6c814f7f31b4831b95b47ccc1907e4.jpg\">",
+                                        "t"
+                                    ],
+                                    "guid": "OmjgSFkXZN",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У",
+                                        "<img src=\"paste-95e22b3ddf99c707c06f5a423659652c4a7a5959.jpg\">",
+                                        "у",
+                                        "<img src=\"paste-624687f0515637b2b354c77ca27b433f18ab4a48.jpg\">",
+                                        "u"
+                                    ],
+                                    "guid": "QsrZ;[5{<F",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ф",
+                                        "<img src=\"paste-8b8457d91947bab74b894bcf40121372ab9c20b8.jpg\">",
+                                        "ф",
+                                        "<img src=\"paste-5e3bca988cd99564d64312a106e63eb6e6dbef18.jpg\">",
+                                        "f"
+                                    ],
+                                    "guid": "k=KC_aeWvI",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Х",
+                                        "<img src=\"paste-7c36d22f9202accea4af2e617be2a9bada7856aa.jpg\">",
+                                        "х",
+                                        "<img src=\"paste-cc9084ebaa9685e2985c2b743c1040661c0cb01c.jpg\">",
+                                        "hh (Tuch)"
+                                    ],
+                                    "guid": "G?aCK$%DJo",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ц",
+                                        "<img src=\"paste-4ee0739ae47b6bada5cb55648ebf1df9b6fb854f.jpg\">",
+                                        "ц",
+                                        "<img src=\"paste-e7a75acf602a6f6138798240a2ac1e811d0c1a75.jpg\">",
+                                        "z"
+                                    ],
+                                    "guid": "y$~3.ttO#7",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ч",
+                                        "<img src=\"paste-6d3123c68465dfbaff8923ba36d118c1df653e55.jpg\">",
+                                        "ч",
+                                        "<img src=\"paste-137638ccfcaa6c43e2287fd4579fd6b914692130.jpg\">",
+                                        "tsch, engl. ch (change)"
+                                    ],
+                                    "guid": "H+(2&OJ&DS",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ш",
+                                        "<img src=\"paste-6826097434bd0bea0cef6010177ec9322c7edce9.jpg\">",
+                                        "ш",
+                                        "<img src=\"paste-d7ee3ba2e7239526dd0886514033d1c31ef77c72.jpg\">",
+                                        "sch"
+                                    ],
+                                    "guid": "wOYT^|zaD?",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Щ",
+                                        "<img src=\"paste-421a7787ece6e83eda4749d9a3ac1c995cd54e5a.jpg\">",
+                                        "щ",
+                                        "<img src=\"paste-5f56e6ccaf2f66a7271e49972a29fe22bdd65c3c.jpg\">",
+                                        "weiches sch fr. ch (chien)"
+                                    ],
+                                    "guid": "AI/F.!DYib",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ъ",
+                                        "<img src=\"paste-d84a81c5b7e0105ee473d1856ad30ee489c4c27c.jpg\">",
+                                        "ъ",
+                                        "<img src=\"paste-d84a81c5b7e0105ee473d1856ad30ee489c4c27c.jpg\">",
+                                        "Härtezeichen"
+                                    ],
+                                    "guid": "d!>qu}o.{D",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ы",
+                                        "<img src=\"paste-5dfd9231b61419f7ec53a831b4d4c6e2c8ecaddf.jpg\">",
+                                        "ы",
+                                        "<img src=\"paste-5dfd9231b61419f7ec53a831b4d4c6e2c8ecaddf.jpg\">",
+                                        "i in der Kehle (u Ansatz mit Lippen auf i)"
+                                    ],
+                                    "guid": "n3-(f7QDPi",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ь",
+                                        "<img src=\"paste-ab836b68fa451a7a88f122b37ad438d7c203aef2.jpg\">",
+                                        "ь",
+                                        "<img src=\"paste-ab836b68fa451a7a88f122b37ad438d7c203aef2.jpg\">",
+                                        "Weichheitszeichen"
+                                    ],
+                                    "guid": "Oq4O/OLU{?",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Э",
+                                        "<img src=\"paste-bc34c4c7f66a0e1dcabf218af20b1222a2e41cdb.jpg\">",
+                                        "э",
+                                        "<img src=\"paste-30a6e82bd5476ceb33a298f2b11e05160fe63633.jpg\">",
+                                        "ä"
+                                    ],
+                                    "guid": "y~4Za,?w9$",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ю",
+                                        "<img src=\"paste-8b54698c08095d5a96822bd5d97bc45bca657cad.jpg\">",
+                                        "ю",
+                                        "<img src=\"paste-7e956548df97c26654d9d00a9de2126c4815cb18.jpg\">",
+                                        "ju oder u mit einem i-Ansatz"
+                                    ],
+                                    "guid": "ec<gIN5u]:",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я",
+                                        "<img src=\"paste-a83ac0bb0b3c29cd89ad6ee5f2a89e11d33d9cd4.jpg\">",
+                                        "я",
+                                        "<img src=\"paste-4943c8217750a6e6ef208533a3bcd414fbb5d0b1.jpg\">",
+                                        "ja oder a mit einem i-Ansatz"
+                                    ],
+                                    "guid": "mlP#oo%?j>",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
@@ -908,6 +1534,7 @@
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [],
+                            "mid": 1634587705785,
                             "name": "03 Sätze und Phrasen",
                             "notes": []
                         }
