@@ -884,6 +884,32 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "c6897f28-304d-11ec-ad77-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "02 Grammatik",
+                            "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "c68a6999-304d-11ec-9fc9-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "03 Sätze und Phrasen",
+                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "2661bfe0-2d30-11ec-9c5f-0c7a15ee466f",
@@ -5087,6 +5113,19 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "c69ba8ab-304d-11ec-bc4e-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "03 Sätze und Phrasen",
+                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "266801cf-2d30-11ec-bb44-0c7a15ee466f",
@@ -10809,6 +10848,19 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "c6b54ca9-304d-11ec-8932-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "03 Sätze und Phrasen",
+                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "2670dd7b-2d30-11ec-8bb8-0c7a15ee466f",
@@ -11921,6 +11973,19 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "c6b992a5-304d-11ec-b8e9-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "03 Sätze und Phrasen",
+                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "26723d1e-2d30-11ec-8c19-0c7a15ee466f",
@@ -12605,6 +12670,19 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "c6bdb193-304d-11ec-81f3-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "03 Sätze und Phrasen",
+                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "2673c3d2-2d30-11ec-acb2-0c7a15ee466f",
@@ -13661,6 +13739,19 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "c6c57a34-304d-11ec-b52a-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "03 Sätze und Phrasen",
+                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "267634fd-2d30-11ec-8bc5-0c7a15ee466f",
@@ -15521,6 +15612,19 @@
                         {
                             "__type__": "Deck",
                             "children": [],
+                            "crowdanki_uuid": "c6d0c57f-304d-11ec-a0f5-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "02 Grammatik",
+                            "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
                             "crowdanki_uuid": "51378717-3048-11ec-ac37-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
@@ -15857,6 +15961,32 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "c6d559a2-304d-11ec-8311-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "02 Grammatik",
+                            "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "c6d6440c-304d-11ec-a5e7-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "03 Sätze und Phrasen",
+                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "267bb38c-2d30-11ec-bfad-0c7a15ee466f",
@@ -18931,6 +19061,19 @@
                         {
                             "__type__": "Deck",
                             "children": [],
+                            "crowdanki_uuid": "c6dea8fa-304d-11ec-8299-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "02 Grammatik",
+                            "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
                             "crowdanki_uuid": "5142ab4d-3048-11ec-982b-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
@@ -20793,6 +20936,19 @@
                         {
                             "__type__": "Deck",
                             "children": [],
+                            "crowdanki_uuid": "c6e4eae4-304d-11ec-af57-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "02 Grammatik",
+                            "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
                             "crowdanki_uuid": "5146a328-3048-11ec-89ff-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
@@ -21959,6 +22115,19 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "c6e97f07-304d-11ec-a3dc-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "02 Grammatik",
+                            "notes": []
                         },
                         {
                             "__type__": "Deck",
@@ -23351,6 +23520,19 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "c6edec1d-304d-11ec-92f3-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "02 Grammatik",
+                            "notes": []
                         },
                         {
                             "__type__": "Deck",
@@ -24786,6 +24968,19 @@
                         {
                             "__type__": "Deck",
                             "children": [],
+                            "crowdanki_uuid": "c6f2803d-304d-11ec-a17f-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "02 Grammatik",
+                            "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
                             "crowdanki_uuid": "51523591-3048-11ec-82d8-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
@@ -26068,6 +26263,19 @@
                         {
                             "__type__": "Deck",
                             "children": [],
+                            "crowdanki_uuid": "c6f6c63c-304d-11ec-a1b5-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "02 Grammatik",
+                            "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
                             "crowdanki_uuid": "51560657-3048-11ec-ba20-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
@@ -26659,6 +26867,19 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "c6fabe1a-304d-11ec-800c-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "02 Grammatik",
+                            "notes": []
                         },
                         {
                             "__type__": "Deck",
@@ -27307,6 +27528,19 @@
                         {
                             "__type__": "Deck",
                             "children": [],
+                            "crowdanki_uuid": "c6feb5f4-304d-11ec-95f0-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "02 Grammatik",
+                            "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
                             "crowdanki_uuid": "515bfa1a-3048-11ec-abd5-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
@@ -27867,6 +28101,19 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "c70286bb-304d-11ec-a4ea-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "02 Grammatik",
+                            "notes": []
                         },
                         {
                             "__type__": "Deck",
