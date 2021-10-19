@@ -18,7 +18,5 @@ Zudem werden diverse Grammatikfragen, Konjugationen und auch ganze Sätze abgefr
 * TTS für Sätze
 * Cloze Aufgaben für Grammatikaufgaben
 * Andere Aufgaben auch übertragen
-* Extra "Geschlecht?" Fragen hinzufügen für alle Endungen (20, "a" hat 19 verbleibend)
-* Präpositiv Beiwort Fragen hinzufügen
 * Verben in neues Format umwandeln
 * Auf ankiweb publishen
