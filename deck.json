@@ -892,7 +892,7 @@
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
-                            "extendNew": 0,
+                            "extendNew": 6,
                             "extendRev": 0,
                             "media_files": [
                                 "paste-02c0ddb59d038c2fa3422800a8fdac961acf12c1.jpg",
@@ -19280,7 +19280,7 @@
                                         "свой",
                                         "",
                                         "meinen, deinen, seinen/ihren, unseren, eueren, ihren",
-                                        "m.",
+                                        "reflexiv, m.",
                                         "",
                                         ""
                                     ],
@@ -20579,7 +20579,7 @@
                                         "обм<font color=\"#ff0000\">е</font>нивать",
                                         "",
                                         "wechseln, tauschen",
-                                        "",
+                                        "Längere Version",
                                         "",
                                         ""
                                     ],
