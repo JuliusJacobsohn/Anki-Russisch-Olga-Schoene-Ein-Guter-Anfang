@@ -22730,12 +22730,10 @@
                                         "E-Mail",
                                         "lang",
                                         "",
-                                        "",
-                                        "",
                                         ""
                                     ],
                                     "guid": "BL~>fmCf-:",
-                                    "note_model_uuid": "2665ded3-2d30-11ec-aeb9-0c7a15ee466f",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
                                     "tags": [
                                         "Russisch::A2::Kapitel04",
                                         "Russisch::Vokabel"
@@ -28951,7 +28949,7 @@
     "extendRev": 10,
     "inactiveTags": [],
     "media_files": [],
-    "mid": 1634150365689,
+    "mid": 1631701916727,
     "name": "Russisch - Olga Schöne - Ein guter Anfang",
     "note_models": [
         {
