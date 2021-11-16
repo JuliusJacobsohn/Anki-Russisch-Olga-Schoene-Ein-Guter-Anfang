@@ -15460,7 +15460,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "позвон<font color=\"#ff0000\">и</font>ть",
-                                        "Perf.",
+                                        "",
                                         "anrufen",
                                         "Perf.",
                                         "+ Fall?",
@@ -18207,7 +18207,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Петербург - это Острова, Мосты и каналы.",
+                                        "Петербург - это острова, мосты и каналы.",
                                         "St. Petersburg - Es sind Inseln, Brücken und Kanäle."
                                     ],
                                     "guid": "lydV/p9{Nw",
@@ -20889,7 +20889,7 @@
                                         "пункт",
                                         "",
                                         "Punkt",
-                                        "",
+                                        "Direkt Übersetzt",
                                         "",
                                         ""
                                     ],
@@ -28876,7 +28876,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 20
+                "perDay": 400
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -28889,7 +28889,7 @@
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
-                "perDay": 200
+                "perDay": 2000
             },
             "reviewOrder": 0,
             "timer": 0
@@ -28949,7 +28949,7 @@
     "extendRev": 10,
     "inactiveTags": [],
     "media_files": [],
-    "mid": 1631701916727,
+    "mid": 1620114685457,
     "name": "Russisch - Olga Schöne - Ein guter Anfang",
     "note_models": [
         {
