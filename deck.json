@@ -1,26 +1,5 @@
 {
     "__type__": "Deck",
-    "activeTags": [
-        "A1",
-        "A1::Kapitel01",
-        "A1::Kapitel02",
-        "A1::Kapitel03",
-        "A1::Kapitel04",
-        "A1::Kapitel05",
-        "A1::Kapitel06",
-        "A1::Kapitel07",
-        "A1::Kapitel08",
-        "A1::Kapitel09",
-        "A1::Kapitel10",
-        "A1::Kapitel11",
-        "A1::Kapitel12",
-        "A1::Kapitel13",
-        "A1::Kapitel14",
-        "A1::Kapitel15",
-        "A1::Kapitel16",
-        "A1::Kapitel17",
-        "A1::Kapitel18"
-    ],
     "children": [
         {
             "__type__": "Deck",
@@ -31,14 +10,13 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a32ad8b-3040-11ec-8841-0c7a15ee466f",
+                            "crowdanki_uuid": "3ff3e088-47b1-11ec-9663-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [],
-                            "mid": 1631701916727,
                             "name": "01 Vokabeln",
                             "notes": [
                                 {
@@ -888,11 +866,11 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "c6897f28-304d-11ec-ad77-0c7a15ee466f",
+                            "crowdanki_uuid": "3ff578b0-47b1-11ec-977f-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
-                            "extendNew": 6,
+                            "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
                                 "paste-02c0ddb59d038c2fa3422800a8fdac961acf12c1.jpg",
@@ -1523,23 +1501,9 @@
                                     ]
                                 }
                             ]
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "c68a6999-304d-11ec-9fc9-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "mid": 1634587705785,
-                            "name": "03 Sätze und Phrasen",
-                            "notes": []
                         }
                     ],
-                    "crowdanki_uuid": "2661bfe0-2d30-11ec-9c5f-0c7a15ee466f",
+                    "crowdanki_uuid": "3ff2f61c-47b1-11ec-b1ad-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -1555,7 +1519,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a355bec-3040-11ec-81d5-0c7a15ee466f",
+                            "crowdanki_uuid": "3ff79bb1-47b1-11ec-b7ae-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -2611,7 +2575,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "50faefc7-3048-11ec-abe1-0c7a15ee466f",
+                            "crowdanki_uuid": "3ff94977-47b1-11ec-b74c-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -2638,7 +2602,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "50fbda35-3048-11ec-879f-0c7a15ee466f",
+                            "crowdanki_uuid": "3ffa0cd8-47b1-11ec-8b19-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -2842,7 +2806,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "2663469a-2d30-11ec-bc78-0c7a15ee466f",
+                    "crowdanki_uuid": "3ff6b144-47b1-11ec-960b-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -2858,7 +2822,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a3808b8-3040-11ec-8c0e-0c7a15ee466f",
+                            "crowdanki_uuid": "3ffbe1b2-47b1-11ec-bdd4-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -3732,7 +3696,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "50ff0ebc-3048-11ec-a4be-0c7a15ee466f",
+                            "crowdanki_uuid": "3ffd686e-47b1-11ec-8876-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -3798,7 +3762,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "50fff920-3048-11ec-baeb-0c7a15ee466f",
+                            "crowdanki_uuid": "3ffe52d6-47b1-11ec-ae83-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -3918,7 +3882,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "2664f465-2d30-11ec-9d15-0c7a15ee466f",
+                    "crowdanki_uuid": "3ffb1e59-47b1-11ec-af54-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -3934,7 +3898,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a3a79dc-3040-11ec-98af-0c7a15ee466f",
+                            "crowdanki_uuid": "400027b0-47b1-11ec-ae77-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -4615,7 +4579,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "5103068d-3048-11ec-8c1d-0c7a15ee466f",
+                            "crowdanki_uuid": "40016042-47b1-11ec-b55a-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -4759,7 +4723,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "51041811-3048-11ec-ba92-0c7a15ee466f",
+                            "crowdanki_uuid": "400271c1-47b1-11ec-9537-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -4797,7 +4761,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "26667b22-2d30-11ec-8253-0c7a15ee466f",
+                    "crowdanki_uuid": "3fff3d3f-47b1-11ec-8df5-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -4813,7 +4777,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a3cad3f-3040-11ec-8607-0c7a15ee466f",
+                            "crowdanki_uuid": "40041f8a-47b1-11ec-ada3-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -5661,7 +5625,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "51074c8f-3048-11ec-9368-0c7a15ee466f",
+                            "crowdanki_uuid": "4005a655-47b1-11ec-bf24-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -5740,22 +5704,9 @@
                                     ]
                                 }
                             ]
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "c69ba8ab-304d-11ec-bc4e-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "03 Sätze und Phrasen",
-                            "notes": []
                         }
                     ],
-                    "crowdanki_uuid": "266801cf-2d30-11ec-bb44-0c7a15ee466f",
+                    "crowdanki_uuid": "40035c2f-47b1-11ec-b867-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -5771,7 +5722,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a3ef751-3040-11ec-8d4d-0c7a15ee466f",
+                            "crowdanki_uuid": "40075439-47b1-11ec-8e7f-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -6273,7 +6224,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "510a5a04-3048-11ec-a70c-0c7a15ee466f",
+                            "crowdanki_uuid": "40088cda-47b1-11ec-87f4-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -6341,7 +6292,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "510b4471-3048-11ec-bd1e-0c7a15ee466f",
+                            "crowdanki_uuid": "40097759-47b1-11ec-a331-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -6366,7 +6317,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "26696170-2d30-11ec-b8f8-0c7a15ee466f",
+                    "crowdanki_uuid": "400690de-47b1-11ec-b8a6-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -6382,7 +6333,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a411575-3040-11ec-9470-0c7a15ee466f",
+                            "crowdanki_uuid": "400b4c41-47b1-11ec-81ec-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -7176,7 +7127,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "510e51d9-3048-11ec-ac57-0c7a15ee466f",
+                            "crowdanki_uuid": "400cabfc-47b1-11ec-8034-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -7335,7 +7286,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "510f635a-3048-11ec-acd1-0c7a15ee466f",
+                            "crowdanki_uuid": "400d9666-47b1-11ec-9d01-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -7360,7 +7311,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "266a9a04-2d30-11ec-a8c1-0c7a15ee466f",
+                    "crowdanki_uuid": "400a61c6-47b1-11ec-8732-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -7376,7 +7327,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a435f86-3040-11ec-8dc3-0c7a15ee466f",
+                            "crowdanki_uuid": "400f6b68-47b1-11ec-9086-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -8358,7 +8309,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "5112bee9-3048-11ec-8a1d-0c7a15ee466f",
+                            "crowdanki_uuid": "4010f28f-47b1-11ec-8919-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -8424,7 +8375,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "5113a95c-3048-11ec-8c08-0c7a15ee466f",
+                            "crowdanki_uuid": "4011dca8-47b1-11ec-8e7e-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -8462,7 +8413,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "266c20c6-2d30-11ec-86f0-0c7a15ee466f",
+                    "crowdanki_uuid": "400e80ea-47b1-11ec-80f6-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -8478,7 +8429,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a45d0ab-3040-11ec-8895-0c7a15ee466f",
+                            "crowdanki_uuid": "4013b190-47b1-11ec-bf96-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -9401,7 +9352,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "5116ddd5-3048-11ec-979f-0c7a15ee466f",
+                            "crowdanki_uuid": "4015385b-47b1-11ec-8231-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -9456,7 +9407,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "5117c840-3048-11ec-8a8d-0c7a15ee466f",
+                            "crowdanki_uuid": "401622e1-47b1-11ec-809c-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -9507,7 +9458,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "266da8f1-2d30-11ec-8d4c-0c7a15ee466f",
+                    "crowdanki_uuid": "4012c724-47b1-11ec-b3a2-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -9523,7 +9474,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a4843fb-3040-11ec-b502-0c7a15ee466f",
+                            "crowdanki_uuid": "4017d0bf-47b1-11ec-8b5c-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -10565,7 +10516,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "511afcc2-3048-11ec-aa7b-0c7a15ee466f",
+                            "crowdanki_uuid": "40197e97-47b1-11ec-9f94-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -10670,7 +10621,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "511c0e43-3048-11ec-88f5-0c7a15ee466f",
+                            "crowdanki_uuid": "401a6917-47b1-11ec-9e9f-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -10734,7 +10685,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "266f52ee-2d30-11ec-9cf3-0c7a15ee466f",
+                    "crowdanki_uuid": "4016e686-47b1-11ec-9c89-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -10750,7 +10701,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a4ab522-3040-11ec-8345-0c7a15ee466f",
+                            "crowdanki_uuid": "401c16dd-47b1-11ec-83b8-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -11412,7 +11363,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "511f42c0-3048-11ec-beca-0c7a15ee466f",
+                            "crowdanki_uuid": "401d9236-47b1-11ec-9fe1-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -11475,22 +11426,9 @@
                                     ]
                                 }
                             ]
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "c6b54ca9-304d-11ec-8932-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "03 Sätze und Phrasen",
-                            "notes": []
                         }
                     ],
-                    "crowdanki_uuid": "2670dd7b-2d30-11ec-8bb8-0c7a15ee466f",
+                    "crowdanki_uuid": "401b5380-47b1-11ec-a36c-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -11506,7 +11444,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a4cd820-3040-11ec-af49-0c7a15ee466f",
+                            "crowdanki_uuid": "401f6710-47b1-11ec-9eac-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -12482,7 +12420,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "51229e53-3048-11ec-9f9d-0c7a15ee466f",
+                            "crowdanki_uuid": "402114dc-47b1-11ec-b828-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -12600,22 +12538,9 @@
                                     ]
                                 }
                             ]
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "c6b992a5-304d-11ec-b8e9-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "03 Sätze und Phrasen",
-                            "notes": []
                         }
                     ],
-                    "crowdanki_uuid": "26723d1e-2d30-11ec-8c19-0c7a15ee466f",
+                    "crowdanki_uuid": "401e7ca2-47b1-11ec-9e5c-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -12631,7 +12556,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a4f3baf-3040-11ec-a1a8-0c7a15ee466f",
+                            "crowdanki_uuid": "402337dc-47b1-11ec-8773-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -13143,7 +13068,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "5125abbf-3048-11ec-814d-0c7a15ee466f",
+                            "crowdanki_uuid": "4024706e-47b1-11ec-aab4-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -13297,22 +13222,9 @@
                                     ]
                                 }
                             ]
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "c6bdb193-304d-11ec-81f3-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "03 Sätze und Phrasen",
-                            "notes": []
                         }
                     ],
-                    "crowdanki_uuid": "2673c3d2-2d30-11ec-acb2-0c7a15ee466f",
+                    "crowdanki_uuid": "40224d70-47b1-11ec-a5b5-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -13328,7 +13240,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a515eb0-3040-11ec-a185-0c7a15ee466f",
+                            "crowdanki_uuid": "40266c59-47b1-11ec-8cd2-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -13703,7 +13615,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "5128b92c-3048-11ec-942e-0c7a15ee466f",
+                            "crowdanki_uuid": "40277dd9-47b1-11ec-9d7a-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -13730,7 +13642,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "51297c88-3048-11ec-9896-0c7a15ee466f",
+                            "crowdanki_uuid": "40286848-47b1-11ec-8229-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -13878,7 +13790,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "2674fc71-2d30-11ec-8d31-0c7a15ee466f",
+                    "crowdanki_uuid": "402581ec-47b1-11ec-9df0-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -13894,7 +13806,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a5381b2-3040-11ec-a455-0c7a15ee466f",
+                            "crowdanki_uuid": "402a3d22-47b1-11ec-bf4d-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -14291,7 +14203,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "512c89f6-3048-11ec-a762-0c7a15ee466f",
+                            "crowdanki_uuid": "402b4ea1-47b1-11ec-b19b-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -14366,22 +14278,9 @@
                                     ]
                                 }
                             ]
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "c6c57a34-304d-11ec-b52a-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "03 Sätze und Phrasen",
-                            "notes": []
                         }
                     ],
-                    "crowdanki_uuid": "267634fd-2d30-11ec-8bc5-0c7a15ee466f",
+                    "crowdanki_uuid": "402952bc-47b1-11ec-9920-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -14397,7 +14296,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a55a4b3-3040-11ec-8a88-0c7a15ee466f",
+                            "crowdanki_uuid": "402d237a-47b1-11ec-984b-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -15082,7 +14981,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "512fbe72-3048-11ec-af02-0c7a15ee466f",
+                            "crowdanki_uuid": "402e831f-47b1-11ec-a900-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -15150,7 +15049,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "5130a8e1-3048-11ec-adbf-0c7a15ee466f",
+                            "crowdanki_uuid": "402f6d8d-47b1-11ec-ad15-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -15256,7 +15155,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "2677467d-2d30-11ec-81be-0c7a15ee466f",
+                    "crowdanki_uuid": "402c3911-47b1-11ec-be41-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -15272,7 +15171,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a57eec2-3040-11ec-a922-0c7a15ee466f",
+                            "crowdanki_uuid": "4031426a-47b1-11ec-b0cf-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -15776,7 +15675,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "5133b64e-3048-11ec-945c-0c7a15ee466f",
+                            "crowdanki_uuid": "40327afd-47b1-11ec-84b6-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -15803,7 +15702,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "5134a0bc-3048-11ec-84c3-0c7a15ee466f",
+                            "crowdanki_uuid": "4033656b-47b1-11ec-be60-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -15841,7 +15740,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "2678a62d-2d30-11ec-8dcc-0c7a15ee466f",
+                    "crowdanki_uuid": "403057ff-47b1-11ec-8ff7-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -15857,7 +15756,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a59eaae-3040-11ec-9f76-0c7a15ee466f",
+                            "crowdanki_uuid": "40351334-47b1-11ec-a89a-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -16239,20 +16138,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "c6d0c57f-304d-11ec-a0f5-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "02 Grammatik",
-                            "notes": []
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "51378717-3048-11ec-ac37-0c7a15ee466f",
+                            "crowdanki_uuid": "403624b2-47b1-11ec-b7d5-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -16290,7 +16176,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "2679dea8-2d30-11ec-a461-0c7a15ee466f",
+                    "crowdanki_uuid": "403428c5-47b1-11ec-8a04-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -16301,11 +16187,11 @@
                     "notes": []
                 }
             ],
-            "crowdanki_uuid": "2660fc88-2d30-11ec-8a78-0c7a15ee466f",
+            "crowdanki_uuid": "3ff20bb2-47b1-11ec-bef8-0c7a15ee466f",
             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
             "desc": "",
             "dyn": 0,
-            "extendNew": 110,
+            "extendNew": 0,
             "extendRev": 0,
             "media_files": [],
             "name": "A1",
@@ -16313,9 +16199,6 @@
         },
         {
             "__type__": "Deck",
-            "activeTags": [
-                "A2::Kapitel01"
-            ],
             "children": [
                 {
                     "__type__": "Deck",
@@ -16323,7 +16206,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a5cd109-3040-11ec-b42a-0c7a15ee466f",
+                            "crowdanki_uuid": "4038bce9-47b1-11ec-a82d-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -16588,39 +16471,13 @@
                                     ]
                                 }
                             ]
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "c6d559a2-304d-11ec-8311-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "02 Grammatik",
-                            "notes": []
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "c6d6440c-304d-11ec-a5e7-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "03 Sätze und Phrasen",
-                            "notes": []
                         }
                     ],
-                    "crowdanki_uuid": "267bb38c-2d30-11ec-bfad-0c7a15ee466f",
+                    "crowdanki_uuid": "4037f98b-47b1-11ec-8a60-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
-                    "extendNew": 110,
+                    "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [],
                     "name": "Kapitel 00",
@@ -16628,14 +16485,11 @@
                 },
                 {
                     "__type__": "Deck",
-                    "activeTags": [
-                        "Satz"
-                    ],
                     "children": [
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a5f232a-3040-11ec-9582-0c7a15ee466f",
+                            "crowdanki_uuid": "403ab8d6-47b1-11ec-ab53-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -17947,7 +17801,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "513df016-3048-11ec-a706-0c7a15ee466f",
+                            "crowdanki_uuid": "403c8db2-47b1-11ec-b8a1-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -18000,7 +17854,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "513eda84-3048-11ec-b239-0c7a15ee466f",
+                            "crowdanki_uuid": "403d7823-47b1-11ec-b73e-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -18259,15 +18113,13 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "267cad48-2d30-11ec-90c5-0c7a15ee466f",
+                    "crowdanki_uuid": "4039ce69-47b1-11ec-a432-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
-                    "extendNew": 10,
+                    "extendNew": 0,
                     "extendRev": 0,
-                    "inactiveTags": [],
                     "media_files": [],
-                    "mid": 1634150365689,
                     "name": "Kapitel 01",
                     "notes": []
                 },
@@ -18277,7 +18129,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a61e26e-3040-11ec-868b-0c7a15ee466f",
+                            "crowdanki_uuid": "403f740c-47b1-11ec-bb19-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -19688,20 +19540,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "c6dea8fa-304d-11ec-8299-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "02 Grammatik",
-                            "notes": []
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "5142ab4d-3048-11ec-982b-0c7a15ee466f",
+                            "crowdanki_uuid": "40416ff5-47b1-11ec-8b7e-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -19739,7 +19578,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "267ea92e-2d30-11ec-bafa-0c7a15ee466f",
+                    "crowdanki_uuid": "403eb0b6-47b1-11ec-a915-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -19755,7 +19594,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a649b6a-3040-11ec-b9be-0c7a15ee466f",
+                            "crowdanki_uuid": "40431dc2-47b1-11ec-b537-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -21563,20 +21402,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "c6e4eae4-304d-11ec-af57-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "02 Grammatik",
-                            "notes": []
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "5146a328-3048-11ec-89ff-0c7a15ee466f",
+                            "crowdanki_uuid": "404567d0-47b1-11ec-83ca-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -21640,7 +21466,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "26807e17-2d30-11ec-8663-0c7a15ee466f",
+                    "crowdanki_uuid": "40425a65-47b1-11ec-b00e-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -21656,7 +21482,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a67cfe6-3040-11ec-90d4-0c7a15ee466f",
+                            "crowdanki_uuid": "4047159c-47b1-11ec-ae01-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -22744,20 +22570,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "c6e97f07-304d-11ec-a3dc-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "02 Grammatik",
-                            "notes": []
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "514a25cf-3048-11ec-905d-0c7a15ee466f",
+                            "crowdanki_uuid": "4048c368-47b1-11ec-9afb-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -22808,7 +22621,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "2682a116-2d30-11ec-85a1-0c7a15ee466f",
+                    "crowdanki_uuid": "40465241-47b1-11ec-ab58-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -22824,7 +22637,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a6a8f35-3040-11ec-b069-0c7a15ee466f",
+                            "crowdanki_uuid": "404a9842-47b1-11ec-82e3-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -24149,20 +23962,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "c6edec1d-304d-11ec-92f3-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "02 Grammatik",
-                            "notes": []
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "514da870-3048-11ec-af08-0c7a15ee466f",
+                            "crowdanki_uuid": "404c6d1d-47b1-11ec-a677-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -24278,7 +24078,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "26844ed7-2d30-11ec-8fca-0c7a15ee466f",
+                    "crowdanki_uuid": "4049add6-47b1-11ec-bc5e-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -24294,7 +24094,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a6d758c-3040-11ec-b1fc-0c7a15ee466f",
+                            "crowdanki_uuid": "404f537b-47b1-11ec-a8ee-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -25593,20 +25393,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "c6f2803d-304d-11ec-a17f-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "02 Grammatik",
-                            "notes": []
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "51523591-3048-11ec-82d8-0c7a15ee466f",
+                            "crowdanki_uuid": "40512851-47b1-11ec-9c8e-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -25683,7 +25470,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "26864ac0-2d30-11ec-935e-0c7a15ee466f",
+                    "crowdanki_uuid": "404e6909-47b1-11ec-b584-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -25699,7 +25486,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a700dc2-3040-11ec-bd20-0c7a15ee466f",
+                            "crowdanki_uuid": "4052fd2f-47b1-11ec-9505-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -26888,20 +26675,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "c6f6c63c-304d-11ec-a1b5-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "02 Grammatik",
-                            "notes": []
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "51560657-3048-11ec-ba20-0c7a15ee466f",
+                            "crowdanki_uuid": "4054aaf8-47b1-11ec-9b91-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -26939,7 +26713,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "26881fa4-2d30-11ec-9294-0c7a15ee466f",
+                    "crowdanki_uuid": "405212bd-47b1-11ec-8d0a-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -26955,7 +26729,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a727eeb-3040-11ec-8708-0c7a15ee466f",
+                            "crowdanki_uuid": "40567fcf-47b1-11ec-8033-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -27496,20 +27270,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "c6fabe1a-304d-11ec-800c-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "02 Grammatik",
-                            "notes": []
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "5158ecac-3048-11ec-87df-0c7a15ee466f",
+                            "crowdanki_uuid": "4057df75-47b1-11ec-a706-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -27560,7 +27321,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "2689cd6d-2d30-11ec-ac34-0c7a15ee466f",
+                    "crowdanki_uuid": "40559561-47b1-11ec-a947-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -27576,7 +27337,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a74a1e4-3040-11ec-8ded-0c7a15ee466f",
+                            "crowdanki_uuid": "4059b450-47b1-11ec-9aac-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -28153,20 +27914,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "c6feb5f4-304d-11ec-95f0-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "02 Grammatik",
-                            "notes": []
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "515bfa1a-3048-11ec-abd5-0c7a15ee466f",
+                            "crowdanki_uuid": "405b13f5-47b1-11ec-8a10-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -28204,7 +27952,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "268b0601-2d30-11ec-bd71-0c7a15ee466f",
+                    "crowdanki_uuid": "4058c9e2-47b1-11ec-a27f-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -28220,7 +27968,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a769dd3-3040-11ec-93c9-0c7a15ee466f",
+                            "crowdanki_uuid": "405ce8d3-47b1-11ec-896f-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -28730,20 +28478,7 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "c70286bb-304d-11ec-a4ea-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "02 Grammatik",
-                            "notes": []
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "515f0788-3048-11ec-97c9-0c7a15ee466f",
+                            "crowdanki_uuid": "405e2163-47b1-11ec-8445-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
@@ -28820,7 +28555,7 @@
                             ]
                         }
                     ],
-                    "crowdanki_uuid": "268c3ebe-2d30-11ec-9d78-0c7a15ee466f",
+                    "crowdanki_uuid": "405bfe66-47b1-11ec-9518-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -28831,19 +28566,18 @@
                     "notes": []
                 }
             ],
-            "crowdanki_uuid": "267af031-2d30-11ec-8607-0c7a15ee466f",
+            "crowdanki_uuid": "40370f21-47b1-11ec-8eb6-0c7a15ee466f",
             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [],
-            "mid": 1632335302777,
             "name": "A2",
             "notes": []
         }
     ],
-    "crowdanki_uuid": "2660121e-2d30-11ec-92d5-0c7a15ee466f",
+    "crowdanki_uuid": "3ff0fa30-47b1-11ec-b37f-0c7a15ee466f",
     "deck_config_uuid": "2660121f-2d30-11ec-975e-0c7a15ee466f",
     "deck_configurations": [
         {
@@ -28945,11 +28679,9 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 50,
-    "extendRev": 10,
-    "inactiveTags": [],
+    "extendNew": 0,
+    "extendRev": 0,
     "media_files": [],
-    "mid": 1620114685457,
     "name": "Russisch - Olga Schöne - Ein guter Anfang",
     "note_models": [
         {
