@@ -21428,8 +21428,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Всег<font color=\"#ff0004\">о</font> д<font color=\"#ff0004\">о</font>брого/хор<font color=\"#ff0004\">о</font>шего!",
-                                        "Alles Gute! (2 Varianten)"
+                                        "Всег<font color=\"#ff0004\">о&nbsp;</font>д<font color=\"#ff0004\">о</font>брого",
+                                        "Alles Gute (/nette)!"
                                     ],
                                     "guid": "F2LoB2cM2$",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -21458,6 +21458,19 @@
                                         "Auf Wiedersehen (wörtlich: Bis zum baldigen Treffen)"
                                     ],
                                     "guid": "me;gD`He^:",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A2::Kapitel03",
+                                        "Russisch::Satz"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Всег<font color=\"#ff0004\">о&nbsp;</font>хор<font color=\"#ff0004\">о</font>шего",
+                                        "Alles Gute!"
+                                    ],
+                                    "guid": "A4<0GrR!:~",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
                                     "tags": [
                                         "Russisch::A2::Kapitel03",
