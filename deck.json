@@ -867,26 +867,40 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "3ff578b0-47b1-11ec-977f-0c7a15ee466f",
-                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "deck_config_uuid": "e7455492-583b-11ec-8b2d-0c7a15ee466f",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
+                                "paste-007627c3aaad16c9f588cd52f25c7e0fadf7c4c6.jpg",
                                 "paste-02c0ddb59d038c2fa3422800a8fdac961acf12c1.jpg",
                                 "paste-04747172843369e6a522d8999635e121c0436d55.jpg",
+                                "paste-04a372db9f5184d214068f03cc10930f87bbf8b0.jpg",
                                 "paste-09a21d6e4750d937fd344f41dc41c562af14ee2e.jpg",
+                                "paste-0b375dc69e01f7fd5fd0acdecdc1fdd4afad58a8.jpg",
                                 "paste-0e69339fa807348feadae6386574b8a07c8776fa.jpg",
+                                "paste-12b3f6abf49db87ae2413ffc90781bb13a7b6342.jpg",
                                 "paste-137638ccfcaa6c43e2287fd4579fd6b914692130.jpg",
                                 "paste-142344ba19c645247cc5e76f6678083e4add47a3.jpg",
                                 "paste-1a806b3a8d2a9f030bb79004a842c537e1019f83.jpg",
                                 "paste-1aea6e4eae6a46f9624c2e6db9cc02ffd0d883d1.jpg",
                                 "paste-1b69aeeea0ea2a614967ce859dde86cccd5b71f3.jpg",
+                                "paste-1e50f7d104c4e9552883460e640db198d45ebaf8.jpg",
                                 "paste-227cef54ff3678a7b515cdf31aba619eb9d1e561.jpg",
+                                "paste-2591329f45fe2a9ebf8c90a64f56c133120dbe0e.jpg",
+                                "paste-28d299eb9d01802b39ec29f711cc20d53d56b284.jpg",
+                                "paste-2aa1c2e963dd36535290c31bab3f16fe63c2c2fe.jpg",
+                                "paste-2cda70043a3f9c95589e5acc39fc5583af423b2e.jpg",
+                                "paste-2ed7f400cabe98693873e10118c51b039d9f6e9b.jpg",
                                 "paste-30a6e82bd5476ceb33a298f2b11e05160fe63633.jpg",
+                                "paste-3237f5a2fd7492642984e8b964b8187ad556a58f.jpg",
+                                "paste-35160926589907233fdd9978896c5158b142f75e.jpg",
                                 "paste-399b9b8e69d1a37ec9af69a4d94674f5c81373a4.jpg",
+                                "paste-3e7d106b66e640d43fbb29667d5efda630329df7.jpg",
                                 "paste-421a7787ece6e83eda4749d9a3ac1c995cd54e5a.jpg",
                                 "paste-4574cff9e42ccffd030453bb09732f0d1094b11c.jpg",
+                                "paste-458d0ba30c95835e5fc5889aff0e822282236219.jpg",
                                 "paste-4943c8217750a6e6ef208533a3bcd414fbb5d0b1.jpg",
                                 "paste-4c781de2fc5c165a2a466a3095666735e4b868e7.jpg",
                                 "paste-4cf0e9b5eed2b0c2bb6ac8805d68921ac6979491.jpg",
@@ -910,9 +924,12 @@
                                 "paste-7c36d22f9202accea4af2e617be2a9bada7856aa.jpg",
                                 "paste-7e956548df97c26654d9d00a9de2126c4815cb18.jpg",
                                 "paste-83a669e6a122d99b0719c82f2e6f367eae87d31f.jpg",
+                                "paste-851e0cde92f81d3a2249afe01ef08a2f46dbb7fc.jpg",
+                                "paste-86703fba09cc10248a03c72fc247636b2dac45f0.jpg",
                                 "paste-86bdc656fae73f50cedc5113a731a7b1a55111f1.jpg",
                                 "paste-89953ea93030da4e61f92686c4e68216b933567c.jpg",
                                 "paste-8a43b511f6ed669905a3d357c01dbf23b48a2445.jpg",
+                                "paste-8a4fa59368ef645917153d952cb8990bb939e2a3.jpg",
                                 "paste-8b54698c08095d5a96822bd5d97bc45bca657cad.jpg",
                                 "paste-8b74c0a38e49e4fa19fa980ba0b7c570d27c11bd.jpg",
                                 "paste-8b8457d91947bab74b894bcf40121372ab9c20b8.jpg",
@@ -920,14 +937,21 @@
                                 "paste-9553e91ae5b0c4f4e17c9a29bfe9d496e36be87a.jpg",
                                 "paste-95e22b3ddf99c707c06f5a423659652c4a7a5959.jpg",
                                 "paste-a83ac0bb0b3c29cd89ad6ee5f2a89e11d33d9cd4.jpg",
+                                "paste-ab2c2627fb4cb37ef39eb37ab139bbf162d550e5.jpg",
                                 "paste-ab836b68fa451a7a88f122b37ad438d7c203aef2.jpg",
+                                "paste-af155aa6e0bcd4a40d1a1e9d69d2cf29f21e7c00.jpg",
                                 "paste-af948ec7ff19ee9138677add86d9844ecd0a328a.jpg",
+                                "paste-b208835d3764cce1550c7c06b096f7b94902cacd.jpg",
                                 "paste-b86458077ce4fbd642c89d3625dbd9ad5466d952.jpg",
+                                "paste-ba6173d29b20a3b209d74f2fba0e56d320a0f4b4.jpg",
                                 "paste-bc34c4c7f66a0e1dcabf218af20b1222a2e41cdb.jpg",
+                                "paste-bcbed18b8d15ecc12c0918067884939d032671d8.jpg",
                                 "paste-bda22b64c111ea3a93317e2624bb8a4fa83c70f4.jpg",
                                 "paste-be454ba3568d218c0df4d562c500f71da6c06868.jpg",
+                                "paste-bfe065163a869e7dc5e41d6cb8606e6f1be9138c.jpg",
                                 "paste-c46bbad9985edce63daf6daf07893889c8dba948.jpg",
                                 "paste-cc9084ebaa9685e2985c2b743c1040661c0cb01c.jpg",
+                                "paste-d0bdea81daf3689ab63510a4962724cdfe2629de.jpg",
                                 "paste-d46d151fa6767a42842dfde9b12d524878098069.jpg",
                                 "paste-d7ee3ba2e7239526dd0886514033d1c31ef77c72.jpg",
                                 "paste-d84a81c5b7e0105ee473d1856ad30ee489c4c27c.jpg",
@@ -935,6 +959,8 @@
                                 "paste-e0df9a41992caaf3fd218e3af50347040469b2ec.jpg",
                                 "paste-e7a75acf602a6f6138798240a2ac1e811d0c1a75.jpg",
                                 "paste-ecec827a7ac0279d1dfd65535f5a6e01f85d6899.jpg",
+                                "paste-f3b2ddc73b187bc13d2e06c99f047a3708e4cd9e.jpg",
+                                "paste-fb89107d17852a2d0789c091f3b0ae8d890db896.jpg",
                                 "paste-ff9d6015fa6c814f7f31b4831b95b47ccc1907e4.jpg"
                             ],
                             "name": "02 Grammatik",
@@ -1494,6 +1520,370 @@
                                     ],
                                     "guid": "mlP#oo%?j>",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ол",
+                                        "<img src=\"paste-28d299eb9d01802b39ec29f711cc20d53d56b284.jpg\">"
+                                    ],
+                                    "guid": "xQo#::@bs?",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "лу",
+                                        "<img src=\"paste-bcbed18b8d15ecc12c0918067884939d032671d8.jpg\">"
+                                    ],
+                                    "guid": "I_E@c~8<IK",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ул",
+                                        "<img src=\"paste-af155aa6e0bcd4a40d1a1e9d69d2cf29f21e7c00.jpg\">"
+                                    ],
+                                    "guid": "N<p)}-*J=F",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "мул",
+                                        "<img src=\"paste-8a4fa59368ef645917153d952cb8990bb939e2a3.jpg\">"
+                                    ],
+                                    "guid": "lS]+-1e`{&",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "мыло",
+                                        "<img src=\"paste-2aa1c2e963dd36535290c31bab3f16fe63c2c2fe.jpg\">"
+                                    ],
+                                    "guid": "Cz}<=o^214",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "лом",
+                                        "<img src=\"paste-35160926589907233fdd9978896c5158b142f75e.jpg\">"
+                                    ],
+                                    "guid": "Ha=$J4^^99",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "аэ",
+                                        "<img src=\"paste-ab2c2627fb4cb37ef39eb37ab139bbf162d550e5.jpg\">"
+                                    ],
+                                    "guid": "d+YS^B^T|n",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ла",
+                                        "<img src=\"paste-851e0cde92f81d3a2249afe01ef08a2f46dbb7fc.jpg\">"
+                                    ],
+                                    "guid": "yFhOAiHYs#",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ал",
+                                        "<img src=\"paste-007627c3aaad16c9f588cd52f25c7e0fadf7c4c6.jpg\">"
+                                    ],
+                                    "guid": "x}sx=,W?ZH",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ом",
+                                        "<img src=\"paste-f3b2ddc73b187bc13d2e06c99f047a3708e4cd9e.jpg\">"
+                                    ],
+                                    "guid": "DVm=7=D^^N",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "мама",
+                                        "<img src=\"paste-04a372db9f5184d214068f03cc10930f87bbf8b0.jpg\">"
+                                    ],
+                                    "guid": "bL`YGGg/sa",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "лама",
+                                        "<img src=\"paste-b208835d3764cce1550c7c06b096f7b94902cacd.jpg\">"
+                                    ],
+                                    "guid": "K-8t|ppLyW",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Алла",
+                                        "<img src=\"paste-458d0ba30c95835e5fc5889aff0e822282236219.jpg\">"
+                                    ],
+                                    "guid": "c|O9u-jT[l",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Элла",
+                                        "<img src=\"paste-86703fba09cc10248a03c72fc247636b2dac45f0.jpg\">"
+                                    ],
+                                    "guid": "KC,a0I(LMi",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Эмма",
+                                        "<img src=\"paste-d0bdea81daf3689ab63510a4962724cdfe2629de.jpg\">"
+                                    ],
+                                    "guid": "w0oBTjK*Ff",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "мы",
+                                        "<img src=\"paste-0b375dc69e01f7fd5fd0acdecdc1fdd4afad58a8.jpg\">"
+                                    ],
+                                    "guid": "Eq_FF?wiw~",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "на",
+                                        "<img src=\"paste-bfe065163a869e7dc5e41d6cb8606e6f1be9138c.jpg\">"
+                                    ],
+                                    "guid": "r9OP[J759F",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "но",
+                                        "<img src=\"paste-3237f5a2fd7492642984e8b964b8187ad556a58f.jpg\">"
+                                    ],
+                                    "guid": "b!VHCs;tl8",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ру",
+                                        "<img src=\"paste-1e50f7d104c4e9552883460e640db198d45ebaf8.jpg\">"
+                                    ],
+                                    "guid": "xrhZ(5wib9",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ры",
+                                        "<img src=\"paste-2591329f45fe2a9ebf8c90a64f56c133120dbe0e.jpg\">"
+                                    ],
+                                    "guid": "l~z:N%`Rb-",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Анна",
+                                        "<img src=\"paste-2cda70043a3f9c95589e5acc39fc5583af423b2e.jpg\">"
+                                    ],
+                                    "guid": "wc[$/S^I41",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "рама",
+                                        "<img src=\"paste-fb89107d17852a2d0789c091f3b0ae8d890db896.jpg\">"
+                                    ],
+                                    "guid": "uzv(/w*LVj",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "луна",
+                                        "<img src=\"paste-ba6173d29b20a3b209d74f2fba0e56d320a0f4b4.jpg\">"
+                                    ],
+                                    "guid": "trnp.L]%1h",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "норма",
+                                        "<img src=\"paste-3e7d106b66e640d43fbb29667d5efda630329df7.jpg\">"
+                                    ],
+                                    "guid": "swB{,g1Xj6",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "роман",
+                                        "<img src=\"paste-12b3f6abf49db87ae2413ffc90781bb13a7b6342.jpg\">"
+                                    ],
+                                    "guid": "t51>zdQg~`",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::A1::Kapitel01",
+                                        "Russisch::Grammatik",
+                                        "Russisch::Schreibschrift"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мона",
+                                        "<img src=\"paste-2ed7f400cabe98693873e10118c51b039d9f6e9b.jpg\">"
+                                    ],
+                                    "guid": "LMA>%9Y/K/",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
                                     "tags": [
                                         "Russisch::A1::Kapitel01",
                                         "Russisch::Grammatik",
@@ -8327,6 +8717,7 @@
                                     "guid": "zb[@V;$!2V",
                                     "note_model_uuid": "266d81f5-2d30-11ec-ac90-0c7a15ee466f",
                                     "tags": [
+                                        "leech",
                                         "Russisch::A1::Kapitel08",
                                         "Russisch::Grammatik"
                                     ]
@@ -28689,6 +29080,54 @@
             },
             "reviewOrder": 0,
             "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "e7455492-583b-11ec-8b2d-0c7a15ee466f",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "1",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 1
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 10
+            },
+            "reviewOrder": 0,
+            "timer": 0
         }
     ],
     "desc": "",
@@ -29092,6 +29531,77 @@
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Druckschrift",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Schreibschrift",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Russisch::Schreibschrift",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Schreibschrift}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "Schreibe in Schreibschrift:\n{{Druckschrift}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Druckschrift}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "Schreibe in Druckschrift:\n{{Schreibschrift}}"
                 }
             ],
             "type": 0
