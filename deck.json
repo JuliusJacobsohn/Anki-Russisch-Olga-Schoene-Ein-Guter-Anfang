@@ -2320,7 +2320,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "студ<font color=\"#ff0000\">е</font>нт<br>",
+                                        "студ<font color=\"#ff0000\">е</font>нт",
                                         "",
                                         "Student",
                                         "",
@@ -2338,7 +2338,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "студ<font color=\"#ff0000\">е</font>нтка<br>",
+                                        "студ<font color=\"#ff0000\">е</font>нтка",
                                         "",
                                         "Studentin",
                                         "",
