@@ -24615,7 +24615,7 @@
                                     "fields": [
                                         "вход в",
                                         "",
-                                        "Eingang&nbsp;",
+                                        "Eingang",
                                         "",
                                         "+ Fall?",
                                         "+ Akk."
@@ -25264,7 +25264,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "заплат<font color=\"#ff0004\">и</font>ть за&nbsp;",
+                                        "заплат<font color=\"#ff0004\">и</font>ть за",
                                         "",
                                         "bezahlen für",
                                         "Perf.",
