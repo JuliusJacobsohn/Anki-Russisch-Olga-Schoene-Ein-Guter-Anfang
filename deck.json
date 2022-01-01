@@ -22,7 +22,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "кто <font color=\"#ff0004\">э</font>то?<br>",
+                                        "кто <font color=\"#ff0004\">э</font>то?",
                                         "Wer ist das?"
                                     ],
                                     "guid": "y%?7J-o/6d",
@@ -35,7 +35,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "что <font color=\"#ff0004\">э</font>то?<br>",
+                                        "что <font color=\"#ff0004\">э</font>то?",
                                         "Was ist das?"
                                     ],
                                     "guid": "xy:<E@iwQV",
@@ -48,7 +48,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "зап<font color=\"#ff0000\">о</font>мните!<br>",
+                                        "зап<font color=\"#ff0000\">о</font>мните!",
                                         "Merken Sie sich!"
                                     ],
                                     "guid": "L{/s1a1K9P",
@@ -97,7 +97,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "бюр<font color=\"#ff0000\">о</font><br>",
+                                        "бюр<font color=\"#ff0000\">о</font>",
                                         "",
                                         "Büro",
                                         "",
@@ -116,7 +116,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "в<font color=\"#ff0000\">а</font>нна<br>",
+                                        "в<font color=\"#ff0000\">а</font>нна",
                                         "",
                                         "Wanne",
                                         "",
@@ -133,7 +133,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "велосип<font color=\"#ff0000\">е</font>д<br>",
+                                        "велосип<font color=\"#ff0000\">е</font>д",
                                         "",
                                         "Fahrrad",
                                         "",
@@ -151,7 +151,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "вин<font color=\"#ff0000\">о</font><br>",
+                                        "вин<font color=\"#ff0000\">о</font>",
                                         "",
                                         "Wein",
                                         "",
@@ -171,7 +171,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "вод<font color=\"#ff0000\">а</font><br>",
+                                        "вод<font color=\"#ff0000\">а</font>",
                                         "",
                                         "Wasser",
                                         "",
@@ -207,7 +207,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "д<font color=\"#ff0000\">е</font>душка<br>",
+                                        "д<font color=\"#ff0000\">е</font>душка",
                                         "",
                                         "Großvater",
                                         "",
@@ -225,7 +225,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "д<font color=\"#ff0000\">е</font>ти<br>",
+                                        "д<font color=\"#ff0000\">е</font>ти",
                                         "",
                                         "Kinder",
                                         "",
@@ -317,7 +317,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "к<font color=\"#ff0000\">а</font>рта<br>",
+                                        "к<font color=\"#ff0000\">а</font>рта",
                                         "",
                                         "Karte",
                                         "",
@@ -335,7 +335,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "к<font color=\"#ff0000\">о</font>шка<br>",
+                                        "к<font color=\"#ff0000\">о</font>шка",
                                         "",
                                         "Katze",
                                         "",
@@ -353,7 +353,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "к<font color=\"#ff0000\">у</font>хня<br>",
+                                        "к<font color=\"#ff0000\">у</font>хня",
                                         "",
                                         "Küche",
                                         "",
@@ -393,7 +393,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "м<font color=\"#ff0000\">а</font>ма<br>",
+                                        "м<font color=\"#ff0000\">а</font>ма",
                                         "",
                                         "Mama",
                                         "",
@@ -411,7 +411,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "маш<font color=\"#ff0000\">и</font>на<br>",
+                                        "маш<font color=\"#ff0000\">и</font>на",
                                         "",
                                         "Auto",
                                         "",
@@ -484,7 +484,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "од<font color=\"#ff0000\">и</font>н<br>",
+                                        "од<font color=\"#ff0000\">и</font>н",
                                         "",
                                         "eins",
                                         "m.",
@@ -557,7 +557,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "п<font color=\"#ff0000\">а</font>па<br>",
+                                        "п<font color=\"#ff0000\">а</font>па",
                                         "",
                                         "Papa",
                                         "",
@@ -575,7 +575,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "п<font color=\"#ff0000\">е</font>рвый<br>",
+                                        "п<font color=\"#ff0000\">е</font>рвый",
                                         "",
                                         "erster",
                                         "",
@@ -594,7 +594,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "писмь<font color=\"#ff0000\">о</font><br>",
+                                        "писмь<font color=\"#ff0000\">о</font>",
                                         "",
                                         "Brief",
                                         "",
@@ -614,7 +614,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "р<font color=\"#ff0000\">о</font>за<br>",
+                                        "р<font color=\"#ff0000\">о</font>за",
                                         "",
                                         "Rose",
                                         "",
@@ -632,7 +632,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "соб<font color=\"#ff0000\">а</font>ка<br>",
+                                        "соб<font color=\"#ff0000\">а</font>ка",
                                         "",
                                         "Hund",
                                         "",
@@ -668,7 +668,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "том<font color=\"#ff0000\">а</font>т<br>",
+                                        "том<font color=\"#ff0000\">а</font>т",
                                         "",
                                         "Tomate",
                                         "Pflanze",
@@ -703,7 +703,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "уч<font color=\"#ff0000\">и</font>тельница<br>",
+                                        "уч<font color=\"#ff0000\">и</font>тельница",
                                         "",
                                         "Lehrerin",
                                         "",
@@ -723,7 +723,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "челов<font color=\"#ff0000\">е</font>к<br>",
+                                        "челов<font color=\"#ff0000\">е</font>к",
                                         "",
                                         "Mensch",
                                         "",
@@ -761,7 +761,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "эт<font color=\"#ff0000\">а</font>ж<br>",
+                                        "эт<font color=\"#ff0000\">а</font>ж",
                                         "",
                                         "Etage",
                                         "",
@@ -779,7 +779,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<font color=\"#ff0000\">э</font>то<br>",
+                                        "<font color=\"#ff0000\">э</font>то",
                                         "",
                                         "Das ist, es ist, dieses",
                                         "n.",
@@ -1921,7 +1921,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "прив<font color=\"#ff0000\">е</font>т<br>",
+                                        "прив<font color=\"#ff0000\">е</font>т",
                                         "",
                                         "Hallo",
                                         "",
@@ -1939,7 +1939,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "пок<font color=\"#ff0000\">а</font><br>",
+                                        "пок<font color=\"#ff0000\">а</font>",
                                         "",
                                         "Tschüss",
                                         "Informell",
@@ -1956,7 +1956,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "архит<font color=\"#ff0000\">е</font>ктор<br>",
+                                        "архит<font color=\"#ff0000\">е</font>ктор",
                                         "",
                                         "Architekt",
                                         "",
@@ -1974,7 +1974,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "адвок<font color=\"#ff0000\">а</font>т<br>",
+                                        "адвок<font color=\"#ff0000\">а</font>т",
                                         "",
                                         "Anwalt",
                                         "",
@@ -1991,7 +1991,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "арт<font color=\"#ff0000\">и</font>ст<br>",
+                                        "арт<font color=\"#ff0000\">и</font>ст",
                                         "",
                                         "Schauspieler",
                                         "",
@@ -2008,7 +2008,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "б<font color=\"#ff0000\">а</font>бушка<br>",
+                                        "б<font color=\"#ff0000\">а</font>бушка",
                                         "",
                                         "Großmutter",
                                         "",
@@ -2046,7 +2046,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "бухг<font color=\"#ff0000\">а</font>лтер<br>",
+                                        "бухг<font color=\"#ff0000\">а</font>лтер",
                                         "",
                                         "Buchhalter",
                                         "",
@@ -2083,7 +2083,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "втор<font color=\"#ff0000\">о</font>й<br>",
+                                        "втор<font color=\"#ff0000\">о</font>й",
                                         "",
                                         "zweiter/zweitens",
                                         "",
@@ -2157,7 +2157,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "доц<font color=\"#ff0000\">е</font>нт<br>",
+                                        "доц<font color=\"#ff0000\">е</font>нт",
                                         "",
                                         "Dozent",
                                         "",
@@ -2212,7 +2212,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "д<font color=\"#ff0000\">я</font>дя<br>",
+                                        "д<font color=\"#ff0000\">я</font>дя",
                                         "",
                                         "Onkel",
                                         "",
@@ -2248,7 +2248,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "жен<font color=\"#ff0000\">а</font><br>",
+                                        "жен<font color=\"#ff0000\">а</font>",
                                         "",
                                         "Ehefrau",
                                         "",
@@ -2266,7 +2266,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "журнал<font color=\"#ff0000\">и</font>ст<br>",
+                                        "журнал<font color=\"#ff0000\">и</font>ст",
                                         "",
                                         "Journalist",
                                         "",
@@ -2283,7 +2283,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "инжен<font color=\"#ff0000\">е</font>р<br>",
+                                        "инжен<font color=\"#ff0000\">е</font>р",
                                         "",
                                         "Ingenieur",
                                         "",
@@ -2300,7 +2300,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "интер<font color=\"#ff0000\">е</font>сно<br>",
+                                        "интер<font color=\"#ff0000\">е</font>сно",
                                         "",
                                         "interessant",
                                         "Adv.",
@@ -2318,7 +2318,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "консульт<font color=\"#ff0000\">а</font>нт<br>",
+                                        "консульт<font color=\"#ff0000\">а</font>нт",
                                         "",
                                         "Berater",
                                         "",
@@ -2335,7 +2335,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "конц<font color=\"#ff0000\">е</font>рт<br>",
+                                        "конц<font color=\"#ff0000\">е</font>рт",
                                         "",
                                         "Konzert",
                                         "",
@@ -2353,7 +2353,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "куз<font color=\"#ff0000\">е</font>н<br>",
+                                        "куз<font color=\"#ff0000\">е</font>н",
                                         "",
                                         "Cousin",
                                         "",
@@ -2371,7 +2371,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "куз<font color=\"#ff0000\">и</font>на<br>",
+                                        "куз<font color=\"#ff0000\">и</font>на",
                                         "",
                                         "Cousine",
                                         "",
@@ -2409,7 +2409,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "медбр<font color=\"#ff0000\">а</font>т<br>",
+                                        "медбр<font color=\"#ff0000\">а</font>т",
                                         "",
                                         "Pfleger",
                                         "",
@@ -2426,7 +2426,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "медсестр<font color=\"#ff0000\">а</font><br>",
+                                        "медсестр<font color=\"#ff0000\">а</font>",
                                         "",
                                         "Krankenschwester",
                                         "",
@@ -2443,7 +2443,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "м<font color=\"#ff0000\">е</font>неджер<br>",
+                                        "м<font color=\"#ff0000\">е</font>неджер",
                                         "",
                                         "Manager",
                                         "",
@@ -2496,7 +2496,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "от<font color=\"#ff0000\">е</font>ц<br>",
+                                        "от<font color=\"#ff0000\">е</font>ц",
                                         "",
                                         "Vater",
                                         "",
@@ -2514,7 +2514,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<font color=\"#ff0000\">о</font>чень<br>",
+                                        "<font color=\"#ff0000\">о</font>чень",
                                         "",
                                         "sehr",
                                         "",
@@ -2532,7 +2532,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "пенсион<font color=\"#ff0000\">е</font>р<br>",
+                                        "пенсион<font color=\"#ff0000\">е</font>р",
                                         "",
                                         "Rentner",
                                         "",
@@ -2549,7 +2549,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "пенсион<font color=\"#ff0000\">е</font>рка<br>",
+                                        "пенсион<font color=\"#ff0000\">е</font>рка",
                                         "",
                                         "Rentnerin",
                                         "",
@@ -2566,7 +2566,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "подр<font color=\"#ff0000\">у</font>га<br>",
+                                        "подр<font color=\"#ff0000\">у</font>га",
                                         "",
                                         "Freundin",
                                         "",
@@ -2584,7 +2584,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "продав<font color=\"#ff0000\">е</font>ц<br>",
+                                        "продав<font color=\"#ff0000\">е</font>ц",
                                         "",
                                         "Verkäufer",
                                         "",
@@ -2602,7 +2602,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "проф<font color=\"#ff0000\">е</font>ссор<br>",
+                                        "проф<font color=\"#ff0000\">е</font>ссор",
                                         "",
                                         "Professor",
                                         "",
@@ -2620,7 +2620,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "секрет<font color=\"#ff0000\">а</font>рь<br>",
+                                        "секрет<font color=\"#ff0000\">а</font>рь",
                                         "",
                                         "Sekretär",
                                         "",
@@ -2638,7 +2638,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "семь<font color=\"#ff0000\">я</font><br>",
+                                        "семь<font color=\"#ff0000\">я</font>",
                                         "",
                                         "Familie",
                                         "",
@@ -2656,7 +2656,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "сестр<font color=\"#ff0000\">а</font><br>",
+                                        "сестр<font color=\"#ff0000\">а</font>",
                                         "",
                                         "Schwester",
                                         "",
@@ -2674,7 +2674,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "сос<font color=\"#ff0000\">е</font>д<br>",
+                                        "сос<font color=\"#ff0000\">е</font>д",
                                         "",
                                         "Nachbar",
                                         "",
@@ -2692,7 +2692,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "сос<font color=\"#ff0000\">е</font>дка<br>",
+                                        "сос<font color=\"#ff0000\">е</font>дка",
                                         "",
                                         "Nachbarin",
                                         "",
@@ -2782,7 +2782,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "т<font color=\"#ff0000\">о</font>же<br>",
+                                        "т<font color=\"#ff0000\">о</font>же",
                                         "",
                                         "auch",
                                         "",
@@ -2800,7 +2800,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "уч<font color=\"#ff0000\">и</font>тель<br>",
+                                        "уч<font color=\"#ff0000\">и</font>тель",
                                         "",
                                         "Lehrer",
                                         "",
@@ -2819,7 +2819,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "шк<font color=\"#ff0000\">о</font>льник<br>",
+                                        "шк<font color=\"#ff0000\">о</font>льник",
                                         "",
                                         "Schüler",
                                         "",
@@ -2836,7 +2836,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "шк<font color=\"#ff0000\">о</font>льница<br>",
+                                        "шк<font color=\"#ff0000\">о</font>льница",
                                         "",
                                         "Schülerin",
                                         "",
@@ -3004,7 +3004,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "здр<font color=\"#ff0000\">а</font>вствуй(те)<br>",
+                                        "здр<font color=\"#ff0000\">а</font>вствуй(те)",
                                         "",
                                         "Guten Tag!",
                                         "Höflich",
@@ -3021,7 +3021,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "до свид<font color=\"#ff0000\">а</font>ния<br>",
+                                        "до свид<font color=\"#ff0000\">а</font>ния",
                                         "",
                                         "Auf Wiederdersehen",
                                         "Höflich",
@@ -3039,7 +3039,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Мен<font color=\"#ff0000\">я</font> зов<font color=\"#ff0000\">у</font>т...<br>",
+                                        "Мен<font color=\"#ff0000\">я</font> зов<font color=\"#ff0000\">у</font>т...",
                                         "Ich heiße..."
                                     ],
                                     "guid": "pb|/8Siy|[",
@@ -3052,7 +3052,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "нас зов<font color=\"#ff0000\">у</font>т...<br>",
+                                        "нас зов<font color=\"#ff0000\">у</font>т...",
                                         "Wir heißen..."
                                     ],
                                     "guid": "nT7rw.h3;4",
@@ -3065,7 +3065,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<font color=\"#ff0000\">О</font>чень при<font color=\"#ff0000\">я</font>тно!<br>",
+                                        "<font color=\"#ff0000\">О</font>чень при<font color=\"#ff0000\">я</font>тно!",
                                         "Sehr angenehm!"
                                     ],
                                     "guid": "B-p+;w_*5F",
@@ -3097,7 +3097,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "как теб<font color=\"#ff0000\">я</font> зов<font color=\"#ff0000\">у</font>т?<br>",
+                                        "как теб<font color=\"#ff0000\">я</font> зов<font color=\"#ff0000\">у</font>т?",
                                         "Wie heißt du?"
                                     ],
                                     "guid": "DV^$zr?oi*",
@@ -3110,7 +3110,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "как Вас зов<font color=\"#ff0000\">у</font>т?<br>",
+                                        "как Вас зов<font color=\"#ff0000\">у</font>т?",
                                         "Wie heißen Sie?"
                                     ],
                                     "guid": "tLY#>pJ?Q-",
@@ -3123,7 +3123,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "как его зов<font color=\"#ff0000\">у</font>т?<br>",
+                                        "как его зов<font color=\"#ff0000\">у</font>т?",
                                         "Wie heißt er?"
                                     ],
                                     "guid": "nt<WtWRzV/",
@@ -3136,7 +3136,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "как её зов<font color=\"#ff0000\">у</font>т?<br>",
+                                        "как её зов<font color=\"#ff0000\">у</font>т?",
                                         "Wie heißt sie?"
                                     ],
                                     "guid": "e[VvD)LFxK",
@@ -3149,7 +3149,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "как их зов<font color=\"#ff0000\">у</font>т?<br>",
+                                        "как их зов<font color=\"#ff0000\">у</font>т?",
                                         "Wie heißen sie?"
                                     ],
                                     "guid": "s&=E4K/~~/",
@@ -3179,7 +3179,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "кто он<font color=\"#ff0000\">а</font>?<br>",
+                                        "кто он<font color=\"#ff0000\">а</font>?",
                                         "",
                                         "Was ist sie?",
                                         "von Beruf",
@@ -3224,7 +3224,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "авт<font color=\"#ff0000\">о</font>бус<br>",
+                                        "авт<font color=\"#ff0000\">о</font>бус",
                                         "",
                                         "Bus",
                                         "",
@@ -3242,7 +3242,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "аудит<font color=\"#ff0000\">о</font>рия<br>",
+                                        "аудит<font color=\"#ff0000\">о</font>рия",
                                         "",
                                         "Hörsaal",
                                         "",
@@ -3260,7 +3260,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "блокн<font color=\"#ff0000\">о</font>т<br>",
+                                        "блокн<font color=\"#ff0000\">о</font>т",
                                         "",
                                         "Schreibblock, Notizblock",
                                         "",
@@ -3278,7 +3278,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "гит<font color=\"#ff0000\">а</font>ра<br>",
+                                        "гит<font color=\"#ff0000\">а</font>ра",
                                         "",
                                         "Gitarre",
                                         "",
@@ -3295,7 +3295,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "д<font color=\"#ff0000\">а</font>ча<br>",
+                                        "д<font color=\"#ff0000\">а</font>ча",
                                         "",
                                         "Sommerhaus",
                                         "",
@@ -3333,7 +3333,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "д<font color=\"#ff0000\">е</font>ло<br>",
+                                        "д<font color=\"#ff0000\">е</font>ло",
                                         "",
                                         "Sache, Angelegenheit",
                                         "",
@@ -3351,7 +3351,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "календ<font color=\"#ff0000\">а</font>рь<br>",
+                                        "календ<font color=\"#ff0000\">а</font>рь",
                                         "",
                                         "Kalender",
                                         "",
@@ -3371,7 +3371,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "карт<font color=\"#ff0000\">и</font>на<br>",
+                                        "карт<font color=\"#ff0000\">и</font>на",
                                         "",
                                         "Bild",
                                         "",
@@ -3391,7 +3391,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "кварт<font color=\"#ff0000\">и</font>ра<br>",
+                                        "кварт<font color=\"#ff0000\">и</font>ра",
                                         "",
                                         "Wohnung",
                                         "",
@@ -3428,7 +3428,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "к<font color=\"#ff0000\">о</font>мната<br>",
+                                        "к<font color=\"#ff0000\">о</font>мната",
                                         "",
                                         "Zimmer",
                                         "",
@@ -3446,7 +3446,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "кр<font color=\"#ff0000\">е</font>сло<br>",
+                                        "кр<font color=\"#ff0000\">е</font>сло",
                                         "",
                                         "Sessel",
                                         "",
@@ -3464,7 +3464,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "кров<font color=\"#ff0000\">а</font>ть<br>",
+                                        "кров<font color=\"#ff0000\">а</font>ть",
                                         "",
                                         "Bett",
                                         "Möbelstück",
@@ -3483,7 +3483,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "м<font color=\"#ff0000\">е</font>сто<br>",
+                                        "м<font color=\"#ff0000\">е</font>сто",
                                         "",
                                         "Platz",
                                         "",
@@ -3503,7 +3503,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "метр<font color=\"#ff0000\">о</font><br>",
+                                        "метр<font color=\"#ff0000\">о</font>",
                                         "",
                                         "U-Bahn",
                                         "",
@@ -3523,7 +3523,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "м<font color=\"#ff0000\">о</font>ре<br>",
+                                        "м<font color=\"#ff0000\">о</font>ре",
                                         "",
                                         "Meer",
                                         "",
@@ -3541,7 +3541,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "муз<font color=\"#ff0000\">е</font>й<br>",
+                                        "муз<font color=\"#ff0000\">е</font>й",
                                         "",
                                         "Museum",
                                         "",
@@ -3561,7 +3561,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "ничег<font color=\"#ff0000\">о</font><br>",
+                                        "ничег<font color=\"#ff0000\">о</font>",
                                         "",
                                         "nichts",
                                         "",
@@ -3579,7 +3579,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "норм<font color=\"#ff0000\">а</font>льно<br>",
+                                        "норм<font color=\"#ff0000\">а</font>льно",
                                         "",
                                         "normal",
                                         "",
@@ -3596,7 +3596,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "п<font color=\"#ff0000\">и</font>во<br>",
+                                        "п<font color=\"#ff0000\">и</font>во",
                                         "",
                                         "Bier",
                                         "",
@@ -3616,7 +3616,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "пл<font color=\"#ff0000\">о</font>хо<br>",
+                                        "пл<font color=\"#ff0000\">о</font>хо",
                                         "",
                                         "schlecht",
                                         "Adv.",
@@ -3634,7 +3634,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "п<font color=\"#ff0000\">о</font>лка<br>",
+                                        "п<font color=\"#ff0000\">о</font>лка",
                                         "",
                                         "Regal",
                                         "",
@@ -3652,7 +3652,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "прекр<font color=\"#ff0000\">а</font>сно<br>",
+                                        "прекр<font color=\"#ff0000\">а</font>сно",
                                         "",
                                         "wunderschön, wunderbar",
                                         "Adv.",
@@ -3670,7 +3670,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "раб<font color=\"#ff0000\">о</font>та<br>",
+                                        "раб<font color=\"#ff0000\">о</font>та",
                                         "",
                                         "Arbeit",
                                         "",
@@ -3688,7 +3688,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "р<font color=\"#ff0000\">а</font>дио<br>",
+                                        "р<font color=\"#ff0000\">а</font>дио",
                                         "",
                                         "Radio",
                                         "",
@@ -3708,7 +3708,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "р<font color=\"#ff0000\">у</font>чка<br>",
+                                        "р<font color=\"#ff0000\">у</font>чка",
                                         "",
                                         "Stift, Kugelschreiber",
                                         "",
@@ -3726,7 +3726,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "рюкз<font color=\"#ff0000\">а</font>к<br>",
+                                        "рюкз<font color=\"#ff0000\">а</font>к",
                                         "",
                                         "Rucksack",
                                         "",
@@ -3746,7 +3746,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "слов<font color=\"#ff0000\">а</font>рь<br>",
+                                        "слов<font color=\"#ff0000\">а</font>рь",
                                         "",
                                         "Wörterbuch",
                                         "",
@@ -3766,7 +3766,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "стен<font color=\"#ff0000\">а</font><br>",
+                                        "стен<font color=\"#ff0000\">а</font>",
                                         "",
                                         "Wand",
                                         "",
@@ -3820,7 +3820,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "телев<font color=\"#ff0000\">и</font>зор<br>",
+                                        "телев<font color=\"#ff0000\">и</font>зор",
                                         "",
                                         "Fernseher",
                                         "",
@@ -3840,7 +3840,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "телеф<font color=\"#ff0000\">о</font>н<br>",
+                                        "телеф<font color=\"#ff0000\">о</font>н",
                                         "",
                                         "Telefon",
                                         "",
@@ -3860,7 +3860,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "тетр<font color=\"#ff0000\">а</font>дь<br>",
+                                        "тетр<font color=\"#ff0000\">а</font>дь",
                                         "",
                                         "Heft",
                                         "",
@@ -3880,7 +3880,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "тр<font color=\"#ff0000\">е</font>тий<br>",
+                                        "тр<font color=\"#ff0000\">е</font>тий",
                                         "",
                                         "dritter",
                                         "",
@@ -3936,7 +3936,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<font color=\"#ff0000\">у</font>лица<br>",
+                                        "<font color=\"#ff0000\">у</font>лица",
                                         "",
                                         "Straße",
                                         "",
@@ -3954,7 +3954,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "университ<font color=\"#ff0000\">е</font>т<br>",
+                                        "университ<font color=\"#ff0000\">е</font>т",
                                         "",
                                         "Universität",
                                         "",
@@ -3972,7 +3972,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "уч<font color=\"#ff0000\">е</font>бник<br>",
+                                        "уч<font color=\"#ff0000\">е</font>бник",
                                         "",
                                         "Lehrbuch",
                                         "",
@@ -3992,7 +3992,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "фотогр<font color=\"#ff0000\">а</font>фия<br>",
+                                        "фотогр<font color=\"#ff0000\">а</font>фия",
                                         "",
                                         "Foto, Fotografie",
                                         "",
@@ -4012,7 +4012,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "хорош<font color=\"#ff0000\">о</font><br>",
+                                        "хорош<font color=\"#ff0000\">о</font>",
                                         "",
                                         "gut",
                                         "Adv.",
@@ -4164,7 +4164,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Как дел<font color=\"#ff0000\">а</font>?<br>",
+                                        "Как дел<font color=\"#ff0000\">а</font>?",
                                         "Wie geht's?"
                                     ],
                                     "guid": "ckooF2-k`w",
@@ -4177,7 +4177,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "ничег<font color=\"#ff0000\">о</font>!<br>",
+                                        "ничег<font color=\"#ff0000\">о</font>!",
                                         "Phrase",
                                         "Es geht!",
                                         "",
@@ -4207,7 +4207,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "у теб<font color=\"#ff0000\">я</font> <font color=\"#ff0000\">е</font>сть...?<br>",
+                                        "у теб<font color=\"#ff0000\">я</font> <font color=\"#ff0000\">е</font>сть...?",
                                         "Hast du ... ?"
                                     ],
                                     "guid": "wQi0+8BC@D",
@@ -4220,7 +4220,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "да, у мен<font color=\"#ff0000\">я</font> есть<br>",
+                                        "да, у мен<font color=\"#ff0000\">я</font> есть",
                                         "Ja, habe ich."
                                     ],
                                     "guid": "d})/x5)6oI",
@@ -4233,7 +4233,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Нет, у мен<font color=\"#ff0000\">я</font> нет.<br>",
+                                        "Нет, у мен<font color=\"#ff0000\">я</font> нет.",
                                         "Nein, habe ich nicht."
                                     ],
                                     "guid": "D$f&I+##I%",
@@ -4246,7 +4246,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "у нег<font color=\"#ff0000\">о</font> есть...<br>",
+                                        "у нег<font color=\"#ff0000\">о</font> есть...",
                                         "Er hat ..."
                                     ],
                                     "guid": "N$UlN?B~nr",
@@ -4300,7 +4300,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "извин<font color=\"#ff0000\">и</font>!<br>",
+                                        "извин<font color=\"#ff0000\">и</font>!",
                                         "",
                                         "Entschuldige!",
                                         "",
@@ -4317,7 +4317,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "извин<font color=\"#ff0000\">и</font>те!<br>",
+                                        "извин<font color=\"#ff0000\">и</font>те!",
                                         "",
                                         "Entschuldigen Sie!",
                                         "",
@@ -4353,7 +4353,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "д<font color=\"#ff0000\">е</font>ньги<br>",
+                                        "д<font color=\"#ff0000\">е</font>ньги",
                                         "",
                                         "Geld",
                                         "",
@@ -4371,7 +4371,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "ег<font color=\"#ff0000\">о</font><br>",
+                                        "ег<font color=\"#ff0000\">о</font>",
                                         "",
                                         "sein, seine",
                                         "m.",
@@ -4407,7 +4407,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "исключ<font color=\"#ff0000\">е</font>ние<br>",
+                                        "исключ<font color=\"#ff0000\">е</font>ние",
                                         "",
                                         "Ausnahme",
                                         "",
@@ -4442,7 +4442,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "каранд<font color=\"#ff0000\">а</font>ш<br>",
+                                        "каранд<font color=\"#ff0000\">а</font>ш",
                                         "",
                                         "Bleistift",
                                         "",
@@ -4478,7 +4478,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "л<font color=\"#ff0000\">е</font>кция<br>",
+                                        "л<font color=\"#ff0000\">е</font>кция",
                                         "",
                                         "Vorlesung",
                                         "",
@@ -4496,7 +4496,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "л<font color=\"#ff0000\">ю</font>ди<br>",
+                                        "л<font color=\"#ff0000\">ю</font>ди",
                                         "",
                                         "Menschen, Leute",
                                         "",
@@ -4569,7 +4569,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "очк<font color=\"#ff0000\">и</font><br>",
+                                        "очк<font color=\"#ff0000\">и</font>",
                                         "",
                                         "Brille",
                                         "",
@@ -4586,7 +4586,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "п<font color=\"#ff0000\">о</font>ле<br>",
+                                        "п<font color=\"#ff0000\">о</font>ле",
                                         "",
                                         "Feld",
                                         "",
@@ -4604,7 +4604,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "попуг<font color=\"#ff0000\">а</font>й<br>",
+                                        "попуг<font color=\"#ff0000\">а</font>й",
                                         "",
                                         "Papagei",
                                         "",
@@ -4622,7 +4622,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "пр<font color=\"#ff0000\">а</font>вило<br>",
+                                        "пр<font color=\"#ff0000\">а</font>вило",
                                         "",
                                         "Regel",
                                         "",
@@ -4657,7 +4657,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "род<font color=\"#ff0000\">и</font>тели<br>",
+                                        "род<font color=\"#ff0000\">и</font>тели",
                                         "",
                                         "Eltern",
                                         "",
@@ -4675,7 +4675,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "сл<font color=\"#ff0000\">о</font>во<br>",
+                                        "сл<font color=\"#ff0000\">о</font>во",
                                         "",
                                         "Wort",
                                         "",
@@ -4693,7 +4693,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "упражн<font color=\"#ff0000\">е</font>ние<br>",
+                                        "упражн<font color=\"#ff0000\">е</font>ние",
                                         "",
                                         "Übung",
                                         "",
@@ -4710,7 +4710,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "час<font color=\"#ff0000\">ы</font><br>",
+                                        "час<font color=\"#ff0000\">ы</font>",
                                         "",
                                         "Uhr",
                                         "",
@@ -4747,7 +4747,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "чет<font color=\"#ff0000\">ы</font>ре<br>",
+                                        "чет<font color=\"#ff0000\">ы</font>ре",
                                         "",
                                         "vier",
                                         "",
@@ -5125,7 +5125,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "как по-р<font color=\"#ff0000\">у</font>сски...?<br>",
+                                        "как по-р<font color=\"#ff0000\">у</font>сски...?",
                                         "Wie sagt man auf Russisch ... ?"
                                     ],
                                     "guid": "QdU1Lx}<Id",
@@ -5138,7 +5138,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Я не зн<font color=\"#ff0000\">а</font>ю!<br>",
+                                        "Я не зн<font color=\"#ff0000\">а</font>ю!",
                                         "Ich weiß es nicht!"
                                     ],
                                     "guid": "O^LeG/LF{X",
@@ -5179,7 +5179,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "прост<font color=\"#ff0000\">и</font>!<br>",
+                                        "прост<font color=\"#ff0000\">и</font>!",
                                         "",
                                         "Verzeih!",
                                         "",
@@ -5196,7 +5196,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "прост<font color=\"#ff0000\">и</font>те!<br>",
+                                        "прост<font color=\"#ff0000\">и</font>те!",
                                         "",
                                         "Verzeihen Sie!",
                                         "",
@@ -5214,7 +5214,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "пож<font color=\"#ff0000\">а</font>луйста!<br>",
+                                        "пож<font color=\"#ff0000\">а</font>луйста!",
                                         "",
                                         "Bitte!",
                                         "",
@@ -5232,7 +5232,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "англич<font color=\"#ff0000\">а</font>нин<br>",
+                                        "англич<font color=\"#ff0000\">а</font>нин",
                                         "",
                                         "Engländer",
                                         "",
@@ -5249,7 +5249,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "англич<font color=\"#ff0000\">а</font>нка<br>",
+                                        "англич<font color=\"#ff0000\">а</font>нка",
                                         "",
                                         "Engländerin",
                                         "",
@@ -5266,7 +5266,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "библиот<font color=\"#ff0000\">е</font>ка<br>",
+                                        "библиот<font color=\"#ff0000\">е</font>ка",
                                         "",
                                         "Bibliothek",
                                         "",
@@ -5284,7 +5284,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "говор<font color=\"#ff0000\">и</font>ть<br>",
+                                        "говор<font color=\"#ff0000\">и</font>ть",
                                         "",
                                         "sprechen",
                                         "",
@@ -5302,7 +5302,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "земл<font color=\"#ff0000\">я</font><br>",
+                                        "земл<font color=\"#ff0000\">я</font>",
                                         "",
                                         "Erde",
                                         "",
@@ -5337,7 +5337,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "исп<font color=\"#ff0000\">а</font>нец<br>",
+                                        "исп<font color=\"#ff0000\">а</font>нец",
                                         "",
                                         "Spanier",
                                         "",
@@ -5354,7 +5354,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "исп<font color=\"#ff0000\">а</font>нка<br>",
+                                        "исп<font color=\"#ff0000\">а</font>нка",
                                         "",
                                         "Spanierin",
                                         "",
@@ -5372,7 +5372,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "италь<font color=\"#ff0000\">я</font>нец<br>",
+                                        "италь<font color=\"#ff0000\">я</font>нец",
                                         "",
                                         "Italiener",
                                         "",
@@ -5389,7 +5389,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "италь<font color=\"#ff0000\">я</font>нка<br>",
+                                        "италь<font color=\"#ff0000\">я</font>нка",
                                         "",
                                         "Italienerin",
                                         "",
@@ -5406,7 +5406,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "кит<font color=\"#ff0000\">а</font>ец<br>",
+                                        "кит<font color=\"#ff0000\">а</font>ец",
                                         "",
                                         "Chinese",
                                         "",
@@ -5423,7 +5423,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "кита<font color=\"#ff0000\">я</font>нка<br>",
+                                        "кита<font color=\"#ff0000\">я</font>нка",
                                         "",
                                         "Chinesin",
                                         "",
@@ -5440,7 +5440,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "к<font color=\"#ff0000\">о</font>микс<br>",
+                                        "к<font color=\"#ff0000\">о</font>микс",
                                         "",
                                         "Comic",
                                         "",
@@ -5457,7 +5457,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "нач<font color=\"#ff0000\">а</font>ло<br>",
+                                        "нач<font color=\"#ff0000\">а</font>ло",
                                         "",
                                         "Beginn, Anfang",
                                         "",
@@ -5474,7 +5474,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "н<font color=\"#ff0000\">е</font>мец<br>",
+                                        "н<font color=\"#ff0000\">е</font>мец",
                                         "",
                                         "Deutscher",
                                         "",
@@ -5491,7 +5491,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "н<font color=\"#ff0000\">е</font>мка<br>",
+                                        "н<font color=\"#ff0000\">е</font>мка",
                                         "",
                                         "Deutsche",
                                         "Frau",
@@ -5508,7 +5508,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "немн<font color=\"#ff0000\">о</font>го<br>",
+                                        "немн<font color=\"#ff0000\">о</font>го",
                                         "",
                                         "nicht viel",
                                         "",
@@ -5561,7 +5561,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "по-исп<font color=\"#ff0000\">а</font>нски<br>",
+                                        "по-исп<font color=\"#ff0000\">а</font>нски",
                                         "",
                                         "auf Spanisch",
                                         "",
@@ -5578,7 +5578,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "по-италь<font color=\"#ff0000\">я</font>нски<br>",
+                                        "по-италь<font color=\"#ff0000\">я</font>нски",
                                         "",
                                         "auf Italienisch",
                                         "",
@@ -5595,7 +5595,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "по-кит<font color=\"#ff0000\">а</font>йски<br>",
+                                        "по-кит<font color=\"#ff0000\">а</font>йски",
                                         "",
                                         "auf Chinesisch",
                                         "",
@@ -5612,7 +5612,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "п<font color=\"#ff0000\">о</font>лька<br>",
+                                        "п<font color=\"#ff0000\">о</font>лька",
                                         "",
                                         "Polin",
                                         "",
@@ -5629,7 +5629,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "пол<font color=\"#ff0000\">я</font>к<br>",
+                                        "пол<font color=\"#ff0000\">я</font>к",
                                         "",
                                         "Pole",
                                         "",
@@ -5646,7 +5646,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "по-нем<font color=\"#ff0000\">е</font>цки<br>",
+                                        "по-нем<font color=\"#ff0000\">е</font>цки",
                                         "",
                                         "auf Deutsch",
                                         "",
@@ -5664,7 +5664,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "поним<font color=\"#ff0000\">а</font>ть<br>",
+                                        "поним<font color=\"#ff0000\">а</font>ть",
                                         "",
                                         "verstehen",
                                         "",
@@ -5682,7 +5682,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "по-п<font color=\"#ff0000\">о</font>льски<br>",
+                                        "по-п<font color=\"#ff0000\">о</font>льски",
                                         "",
                                         "auf Polnisch",
                                         "",
@@ -5699,7 +5699,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "по-р<font color=\"#ff0000\">у</font>сски<br>",
+                                        "по-р<font color=\"#ff0000\">у</font>сски",
                                         "",
                                         "auf Russisch",
                                         "",
@@ -5717,7 +5717,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "по-с<font color=\"#ff0000\">е</font>рбски<br>",
+                                        "по-с<font color=\"#ff0000\">е</font>рбски",
                                         "",
                                         "auf Serbisch",
                                         "",
@@ -5734,7 +5734,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "по-тур<font color=\"#ff0000\">е</font>цки<br>",
+                                        "по-тур<font color=\"#ff0000\">е</font>цки",
                                         "",
                                         "auf Türkisch",
                                         "",
@@ -5751,7 +5751,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "по-франц<font color=\"#ff0000\">у</font>зки<br>",
+                                        "по-франц<font color=\"#ff0000\">у</font>зки",
                                         "",
                                         "auf Französisch",
                                         "",
@@ -5768,7 +5768,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "пр<font color=\"#ff0000\">а</font>вильно<br>",
+                                        "пр<font color=\"#ff0000\">а</font>вильно",
                                         "",
                                         "richtig",
                                         "Adv.",
@@ -5786,7 +5786,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "п<font color=\"#ff0000\">я</font>тый<br>",
+                                        "п<font color=\"#ff0000\">я</font>тый",
                                         "",
                                         "fünfter",
                                         "",
@@ -5824,7 +5824,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "р<font color=\"#ff0000\">у</font>сская<br>",
+                                        "р<font color=\"#ff0000\">у</font>сская",
                                         "",
                                         "Russin",
                                         "",
@@ -5841,7 +5841,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "р<font color=\"#ff0000\">у</font>сский<br>",
+                                        "р<font color=\"#ff0000\">у</font>сский",
                                         "Nomen",
                                         "Russe",
                                         "",
@@ -5875,7 +5875,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "с<font color=\"#ff0000\">е</font>рбка<br>",
+                                        "с<font color=\"#ff0000\">е</font>рбка",
                                         "",
                                         "Serbin",
                                         "",
@@ -5892,7 +5892,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "стран<font color=\"#ff0000\">а</font><br>",
+                                        "стран<font color=\"#ff0000\">а</font>",
                                         "",
                                         "Land",
                                         "",
@@ -5910,7 +5910,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "т<font color=\"#ff0000\">у</font>рок<br>",
+                                        "т<font color=\"#ff0000\">у</font>рок",
                                         "",
                                         "Türke",
                                         "",
@@ -5927,7 +5927,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "турч<font color=\"#ff0000\">а</font>нка<br>",
+                                        "турч<font color=\"#ff0000\">а</font>нка",
                                         "",
                                         "Türkin",
                                         "",
@@ -5944,7 +5944,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "франц<font color=\"#ff0000\">у</font>женка<br>",
+                                        "франц<font color=\"#ff0000\">у</font>женка",
                                         "",
                                         "Französin",
                                         "",
@@ -5961,7 +5961,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "франц<font color=\"#ff0000\">у</font>з<br>",
+                                        "франц<font color=\"#ff0000\">у</font>з",
                                         "",
                                         "Franzose",
                                         "",
@@ -5978,7 +5978,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "чит<font color=\"#ff0000\">а</font>ть<br>",
+                                        "чит<font color=\"#ff0000\">а</font>ть",
                                         "",
                                         "lesen",
                                         "",
@@ -6029,7 +6029,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Konjugation und Übersetzung: говор<font color=\"#ff0000\">и</font>ть",
-                                        "Sprechen<br><br>я говор<font color=\"#ff0000\">ю</font><br>ты говор<font color=\"#ff0000\">и</font>шь<br>он говор<font color=\"#ff0000\">и</font>т<br>мы говор<font color=\"#ff0000\">и</font>м<br>вы говор<font color=\"#ff0000\">и</font>те<br>он<font color=\"#ff0000\">и</font> говор<font color=\"#ff0000\">я</font>т<br>"
+                                        "Sprechen<br><br>я говор<font color=\"#ff0000\">ю</font><br>ты говор<font color=\"#ff0000\">и</font>шь<br>он говор<font color=\"#ff0000\">и</font>т<br>мы говор<font color=\"#ff0000\">и</font>м<br>вы говор<font color=\"#ff0000\">и</font>те<br>он<font color=\"#ff0000\">и</font> говор<font color=\"#ff0000\">я</font>т"
                                     ],
                                     "guid": "Dt~Ok/A,/c",
                                     "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
@@ -6144,7 +6144,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "апт<font color=\"#ff0000\">е</font>ка<br>",
+                                        "апт<font color=\"#ff0000\">е</font>ка",
                                         "",
                                         "Apotheke",
                                         "",
@@ -6183,7 +6183,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "больн<font color=\"#ff0000\">и</font>ца<br>",
+                                        "больн<font color=\"#ff0000\">и</font>ца",
                                         "",
                                         "Krankenhaus",
                                         "",
@@ -6238,7 +6238,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "зав<font color=\"#ff0000\">о</font>д<br>",
+                                        "зав<font color=\"#ff0000\">о</font>д",
                                         "",
                                         "Betrieb",
                                         "",
@@ -6276,7 +6276,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "каф<font color=\"#ff0000\">е</font><br>",
+                                        "каф<font color=\"#ff0000\">е</font>",
                                         "",
                                         "Cafe",
                                         "",
@@ -6294,7 +6294,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "кин<font color=\"#ff0000\">о</font><br>",
+                                        "кин<font color=\"#ff0000\">о</font>",
                                         "",
                                         "Kino",
                                         "",
@@ -6314,7 +6314,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "кл<font color=\"#ff0000\">и</font>ника<br>",
+                                        "кл<font color=\"#ff0000\">и</font>ника",
                                         "",
                                         "Klinik",
                                         "",
@@ -6331,7 +6331,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "лаборат<font color=\"#ff0000\">о</font>рия<br>",
+                                        "лаборат<font color=\"#ff0000\">о</font>рия",
                                         "",
                                         "Labor",
                                         "",
@@ -6350,7 +6350,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "магаз<font color=\"#ff0000\">и</font>н<br>",
+                                        "магаз<font color=\"#ff0000\">и</font>н",
                                         "",
                                         "Geschäft, Laden",
                                         "",
@@ -6388,7 +6388,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<font color=\"#ff0000\">о</font>фис<br>",
+                                        "<font color=\"#ff0000\">о</font>фис",
                                         "",
                                         "Büro, Geschäftsstelle, Office",
                                         "",
@@ -6428,7 +6428,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "п<font color=\"#ff0000\">е</font>нсия<br>",
+                                        "п<font color=\"#ff0000\">е</font>нсия",
                                         "",
                                         "Rente",
                                         "",
@@ -6447,7 +6447,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "раб<font color=\"#ff0000\">о</font>тать<br>",
+                                        "раб<font color=\"#ff0000\">о</font>тать",
                                         "",
                                         "arbeiten",
                                         "",
@@ -6465,7 +6465,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "ст<font color=\"#ff0000\">а</font>нция<br>",
+                                        "ст<font color=\"#ff0000\">а</font>нция",
                                         "",
                                         "Haltestelle",
                                         "Züge",
@@ -6501,7 +6501,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "ф<font color=\"#ff0000\">а</font>брика<br>",
+                                        "ф<font color=\"#ff0000\">а</font>брика",
                                         "",
                                         "Fabrik",
                                         "",
@@ -6520,7 +6520,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "ф<font color=\"#ff0000\">и</font>рма<br>",
+                                        "ф<font color=\"#ff0000\">и</font>рма",
                                         "",
                                         "Firma",
                                         "",
@@ -6540,7 +6540,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "шест<font color=\"#ff0000\">о</font>й<br>",
+                                        "шест<font color=\"#ff0000\">о</font>й",
                                         "",
                                         "sechster",
                                         "",
@@ -6736,7 +6736,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Алл<font color=\"#ff0000\">о</font>!<br>",
+                                        "Алл<font color=\"#ff0000\">о</font>!",
                                         "",
                                         "Hallo!",
                                         "am Telefon",
@@ -6772,7 +6772,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "вар<font color=\"#ff0000\">и</font>ть<br>",
+                                        "вар<font color=\"#ff0000\">и</font>ть",
                                         "",
                                         "kochen",
                                         "",
@@ -6789,7 +6789,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "г<font color=\"#ff0000\">о</font>род<br>",
+                                        "г<font color=\"#ff0000\">о</font>род",
                                         "",
                                         "Stadt",
                                         "",
@@ -6807,7 +6807,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "город<font color=\"#ff0000\">а</font><br>",
+                                        "город<font color=\"#ff0000\">а</font>",
                                         "",
                                         "Städte",
                                         "",
@@ -6824,7 +6824,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "гот<font color=\"#ff0000\">о</font>вить<br>",
+                                        "гот<font color=\"#ff0000\">о</font>вить",
                                         "",
                                         "(zu)bereiten",
                                         "",
@@ -6842,7 +6842,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "гул<font color=\"#ff0000\">я</font>ть<br>",
+                                        "гул<font color=\"#ff0000\">я</font>ть",
                                         "",
                                         "spazieren",
                                         "",
@@ -6860,7 +6860,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "давн<font color=\"#ff0000\">о</font><br>",
+                                        "давн<font color=\"#ff0000\">о</font>",
                                         "",
                                         "seit langem",
                                         "",
@@ -6878,7 +6878,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "д<font color=\"#ff0000\">е</font>лать<br>",
+                                        "д<font color=\"#ff0000\">е</font>лать",
                                         "",
                                         "machen, tun",
                                         "",
@@ -6896,7 +6896,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "д<font color=\"#ff0000\">е</font>лать ур<font color=\"#ff0000\">о</font>ки<br>",
+                                        "д<font color=\"#ff0000\">е</font>лать ур<font color=\"#ff0000\">о</font>ки",
                                         "",
                                         "Hausaufgaben machen",
                                         "",
@@ -6913,7 +6913,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "детект<font color=\"#ff0000\">и</font>в<br>",
+                                        "детект<font color=\"#ff0000\">и</font>в",
                                         "",
                                         "Krimi",
                                         "",
@@ -6931,7 +6931,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "д<font color=\"#ff0000\">о</font>ма<br>",
+                                        "д<font color=\"#ff0000\">о</font>ма",
                                         "",
                                         "zuhause",
                                         "",
@@ -6948,7 +6948,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "дом<font color=\"#ff0000\">о</font>й<br>",
+                                        "дом<font color=\"#ff0000\">о</font>й",
                                         "",
                                         "nach Hause",
                                         "",
@@ -6966,7 +6966,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "д<font color=\"#ff0000\">у</font>мать<br>",
+                                        "д<font color=\"#ff0000\">у</font>мать",
                                         "",
                                         "denken",
                                         "",
@@ -6984,7 +6984,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "игр<font color=\"#ff0000\">а</font>ть<br>",
+                                        "игр<font color=\"#ff0000\">а</font>ть",
                                         "",
                                         "spielen",
                                         "",
@@ -7001,7 +7001,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "им<font color=\"#ff0000\">е</font>йл<br>",
+                                        "им<font color=\"#ff0000\">е</font>йл",
                                         "",
                                         "E-Mail",
                                         "",
@@ -7019,7 +7019,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "крас<font color=\"#ff0000\">и</font>во<br>",
+                                        "крас<font color=\"#ff0000\">и</font>во",
                                         "",
                                         "schön",
                                         "Adv.",
@@ -7037,7 +7037,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "люб<font color=\"#ff0000\">и</font>ть<br>",
+                                        "люб<font color=\"#ff0000\">и</font>ть",
                                         "",
                                         "lieben",
                                         "",
@@ -7055,7 +7055,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "м<font color=\"#ff0000\">а</font>ло<br>",
+                                        "м<font color=\"#ff0000\">а</font>ло",
                                         "",
                                         "wenig",
                                         "",
@@ -7073,7 +7073,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "мн<font color=\"#ff0000\">о</font>го<br>",
+                                        "мн<font color=\"#ff0000\">о</font>го",
                                         "",
                                         "viel",
                                         "",
@@ -7091,7 +7091,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "нед<font color=\"#ff0000\">а</font>вно<br>",
+                                        "нед<font color=\"#ff0000\">а</font>вно",
                                         "",
                                         "seit Kurzem, vor Kurzem",
                                         "",
@@ -7109,7 +7109,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "обним<font color=\"#ff0000\">а</font>ть<br>",
+                                        "обним<font color=\"#ff0000\">а</font>ть",
                                         "",
                                         "umarmen",
                                         "",
@@ -7126,7 +7126,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "отдых<font color=\"#ff0000\">а</font>ть<br>",
+                                        "отдых<font color=\"#ff0000\">а</font>ть",
                                         "",
                                         "ausruhen, Urlaub machen",
                                         "",
@@ -7162,7 +7162,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "пис<font color=\"#ff0000\">а</font>ть<br>",
+                                        "пис<font color=\"#ff0000\">а</font>ть",
                                         "",
                                         "schreiben",
                                         "",
@@ -7180,7 +7180,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "пр<font color=\"#ff0000\">а</font>ктика<br>",
+                                        "пр<font color=\"#ff0000\">а</font>ктика",
                                         "",
                                         "Praktikum",
                                         "",
@@ -7197,7 +7197,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "р<font color=\"#ff0000\">е</font>дко<br>",
+                                        "р<font color=\"#ff0000\">е</font>дко",
                                         "",
                                         "selten",
                                         "Adv.",
@@ -7215,7 +7215,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "резюм<font color=\"#ff0000\">е</font><br>",
+                                        "резюм<font color=\"#ff0000\">е</font>",
                                         "",
                                         "Resümee, Bewerbung",
                                         "",
@@ -7232,7 +7232,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "рестор<font color=\"#ff0000\">а</font>н<br>",
+                                        "рестор<font color=\"#ff0000\">а</font>н",
                                         "",
                                         "Restaurant",
                                         "",
@@ -7250,7 +7250,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "рефер<font color=\"#ff0000\">а</font>т<br>",
+                                        "рефер<font color=\"#ff0000\">а</font>т",
                                         "",
                                         "Referat",
                                         "",
@@ -7267,7 +7267,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "рисов<font color=\"#ff0000\">а</font>ть<br>",
+                                        "рисов<font color=\"#ff0000\">а</font>ть",
                                         "",
                                         "malen",
                                         "",
@@ -7285,7 +7285,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "сал<font color=\"#ff0000\">а</font>т<br>",
+                                        "сал<font color=\"#ff0000\">а</font>т",
                                         "",
                                         "Salat",
                                         "",
@@ -7303,7 +7303,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "седьм<font color=\"#ff0000\">о</font>й<br>",
+                                        "седьм<font color=\"#ff0000\">о</font>й",
                                         "",
                                         "siebter",
                                         "",
@@ -7359,7 +7359,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "смотр<font color=\"#ff0000\">е</font>ть<br>",
+                                        "смотр<font color=\"#ff0000\">е</font>ть",
                                         "",
                                         "schauen",
                                         "",
@@ -7394,7 +7394,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "танцев<font color=\"#ff0000\">а</font>ть<br>",
+                                        "танцев<font color=\"#ff0000\">а</font>ть",
                                         "",
                                         "tanzen",
                                         "",
@@ -7411,7 +7411,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "т<font color=\"#ff0000\">е</font>ннис<br>",
+                                        "т<font color=\"#ff0000\">е</font>ннис",
                                         "",
                                         "Tennis",
                                         "",
@@ -7464,7 +7464,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "футб<font color=\"#ff0000\">о</font>л<br>",
+                                        "футб<font color=\"#ff0000\">о</font>л",
                                         "",
                                         "Fußball",
                                         "Spiel",
@@ -7481,7 +7481,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "целов<font color=\"#ff0000\">а</font>ть<br>",
+                                        "целов<font color=\"#ff0000\">а</font>ть",
                                         "",
                                         "küssen",
                                         "",
@@ -7498,7 +7498,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "ч<font color=\"#ff0000\">а</font>сто<br>",
+                                        "ч<font color=\"#ff0000\">а</font>сто",
                                         "",
                                         "oft",
                                         "",
@@ -7689,7 +7689,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Как ты д<font color=\"#ff0000\">у</font>маешь...?<br>",
+                                        "Как ты д<font color=\"#ff0000\">у</font>маешь...?",
                                         "Was denkst du ... ?"
                                     ],
                                     "guid": "oH).{6Zq^J",
@@ -7730,7 +7730,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "когд<font color=\"#ff0000\">а</font>?<br>",
+                                        "когд<font color=\"#ff0000\">а</font>?",
                                         "",
                                         "Wann?, als",
                                         "",
@@ -7749,7 +7749,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "почем<font color=\"#ff0000\">у</font>?<br>",
+                                        "почем<font color=\"#ff0000\">у</font>?",
                                         "",
                                         "Warum?",
                                         "",
@@ -7768,7 +7768,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "потом<font color=\"#ff0000\">у</font> что<br>",
+                                        "потом<font color=\"#ff0000\">у</font> что",
                                         "",
                                         "weil",
                                         "",
@@ -7786,7 +7786,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "баскетб<font color=\"#ff0000\">о</font>л<br>",
+                                        "баскетб<font color=\"#ff0000\">о</font>л",
                                         "",
                                         "Basketball",
                                         "Spiel",
@@ -7803,7 +7803,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "в<font color=\"#ff0000\">е</font>чер<br>",
+                                        "в<font color=\"#ff0000\">е</font>чер",
                                         "",
                                         "Abend",
                                         "",
@@ -7821,7 +7821,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "в<font color=\"#ff0000\">е</font>чером<br>",
+                                        "в<font color=\"#ff0000\">е</font>чером",
                                         "",
                                         "abends, am Abend",
                                         "",
@@ -7839,7 +7839,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "виолонч<font color=\"#ff0000\">е</font>ль<br>",
+                                        "виолонч<font color=\"#ff0000\">е</font>ль",
                                         "",
                                         "Cello",
                                         "",
@@ -7856,7 +7856,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "волейб<font color=\"#ff0000\">о</font>л<br>",
+                                        "волейб<font color=\"#ff0000\">о</font>л",
                                         "",
                                         "Volleyball",
                                         "",
@@ -7873,7 +7873,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "в<font color=\"#ff0000\">о</font>семь<br>",
+                                        "в<font color=\"#ff0000\">о</font>семь",
                                         "",
                                         "acht",
                                         "",
@@ -7892,7 +7892,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "восьм<font color=\"#ff0000\">о</font>й<br>",
+                                        "восьм<font color=\"#ff0000\">о</font>й",
                                         "",
                                         "achter",
                                         "",
@@ -7911,7 +7911,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "всегд<font color=\"#ff0000\">а</font><br>",
+                                        "всегд<font color=\"#ff0000\">а</font>",
                                         "",
                                         "immer",
                                         "",
@@ -7929,7 +7929,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "газ<font color=\"#ff0000\">е</font>та<br>",
+                                        "газ<font color=\"#ff0000\">е</font>та",
                                         "",
                                         "Zeitung",
                                         "",
@@ -8000,7 +8000,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "домин<font color=\"#ff0000\">о</font><br>",
+                                        "домин<font color=\"#ff0000\">о</font>",
                                         "",
                                         "Domino",
                                         "",
@@ -8017,7 +8017,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "игр<font color=\"#ff0000\">а</font><br>",
+                                        "игр<font color=\"#ff0000\">а</font>",
                                         "",
                                         "Spiel",
                                         "",
@@ -8034,7 +8034,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<font color=\"#ff0000\">и</font>ли<br>",
+                                        "<font color=\"#ff0000\">и</font>ли",
                                         "",
                                         "oder",
                                         "",
@@ -8052,7 +8052,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "иногд<font color=\"#ff0000\">а</font><br>",
+                                        "иногд<font color=\"#ff0000\">а</font>",
                                         "",
                                         "manchmal",
                                         "",
@@ -8070,7 +8070,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "инструм<font color=\"#ff0000\">е</font>нт<br>",
+                                        "инструм<font color=\"#ff0000\">е</font>нт",
                                         "",
                                         "Instrument",
                                         "",
@@ -8087,7 +8087,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "карт<font color=\"#ff0000\">о</font>шка<br>",
+                                        "карт<font color=\"#ff0000\">о</font>шка",
                                         "",
                                         "Kartoffel",
                                         "",
@@ -8104,7 +8104,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "кл<font color=\"#ff0000\">а</font>ссика<br>",
+                                        "кл<font color=\"#ff0000\">а</font>ссика",
                                         "",
                                         "Klassik",
                                         "",
@@ -8139,7 +8139,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "ком<font color=\"#ff0000\">е</font>дия<br>",
+                                        "ком<font color=\"#ff0000\">е</font>дия",
                                         "",
                                         "Komödie",
                                         "",
@@ -8157,7 +8157,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "компь<font color=\"#ff0000\">ю</font>тер<br>",
+                                        "компь<font color=\"#ff0000\">ю</font>тер",
                                         "",
                                         "Computer",
                                         "",
@@ -8174,7 +8174,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "контраб<font color=\"#ff0000\">а</font>с<br>",
+                                        "контраб<font color=\"#ff0000\">а</font>с",
                                         "",
                                         "Kontrabass",
                                         "",
@@ -8191,7 +8191,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "м<font color=\"#ff0000\">у</font>зыка<br>",
+                                        "м<font color=\"#ff0000\">у</font>зыка",
                                         "",
                                         "Musik",
                                         "",
@@ -8209,7 +8209,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "меш<font color=\"#ff0000\">а</font>ть<br>",
+                                        "меш<font color=\"#ff0000\">а</font>ть",
                                         "",
                                         "stören",
                                         "",
@@ -8226,7 +8226,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "никогд<font color=\"#ff0000\">а</font><br>",
+                                        "никогд<font color=\"#ff0000\">а</font>",
                                         "",
                                         "nie, nicht viel",
                                         "",
@@ -8261,7 +8261,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "н<font color=\"#ff0000\">о</font>чью<br>",
+                                        "н<font color=\"#ff0000\">о</font>чью",
                                         "",
                                         "nachts",
                                         "",
@@ -8279,7 +8279,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "об<font color=\"#ff0000\">ы</font>чно<br>",
+                                        "об<font color=\"#ff0000\">ы</font>чно",
                                         "",
                                         "gewöhnlich",
                                         "",
@@ -8297,7 +8297,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "отвеч<font color=\"#ff0000\">а</font>ть<br>",
+                                        "отвеч<font color=\"#ff0000\">а</font>ть",
                                         "",
                                         "antworten",
                                         "",
@@ -8315,7 +8315,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "пиан<font color=\"#ff0000\">и</font>но<br>",
+                                        "пиан<font color=\"#ff0000\">и</font>но",
                                         "",
                                         "Klavier",
                                         "",
@@ -8332,7 +8332,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "п<font color=\"#ff0000\">и</font>цца<br>",
+                                        "п<font color=\"#ff0000\">и</font>цца",
                                         "",
                                         "Pizza",
                                         "",
@@ -8349,7 +8349,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "попм<font color=\"#ff0000\">у</font>зыка<br>",
+                                        "попм<font color=\"#ff0000\">у</font>зыка",
                                         "",
                                         "Popmusik",
                                         "",
@@ -8385,7 +8385,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "сег<font color=\"#ff0000\">о</font>дня<br>",
+                                        "сег<font color=\"#ff0000\">о</font>дня",
                                         "",
                                         "heute",
                                         "",
@@ -8403,7 +8403,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "семин<font color=\"#ff0000\">а</font>р<br>",
+                                        "семин<font color=\"#ff0000\">а</font>р",
                                         "",
                                         "Seminar",
                                         "",
@@ -8421,7 +8421,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "скр<font color=\"#ff0000\">и</font>пка<br>",
+                                        "скр<font color=\"#ff0000\">и</font>пка",
                                         "",
                                         "Geige",
                                         "",
@@ -8438,7 +8438,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "сл<font color=\"#ff0000\">у</font>шать<br>",
+                                        "сл<font color=\"#ff0000\">у</font>шать",
                                         "",
                                         "zuhören",
                                         "",
@@ -8456,7 +8456,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "спортз<font color=\"#ff0000\">а</font>л<br>",
+                                        "спортз<font color=\"#ff0000\">а</font>л",
                                         "",
                                         "Sporthalle",
                                         "",
@@ -8473,7 +8473,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "спр<font color=\"#ff0000\">а</font>шивать<br>",
+                                        "спр<font color=\"#ff0000\">а</font>шивать",
                                         "",
                                         "fragen",
                                         "",
@@ -8491,7 +8491,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "стать<font color=\"#ff0000\">я</font><br>",
+                                        "стать<font color=\"#ff0000\">я</font>",
                                         "",
                                         "Artikel",
                                         "",
@@ -8527,7 +8527,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "тогд<font color=\"#ff0000\">а</font><br>",
+                                        "тогд<font color=\"#ff0000\">а</font>",
                                         "",
                                         "dann",
                                         "",
@@ -8544,7 +8544,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "тренир<font color=\"#ff0000\">о</font>вка<br>",
+                                        "тренир<font color=\"#ff0000\">о</font>вка",
                                         "",
                                         "Training",
                                         "",
@@ -8562,7 +8562,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "труб<font color=\"#ff0000\">а</font><br>",
+                                        "труб<font color=\"#ff0000\">а</font>",
                                         "",
                                         "Trompete",
                                         "",
@@ -8579,7 +8579,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<font color=\"#ff0000\">у</font>тро<br>",
+                                        "<font color=\"#ff0000\">у</font>тро",
                                         "",
                                         "der Morgen",
                                         "",
@@ -8596,7 +8596,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<font color=\"#ff0000\">у</font>тром<br>",
+                                        "<font color=\"#ff0000\">у</font>тром",
                                         "",
                                         "morgens, am Morgen",
                                         "",
@@ -8613,7 +8613,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "фл<font color=\"#ff0000\">е</font>йта<br>",
+                                        "фл<font color=\"#ff0000\">е</font>йта",
                                         "",
                                         "Flöte",
                                         "",
@@ -8647,7 +8647,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "шахмат<font color=\"#ff0000\">и</font>ст<br>",
+                                        "шахмат<font color=\"#ff0000\">и</font>ст",
                                         "",
                                         "Schachspieler",
                                         "",
@@ -8664,7 +8664,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "ш<font color=\"#ff0000\">а</font>хматы<br>",
+                                        "ш<font color=\"#ff0000\">а</font>хматы",
                                         "",
                                         "Schachspiel",
                                         "",
@@ -8779,7 +8779,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "во что игр<font color=\"#ff0000\">а</font>ть?<br>",
+                                        "во что игр<font color=\"#ff0000\">а</font>ть?",
                                         "Was spielen? (Spiel)"
                                     ],
                                     "guid": "nB:|DF$rX}",
@@ -8792,7 +8792,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "На чём игр<font color=\"#ff0000\">а</font>ть?<br>",
+                                        "На чём игр<font color=\"#ff0000\">а</font>ть?",
                                         "Was spielen? (Instrument)"
                                     ],
                                     "guid": "gv|&AW]r}:",
@@ -8833,7 +8833,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "бан<font color=\"#ff0000\">а</font>н<br>",
+                                        "бан<font color=\"#ff0000\">а</font>н",
                                         "",
                                         "Banane",
                                         "",
@@ -8867,7 +8867,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "бутербр<font color=\"#ff0000\">о</font>д<br>",
+                                        "бутербр<font color=\"#ff0000\">о</font>д",
                                         "",
                                         "Butterbrot, belegtes Brot",
                                         "",
@@ -8885,7 +8885,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "вар<font color=\"#ff0000\">е</font>ник<br>",
+                                        "вар<font color=\"#ff0000\">е</font>ник",
                                         "",
                                         "Teigtasche",
                                         "mit allem möglichen gefüllt",
@@ -8902,7 +8902,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "вар<font color=\"#ff0000\">е</font>нье<br>",
+                                        "вар<font color=\"#ff0000\">е</font>нье",
                                         "",
                                         "Marmelade",
                                         "",
@@ -8954,7 +8954,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "дев<font color=\"#ff0000\">я</font>тый<br>",
+                                        "дев<font color=\"#ff0000\">я</font>тый",
                                         "",
                                         "neunter",
                                         "",
@@ -8973,7 +8973,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "д<font color=\"#ff0000\">е</font>вять<br>",
+                                        "д<font color=\"#ff0000\">е</font>вять",
                                         "",
                                         "neun",
                                         "",
@@ -9010,7 +9010,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "з<font color=\"#ff0000\">а</font>втрак<br>",
+                                        "з<font color=\"#ff0000\">а</font>втрак",
                                         "",
                                         "Frühstück",
                                         "",
@@ -9027,7 +9027,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "з<font color=\"#ff0000\">а</font>втракать<br>",
+                                        "з<font color=\"#ff0000\">а</font>втракать",
                                         "",
                                         "frühstücken",
                                         "",
@@ -9044,7 +9044,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "здор<font color=\"#ff0000\">о</font>вье<br>",
+                                        "здор<font color=\"#ff0000\">о</font>вье",
                                         "",
                                         "Gesundheit",
                                         "",
@@ -9061,7 +9061,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "как<font color=\"#ff0000\">а</font>о<br>",
+                                        "как<font color=\"#ff0000\">а</font>о",
                                         "",
                                         "Kakao",
                                         "",
@@ -9078,7 +9078,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "карт<font color=\"#ff0000\">о</font>фель<br>",
+                                        "карт<font color=\"#ff0000\">о</font>фель",
                                         "",
                                         "Kartoffel",
                                         "direkt übersetzt",
@@ -9095,7 +9095,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "к<font color=\"#ff0000\">а</font>ша<br>",
+                                        "к<font color=\"#ff0000\">а</font>ша",
                                         "",
                                         "Brei",
                                         "",
@@ -9113,7 +9113,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "к<font color=\"#ff0000\">о</font>ка-к<font color=\"#ff0000\">о</font>ла<br>",
+                                        "к<font color=\"#ff0000\">о</font>ка-к<font color=\"#ff0000\">о</font>ла",
                                         "",
                                         "Coca-Cola",
                                         "",
@@ -9131,7 +9131,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "колбас<font color=\"#ff0000\">а</font><br>",
+                                        "колбас<font color=\"#ff0000\">а</font>",
                                         "",
                                         "Wurst",
                                         "",
@@ -9165,7 +9165,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "лапш<font color=\"#ff0000\">а</font><br>",
+                                        "лапш<font color=\"#ff0000\">а</font>",
                                         "",
                                         "Nudeln",
                                         "Lang",
@@ -9182,7 +9182,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "макар<font color=\"#ff0000\">о</font>ны<br>",
+                                        "макар<font color=\"#ff0000\">о</font>ны",
                                         "",
                                         "Makkaroni",
                                         "",
@@ -9199,7 +9199,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "м<font color=\"#ff0000\">а</font>сло<br>",
+                                        "м<font color=\"#ff0000\">а</font>сло",
                                         "",
                                         "Butter",
                                         "",
@@ -9216,7 +9216,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "молок<font color=\"#ff0000\">о</font><br>",
+                                        "молок<font color=\"#ff0000\">о</font>",
                                         "",
                                         "Milch",
                                         "",
@@ -9234,7 +9234,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "м<font color=\"#ff0000\">ю</font>сли<br>",
+                                        "м<font color=\"#ff0000\">ю</font>сли",
                                         "",
                                         "Müsli",
                                         "",
@@ -9252,7 +9252,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "м<font color=\"#ff0000\">я</font>со<br>",
+                                        "м<font color=\"#ff0000\">я</font>со",
                                         "",
                                         "Fleisch",
                                         "",
@@ -9269,7 +9269,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "об<font color=\"#ff0000\">е</font>д<br>",
+                                        "об<font color=\"#ff0000\">е</font>д",
                                         "",
                                         "Mittagessen",
                                         "",
@@ -9287,7 +9287,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "об<font color=\"#ff0000\">е</font>дать<br>",
+                                        "об<font color=\"#ff0000\">е</font>дать",
                                         "",
                                         "zu Mittag essen",
                                         "",
@@ -9305,7 +9305,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<font color=\"#ff0000\">о</font>вощи<br>",
+                                        "<font color=\"#ff0000\">о</font>вощи",
                                         "",
                                         "Gemüse",
                                         "",
@@ -9323,7 +9323,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "пельм<font color=\"#ff0000\">е</font>нь<br>",
+                                        "пельм<font color=\"#ff0000\">е</font>нь",
                                         "",
                                         "Teigtasche",
                                         "Fleisch",
@@ -9341,7 +9341,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "пирож<font color=\"#ff0000\">о</font>к<br>",
+                                        "пирож<font color=\"#ff0000\">о</font>к",
                                         "",
                                         "Pirogge/Teigtasche",
                                         "süß",
@@ -9377,7 +9377,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "п<font color=\"#ff0000\">о</font>вар<br>",
+                                        "п<font color=\"#ff0000\">о</font>вар",
                                         "",
                                         "Koch",
                                         "",
@@ -9394,7 +9394,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "прод<font color=\"#ff0000\">у</font>кты<br>",
+                                        "прод<font color=\"#ff0000\">у</font>кты",
                                         "",
                                         "Lebensmittel",
                                         "",
@@ -9446,7 +9446,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "р<font color=\"#ff0000\">ы</font>ба<br>",
+                                        "р<font color=\"#ff0000\">ы</font>ба",
                                         "",
                                         "Fisch",
                                         "",
@@ -9464,7 +9464,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "сн<font color=\"#ff0000\">о</font>ва<br>",
+                                        "сн<font color=\"#ff0000\">о</font>ва",
                                         "",
                                         "wieder, erneut",
                                         "positiv",
@@ -9499,7 +9499,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "спаг<font color=\"#ff0000\">е</font>тти<br>",
+                                        "спаг<font color=\"#ff0000\">е</font>тти",
                                         "",
                                         "Spaghetti",
                                         "",
@@ -9550,7 +9550,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<font color=\"#ff0000\">у</font>жин<br>",
+                                        "<font color=\"#ff0000\">у</font>жин",
                                         "",
                                         "Abendessen",
                                         "",
@@ -9568,7 +9568,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<font color=\"#ff0000\">у</font>жинать<br>",
+                                        "<font color=\"#ff0000\">у</font>жинать",
                                         "",
                                         "zu Abend essen",
                                         "",
@@ -9639,7 +9639,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "шеф-п<font color=\"#ff0000\">о</font>вар<br>",
+                                        "шеф-п<font color=\"#ff0000\">о</font>вар",
                                         "",
                                         "Chefkoch",
                                         "",
@@ -9656,7 +9656,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "шн<font color=\"#ff0000\">и</font>цель<br>",
+                                        "шн<font color=\"#ff0000\">и</font>цель",
                                         "",
                                         "Schnitzel",
                                         "",
@@ -9673,7 +9673,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "шокол<font color=\"#ff0000\">а</font>д<br>",
+                                        "шокол<font color=\"#ff0000\">а</font>д",
                                         "",
                                         "Schokolade",
                                         "",
@@ -9691,7 +9691,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<font color=\"#ff0000\">я</font>блоко<br>",
+                                        "<font color=\"#ff0000\">я</font>блоко",
                                         "",
                                         "Apfel",
                                         "",
@@ -9708,7 +9708,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<font color=\"#ff0000\">я</font>блоки<br>",
+                                        "<font color=\"#ff0000\">я</font>блоки",
                                         "",
                                         "Äpfel",
                                         "",
@@ -9725,7 +9725,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "яйц<font color=\"#ff0000\">о</font><br>",
+                                        "яйц<font color=\"#ff0000\">о</font>",
                                         "",
                                         "Ei",
                                         "",
@@ -9811,7 +9811,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "При<font color=\"#ff0000\">я</font>тного аппет<font color=\"#ff0000\">и</font>та!<br>",
+                                        "При<font color=\"#ff0000\">я</font>тного аппет<font color=\"#ff0000\">и</font>та!",
                                         "Guten Appetit!"
                                     ],
                                     "guid": "Bg7>q2Om$k",
@@ -9824,7 +9824,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "На здор<font color=\"#ff0000\">о</font>вье!<br>",
+                                        "На здор<font color=\"#ff0000\">о</font>вье!",
                                         "Wohl bekomms!"
                                     ],
                                     "guid": "Nb*[nIxxrt",
@@ -9837,7 +9837,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "За здор<font color=\"#ff0000\">о</font>вье!<br>",
+                                        "За здор<font color=\"#ff0000\">о</font>вье!",
                                         "Auf dein Wohl!"
                                     ],
                                     "guid": "C?mw3c<#]}",
@@ -9878,7 +9878,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "как<font color=\"#ff0000\">о</font>й?<br>",
+                                        "как<font color=\"#ff0000\">о</font>й?",
                                         "",
                                         "Welcher?",
                                         "",
@@ -9897,7 +9897,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "англ<font color=\"#ff0000\">и</font>йский<br>",
+                                        "англ<font color=\"#ff0000\">и</font>йский",
                                         "",
                                         "englisch",
                                         "",
@@ -9914,7 +9914,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "апельс<font color=\"#ff0000\">и</font>н<br>",
+                                        "апельс<font color=\"#ff0000\">и</font>н",
                                         "",
                                         "Orange",
                                         "",
@@ -9931,7 +9931,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "апельс<font color=\"#ff0000\">и</font>новый<br>",
+                                        "апельс<font color=\"#ff0000\">и</font>новый",
                                         "",
                                         "Orangen-",
                                         "",
@@ -9948,7 +9948,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "б<font color=\"#ff0000\">е</font>лый<br>",
+                                        "б<font color=\"#ff0000\">е</font>лый",
                                         "",
                                         "weiß",
                                         "",
@@ -9966,7 +9966,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "бил<font color=\"#ff0000\">е</font>т<br>",
+                                        "бил<font color=\"#ff0000\">е</font>т",
                                         "",
                                         "Ticket",
                                         "",
@@ -9984,7 +9984,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "больш<font color=\"#ff0000\">о</font>й<br>",
+                                        "больш<font color=\"#ff0000\">о</font>й",
                                         "",
                                         "groß",
                                         "",
@@ -10002,7 +10002,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "виногр<font color=\"#ff0000\">а</font>дный<br>",
+                                        "виногр<font color=\"#ff0000\">а</font>дный",
                                         "",
                                         "Weintrauben-",
                                         "",
@@ -10019,7 +10019,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "вк<font color=\"#ff0000\">у</font>сно<br>",
+                                        "вк<font color=\"#ff0000\">у</font>сно",
                                         "",
                                         "lecker",
                                         "Adv.",
@@ -10036,7 +10036,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "вк<font color=\"#ff0000\">у</font>сный<br>",
+                                        "вк<font color=\"#ff0000\">у</font>сный",
                                         "Adj.",
                                         "lecker",
                                         "Adj.",
@@ -10072,7 +10072,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "господ<font color=\"#ff0000\">и</font>н<br>",
+                                        "господ<font color=\"#ff0000\">и</font>н",
                                         "",
                                         "Herr",
                                         "Anrede",
@@ -10089,7 +10089,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "госпож<font color=\"#ff0000\">а</font><br>",
+                                        "госпож<font color=\"#ff0000\">а</font>",
                                         "",
                                         "Frau",
                                         "Anrede",
@@ -10124,7 +10124,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "дес<font color=\"#ff0000\">я</font>тый<br>",
+                                        "дес<font color=\"#ff0000\">я</font>тый",
                                         "",
                                         "zehnter",
                                         "",
@@ -10143,7 +10143,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "д<font color=\"#ff0000\">е</font>сять<br>",
+                                        "д<font color=\"#ff0000\">е</font>сять",
                                         "",
                                         "zehn",
                                         "",
@@ -10180,7 +10180,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "дорог<font color=\"#ff0000\">о</font>й<br>",
+                                        "дорог<font color=\"#ff0000\">о</font>й",
                                         "Adj.",
                                         "teuer",
                                         "Adj.",
@@ -10216,7 +10216,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "мор<font color=\"#ff0000\">о</font>женое<br>",
+                                        "мор<font color=\"#ff0000\">о</font>женое",
                                         "",
                                         "Eiscreme",
                                         "",
@@ -10234,7 +10234,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "н<font color=\"#ff0000\">о</font>вый<br>",
+                                        "н<font color=\"#ff0000\">о</font>вый",
                                         "",
                                         "neu",
                                         "",
@@ -10252,7 +10252,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "нем<font color=\"#ff0000\">е</font>цкий<br>",
+                                        "нем<font color=\"#ff0000\">е</font>цкий",
                                         "",
                                         "deutsch",
                                         "",
@@ -10269,7 +10269,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "открыв<font color=\"#ff0000\">а</font>ть<br>",
+                                        "открыв<font color=\"#ff0000\">а</font>ть",
                                         "",
                                         "öffnen, eröffnen",
                                         "\nGerichtet, z.B. \"Ich öffne die Fenster\"",
@@ -10287,7 +10287,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "па<font color=\"#ff0000\">э</font>лья<br>",
+                                        "па<font color=\"#ff0000\">э</font>лья",
                                         "",
                                         "Paella",
                                         "",
@@ -10304,7 +10304,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "п<font color=\"#ff0000\">е</font>сня<br>",
+                                        "п<font color=\"#ff0000\">е</font>сня",
                                         "",
                                         "Lied",
                                         "",
@@ -10321,7 +10321,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "по<font color=\"#ff0000\">э</font>тому<br>",
+                                        "по<font color=\"#ff0000\">э</font>тому",
                                         "",
                                         "deshalb",
                                         "",
@@ -10339,7 +10339,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "рек<font color=\"#ff0000\">а</font><br>",
+                                        "рек<font color=\"#ff0000\">а</font>",
                                         "",
                                         "Fluss",
                                         "",
@@ -10357,7 +10357,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "ск<font color=\"#ff0000\">у</font>чный<br>",
+                                        "ск<font color=\"#ff0000\">у</font>чный",
                                         "",
                                         "langweilig",
                                         "",
@@ -10393,7 +10393,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "изуч<font color=\"#ff0000\">а</font>ть<br>",
+                                        "изуч<font color=\"#ff0000\">а</font>ть",
                                         "",
                                         "lernen, studieren",
                                         "",
@@ -10411,7 +10411,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "интер<font color=\"#ff0000\">е</font>сный<br>",
+                                        "интер<font color=\"#ff0000\">е</font>сный",
                                         "Adj.",
                                         "interessant",
                                         "Adj.",
@@ -10429,7 +10429,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "исп<font color=\"#ff0000\">а</font>нский<br>",
+                                        "исп<font color=\"#ff0000\">а</font>нский",
                                         "",
                                         "Spanisch",
                                         "",
@@ -10446,7 +10446,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "италь<font color=\"#ff0000\">я</font>нский<br>",
+                                        "италь<font color=\"#ff0000\">я</font>нский",
                                         "",
                                         "Italienisch",
                                         "",
@@ -10463,7 +10463,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "кан<font color=\"#ff0000\">а</font>л<br>",
+                                        "кан<font color=\"#ff0000\">а</font>л",
                                         "",
                                         "Kanal",
                                         "",
@@ -10481,7 +10481,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "клубн<font color=\"#ff0000\">и</font>ка<br>",
+                                        "клубн<font color=\"#ff0000\">и</font>ка",
                                         "",
                                         "Erdbeere",
                                         "",
@@ -10498,7 +10498,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "клубн<font color=\"#ff0000\">и</font>чный<br>",
+                                        "клубн<font color=\"#ff0000\">и</font>чный",
                                         "",
                                         "Erdbeer-",
                                         "",
@@ -10515,7 +10515,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "конф<font color=\"#ff0000\">е</font>та<br>",
+                                        "конф<font color=\"#ff0000\">е</font>та",
                                         "",
                                         "Konfekt, Bonbon",
                                         "",
@@ -10533,7 +10533,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "крас<font color=\"#ff0000\">и</font>вый<br>",
+                                        "крас<font color=\"#ff0000\">и</font>вый",
                                         "Adj.",
                                         "schön",
                                         "Adj.",
@@ -10551,7 +10551,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "кр<font color=\"#ff0000\">а</font>сный<br>",
+                                        "кр<font color=\"#ff0000\">а</font>сный",
                                         "",
                                         "rot",
                                         "",
@@ -10569,7 +10569,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "культ<font color=\"#ff0000\">у</font>ра<br>",
+                                        "культ<font color=\"#ff0000\">у</font>ра",
                                         "",
                                         "Kultur",
                                         "",
@@ -10587,7 +10587,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "лаз<font color=\"#ff0000\">а</font>нья<br>",
+                                        "лаз<font color=\"#ff0000\">а</font>нья",
                                         "",
                                         "Lasagne",
                                         "",
@@ -10604,7 +10604,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "литерат<font color=\"#ff0000\">у</font>ра<br>",
+                                        "литерат<font color=\"#ff0000\">у</font>ра",
                                         "",
                                         "Literatur",
                                         "",
@@ -10621,7 +10621,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "люб<font color=\"#ff0000\">и</font>мый<br>",
+                                        "люб<font color=\"#ff0000\">и</font>мый",
                                         "",
                                         "Lieblings-",
                                         "",
@@ -10638,7 +10638,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "м<font color=\"#ff0000\">а</font>ленький<br>",
+                                        "м<font color=\"#ff0000\">а</font>ленький",
                                         "",
                                         "klein",
                                         "",
@@ -10656,7 +10656,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "молод<font color=\"#ff0000\">о</font>й<br>",
+                                        "молод<font color=\"#ff0000\">о</font>й",
                                         "",
                                         "jung",
                                         "",
@@ -10692,7 +10692,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "ст<font color=\"#ff0000\">а</font>рый<br>",
+                                        "ст<font color=\"#ff0000\">а</font>рый",
                                         "",
                                         "alt",
                                         "",
@@ -10710,7 +10710,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "тур<font color=\"#ff0000\">е</font>цкий<br>",
+                                        "тур<font color=\"#ff0000\">е</font>цкий",
                                         "",
                                         "Türkisch",
                                         "",
@@ -10727,7 +10727,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "фили<font color=\"#ff0000\">а</font>л<br>",
+                                        "фили<font color=\"#ff0000\">а</font>л",
                                         "",
                                         "Filiale",
                                         "",
@@ -10744,7 +10744,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "франц<font color=\"#ff0000\">у</font>зский<br>",
+                                        "франц<font color=\"#ff0000\">у</font>зский",
                                         "",
                                         "Französisch",
                                         "",
@@ -10761,7 +10761,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "хот<font color=\"#ff0000\">е</font>ть<br>",
+                                        "хот<font color=\"#ff0000\">е</font>ть",
                                         "",
                                         "wollen",
                                         "",
@@ -10797,7 +10797,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "шокол<font color=\"#ff0000\">а</font>дный<br>",
+                                        "шокол<font color=\"#ff0000\">а</font>дный",
                                         "",
                                         "Schokoladen-",
                                         "",
@@ -10814,7 +10814,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<font color=\"#ff0000\">я</font>блочный<br>",
+                                        "<font color=\"#ff0000\">я</font>блочный",
                                         "",
                                         "Apfel-",
                                         "",
@@ -10831,7 +10831,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "яз<font color=\"#ff0000\">ы</font>к<br>",
+                                        "яз<font color=\"#ff0000\">ы</font>к",
                                         "",
                                         "Sprache",
                                         "",
@@ -11025,7 +11025,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "д<font color=\"#ff0000\">о</font>брое <font color=\"#ff0000\">у</font>тро!<br>",
+                                        "д<font color=\"#ff0000\">о</font>брое <font color=\"#ff0000\">у</font>тро!",
                                         "Guten Morgen!"
                                     ],
                                     "guid": "j^^.L.@:T7",
@@ -11038,7 +11038,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Д<font color=\"#ff0000\">о</font>брый день!<br>",
+                                        "Д<font color=\"#ff0000\">о</font>брый день!",
                                         "Guten Tag!"
                                     ],
                                     "guid": "BOCz;R-^Y(",
@@ -11051,7 +11051,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Д<font color=\"#ff0000\">о</font>брый в<font color=\"#ff0000\">е</font>чер!<br>",
+                                        "Д<font color=\"#ff0000\">о</font>брый в<font color=\"#ff0000\">е</font>чер!",
                                         "Guten Abend!"
                                     ],
                                     "guid": "m<Hc%QW$D0",
@@ -11064,7 +11064,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Всё в пор<font color=\"#ff0000\">я</font>дке!<br>",
+                                        "Всё в пор<font color=\"#ff0000\">я</font>дке!",
                                         "Alles in Ordnung!"
                                     ],
                                     "guid": "xr+SPAZM(F",
@@ -11302,7 +11302,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<font color=\"#ff0000\">е</font>сли<br>",
+                                        "<font color=\"#ff0000\">е</font>сли",
                                         "",
                                         "wenn",
                                         "",
@@ -11410,7 +11410,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "од<font color=\"#ff0000\">и</font>ннадцатый<br>",
+                                        "од<font color=\"#ff0000\">и</font>ннадцатый",
                                         "",
                                         "elfter",
                                         "",
@@ -11463,7 +11463,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "од<font color=\"#ff0000\">и</font>ннадцать<br>",
+                                        "од<font color=\"#ff0000\">и</font>ннадцать",
                                         "",
                                         "elf",
                                         "",
@@ -11699,7 +11699,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "удов<font color=\"#ff0000\">о</font>льствие<br>",
+                                        "удов<font color=\"#ff0000\">о</font>льствие",
                                         "",
                                         "Vergnügen",
                                         "",
@@ -11972,7 +11972,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "апр<font color=\"#ff0000\">е</font>ль<br>",
+                                        "апр<font color=\"#ff0000\">е</font>ль",
                                         "",
                                         "April",
                                         "",
@@ -12043,7 +12043,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "весн<font color=\"#ff0000\">о</font>й<br>",
+                                        "весн<font color=\"#ff0000\">о</font>й",
                                         "",
                                         "im Frühling",
                                         "",
@@ -12189,7 +12189,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<font color=\"#ff0000\">е</font>здить<br>",
+                                        "<font color=\"#ff0000\">е</font>здить",
                                         "",
                                         "fahren",
                                         "regelmäßig",
@@ -12838,7 +12838,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Eselsbrücke: Gehen vs. Fahren?",
-                                        "\"Fahren ist <font color=\"#ff0000\">e</font>h schneller\"<br><font color=\"#ff0000\">е</font>хать und&nbsp;<font color=\"#ff0000\">е</font>здить fangen mit e an.<br>"
+                                        "\"Fahren ist <font color=\"#ff0000\">e</font>h schneller\"<br><font color=\"#ff0000\">е</font>хать und&nbsp;<font color=\"#ff0000\">е</font>здить fangen mit e an."
                                     ],
                                     "guid": "s?+bL,w!#z",
                                     "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
@@ -13681,7 +13681,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "в<font color=\"#ff0000\">и</font>деть<br>",
+                                        "в<font color=\"#ff0000\">и</font>деть",
                                         "",
                                         "sehen",
                                         "",
@@ -13735,7 +13735,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "кот<font color=\"#ff0000\">о</font>рый<br>",
+                                        "кот<font color=\"#ff0000\">о</font>рый",
                                         "",
                                         "welcher, der",
                                         "Relativpronomen",
@@ -14309,7 +14309,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "жел<font color=\"#ff0000\">а</font>ть<br>",
+                                        "жел<font color=\"#ff0000\">а</font>ть",
                                         "",
                                         "wünschen",
                                         "",
@@ -15123,7 +15123,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "куп<font color=\"#ff0000\">и</font>ть<br>",
+                                        "куп<font color=\"#ff0000\">и</font>ть",
                                         "",
                                         "kaufen",
                                         "Perf.",
@@ -15319,7 +15319,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "должн<font color=\"#ff0000\">а</font><br>",
+                                        "должн<font color=\"#ff0000\">а</font>",
                                         "",
                                         "muss, soll",
                                         "f.",
@@ -15454,7 +15454,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Дав<font color=\"#ff0000\">а</font>й!<br>",
+                                        "Дав<font color=\"#ff0000\">а</font>й!",
                                         "Lass uns..."
                                     ],
                                     "guid": "s(Ct/{6ToP",
@@ -21187,7 +21187,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "р<font color=\"#ff0004\">у</font>чка<br>",
+                                        "р<font color=\"#ff0004\">у</font>чка",
                                         "kein Stift",
                                         "Griff, Türgriff",
                                         "",
@@ -25767,7 +25767,7 @@
                                         "",
                                         "",
                                         "",
-                                        "бер<font color=\"#ff0000\">у</font>т<br>"
+                                        "бер<font color=\"#ff0000\">у</font>т"
                                     ],
                                     "guid": "n5yfx=`_;v",
                                     "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
@@ -27198,7 +27198,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "кст<font color=\"#ff0004\">а</font>ти<br>",
+                                        "кст<font color=\"#ff0004\">а</font>ти",
                                         "",
                                         "übrigens",
                                         "",
@@ -27504,7 +27504,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "те<font color=\"#ff0004\">о</font>рия<br>",
+                                        "те<font color=\"#ff0004\">о</font>рия",
                                         "",
                                         "Theorie",
                                         "",
@@ -27891,7 +27891,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "подгот<font color=\"#ff0004\">о</font>виться<br>",
+                                        "подгот<font color=\"#ff0004\">о</font>виться",
                                         "",
                                         "sich vorbereiten",
                                         "Perf.",
@@ -28507,7 +28507,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "запис<font color=\"#ff0000\">а</font>ться на/в<br>",
+                                        "запис<font color=\"#ff0000\">а</font>ться на/в",
                                         "",
                                         "sich einschreiben",
                                         "Perf.",
@@ -28593,7 +28593,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "маршр<font color=\"#ff0000\">у</font>тка<br>",
+                                        "маршр<font color=\"#ff0000\">у</font>тка",
                                         "",
                                         "Linientaxi",
                                         "",
@@ -28892,7 +28892,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<font color=\"#ff0000\">е</font>сли ..., то ...<br>",
+                                        "<font color=\"#ff0000\">е</font>сли ..., то ...",
                                         "wenn ..., dann ..."
                                     ],
                                     "guid": "bcDftKYOEG",
