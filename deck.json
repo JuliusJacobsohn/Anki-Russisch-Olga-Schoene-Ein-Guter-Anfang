@@ -261,7 +261,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "журн<font color=\"#ff0000\">а</font>л<br>",
+                                        "журн<font color=\"#ff0000\">а</font>л",
                                         "",
                                         "Zeitschrift, Magazin",
                                         "",
@@ -279,7 +279,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "зад<font color=\"#ff0000\">а</font>ние<br>",
+                                        "зад<font color=\"#ff0000\">а</font>ние",
                                         "",
                                         "Aufgabe",
                                         "",
@@ -373,7 +373,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "л<font color=\"#ff0000\">а</font>мпа<br>",
+                                        "л<font color=\"#ff0000\">а</font>мпа",
                                         "",
                                         "Lampe",
                                         "",
@@ -503,7 +503,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "окн<font color=\"#ff0000\">о</font><br>",
+                                        "окн<font color=\"#ff0000\">о</font>",
                                         "",
                                         "Fenster",
                                         "",
@@ -539,7 +539,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "он<font color=\"#ff0000\">и</font><br>",
+                                        "он<font color=\"#ff0000\">и</font>",
                                         "",
                                         "sie",
                                         "Pl.",
@@ -685,7 +685,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "ур<font color=\"#ff0000\">о</font>к<br>",
+                                        "ур<font color=\"#ff0000\">о</font>к",
                                         "",
                                         "Unterrichtsstunde",
                                         "",
@@ -741,7 +741,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "шк<font color=\"#ff0000\">о</font>ла<br>",
+                                        "шк<font color=\"#ff0000\">о</font>ла",
                                         "",
                                         "Schule",
                                         "",
@@ -5553,6 +5553,7 @@
                                     "guid": "I}4I[nj~@Z",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
                                     "tags": [
+                                        "leech",
                                         "Russisch::A1::Kapitel05",
                                         "Russisch::Vokabel"
                                     ]
@@ -6407,7 +6408,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "п<font color=\"#ff0000\">о</font>чта<br>",
+                                        "п<font color=\"#ff0000\">о</font>чта",
                                         "",
                                         "Post",
                                         "",
@@ -8629,7 +8630,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "фр<font color=\"#ff0000\">а</font>за<br>",
+                                        "фр<font color=\"#ff0000\">а</font>за",
                                         "",
                                         "Phrase",
                                         "",
@@ -9532,7 +9533,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "том<font color=\"#ff0000\">а</font>тный с<font color=\"#ff0000\">о</font>ус<br>",
+                                        "том<font color=\"#ff0000\">а</font>тный с<font color=\"#ff0000\">о</font>ус",
                                         "",
                                         "Tomatensosse",
                                         "",
