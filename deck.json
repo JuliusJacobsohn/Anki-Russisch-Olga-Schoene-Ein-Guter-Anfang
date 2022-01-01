@@ -10271,7 +10271,7 @@
                                         "открыв<font color=\"#ff0000\">а</font>ть<br>",
                                         "",
                                         "öffnen, eröffnen",
-                                        "",
+                                        "\nGerichtet, z.B. \"Ich öffne die Fenster\"",
                                         "",
                                         ""
                                     ],
@@ -26518,7 +26518,7 @@
                                         "откр<font color=\"#ff0004\">ы</font>ть",
                                         "",
                                         "öffnen, eröffnen",
-                                        "Perf.",
+                                        "Perf.,\n\nGerichtet, z.B. \"Ich öffne die Fenster\"",
                                         "",
                                         ""
                                     ],
@@ -26552,7 +26552,7 @@
                                         "откр<font color=\"#ff0004\">ы</font>ться",
                                         "",
                                         "öffnen",
-                                        "Perf.",
+                                        "Perf.,&nbsp;Ungerichtet, z.B. automatische Türen",
                                         "",
                                         ""
                                     ],
@@ -28031,7 +28031,7 @@
                                         "кошм<font color=\"#ff0000\">а</font>р",
                                         "",
                                         "schrecklich",
-                                        "",
+                                        "Wow…",
                                         "",
                                         ""
                                     ],
@@ -28250,7 +28250,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "что",
-                                        "",
+                                        "Kein Fragewort",
                                         "dass",
                                         "",
                                         "",
