@@ -3336,7 +3336,7 @@
                                         "д<font color=\"#ff0000\">е</font>ло",
                                         "",
                                         "Sache, Angelegenheit",
-                                        "",
+                                        "Keine physikalische Sache",
                                         "",
                                         ""
                                     ],
@@ -5305,7 +5305,7 @@
                                         "земл<font color=\"#ff0000\">я</font>",
                                         "",
                                         "Erde",
-                                        "",
+                                        "Planet",
                                         "",
                                         ""
                                     ],
@@ -8090,7 +8090,7 @@
                                         "карт<font color=\"#ff0000\">о</font>шка",
                                         "",
                                         "Kartoffel",
-                                        "",
+                                        "nicht direkt übersetzt",
                                         "",
                                         ""
                                     ],
@@ -10165,7 +10165,7 @@
                                         "дешёвый",
                                         "",
                                         "billig",
-                                        "",
+                                        "Adj.",
                                         "",
                                         ""
                                     ],
@@ -10395,8 +10395,8 @@
                                     "fields": [
                                         "изуч<font color=\"#ff0000\">а</font>ть",
                                         "",
-                                        "lernen, studieren",
-                                        "",
+                                        "studieren, lernen",
+                                        "Schule, Uni",
                                         "+ Fall?",
                                         "+ Akk."
                                     ],
@@ -14704,7 +14704,7 @@
                                         "для",
                                         "",
                                         "für",
-                                        "",
+                                        "Jemanden",
                                         "+ Fall?",
                                         "+ Gen."
                                     ],
@@ -14722,7 +14722,7 @@
                                         "ведь",
                                         "",
                                         "ja, doch",
-                                        "",
+                                        "Ich hab's dir doch gesagt…",
                                         "",
                                         ""
                                     ],
@@ -15718,7 +15718,7 @@
                                         "за",
                                         "+ Akk.",
                                         "für",
-                                        "+ Fall?",
+                                        "Hilfe, Bezahlung, … + Fall?",
                                         "",
                                         ""
                                     ],
@@ -16999,7 +16999,7 @@
                                         "вещь",
                                         "",
                                         "Sache, Ding",
-                                        "",
+                                        "Phys. Gegenstand",
                                         "",
                                         "",
                                         "Geschlecht?",
@@ -17120,7 +17120,7 @@
                                         "гор<font color=\"#ff0000\">я</font>чий",
                                         "",
                                         "heiß",
-                                        "Adj.",
+                                        "Adj., z.B. für Gegenstände wie Tee",
                                         "",
                                         ""
                                     ],
@@ -17256,7 +17256,7 @@
                                         "звать",
                                         "",
                                         "heißen, benennen",
-                                        "",
+                                        "Personen",
                                         "",
                                         ""
                                     ],
@@ -17273,7 +17273,7 @@
                                         "назв<font color=\"#ff0000\">а</font>ть",
                                         "",
                                         "heißen, benennen",
-                                        "Perf.",
+                                        "Perf., Personen",
                                         "",
                                         ""
                                     ],
@@ -17530,7 +17530,7 @@
                                         "назыв<font color=\"#ff0000\">а</font>ться",
                                         "",
                                         "heißen",
-                                        "",
+                                        "\nZ.B. Orte, Gebäude",
                                         "",
                                         ""
                                     ],
@@ -23432,7 +23432,7 @@
                                         "ж<font color=\"#ff0004\">а</font>рко",
                                         "",
                                         "heiß",
-                                        "Adv.",
+                                        "Adv., z.B. draußen ist es heiß",
                                         "",
                                         ""
                                     ],
@@ -26111,7 +26111,7 @@
                                         "закрыв<font color=\"#ff0004\">а</font>ться",
                                         "",
                                         "schließen",
-                                        "",
+                                        "Refl.",
                                         "",
                                         ""
                                     ],
@@ -26128,7 +26128,7 @@
                                         "закр<font color=\"#ff0004\">ы</font>ться",
                                         "",
                                         "schließen",
-                                        "Perf.",
+                                        "Perf., Refl.",
                                         "",
                                         ""
                                     ],
@@ -26281,7 +26281,7 @@
                                         "конч<font color=\"#ff0004\">а</font>ться",
                                         "",
                                         "enden",
-                                        "",
+                                        "Refl.",
                                         "",
                                         ""
                                     ],
@@ -26298,7 +26298,7 @@
                                         "конч<font color=\"#ff0004\">и</font>ться",
                                         "",
                                         "enden",
-                                        "Perf.",
+                                        "Perf., Refl.",
                                         "",
                                         ""
                                     ],
@@ -26383,7 +26383,7 @@
                                         "начин<font color=\"#ff0004\">а</font>ться",
                                         "",
                                         "beginnen",
-                                        "",
+                                        "Refl.",
                                         "",
                                         ""
                                     ],
@@ -26400,7 +26400,7 @@
                                         "нач<font color=\"#ff0004\">а</font>ться",
                                         "",
                                         "beginnen",
-                                        "Perf.",
+                                        "Perf., Refl.",
                                         "",
                                         ""
                                     ],
@@ -26929,9 +26929,9 @@
                                         "уч<font color=\"#ff0004\">и</font>ть",
                                         "",
                                         "lernen",
-                                        "",
-                                        "",
-                                        ""
+                                        "Kleinere Dinge wie Wörter, Formeln, ...",
+                                        "+ Fall?",
+                                        "+ Akk."
                                     ],
                                     "guid": "N?`:O%O??w",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
@@ -26946,9 +26946,9 @@
                                         "в<font color=\"#ff0004\">ы</font>учить",
                                         "",
                                         "lernen",
-                                        "Perf.",
-                                        "",
-                                        ""
+                                        "Kleinere Dinge wie Wörter, Formeln, ..., Perf.",
+                                        "+ Fall?",
+                                        "+ Akk."
                                     ],
                                     "guid": "EG/ZNjNQ,0",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
@@ -27490,7 +27490,7 @@
                                         "с<font color=\"#ff0004\">а</font>мый",
                                         "",
                                         "Hilfswort bei der Steigerungsbildung",
-                                        "",
+                                        "Superlativ",
                                         "",
                                         ""
                                     ],
@@ -27928,7 +27928,7 @@
                                         "для чег<font color=\"#ff0004\">о</font>?",
                                         "",
                                         "wofür?",
-                                        "",
+                                        "Gegenstand (für was…?)",
                                         "",
                                         ""
                                     ],
@@ -27997,7 +27997,7 @@
                                         "зач<font color=\"#ff0004\">е</font>м?",
                                         "",
                                         "Wofür?",
-                                        "",
+                                        "Allgemein (warum?)",
                                         "",
                                         ""
                                     ],
@@ -28442,7 +28442,7 @@
                                         "<font color=\"#ff0000\">е</font>сли бы",
                                         "",
                                         "wenn",
-                                        "Konjunktiv II",
+                                        "Konjunktiv II (wenn du das gemacht hättest,…)",
                                         "",
                                         ""
                                     ],
@@ -28817,7 +28817,7 @@
                                         "<font color=\"#ff0000\">у</font>жас",
                                         "",
                                         "schrecklich",
-                                        "",
+                                        "(Schrecken)",
                                         "",
                                         ""
                                     ],
