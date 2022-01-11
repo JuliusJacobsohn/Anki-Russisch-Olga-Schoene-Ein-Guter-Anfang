@@ -29137,7 +29137,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 1",
+                    "name": "Satz: Russisch>Deutsch",
                     "ord": 0,
                     "qfmt": "{{Front}}"
                 },
@@ -29148,7 +29148,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 2",
+                    "name": "Satz: Deutsch>Russisch",
                     "ord": 1,
                     "qfmt": "{{Back}}"
                 }
@@ -29410,7 +29410,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 2",
+                    "name": "Deutsch>Russisch",
                     "ord": 1,
                     "qfmt": "{{Back}}{{#Back Extra}}<p class=\"small\">&nbsp;{{Back Extra}}</p>{{/Back Extra}}{{#Both Extra Question}}<p class=\"small\">&nbsp;{{Both Extra Question}}</p>{{/Both Extra Question}}",
                     "scratchPad": true
@@ -29422,7 +29422,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 3",
+                    "name": "Extra Frage",
                     "ord": 2,
                     "qfmt": "{{#Extra Question}}{{Extra Question}}</br>\n{{Front}}{{#Front Extra}}<p class=\"small\">&nbsp;{{Front Extra}}{{/Front Extra}}{{/Extra Question}}"
                 }
@@ -29475,7 +29475,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 1",
+                    "name": "Grammatik",
                     "ord": 0,
                     "qfmt": "{{Front}}"
                 }
@@ -29600,7 +29600,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Druch>Schreib (groß)",
+                    "name": "Druck>Schreib (groß)",
                     "ord": 1,
                     "qfmt": "{{#Druckschrift Gross}}\nIn Schreibschrift:<br>\n{{Druckschrift Gross}} (Großbuchstabe)\n{{/Druckschrift Gross}}"
                 },
@@ -29622,7 +29622,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Druck>Schreib(klein)",
+                    "name": "Druck>Schreib (klein)",
                     "ord": 3,
                     "qfmt": "In Schreibschrift:<br>\n{{Druckschrift Klein}} (Kleinbuchstabe)"
                 },
@@ -29633,7 +29633,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Schreib>Druck(klein)",
+                    "name": "Schreib>Druck (klein)",
                     "ord": 4,
                     "qfmt": "In Druckschrift:<br>\n{{Schreibschrift Klein}}"
                 }
@@ -29693,7 +29693,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 1",
+                    "name": "Übung: Druck>Schreib",
                     "ord": 0,
                     "qfmt": "Schreibe in Schreibschrift:\n{{Druckschrift}}"
                 },
@@ -29704,7 +29704,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 2",
+                    "name": "Übung: Schreib>Druck",
                     "ord": 1,
                     "qfmt": "Schreibe in Druckschrift:\n{{Schreibschrift}}"
                 }
