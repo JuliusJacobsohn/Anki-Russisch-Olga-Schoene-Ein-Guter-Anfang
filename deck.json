@@ -13644,43 +13644,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "ког<font color=\"#ff0000\">о</font>?",
-                                        "",
-                                        "Wen?",
-                                        "",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "MwLwT%ZwvK",
-                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel14",
-                                        "Russisch::Fragewort",
-                                        "Russisch::Vokabel"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Ск<font color=\"#ff0000\">о</font>лько?",
-                                        "",
-                                        "Wie viel?",
-                                        "",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "eiYcm7=F`<",
-                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel14",
-                                        "Russisch::A2::Kapitel03",
-                                        "Russisch::Fragewort",
-                                        "Russisch::Vokabel"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "в<font color=\"#ff0000\">и</font>деть",
                                         "",
                                         "sehen",
