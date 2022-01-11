@@ -29254,7 +29254,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 1",
+                    "name": "Russisch>Deutsch",
                     "ord": 0,
                     "qfmt": "{{Front}}{{#Front Extra}}<p class=\"small\">&nbsp;{{Front Extra}}{{/Front Extra}}{{#Both Extra Question}}<p class=\"small\">&nbsp;{{Both Extra Question}}{{/Both Extra Question}}",
                     "scratchPad": false
@@ -29266,7 +29266,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 2",
+                    "name": "Deutsch>Russisch",
                     "ord": 1,
                     "qfmt": "{{Back}}{{#Back Extra}}<p class=\"small\">&nbsp;{{Back Extra}}</p>{{/Back Extra}}{{#Both Extra Question}}<p class=\"small\">&nbsp;{{Both Extra Question}}</p>{{/Both Extra Question}}",
                     "scratchPad": true
@@ -29398,7 +29398,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 1",
+                    "name": "Russisch>Deutsch",
                     "ord": 0,
                     "qfmt": "{{Front}}{{#Front Extra}}<p class=\"small\">&nbsp;{{Front Extra}}{{/Front Extra}}{{#Both Extra Question}}<p class=\"small\">&nbsp;{{Both Extra Question}}{{/Both Extra Question}}",
                     "scratchPad": false
@@ -29536,7 +29536,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Russisch::Zeichen-c320e",
+            "name": "Russisch::Zeichen",
             "req": [
                 [
                     0,
@@ -29868,7 +29868,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 1",
+                    "name": "Verb",
                     "ord": 0,
                     "qfmt": "Konjugation von {{Russisch}} - {{Deutsch}}<br>\n{{#1SG}}1. Singular:<br>{{/1SG}}\n{{#2SG}}2. Singular:<br>{{/2SG}}\n{{#3SG}}3. Singular:<br>{{/3SG}}\n{{#1PL}}1. Plural:<br>{{/1PL}}\n{{#2PL}}2. Plural:<br>{{/2PL}}\n{{#3PL}}3. Plural:{{/3PL}}"
                 }
