@@ -873,34 +873,20 @@
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "paste-007627c3aaad16c9f588cd52f25c7e0fadf7c4c6.jpg",
                                 "paste-02c0ddb59d038c2fa3422800a8fdac961acf12c1.jpg",
                                 "paste-04747172843369e6a522d8999635e121c0436d55.jpg",
-                                "paste-04a372db9f5184d214068f03cc10930f87bbf8b0.jpg",
                                 "paste-09a21d6e4750d937fd344f41dc41c562af14ee2e.jpg",
-                                "paste-0b375dc69e01f7fd5fd0acdecdc1fdd4afad58a8.jpg",
                                 "paste-0e69339fa807348feadae6386574b8a07c8776fa.jpg",
-                                "paste-12b3f6abf49db87ae2413ffc90781bb13a7b6342.jpg",
                                 "paste-137638ccfcaa6c43e2287fd4579fd6b914692130.jpg",
                                 "paste-142344ba19c645247cc5e76f6678083e4add47a3.jpg",
                                 "paste-1a806b3a8d2a9f030bb79004a842c537e1019f83.jpg",
                                 "paste-1aea6e4eae6a46f9624c2e6db9cc02ffd0d883d1.jpg",
                                 "paste-1b69aeeea0ea2a614967ce859dde86cccd5b71f3.jpg",
-                                "paste-1e50f7d104c4e9552883460e640db198d45ebaf8.jpg",
                                 "paste-227cef54ff3678a7b515cdf31aba619eb9d1e561.jpg",
-                                "paste-2591329f45fe2a9ebf8c90a64f56c133120dbe0e.jpg",
-                                "paste-28d299eb9d01802b39ec29f711cc20d53d56b284.jpg",
-                                "paste-2aa1c2e963dd36535290c31bab3f16fe63c2c2fe.jpg",
-                                "paste-2cda70043a3f9c95589e5acc39fc5583af423b2e.jpg",
-                                "paste-2ed7f400cabe98693873e10118c51b039d9f6e9b.jpg",
                                 "paste-30a6e82bd5476ceb33a298f2b11e05160fe63633.jpg",
-                                "paste-3237f5a2fd7492642984e8b964b8187ad556a58f.jpg",
-                                "paste-35160926589907233fdd9978896c5158b142f75e.jpg",
                                 "paste-399b9b8e69d1a37ec9af69a4d94674f5c81373a4.jpg",
-                                "paste-3e7d106b66e640d43fbb29667d5efda630329df7.jpg",
                                 "paste-421a7787ece6e83eda4749d9a3ac1c995cd54e5a.jpg",
                                 "paste-4574cff9e42ccffd030453bb09732f0d1094b11c.jpg",
-                                "paste-458d0ba30c95835e5fc5889aff0e822282236219.jpg",
                                 "paste-4943c8217750a6e6ef208533a3bcd414fbb5d0b1.jpg",
                                 "paste-4c781de2fc5c165a2a466a3095666735e4b868e7.jpg",
                                 "paste-4cf0e9b5eed2b0c2bb6ac8805d68921ac6979491.jpg",
@@ -924,12 +910,9 @@
                                 "paste-7c36d22f9202accea4af2e617be2a9bada7856aa.jpg",
                                 "paste-7e956548df97c26654d9d00a9de2126c4815cb18.jpg",
                                 "paste-83a669e6a122d99b0719c82f2e6f367eae87d31f.jpg",
-                                "paste-851e0cde92f81d3a2249afe01ef08a2f46dbb7fc.jpg",
-                                "paste-86703fba09cc10248a03c72fc247636b2dac45f0.jpg",
                                 "paste-86bdc656fae73f50cedc5113a731a7b1a55111f1.jpg",
                                 "paste-89953ea93030da4e61f92686c4e68216b933567c.jpg",
                                 "paste-8a43b511f6ed669905a3d357c01dbf23b48a2445.jpg",
-                                "paste-8a4fa59368ef645917153d952cb8990bb939e2a3.jpg",
                                 "paste-8b54698c08095d5a96822bd5d97bc45bca657cad.jpg",
                                 "paste-8b74c0a38e49e4fa19fa980ba0b7c570d27c11bd.jpg",
                                 "paste-8b8457d91947bab74b894bcf40121372ab9c20b8.jpg",
@@ -937,21 +920,14 @@
                                 "paste-9553e91ae5b0c4f4e17c9a29bfe9d496e36be87a.jpg",
                                 "paste-95e22b3ddf99c707c06f5a423659652c4a7a5959.jpg",
                                 "paste-a83ac0bb0b3c29cd89ad6ee5f2a89e11d33d9cd4.jpg",
-                                "paste-ab2c2627fb4cb37ef39eb37ab139bbf162d550e5.jpg",
                                 "paste-ab836b68fa451a7a88f122b37ad438d7c203aef2.jpg",
-                                "paste-af155aa6e0bcd4a40d1a1e9d69d2cf29f21e7c00.jpg",
                                 "paste-af948ec7ff19ee9138677add86d9844ecd0a328a.jpg",
-                                "paste-b208835d3764cce1550c7c06b096f7b94902cacd.jpg",
                                 "paste-b86458077ce4fbd642c89d3625dbd9ad5466d952.jpg",
-                                "paste-ba6173d29b20a3b209d74f2fba0e56d320a0f4b4.jpg",
                                 "paste-bc34c4c7f66a0e1dcabf218af20b1222a2e41cdb.jpg",
-                                "paste-bcbed18b8d15ecc12c0918067884939d032671d8.jpg",
                                 "paste-bda22b64c111ea3a93317e2624bb8a4fa83c70f4.jpg",
                                 "paste-be454ba3568d218c0df4d562c500f71da6c06868.jpg",
-                                "paste-bfe065163a869e7dc5e41d6cb8606e6f1be9138c.jpg",
                                 "paste-c46bbad9985edce63daf6daf07893889c8dba948.jpg",
                                 "paste-cc9084ebaa9685e2985c2b743c1040661c0cb01c.jpg",
-                                "paste-d0bdea81daf3689ab63510a4962724cdfe2629de.jpg",
                                 "paste-d46d151fa6767a42842dfde9b12d524878098069.jpg",
                                 "paste-d7ee3ba2e7239526dd0886514033d1c31ef77c72.jpg",
                                 "paste-d84a81c5b7e0105ee473d1856ad30ee489c4c27c.jpg",
@@ -959,8 +935,6 @@
                                 "paste-e0df9a41992caaf3fd218e3af50347040469b2ec.jpg",
                                 "paste-e7a75acf602a6f6138798240a2ac1e811d0c1a75.jpg",
                                 "paste-ecec827a7ac0279d1dfd65535f5a6e01f85d6899.jpg",
-                                "paste-f3b2ddc73b187bc13d2e06c99f047a3708e4cd9e.jpg",
-                                "paste-fb89107d17852a2d0789c091f3b0ae8d890db896.jpg",
                                 "paste-ff9d6015fa6c814f7f31b4831b95b47ccc1907e4.jpg"
                             ],
                             "name": "02 Grammatik",
@@ -1525,7 +1499,225 @@
                                         "Russisch::Grammatik",
                                         "Russisch::Schreibschrift"
                                     ]
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "d9040417-83b2-11ec-88db-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "03 Sätze und Phrasen",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это Анна. А это Сергей.",
+                                        "Das ist Anna. Und das ist Sergey."
+                                    ],
+                                    "guid": "Q(il]K~:z#",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
                                 },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это Анна и Сергей.",
+                                        "Das sind Anna und Sergey."
+                                    ],
+                                    "guid": "s*yG?N8m/p",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кто это? Это Анна.",
+                                        "Wer ist das? Das ist Anna."
+                                    ],
+                                    "guid": "J!UxO@dTE,",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А это кто? Это Сергей!",
+                                        "Und wer ist das? Das ist Sergey."
+                                    ],
+                                    "guid": "g{qs>kUTrC",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я Саша. А ты?<br>А я Лена!",
+                                        "Ich bin Sascha. Und du?<br>Und ich bin Lena."
+                                    ],
+                                    "guid": "eA.X2ft`(#",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я Сергей. А Вы?<br>А я Анна!",
+                                        "Ich bin Sergey. Und Sie?<br>Und ich bin Anna."
+                                    ],
+                                    "guid": "HHTL>d<dnN",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "d9051587-83b2-11ec-b09f-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "paste-007627c3aaad16c9f588cd52f25c7e0fadf7c4c6.jpg",
+                                "paste-04a372db9f5184d214068f03cc10930f87bbf8b0.jpg",
+                                "paste-05753373dfce4d20a717129367e4a8cdc7585e19.jpg",
+                                "paste-09154cf200d6d8563141b73950b39a0cc5af5a64.jpg",
+                                "paste-0b375dc69e01f7fd5fd0acdecdc1fdd4afad58a8.jpg",
+                                "paste-0c823afc3315bb91965435b16cb469fb4ba2b291.jpg",
+                                "paste-0d0ffd0cbb45dea85912c58c59bc2a0e81b8bef7.jpg",
+                                "paste-12b3f6abf49db87ae2413ffc90781bb13a7b6342.jpg",
+                                "paste-15eda4c415211a76d6b0f79514e1899485c3604c.jpg",
+                                "paste-16ff1582435b5241c819c431cdd4d4033bb48fcf.jpg",
+                                "paste-18e51f0770747bffee2f5fc1e93f5c0126a1704d.jpg",
+                                "paste-19e85c6aa5ccf9367e4e20712ac38dae7c35dced.jpg",
+                                "paste-1d480adc77bd0eb29e422bc4b8a7577a72996f75.jpg",
+                                "paste-1e1740a190a5229b99a369b1d9f48f8ac7da4a91.jpg",
+                                "paste-1e50f7d104c4e9552883460e640db198d45ebaf8.jpg",
+                                "paste-1e717f43f95e0223b9a7647f0f146f6d2b2871d7.jpg",
+                                "paste-1f951156c6ef519f66c0cc958cc09e5a89aa9a84.jpg",
+                                "paste-2591329f45fe2a9ebf8c90a64f56c133120dbe0e.jpg",
+                                "paste-26bff25af4d7bf294a5086f64e0830ed7fcc881c.jpg",
+                                "paste-2773d723132f8ee9ede5c5a2fbf82d9e09089125.jpg",
+                                "paste-278d42eb36ea432e9a9c5bf7e45126efcec2e095.jpg",
+                                "paste-28c5fd7df9ef54db4ce64eeb75a941f4bd18dc92.jpg",
+                                "paste-28d299eb9d01802b39ec29f711cc20d53d56b284.jpg",
+                                "paste-29c786632ed49bccb7e30be382c10be59a3a4bfe.jpg",
+                                "paste-29f05bfa27451ce84c3dc67a1bbc9006e69f6248.jpg",
+                                "paste-2aa1c2e963dd36535290c31bab3f16fe63c2c2fe.jpg",
+                                "paste-2c29e04e77b675d5c9d8aa2c555d3940cf1fa8f6.jpg",
+                                "paste-2cda70043a3f9c95589e5acc39fc5583af423b2e.jpg",
+                                "paste-2ed7f400cabe98693873e10118c51b039d9f6e9b.jpg",
+                                "paste-2fb8a355aa423fd53fe545c4584b174eb880edf6.jpg",
+                                "paste-30a61a414895883904c56b384352bd70eaa7570b.jpg",
+                                "paste-3237f5a2fd7492642984e8b964b8187ad556a58f.jpg",
+                                "paste-33cfb5ceb6756bdf6ea6a7ce9e89b964eb447a95.jpg",
+                                "paste-35160926589907233fdd9978896c5158b142f75e.jpg",
+                                "paste-353e2142b10efc9470c6ed1248c3ad6ab316ba26.jpg",
+                                "paste-3547243f3a0b4ee493d1c25e9588bfa40fe90fd9.jpg",
+                                "paste-36729f1f92283a05718f5f5c33ad651cb4235ca0.jpg",
+                                "paste-37352c35a583a99ddfe0fc777ba2335d08cac498.jpg",
+                                "paste-37fde650b4813d3e075594cf5c6f3576c165e767.jpg",
+                                "paste-386ab57d1e233a2bc479ff1cc739f004f1b8f0e9.jpg",
+                                "paste-39f4e0454ef1b37677c6ce1371101dfa889ad136.jpg",
+                                "paste-3ae62b4d5c0d9c277f468772bba5d0d16e822427.jpg",
+                                "paste-3be7324a146983633517d21eb179a392776cc6b9.jpg",
+                                "paste-3c372a4a7bdc92c9d85c3cfd154d3e41c2eaf7b0.jpg",
+                                "paste-3c899ee58ebb446085919f8bb165a431e025ecbd.jpg",
+                                "paste-3ccb7d9ee8fb0381d61660b34f4fd746ef1bbf37.jpg",
+                                "paste-3e7d106b66e640d43fbb29667d5efda630329df7.jpg",
+                                "paste-416d301e611d0dda260ef85de9a3f81a71188a5f.jpg",
+                                "paste-458d0ba30c95835e5fc5889aff0e822282236219.jpg",
+                                "paste-4702a5e8858cfaf87156261ed968e1360a2cd7e4.jpg",
+                                "paste-482e943cae4081308acc690fdd8f853b70eaf905.jpg",
+                                "paste-4ac3d3d7ed6c6a9145e9f74ad95e553cc21f6990.jpg",
+                                "paste-4bfdc868c95f7e4f2c2c72e7f94d485e595b70b7.jpg",
+                                "paste-4d3f625674705fa5976a0ef4aad48d406cba00f7.jpg",
+                                "paste-506e39dccd5a5fc355f01871a7c9dc4a34af8368.jpg",
+                                "paste-531fe4fd463686d79bf8e770aee66f7a0fbf8c42.jpg",
+                                "paste-55bb13f7bcccfa355be23aa60c3337c4dd3568eb.jpg",
+                                "paste-5a364955303c8dc245e331254c5235674c1d86d7.jpg",
+                                "paste-5ae0b459e5c2a7ac145701595b7aa1ec96941eaa.jpg",
+                                "paste-65768bde318f0e8e6759e92880cac2600ce79859.jpg",
+                                "paste-67de7bc23e4f2eee82b4df18ff2ccdb744bbe613.jpg",
+                                "paste-6812ccc2b37f382b7cab7b5713819ad8387a1702.jpg",
+                                "paste-6917960b3517a663dcba1c877becd97c057b8e75.jpg",
+                                "paste-6c020500207fdac13b2516724db65da638e0dad3.jpg",
+                                "paste-6d33bc616380fd038bd7c7563cf27f473ec70f53.jpg",
+                                "paste-7000166846ecb16b2c83a8c917cb8f8d3b6307d7.jpg",
+                                "paste-7377fce3533d1e7a1d0c26269b63db088c8aa9a4.jpg",
+                                "paste-77ab7679f9c98dde9e6e3a2ac659dd44f25ffa7c.jpg",
+                                "paste-7a2d7bd949d2bb8401f101897576badd9aa07f1e.jpg",
+                                "paste-7b5a590c397bed69f56e0ef7d54a58c5506c2881.jpg",
+                                "paste-82863825222e9e951c5d68d0ef7bbf27b212bc44.jpg",
+                                "paste-851e0cde92f81d3a2249afe01ef08a2f46dbb7fc.jpg",
+                                "paste-86703fba09cc10248a03c72fc247636b2dac45f0.jpg",
+                                "paste-89259acfb54234e9395ff789ff440086215acfed.jpg",
+                                "paste-8a4fa59368ef645917153d952cb8990bb939e2a3.jpg",
+                                "paste-8b77e2052a1903a9cf11dca60ac2d8b2f80186fc.jpg",
+                                "paste-8c673322b32c7fcde41746ee093687a4cc108d2d.jpg",
+                                "paste-8ed009ce9c55682df88031486b85fe64555e5132.jpg",
+                                "paste-9024d545c767fab75a0905d80dd51d49d6c054b4.jpg",
+                                "paste-90938f750920d86b534a0e6c09f847755400664f.jpg",
+                                "paste-927e018ee58234c302f2dc4a6cf2bde53dec3982.jpg",
+                                "paste-97a5a5869170a5c20a3b0849e688835c0f23c257.jpg",
+                                "paste-9c1814a10aff6fe36ae69e33aad41d68f5c6fc43.jpg",
+                                "paste-9c64dfcc507f0b5a552ccd5f1a2a9bcb6334b548.jpg",
+                                "paste-a5c605c8729711bb6171745dce38a955015ad205.jpg",
+                                "paste-a5f10d78cee53e465e85c4e522f42d450ba035e9.jpg",
+                                "paste-a702dc6c7523e0939f84af9aa7ce6354365fcd87.jpg",
+                                "paste-a953081b04639f2b645662870d6e15ab3764c4bb.jpg",
+                                "paste-ab2c2627fb4cb37ef39eb37ab139bbf162d550e5.jpg",
+                                "paste-acddccf20f86d0c200ea6257f39c775ceed2d8d5.jpg",
+                                "paste-ae7848a745f8586e1a1666927402ffb22abc6e3f.jpg",
+                                "paste-af155aa6e0bcd4a40d1a1e9d69d2cf29f21e7c00.jpg",
+                                "paste-b208835d3764cce1550c7c06b096f7b94902cacd.jpg",
+                                "paste-b237fa76c1b32bf6e3b06a4acc437b3fdc1d869b.jpg",
+                                "paste-b2e7a7385b8ed95104f250cdd1e073ae1663d0be.jpg",
+                                "paste-b4a90f1762ca41e906f46227b964c049acef0211.jpg",
+                                "paste-b4e4eeb3f5eda2470bbcdb493eff928f175598fb.jpg",
+                                "paste-b60c1a9efde52dfc14739fe8a436162aeb1997e2.jpg",
+                                "paste-b746bd0ad9ec325909a6adcd41e229f66cddffee.jpg",
+                                "paste-b81ab303432e2705c162324411b36e46a6f3b526.jpg",
+                                "paste-ba48a77676528df5c811ea5cbe6a7914435bf55e.jpg",
+                                "paste-ba6173d29b20a3b209d74f2fba0e56d320a0f4b4.jpg",
+                                "paste-bcbed18b8d15ecc12c0918067884939d032671d8.jpg",
+                                "paste-bfe065163a869e7dc5e41d6cb8606e6f1be9138c.jpg",
+                                "paste-c06fd131c2838ce71eca430ab837cdfdcc45ec96.jpg",
+                                "paste-c1653a5d4f31ba3957c18d95719337edb80d9751.jpg",
+                                "paste-c3befb999d059b8e2e6fac19de15bfdc27543588.jpg",
+                                "paste-c4300e9509ed1566d6f0c941be1a45f208c784f6.jpg",
+                                "paste-c69d1016681b65ba9dcaea65de24fab1cff3464a.jpg",
+                                "paste-ca4af4a7d9b4361128913968a70ceab8cc2ee8ca.jpg",
+                                "paste-cb0663885fe7322a018c3e90063189df17665065.jpg",
+                                "paste-cb1d0c551b839c4fe296c5d21d8ab2f9125955c2.jpg",
+                                "paste-cb578c0d6cec21c9569124bd9e7a1d152b8f3944.jpg",
+                                "paste-cc479768e33d44318ab5c8d7ba1f680806c34444.jpg",
+                                "paste-cd6989934bc52575121d060fd30017573b993144.jpg",
+                                "paste-cd77048ebc12962161bfcd0b2e36af9fd33cf50b.jpg",
+                                "paste-d0bdea81daf3689ab63510a4962724cdfe2629de.jpg",
+                                "paste-d326abdcf3902f934d2ad12a3eed46bd1b4d61ee.jpg",
+                                "paste-db2f65632fa9bb6aa3d0a147fb523161581028ed.jpg",
+                                "paste-db862b79bf481c1869e291849d3ca0e8ab5c19fe.jpg",
+                                "paste-dd99d155fd9b6fd9bf81edcefbd6fb1e6055cdbd.jpg",
+                                "paste-de14da2ef697ab9f0913d449f1e87aee6fb57f71.jpg",
+                                "paste-e21da366d699a22c8962659440aa70f13b816cd3.jpg",
+                                "paste-e366282912196b0822207425d8bf0603bd9cb0cc.jpg",
+                                "paste-f1c2704cd4f6ca3efedb512d1256f84fa79ab30b.jpg",
+                                "paste-f3b2ddc73b187bc13d2e06c99f047a3708e4cd9e.jpg",
+                                "paste-fb89107d17852a2d0789c091f3b0ae8d890db896.jpg",
+                                "paste-fe47bb2fd039f8f3cb6a2ac04bfe27fc071d8cc3.jpg",
+                                "paste-ff18a88f8e603e85fc202177e1badd0f2ea543d8.jpg"
+                            ],
+                            "name": "04 Aufgaben",
+                            "notes": [
                                 {
                                     "__type__": "Note",
                                     "fields": [
@@ -1889,6 +2081,1036 @@
                                         "Russisch::Grammatik",
                                         "Russisch::Schreibschrift"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-3ae62b4d5c0d9c277f468772bba5d0d16e822427.jpg\"><br>{{c1::Кто::Кто/Что}} это?<br>Это собака.",
+                                        ""
+                                    ],
+                                    "guid": "w:,e}nl_LN",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-4bfdc868c95f7e4f2c2c72e7f94d485e595b70b7.jpg\"><br>{{c1::Что::Кто/Что}} это?<br>Это машина.",
+                                        ""
+                                    ],
+                                    "guid": "JIy&?yzB6Z",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-b4a90f1762ca41e906f46227b964c049acef0211.jpg\"><br>{{c1::Что::Кто/Что}} это?<br>Это окно.",
+                                        ""
+                                    ],
+                                    "guid": "k0T-p*8LzS",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-90938f750920d86b534a0e6c09f847755400664f.jpg\"><br>{{c1::Что::Кто/Что}} это?<br>Это письмо.",
+                                        ""
+                                    ],
+                                    "guid": "u9<a|LED}k",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-29c786632ed49bccb7e30be382c10be59a3a4bfe.jpg\"><br><br>{{c1::Что::Кто/Что}} это?<br>Это велосипед.",
+                                        ""
+                                    ],
+                                    "guid": "w3jLAAc5SY",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-db2f65632fa9bb6aa3d0a147fb523161581028ed.jpg\"><br><br>{{c1::Кто::Кто/Что}} это?<br>Это дедушка.",
+                                        ""
+                                    ],
+                                    "guid": "mhH~AG.pd_",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-ae7848a745f8586e1a1666927402ffb22abc6e3f.jpg\"><br><br>{{c1::Кто::Кто/Что}} это?<br>Это учительница.",
+                                        ""
+                                    ],
+                                    "guid": "oo#n1L&d60",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-18e51f0770747bffee2f5fc1e93f5c0126a1704d.jpg\"><br><br>{{c1::Кто::Кто/Что}} это?<br>Это дети.",
+                                        ""
+                                    ],
+                                    "guid": "oE&_p_iek5",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-39f4e0454ef1b37677c6ce1371101dfa889ad136.jpg\"><br><br>{{c1::Кто::Кто/Что}} это?<br>Это Анна и Сергей.",
+                                        ""
+                                    ],
+                                    "guid": "zXhdGvIw;G",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Аа",
+                                        "<img src=\"paste-b81ab303432e2705c162324411b36e46a6f3b526.jpg\">"
+                                    ],
+                                    "guid": "H,s}Wl8#.J",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ээ",
+                                        "<img src=\"paste-cc479768e33d44318ab5c8d7ba1f680806c34444.jpg\">"
+                                    ],
+                                    "guid": "M`_vj_!mp4",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Оо",
+                                        "<img src=\"paste-8ed009ce9c55682df88031486b85fe64555e5132.jpg\">"
+                                    ],
+                                    "guid": "r.!l`iLAi>",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Уу",
+                                        "<img src=\"paste-0c823afc3315bb91965435b16cb469fb4ba2b291.jpg\">"
+                                    ],
+                                    "guid": "Fm`]vUFY`c",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Лл",
+                                        "<img src=\"paste-1e1740a190a5229b99a369b1d9f48f8ac7da4a91.jpg\">"
+                                    ],
+                                    "guid": "O;K$QJC&_{",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мм",
+                                        "<img src=\"paste-09154cf200d6d8563141b73950b39a0cc5af5a64.jpg\">"
+                                    ],
+                                    "guid": "PO|WP=?W>i",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ом",
+                                        "<img src=\"paste-9024d545c767fab75a0905d80dd51d49d6c054b4.jpg\">"
+                                    ],
+                                    "guid": "j#6?8(Rn.|",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нн",
+                                        "<img src=\"paste-482e943cae4081308acc690fdd8f853b70eaf905.jpg\">"
+                                    ],
+                                    "guid": "xbD[3-JA^H",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Рр",
+                                        "<img src=\"paste-37fde650b4813d3e075594cf5c6f3576c165e767.jpg\">"
+                                    ],
+                                    "guid": "L4Ri1T6G+<",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Пп",
+                                        "<img src=\"paste-16ff1582435b5241c819c431cdd4d4033bb48fcf.jpg\">"
+                                    ],
+                                    "guid": "kNPS*W7^r|",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Бб",
+                                        "<img src=\"paste-7b5a590c397bed69f56e0ef7d54a58c5506c2881.jpg\">"
+                                    ],
+                                    "guid": "K5=WmqjM):",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Тт",
+                                        "<img src=\"paste-a5c605c8729711bb6171745dce38a955015ad205.jpg\">"
+                                    ],
+                                    "guid": "Avk@x$j05`",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Дд",
+                                        "<img src=\"paste-f1c2704cd4f6ca3efedb512d1256f84fa79ab30b.jpg\">"
+                                    ],
+                                    "guid": "k4Pk/W.~=v",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "па",
+                                        "<img src=\"paste-ca4af4a7d9b4361128913968a70ceab8cc2ee8ca.jpg\">"
+                                    ],
+                                    "guid": "GhAVLYq.G)",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "бу",
+                                        "<img src=\"paste-4ac3d3d7ed6c6a9145e9f74ad95e553cc21f6990.jpg\">"
+                                    ],
+                                    "guid": "il8URS(PR5",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "то",
+                                        "<img src=\"paste-3c899ee58ebb446085919f8bb165a431e025ecbd.jpg\">"
+                                    ],
+                                    "guid": "xCwI@K/B{i",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ды",
+                                        "<img src=\"paste-ba48a77676528df5c811ea5cbe6a7914435bf55e.jpg\">"
+                                    ],
+                                    "guid": "MUNJW-_N]6",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "папа",
+                                        "<img src=\"paste-97a5a5869170a5c20a3b0849e688835c0f23c257.jpg\">"
+                                    ],
+                                    "guid": "e}CFi&n|s<",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "лампа",
+                                        "<img src=\"paste-cb0663885fe7322a018c3e90063189df17665065.jpg\">"
+                                    ],
+                                    "guid": "E^}4!a;k1}",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "бар",
+                                        "<img src=\"paste-4d3f625674705fa5976a0ef4aad48d406cba00f7.jpg\">"
+                                    ],
+                                    "guid": "Lu<au8xWi/",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "нота",
+                                        "<img src=\"paste-e21da366d699a22c8962659440aa70f13b816cd3.jpg\">"
+                                    ],
+                                    "guid": "N(4zMMv6](",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "дом",
+                                        "<img src=\"paste-a702dc6c7523e0939f84af9aa7ce6354365fcd87.jpg\">"
+                                    ],
+                                    "guid": "r(9A/v6]a#",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Марта",
+                                        "<img src=\"paste-6c020500207fdac13b2516724db65da638e0dad3.jpg\">"
+                                    ],
+                                    "guid": "mJ)C%,:I53",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Том",
+                                        "<img src=\"paste-33cfb5ceb6756bdf6ea6a7ce9e89b964eb447a95.jpg\">"
+                                    ],
+                                    "guid": "cV?m>.VBka",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "торт",
+                                        "<img src=\"paste-8b77e2052a1903a9cf11dca60ac2d8b2f80186fc.jpg\">"
+                                    ],
+                                    "guid": "MXHboEMplN",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ии",
+                                        "<img src=\"paste-1d480adc77bd0eb29e422bc4b8a7577a72996f75.jpg\">"
+                                    ],
+                                    "guid": "e$]tbRm{6|",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ми",
+                                        "<img src=\"paste-6917960b3517a663dcba1c877becd97c057b8e75.jpg\">"
+                                    ],
+                                    "guid": "bL+:a4F(gz",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ли",
+                                        "<img src=\"paste-a5f10d78cee53e465e85c4e522f42d450ba035e9.jpg\">"
+                                    ],
+                                    "guid": "q|:Ejc1plk",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ри",
+                                        "<img src=\"paste-65768bde318f0e8e6759e92880cac2600ce79859.jpg\">"
+                                    ],
+                                    "guid": "Ep(kmi|]04",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нина",
+                                        "<img src=\"paste-7a2d7bd949d2bb8401f101897576badd9aa07f1e.jpg\">"
+                                    ],
+                                    "guid": "OoXt`wb`:0",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Тина",
+                                        "<img src=\"paste-28c5fd7df9ef54db4ce64eeb75a941f4bd18dc92.jpg\">"
+                                    ],
+                                    "guid": "Rhn/TH2d46",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Рита",
+                                        "<img src=\"paste-e366282912196b0822207425d8bf0603bd9cb0cc.jpg\">"
+                                    ],
+                                    "guid": "tvCpV4XqF5",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "лимон",
+                                        "<img src=\"paste-cd77048ebc12962161bfcd0b2e36af9fd33cf50b.jpg\">"
+                                    ],
+                                    "guid": "K3_A8V!jwT",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Вв",
+                                        "<img src=\"paste-a953081b04639f2b645662870d6e15ab3764c4bb.jpg\">"
+                                    ],
+                                    "guid": "A31`r5NRc1",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Фф",
+                                        "<img src=\"paste-29f05bfa27451ce84c3dc67a1bbc9006e69f6248.jpg\">"
+                                    ],
+                                    "guid": "qUIPCO|9Qf",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Зз",
+                                        "<img src=\"paste-2773d723132f8ee9ede5c5a2fbf82d9e09089125.jpg\">"
+                                    ],
+                                    "guid": "CW!Rg^^esA",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сс",
+                                        "<img src=\"paste-3ccb7d9ee8fb0381d61660b34f4fd746ef1bbf37.jpg\">"
+                                    ],
+                                    "guid": "wXyUEyuh~X",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "вода",
+                                        "<img src=\"paste-3be7324a146983633517d21eb179a392776cc6b9.jpg\">"
+                                    ],
+                                    "guid": "hB^^(BY#4e",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "фара",
+                                        "<img src=\"paste-3547243f3a0b4ee493d1c25e9588bfa40fe90fd9.jpg\">"
+                                    ],
+                                    "guid": "QO-:j+iB+B",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "старт",
+                                        "<img src=\"paste-531fe4fd463686d79bf8e770aee66f7a0fbf8c42.jpg\">"
+                                    ],
+                                    "guid": "qW|kaU#GL+",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "пауза",
+                                        "<img src=\"paste-386ab57d1e233a2bc479ff1cc739f004f1b8f0e9.jpg\">"
+                                    ],
+                                    "guid": "J(j$jNk/a]",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Гг",
+                                        "<img src=\"paste-0d0ffd0cbb45dea85912c58c59bc2a0e81b8bef7.jpg\">"
+                                    ],
+                                    "guid": "j?PaJJ{eFO",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кк",
+                                        "<img src=\"paste-15eda4c415211a76d6b0f79514e1899485c3604c.jpg\">"
+                                    ],
+                                    "guid": "tj4NYE[5vV",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Хх",
+                                        "<img src=\"paste-c3befb999d059b8e2e6fac19de15bfdc27543588.jpg\">"
+                                    ],
+                                    "guid": "h@nU~Kr-Oa",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "газ",
+                                        "<img src=\"paste-cd6989934bc52575121d060fd30017573b993144.jpg\">"
+                                    ],
+                                    "guid": "vcW1~1`z89",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "холл",
+                                        "<img src=\"paste-b237fa76c1b32bf6e3b06a4acc437b3fdc1d869b.jpg\">"
+                                    ],
+                                    "guid": "vc&}FE(d/W",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "эхо",
+                                        "<img src=\"paste-c1653a5d4f31ba3957c18d95719337edb80d9751.jpg\">"
+                                    ],
+                                    "guid": "F*#`#Yr=FM",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "карта",
+                                        "<img src=\"paste-b746bd0ad9ec325909a6adcd41e229f66cddffee.jpg\">"
+                                    ],
+                                    "guid": "oy7R]A_Sh[",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Жж",
+                                        "<img src=\"paste-db862b79bf481c1869e291849d3ca0e8ab5c19fe.jpg\">"
+                                    ],
+                                    "guid": "m{R~9-w]+#",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Шш",
+                                        "<img src=\"paste-4702a5e8858cfaf87156261ed968e1360a2cd7e4.jpg\">"
+                                    ],
+                                    "guid": "I<@]Ura~C4",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "жу",
+                                        "<img src=\"paste-278d42eb36ea432e9a9c5bf7e45126efcec2e095.jpg\">"
+                                    ],
+                                    "guid": "q6-PIytoRP",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "шу",
+                                        "<img src=\"paste-6d33bc616380fd038bd7c7563cf27f473ec70f53.jpg\">"
+                                    ],
+                                    "guid": "AO`f{`D>(r",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "жи",
+                                        "<img src=\"paste-b2e7a7385b8ed95104f250cdd1e073ae1663d0be.jpg\">"
+                                    ],
+                                    "guid": "k0pb,|G5K&",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ши",
+                                        "<img src=\"paste-506e39dccd5a5fc355f01871a7c9dc4a34af8368.jpg\">"
+                                    ],
+                                    "guid": "u#3sgao;E[",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "этаж",
+                                        "<img src=\"paste-fe47bb2fd039f8f3cb6a2ac04bfe27fc071d8cc3.jpg\">"
+                                    ],
+                                    "guid": "gWv2./s}?4",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "школа",
+                                        "<img src=\"paste-9c64dfcc507f0b5a552ccd5f1a2a9bcb6334b548.jpg\">"
+                                    ],
+                                    "guid": "x^P,x~}dsG",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "шанс",
+                                        "<img src=\"paste-b4e4eeb3f5eda2470bbcdb493eff928f175598fb.jpg\">"
+                                    ],
+                                    "guid": "NLyK:+,@S1",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "шик",
+                                        "<img src=\"paste-05753373dfce4d20a717129367e4a8cdc7585e19.jpg\">"
+                                    ],
+                                    "guid": "j<rkD{6E,F",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "шорты",
+                                        "<img src=\"paste-77ab7679f9c98dde9e6e3a2ac659dd44f25ffa7c.jpg\">"
+                                    ],
+                                    "guid": "Ml4LB.l,S3",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Йй",
+                                        "<img src=\"paste-19e85c6aa5ccf9367e4e20712ac38dae7c35dced.jpg\">"
+                                    ],
+                                    "guid": "z1Pj0Ot:v@",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ай",
+                                        "<img src=\"paste-5a364955303c8dc245e331254c5235674c1d86d7.jpg\">"
+                                    ],
+                                    "guid": "r4@yj[n`s[",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ой",
+                                        "<img src=\"paste-c06fd131c2838ce71eca430ab837cdfdcc45ec96.jpg\">"
+                                    ],
+                                    "guid": "M<,O[]n3<V",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ий",
+                                        "<img src=\"paste-55bb13f7bcccfa355be23aa60c3337c4dd3568eb.jpg\">"
+                                    ],
+                                    "guid": "D<ndFiO~?B",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ый",
+                                        "<img src=\"paste-c4300e9509ed1566d6f0c941be1a45f208c784f6.jpg\">"
+                                    ],
+                                    "guid": "jK%$y|_+*s",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Яя",
+                                        "<img src=\"paste-6812ccc2b37f382b7cab7b5713819ad8387a1702.jpg\">"
+                                    ],
+                                    "guid": "PtzO<TZJpN",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ее",
+                                        "<img src=\"paste-3c372a4a7bdc92c9d85c3cfd154d3e41c2eaf7b0.jpg\">"
+                                    ],
+                                    "guid": "IFB-f$3ocd",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ёё",
+                                        "<img src=\"paste-30a61a414895883904c56b384352bd70eaa7570b.jpg\">"
+                                    ],
+                                    "guid": "&4[Hp[%0V",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Юю",
+                                        "<img src=\"paste-927e018ee58234c302f2dc4a6cf2bde53dec3982.jpg\">"
+                                    ],
+                                    "guid": ";;n^TfjFK",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "май",
+                                        "<img src=\"paste-37352c35a583a99ddfe0fc777ba2335d08cac498.jpg\">"
+                                    ],
+                                    "guid": "NTEgLi[9}}",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "йога",
+                                        "<img src=\"paste-2c29e04e77b675d5c9d8aa2c555d3940cf1fa8f6.jpg\">"
+                                    ],
+                                    "guid": "ca3;6G.1li",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "новый",
+                                        "<img src=\"paste-acddccf20f86d0c200ea6257f39c775ceed2d8d5.jpg\">"
+                                    ],
+                                    "guid": "h}=c4MPelz",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "синий",
+                                        "<img src=\"paste-b60c1a9efde52dfc14739fe8a436162aeb1997e2.jpg\">"
+                                    ],
+                                    "guid": "f7y|m.IKn!",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "другой",
+                                        "<img src=\"paste-416d301e611d0dda260ef85de9a3f81a71188a5f.jpg\">"
+                                    ],
+                                    "guid": "QBO<K#K#lY",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Япония",
+                                        "<img src=\"paste-7000166846ecb16b2c83a8c917cb8f8d3b6307d7.jpg\">"
+                                    ],
+                                    "guid": "oAy;#bli6K",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Россия",
+                                        "<img src=\"paste-9c1814a10aff6fe36ae69e33aad41d68f5c6fc43.jpg\">"
+                                    ],
+                                    "guid": "bBb|y=-S@F",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Эстония",
+                                        "<img src=\"paste-353e2142b10efc9470c6ed1248c3ad6ab316ba26.jpg\">"
+                                    ],
+                                    "guid": "Qmwb+A5|eQ",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Европа",
+                                        "<img src=\"paste-de14da2ef697ab9f0913d449f1e87aee6fb57f71.jpg\">"
+                                    ],
+                                    "guid": "F6`]UC_^[>",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Юлия",
+                                        "<img src=\"paste-5ae0b459e5c2a7ac145701595b7aa1ec96941eaa.jpg\">"
+                                    ],
+                                    "guid": "Mvq(3nni(h",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "мя",
+                                        "<img src=\"paste-89259acfb54234e9395ff789ff440086215acfed.jpg\">"
+                                    ],
+                                    "guid": "F27KD0Y01c",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "не",
+                                        "<img src=\"paste-cb578c0d6cec21c9569124bd9e7a1d152b8f3944.jpg\">"
+                                    ],
+                                    "guid": "Jm;a8T{0b~",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ря",
+                                        "<img src=\"paste-8c673322b32c7fcde41746ee093687a4cc108d2d.jpg\">"
+                                    ],
+                                    "guid": "p*@D;Q@E?g",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "тю",
+                                        "<img src=\"paste-ff18a88f8e603e85fc202177e1badd0f2ea543d8.jpg\">"
+                                    ],
+                                    "guid": "Ft_k%mT!sw",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "мь",
+                                        "<img src=\"paste-82863825222e9e951c5d68d0ef7bbf27b212bc44.jpg\">"
+                                    ],
+                                    "guid": "P9U-/[-Z.S",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "зья",
+                                        "<img src=\"paste-67de7bc23e4f2eee82b4df18ff2ccdb744bbe613.jpg\">"
+                                    ],
+                                    "guid": "QzAgS6jj?p",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "бье",
+                                        "<img src=\"paste-26bff25af4d7bf294a5086f64e0830ed7fcc881c.jpg\">"
+                                    ],
+                                    "guid": "f+zlMQRl;)",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "кухня",
+                                        "<img src=\"paste-dd99d155fd9b6fd9bf81edcefbd6fb1e6055cdbd.jpg\">"
+                                    ],
+                                    "guid": "eg{UcDr<v`",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "бюро",
+                                        "<img src=\"paste-7377fce3533d1e7a1d0c26269b63db088c8aa9a4.jpg\">"
+                                    ],
+                                    "guid": "c4s_3~.z49",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "кофе",
+                                        "<img src=\"paste-1e717f43f95e0223b9a7647f0f146f6d2b2871d7.jpg\">"
+                                    ],
+                                    "guid": "JPoAn(IFQM",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "тётя",
+                                        "<img src=\"paste-2fb8a355aa423fd53fe545c4584b174eb880edf6.jpg\">"
+                                    ],
+                                    "guid": "rSmDz-FuC7",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "мать",
+                                        "<img src=\"paste-1f951156c6ef519f66c0cc958cc09e5a89aa9a84.jpg\">"
+                                    ],
+                                    "guid": "EfuGjTW3,G",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "июль",
+                                        "<img src=\"paste-d326abdcf3902f934d2ad12a3eed46bd1b4d61ee.jpg\">"
+                                    ],
+                                    "guid": "BxP|J>UGr:",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "день",
+                                        "<img src=\"paste-cb1d0c551b839c4fe296c5d21d8ab2f9125955c2.jpg\">"
+                                    ],
+                                    "guid": "PEjVGwDB7g",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "друзья",
+                                        "<img src=\"paste-c69d1016681b65ba9dcaea65de24fab1cff3464a.jpg\">"
+                                    ],
+                                    "guid": "mK~;C3YlXM",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "субъект",
+                                        "<img src=\"paste-36729f1f92283a05718f5f5c33ad651cb4235ca0.jpg\">"
+                                    ],
+                                    "guid": "jdrQK>>J_}",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         }
@@ -2822,7 +4044,7 @@
                                         "шк<font color=\"#ff0000\">о</font>льник",
                                         "",
                                         "Schüler",
-                                        "",
+                                        "Grundschule?",
                                         "",
                                         ""
                                     ],
@@ -2839,7 +4061,7 @@
                                         "шк<font color=\"#ff0000\">о</font>льница",
                                         "",
                                         "Schülerin",
-                                        "",
+                                        "Grundschule?",
                                         "",
                                         ""
                                     ],
@@ -3192,6 +4414,850 @@
                                         "Russisch::A1::Kapitel02",
                                         "Russisch::Satz"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Привет, Лена!",
+                                        "Hallo, Lena! (Umgangssprachlich)"
+                                    ],
+                                    "guid": "qg|:TZJm1)",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Пока, Лена!",
+                                        "Tschüss, Lena! (Umgangssprachlich)"
+                                    ],
+                                    "guid": "hRa5tf9^Kb",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Здравствуйте, Анна!",
+                                        "Hallo, Anna! (Höflich)"
+                                    ],
+                                    "guid": "lK<mnnxr=.",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "До свидания, Анна!",
+                                        "Auf wiedersehen, Anna! (Höflich)"
+                                    ],
+                                    "guid": "EO|s~3XZ)-",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Привет, как тебя зовут?",
+                                        "Hallo, wie heißt du?"
+                                    ],
+                                    "guid": "D@7QaJ2VI(",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Привет! Меня зовут Иван. А тебя?",
+                                        "Hallo! Mein Name ist Ivan. Und deiner?"
+                                    ],
+                                    "guid": "p)6WyVB.5,",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Здравствуйте! Меня зовут Сергей Петрович.<br>А как Вас зовут?",
+                                        "Hallo! Mein Name ist Sergey Petrovich.<br>Und wie heißen Sie?"
+                                    ],
+                                    "guid": "EztB5hq&a}",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кто это?<br>Это Маша.<br>Кто она?<br>Она медсестра.",
+                                        "Wer ist das?<br>Das ist Mascha.<br>Was ist sie (von Beruf)?<br>Sie ist Krankenschwester."
+                                    ],
+                                    "guid": "f.U)LTydyA",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кто это?<br>Это Александр.<br>Кто он?<br>Он инженер.",
+                                        "Wer ist das?<br>Das ist Aleksander.<br>Was ist er (von Beruf)?<br>Er ist Ingenieur."
+                                    ],
+                                    "guid": "kBDr03#!(N",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Привет. Меня зовут Алексей. Я студент. д это моя семья.",
+                                        "Hallo. Ich heiße Alexey. Ich bin Student. Und das ist meine Familie."
+                                    ],
+                                    "guid": "L<%T86bUg|",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это мой отец. Его зовут Виктор. Он инженер.",
+                                        "Das ist mein Vater. Er heißt Viktor. Er ist Ingenieur."
+                                    ],
+                                    "guid": "xtg^Kd2mEb",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "д это моя мать.<br>Её зовут Ирина. Она учительница.",
+                                        "Und das ist meine Mutter.<br>Sie heißt Irina. Sie ist Lehrerin."
+                                    ],
+                                    "guid": "e<`C++dBql",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это мой дедушка.<br>Его зовут Василий. Он пенсионер.",
+                                        "Das ist mein Großvater.<br>Er heißt Vasili. Er ist Rentner."
+                                    ],
+                                    "guid": "zD9oB9OsDb",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А это моя бабушка. Её зовут Екатерина. Она тоже пенсионерка.",
+                                        "Und das ist meine Großmutter. Sie heißt Ekaterina. Sie ist auch Rentnerin."
+                                    ],
+                                    "guid": "tZI^Kv)f>4",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это мой брат. Его зовут Игорь. Он школьник.",
+                                        "Das ist mein Bruder. Er heißt Igor. Er ist Schüler."
+                                    ],
+                                    "guid": "rjrjrZWUEA",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А это моя сестра. Её зовут Наташа.<br>Она тоже школьница.",
+                                        "Und das ist meine Schwester. Sie heißt Natascha.<br>Sie ist auch Schülerin."
+                                    ],
+                                    "guid": "xT@.=P}R3z",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это твой отец?<br>Да, это мой отец.",
+                                        "Ist das dein Vater?<br>Ja, das ist mein Vater."
+                                    ],
+                                    "guid": "uj_+PkKU~g",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А это твоя сестра?<br>Нет, это моя подруга.",
+                                        "Und ist das deine Schwester?<br>Nein, das ist meine Freundin."
+                                    ],
+                                    "guid": "yl/8=!-cG@",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это твой друг?<br>Да, это мой друг.<br>Как его зовут?<br>Его зовут Сергей.",
+                                        "Ist das dein Freund?<br>Ja, das ist mein Freund.<br>Wie heißt er?<br>Er heißt Sergey."
+                                    ],
+                                    "guid": "w&j`I5;$Me",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Как её зовут?<br>Её зовут Марина.",
+                                        "Wie heißt sie?<br>Sie heißt Marina."
+                                    ],
+                                    "guid": "e3S0$e^NT`",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кто это?<br>Это мой сосед и моя соседка.",
+                                        "Wer ist das?<br>Das ist mein Nachbar und meine Nachbarin."
+                                    ],
+                                    "guid": "rk#Sr<*buP",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Как их зовут?<br>Их зовут Александр и Мария.",
+                                        "Wie heißen sie?<br>Sie heißen Aleksander und Marina."
+                                    ],
+                                    "guid": "o64zDbEKFs",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "d90cddb8-83b2-11ec-ae95-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "paste-00a12016753aead007907b31094aedfa8d85a6dd.jpg",
+                                "paste-0f300d1690382678f77b7fc62be7d8dda450e5e6.jpg",
+                                "paste-1d080f2aac2c43369c48cc0f185521d2d2f8f537.jpg",
+                                "paste-232a3d7b6efa812a71e351e755183bfeec386ed5.jpg",
+                                "paste-2a08992f59d969c076cb8d288983a5d514786d73.jpg",
+                                "paste-33390da25f67259f0d4edaf170288de5d4af8d34.jpg",
+                                "paste-3bb8a6dba1988dc204c6fc3660ff08ce3743d166.jpg",
+                                "paste-42d0275afd397b669667a059355d2fd28cf96cf5.jpg",
+                                "paste-468b4b920d1628e6675c5e54b883677b0bbc3fd0.jpg",
+                                "paste-5a0da625ba8e85d3f769f22cbe48a4dc2dcc0d92.jpg",
+                                "paste-5f125518781d5afb2cb0da772a0528d05723021b.jpg",
+                                "paste-7763ef0f4b06a99121649eb3e4e2142f8b71b1b1.jpg",
+                                "paste-82e7c6c0b654071507291d6d5a3a636576603ca5.jpg",
+                                "paste-8532b1fca1c2ecf727b221029fc54b2477bb80b3.jpg",
+                                "paste-8c2cf1cea4e923825f72bac635dbaeee45f63bac.jpg",
+                                "paste-8cedcfbf52173c6f313c2a126497270114cff07b.jpg",
+                                "paste-916209d1245038a4e2ba49e2409f30a9c4f5151e.jpg",
+                                "paste-a44be6168d54162b30a0994a396ed09df07b7131.jpg",
+                                "paste-b697ff4d71a94fe65ef11f675e1eed9858d8200c.jpg",
+                                "paste-bd03538981a2a629a4b4afc430d5fd6cead4b89e.jpg",
+                                "paste-bd5388a1aaf9343bee3641aebd7071a60f09ae82.jpg",
+                                "paste-d5b9d1ce128840b75bfb4f03b3c5fb1173da5544.jpg",
+                                "paste-e01e5964256fbd84c4c59d76de62fd8af60aad2f.jpg",
+                                "paste-e52fe7b80e1905b19d9947dd3bb0989ca7e8c2ac.jpg",
+                                "paste-ea9b206ec3cad1f2e3ae8f51848329e20aed3c0a.jpg",
+                                "paste-f29b728dd3142462535f712009b87d1fc356a69e.jpg",
+                                "paste-fba365cbbdbcd52723554b2fccf86000d4f02e97.jpg",
+                                "paste-fd54a4706456feb38c404736182c7c0b4a2a16cf.jpg",
+                                "paste-ff4b7654b6866c6aa12a757fa457cc97e8b4e7dd.jpg"
+                            ],
+                            "name": "04 Aufgaben",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::мой::мой/моя}} папа. {{c1::Его::Его/Её}} зовут Феликс. {{c1::Он::Он/Она}} врач.",
+                                        ""
+                                    ],
+                                    "guid": "DFQc(wOS-V",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::мой::мой/моя}} сын. {{c1::Его::Его/Её}} зовут Феликс. {{c1::Он::Он/Она}}&nbsp;врач.",
+                                        ""
+                                    ],
+                                    "guid": "Leb):oFv1C",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::мой::мой/моя}} дядя. {{c1::Его::Его/Её}} зовут Феликс. {{c1::Он::Он/Она}}&nbsp;врач.",
+                                        ""
+                                    ],
+                                    "guid": "s[!ogoX>5E",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::мой::мой/моя}} кузен. {{c1::Его::Его/Её}} зовут Феликс. {{c1::Он::Он/Она}}&nbsp;врач.",
+                                        ""
+                                    ],
+                                    "guid": "GmDLn|FXRn",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::мой::мой/моя}} муж. {{c1::Его::Его/Её}} зовут Феликс. {{c1::Он::Он/Она}}&nbsp;врач.",
+                                        ""
+                                    ],
+                                    "guid": "l*ToBriN0*",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::моя::мой/моя}} дочь. {{c1::Её::Его/Её}} зовут Анна. {{c1::Она::Он/Она}}&nbsp;Медсестра.",
+                                        ""
+                                    ],
+                                    "guid": "vYSv)KD>Gb",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::моя::мой/моя}} тётя. {{c1::Её::Его/Её}} зовут Анна. {{c1::Она::Он/Она}}&nbsp;Медсестра.",
+                                        ""
+                                    ],
+                                    "guid": "dGGhs[$U,N",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::моя::мой/моя}} кузина. {{c1::Её::Его/Её}} зовут Анна. {{c1::Она::Он/Она}}&nbsp;Медсестра.",
+                                        ""
+                                    ],
+                                    "guid": "Jr=:!$xW6y",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::моя::мой/моя}} жена. {{c1::Её::Его/Её}} зовут Анна. {{c1::Она::Он/Она}}&nbsp;Медсестра.",
+                                        ""
+                                    ],
+                                    "guid": "s-+z:ysY5G",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это я. {{c1::Меня}} зовут Таня. {{c2::Я}} студентка.",
+                                        ""
+                                    ],
+                                    "guid": "lhA+)+R:RL",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кто ты? Как {{c1::тебя}} зовут? {{c2::Ты}} студент?",
+                                        ""
+                                    ],
+                                    "guid": "D[-OE5,x{0",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кто Вы? Как {{c1::Вас}} зовут? {{c2::Вы}} доцент?",
+                                        ""
+                                    ],
+                                    "guid": "LgIW7e@K)s",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это твой друг? Как {{c1::его}} зовут? Кто {{c2::он}}?",
+                                        ""
+                                    ],
+                                    "guid": "g3~w2il,|^",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это твоя подруга? Как {{c1::её}} зовут? Кто {{c2::она}}?",
+                                        ""
+                                    ],
+                                    "guid": "mLrLD(y[[E",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Привет!",
+                                        "<img src=\"paste-468b4b920d1628e6675c5e54b883677b0bbc3fd0.jpg\">"
+                                    ],
+                                    "guid": "yT2V,s4l02",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Пока!",
+                                        "<img src=\"paste-82e7c6c0b654071507291d6d5a3a636576603ca5.jpg\">"
+                                    ],
+                                    "guid": "jTggoFm%h]",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Здравствуй!",
+                                        "<img src=\"paste-8cedcfbf52173c6f313c2a126497270114cff07b.jpg\">"
+                                    ],
+                                    "guid": "O#L~o[M(md",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "До свидания!",
+                                        "<img src=\"paste-3bb8a6dba1988dc204c6fc3660ff08ce3743d166.jpg\">"
+                                    ],
+                                    "guid": "K}t/ZbRa?o",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Как?",
+                                        "<img src=\"paste-42d0275afd397b669667a059355d2fd28cf96cf5.jpg\">"
+                                    ],
+                                    "guid": "Ll5-Sz3>-V",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Как тебя зовут?",
+                                        "<img src=\"paste-8532b1fca1c2ecf727b221029fc54b2477bb80b3.jpg\">"
+                                    ],
+                                    "guid": "L=`@4b)kxe",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Как Вас зовут?",
+                                        "<img src=\"paste-33390da25f67259f0d4edaf170288de5d4af8d34.jpg\">"
+                                    ],
+                                    "guid": "g08;uIbYhD",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Меня зовут ...",
+                                        "<img src=\"paste-a44be6168d54162b30a0994a396ed09df07b7131.jpg\">"
+                                    ],
+                                    "guid": "hvvs!s-&Kx",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А тебя?",
+                                        "<img src=\"paste-ea9b206ec3cad1f2e3ae8f51848329e20aed3c0a.jpg\">"
+                                    ],
+                                    "guid": "AjUZT)4_wY",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Очень приятно!",
+                                        "<img src=\"paste-fd54a4706456feb38c404736182c7c0b4a2a16cf.jpg\">"
+                                    ],
+                                    "guid": "p/KMR7YrCj",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Цц",
+                                        "<img src=\"paste-bd03538981a2a629a4b4afc430d5fd6cead4b89e.jpg\">"
+                                    ],
+                                    "guid": "BDhhASeg8U",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Чч",
+                                        "<img src=\"paste-0f300d1690382678f77b7fc62be7d8dda450e5e6.jpg\">"
+                                    ],
+                                    "guid": "m6*W2+c<Lf",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Щщ",
+                                        "<img src=\"paste-2a08992f59d969c076cb8d288983a5d514786d73.jpg\">"
+                                    ],
+                                    "guid": "Hnfc`=ry{I",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "це",
+                                        "<img src=\"paste-7763ef0f4b06a99121649eb3e4e2142f8b71b1b1.jpg\">"
+                                    ],
+                                    "guid": "Mn<@G#vZa<",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "цы",
+                                        "<img src=\"paste-b697ff4d71a94fe65ef11f675e1eed9858d8200c.jpg\">"
+                                    ],
+                                    "guid": "J=lU-T{MB5",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "чу",
+                                        "<img src=\"paste-bd5388a1aaf9343bee3641aebd7071a60f09ae82.jpg\">"
+                                    ],
+                                    "guid": "nj_*)?y|UJ",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "чи",
+                                        "<img src=\"paste-5f125518781d5afb2cb0da772a0528d05723021b.jpg\">"
+                                    ],
+                                    "guid": "b%k^f$]>c%",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ща",
+                                        "<img src=\"paste-916209d1245038a4e2ba49e2409f30a9c4f5151e.jpg\">"
+                                    ],
+                                    "guid": "OXN;q>~c70",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ша",
+                                        "<img src=\"paste-232a3d7b6efa812a71e351e755183bfeec386ed5.jpg\">"
+                                    ],
+                                    "guid": "rmgbp[mvta",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "же",
+                                        "<img src=\"paste-d5b9d1ce128840b75bfb4f03b3c5fb1173da5544.jpg\">"
+                                    ],
+                                    "guid": "G`J4RhIy1(",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "центр",
+                                        "<img src=\"paste-1d080f2aac2c43369c48cc0f185521d2d2f8f537.jpg\">"
+                                    ],
+                                    "guid": "E{kr28viWB",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Цейлон",
+                                        "<img src=\"paste-8c2cf1cea4e923825f72bac635dbaeee45f63bac.jpg\">"
+                                    ],
+                                    "guid": "E`&U%}(b@>",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "чай",
+                                        "<img src=\"paste-ff4b7654b6866c6aa12a757fa457cc97e8b4e7dd.jpg\">"
+                                    ],
+                                    "guid": "q{kZBaqHZK",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ручка",
+                                        "<img src=\"paste-5a0da625ba8e85d3f769f22cbe48a4dc2dcc0d92.jpg\">"
+                                    ],
+                                    "guid": "Hk05.Uv?)a",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "борщ",
+                                        "<img src=\"paste-e01e5964256fbd84c4c59d76de62fd8af60aad2f.jpg\">"
+                                    ],
+                                    "guid": "AX7r.%*wCl",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ещё",
+                                        "<img src=\"paste-e52fe7b80e1905b19d9947dd3bb0989ca7e8c2ac.jpg\">"
+                                    ],
+                                    "guid": "H2e*u;3?Xu",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "жанр",
+                                        "<img src=\"paste-fba365cbbdbcd52723554b2fccf86000d4f02e97.jpg\">"
+                                    ],
+                                    "guid": "b,Z[&.(Z41",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "плащ",
+                                        "<img src=\"paste-00a12016753aead007907b31094aedfa8d85a6dd.jpg\">"
+                                    ],
+                                    "guid": "fKiU+N0<s1",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ширма",
+                                        "<img src=\"paste-f29b728dd3142462535f712009b87d1fc356a69e.jpg\">"
+                                    ],
+                                    "guid": "peY*j{~#7-",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "{{c1::Кто::Кто/Что}}&nbsp;{{c1::это::это/он/она}}? - Это Иван.",
+                                        ""
+                                    ],
+                                    "guid": "peW4D%`Ggz",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "{{c1::Кто::Кто/Что}}&nbsp;{{c1::он::это/он/она}}? - Он инженер.",
+                                        ""
+                                    ],
+                                    "guid": "b1Vq?zwo<T",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "{{c1::Кто::Кто/Что}}&nbsp;{{c1::она::это/он/она}}? - Она медсестра.",
+                                        ""
+                                    ],
+                                    "guid": "zq,qb/xUOE",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "{{c1::Кто::Кто/Что}}&nbsp;{{c1::он::это/он/она}}? - Это Мария.",
+                                        ""
+                                    ],
+                                    "guid": "z|[#>c56/!",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "{{c1::Что::Кто/Что}}&nbsp;{{c1::это::это/он/она}}? - Это велосипед",
+                                        ""
+                                    ],
+                                    "guid": "C@/ynlM]J%",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: я, брат ➔ мой брат<br><br>ты, сестра",
+                                        "твоя сестра"
+                                    ],
+                                    "guid": "KtOaAPf*o5",
+                                    "note_model_uuid": "d90e165d-83b2-11ec-9d9f-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: я, брат ➔ мой брат<br><br>я, сын",
+                                        "мой сын"
+                                    ],
+                                    "guid": "I~Y`:^&aFt",
+                                    "note_model_uuid": "d90e165d-83b2-11ec-9d9f-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: я, брат ➔ мой брат<br><br>я, бабушка",
+                                        "моя бабушка"
+                                    ],
+                                    "guid": "DyZ,Ziw5#R",
+                                    "note_model_uuid": "d90e165d-83b2-11ec-9d9f-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: я, брат ➔ мой брат<br><br>ты, семья",
+                                        "твоя семья"
+                                    ],
+                                    "guid": "ygjZ]Pc?>0",
+                                    "note_model_uuid": "d90e165d-83b2-11ec-9d9f-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: я, брат ➔ мой брат<br><br>ты, отец",
+                                        "твой отец"
+                                    ],
+                                    "guid": "cMP=ATD(s0",
+                                    "note_model_uuid": "d90e165d-83b2-11ec-9d9f-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это моя сестра. {{c1::Её}} зовут Алиса.",
+                                        ""
+                                    ],
+                                    "guid": "xF_bqYEz~|",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это мой сосед. {{c1::Его}} зовут Виктор.",
+                                        ""
+                                    ],
+                                    "guid": "sD6.FhVTeZ",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это мой друг и моя подруга. {{c1::Их}} зовут Дарья и Олег.",
+                                        ""
+                                    ],
+                                    "guid": "D?VNjSN0=A",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это я. {{c1::Меня}} зовут Ирина.",
+                                        ""
+                                    ],
+                                    "guid": "Pl|Tqi+%=)",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это мы. {{c1::Нас}} зовут Анна и Сергей.",
+                                        ""
+                                    ],
+                                    "guid": "H)>(81HM>o",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         }
@@ -4269,6 +6335,647 @@
                                         "Russisch::A1::Kapitel03",
                                         "Russisch::Satz"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Как дела?<br>Спасибо, хорошо!",
+                                        "Wie geht's?<br>Danke, gut!"
+                                    ],
+                                    "guid": "G@F=,WDmEM",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя есть велосипед?",
+                                        "Hast du ein Fahrrad?"
+                                    ],
+                                    "guid": "F+Ntoy_23a",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, у меня есть.",
+                                        "Ja, habe ich."
+                                    ],
+                                    "guid": "dLlG(a)(4Y",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А машина у тебя есть?",
+                                        "Und hast du ein Auto?"
+                                    ],
+                                    "guid": "AV6#^JZ<=+",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя есть брат?<br>Да, у меня есть брат.",
+                                        "Hast du einen Bruder?<br>Ja, ich habe einen Bruder."
+                                    ],
+                                    "guid": "Q=3%K]3HIt",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Как его зовут?<br>Его зовут Игорь.",
+                                        "Wie heißt er?<br>Er heißt Igor."
+                                    ],
+                                    "guid": "r&8YvSBu|u",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Твой брат - студент?<br>Нет, он школьник.",
+                                        "Dein Bruder - ist er Student?<br>Nein, er ist Schüler."
+                                    ],
+                                    "guid": "N_U0U(BE~[",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя есть сестра?<br>Да, у меня есть сестра.",
+                                        "Hast du eine Schwester?<br>Ja, ich habe eine Schwester."
+                                    ],
+                                    "guid": "DrP^`K5C@3",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Как её зовут?<br>Её зовут Наташа.",
+                                        "Wie heißt sie?<br>Sie heißt Natascha."
+                                    ],
+                                    "guid": "L,u3?&>cjy",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Твоя сестра студентка?<br>Нет, она школьница.",
+                                        "Ist deine Schwester Studentin?<br>Nein, sie ist Schülerin."
+                                    ],
+                                    "guid": "sb_86W(LCn",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Алексей - студент. У него есть брат. Его зовут Игорь.",
+                                        "Aleksey ist Student. Er hat einen Bruder. Sein Name ist Igor."
+                                    ],
+                                    "guid": "k>0@-D:V}o",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А ещё у него есть сестра.&nbsp;Её зовут Наташа.",
+                                        "Und außerdem hat er eine Schwester. Sie heißt Natascha."
+                                    ],
+                                    "guid": "EnG1T3OU*K",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это Лена. У неё есть друг. Его зовут Костя.",
+                                        "Das ist Lena. Sie hat einen Freund. Er heißt Kostja."
+                                    ],
+                                    "guid": "kwiA)>oJd`",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А ещё у неё есть подруга. Её зовут Таня.",
+                                        "Und außerdem hat sie eine Freundin. Sie heißt Tanja."
+                                    ],
+                                    "guid": "NFz*J,4XB-",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что это?<br>Это мой блокнот.",
+                                        "Was ist das?<br>Das ist mein Schreibblock."
+                                    ],
+                                    "guid": "zg^na.xl-D",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А это что?<br>Это моя книга.",
+                                        "Und was ist das?<br>Das ist mein Buch."
+                                    ],
+                                    "guid": "JqlFp`{u=H",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А это что?<br>Это моё задание.",
+                                        "Und was ist das?<br>Das ist meine Aufgabe."
+                                    ],
+                                    "guid": "G92s/&;oMA",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это твой словарь?<br>Да, это мой словарь.",
+                                        "Ist das dein Wörterbuch?<br>Ja, das ist mein Wörterbuch."
+                                    ],
+                                    "guid": "{dT_%p@mh",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это твоя ручка?<br>Да, это моя ручка.",
+                                        "Ist das dein Stift?<br>Ja, das ist mein Stift."
+                                    ],
+                                    "guid": "qio|R1t?![",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это твоё письмо?<br>Да, это моё письмо!",
+                                        "Ist das dein Brief?<br>Ja, das ist mein Brief!"
+                                    ],
+                                    "guid": "lc#,`B,*LB",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У меня есть дом. Это мой дом!",
+                                        "Ich habe eine Haus. Das ist mein Haus!"
+                                    ],
+                                    "guid": "wCc*~k0KR",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У меня есть квартира. Это моя квартира!",
+                                        "Ich habe eine Wohnung. Das ist meine Wohnung!"
+                                    ],
+                                    "guid": "Iik>MA4QQn",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У меня есть место . Это моё место!",
+                                        "Ich habe einen Platz. Das ist mein Platz!"
+                                    ],
+                                    "guid": "J3)Wx(yc4c",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это моя комната.",
+                                        "Das ist mein Zimmer."
+                                    ],
+                                    "guid": "JDX}+.OnZ6",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это мой стол и мой стул.",
+                                        "Das ist mein Tisch und mein Stuhl."
+                                    ],
+                                    "guid": "Ak4AM9vllv",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это моя полка и моя кровать.",
+                                        "Das ist mein Regal und mein Bett."
+                                    ],
+                                    "guid": "J=L)7H,Ho@",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А это моё кресло и моё радио!",
+                                        "Und das ist mein Sessel und mein Radio."
+                                    ],
+                                    "guid": "jJV/!mzgMY",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это не твоё радио!",
+                                        "Das ist nicht dein Radio!"
+                                    ],
+                                    "guid": "482#?5{J9",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет! Это моё радио!",
+                                        "Nein! Das ist mein Radio!"
+                                    ],
+                                    "guid": "xMqp_lfE(M",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Стул твой, лампа твоя, а радио не твоё!!!",
+                                        "Dein Stuhl, deine Lampe, aber das Radio ist nicht deins!!!"
+                                    ],
+                                    "guid": "t5nHKEagaE",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "d913bb8a-83b2-11ec-a8f2-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "paste-2c6a9a8ddf4a969b48d8a5340c32a9e7b91ef70b.jpg",
+                                "paste-333cb4930dafbd2c9402b0efea3db53030acd167.jpg",
+                                "paste-4f655cb8115eac5d8adaeeb3a10c7263be05a70c.jpg",
+                                "paste-7426a25ff12b5193196e0426935b3186c28dc589.jpg",
+                                "paste-daec446758e03ab156a183d685a75847249f1161.jpg",
+                                "paste-f229a36b20d8e053b9f9c9e5333e83cd7ffccced.jpg"
+                            ],
+                            "name": "04 Aufgaben",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Как дела?",
+                                        "<img src=\"paste-2c6a9a8ddf4a969b48d8a5340c32a9e7b91ef70b.jpg\">"
+                                    ],
+                                    "guid": "pQ%>-dP}&6",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Спасибо!",
+                                        "<img src=\"paste-4f655cb8115eac5d8adaeeb3a10c7263be05a70c.jpg\">"
+                                    ],
+                                    "guid": "cJJ+uBgcj1",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Хорошо!",
+                                        "<img src=\"paste-daec446758e03ab156a183d685a75847249f1161.jpg\">"
+                                    ],
+                                    "guid": "H*K@@r~+fQ",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Прекрасно!",
+                                        "<img src=\"paste-f229a36b20d8e053b9f9c9e5333e83cd7ffccced.jpg\">"
+                                    ],
+                                    "guid": "DC2h`m.~7.",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ничего!",
+                                        "<img src=\"paste-7426a25ff12b5193196e0426935b3186c28dc589.jpg\">"
+                                    ],
+                                    "guid": "ce0SA*TeQ2",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Плохо!",
+                                        "<img src=\"paste-333cb4930dafbd2c9402b0efea3db53030acd167.jpg\">"
+                                    ],
+                                    "guid": "Cv}^Sz7v7Z",
+                                    "note_model_uuid": "e7468d23-583b-11ec-9d52-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: я + сестра ➔ У меня есть сестра.<br><br>ты + подруга",
+                                        "У тебя есть подруга."
+                                    ],
+                                    "guid": "B.W/H&*kzy",
+                                    "note_model_uuid": "d90e165d-83b2-11ec-9d9f-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: я + сестра ➔ У меня есть сестра.<br><br>я + бабушка",
+                                        "У&nbsp;меня есть бабушка."
+                                    ],
+                                    "guid": "wbs#+fshD@",
+                                    "note_model_uuid": "d90e165d-83b2-11ec-9d9f-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: я + сестра ➔ У меня есть сестра.<br><br>он + кузен",
+                                        "У него есть кузен."
+                                    ],
+                                    "guid": "F.n{M?!Y;I",
+                                    "note_model_uuid": "d90e165d-83b2-11ec-9d9f-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: я + сестра ➔ У меня есть сестра.<br><br>она + кузина",
+                                        "У&nbsp;неё есть кузина."
+                                    ],
+                                    "guid": "2NGh;GF6G",
+                                    "note_model_uuid": "d90e165d-83b2-11ec-9d9f-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: я + подруга, Лена ➔ У меня есть подруга. Её зовут Лена.<br><br>ты + сосед, Сергей",
+                                        "У тебя есть сосед. Его зовут Сергей."
+                                    ],
+                                    "guid": "Cuvov.OX^2",
+                                    "note_model_uuid": "d90e165d-83b2-11ec-9d9f-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: я + подруга, Лена ➔ У меня есть подруга. Её зовут Лена.<br><br>я + друг, Николай",
+                                        "У меня есть друг. Его зовут Николай."
+                                    ],
+                                    "guid": "LOJmDSp@OE",
+                                    "note_model_uuid": "d90e165d-83b2-11ec-9d9f-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: я + подруга, Лена ➔ У меня есть подруга. Её зовут Лена.<br><br>она + муж, Виктор",
+                                        "У&nbsp;неё есть муж. Его зовут Виктор."
+                                    ],
+                                    "guid": "k730j8bfBW",
+                                    "note_model_uuid": "d90e165d-83b2-11ec-9d9f-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: я + подруга, Лена ➔ У меня есть подруга. Её зовут Лена.<br><br>он + сестра, Маша",
+                                        "У&nbsp;него есть сестра. Её зовут Маша."
+                                    ],
+                                    "guid": "xjtE!xQjfI",
+                                    "note_model_uuid": "d90e165d-83b2-11ec-9d9f-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: я + подруга, Лена ➔ У меня есть подруга. Её зовут Лена.<br><br>мы + дети, Аня и Петя",
+                                        "У нас есть дети. Их зовут Аня и Петя."
+                                    ],
+                                    "guid": "Ge!TW47,kV",
+                                    "note_model_uuid": "d90e165d-83b2-11ec-9d9f-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: я + подруга, Лена ➔ У меня есть подруга. Её зовут Лена.<br><br>они + кошка, Мурка",
+                                        "У&nbsp;них есть кошка. Её зовут Мурка."
+                                    ],
+                                    "guid": "u<NJoG*6B#",
+                                    "note_model_uuid": "d90e165d-83b2-11ec-9d9f-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: я + подруга, Лена ➔ У меня есть подруга. Её зовут Лена.<br><br>вы + собака, Рекс",
+                                        "У вас есть собака. Его зовут Рекс."
+                                    ],
+                                    "guid": "IwX,A2%#)I",
+                                    "note_model_uuid": "d90e165d-83b2-11ec-9d9f-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::моя::мой/моя/моё}} комната.",
+                                        ""
+                                    ],
+                                    "guid": "NA<~kS.&E6",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::моя::мой/моя/моё}} книга.",
+                                        ""
+                                    ],
+                                    "guid": "l_cZEbFBos",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::мой::мой/моя/моё}} журнал.",
+                                        ""
+                                    ],
+                                    "guid": "KNPq;u7-~O",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::мой::мой/моя/моё}} словарь.",
+                                        ""
+                                    ],
+                                    "guid": "BH([++k-Ii",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::моё::мой/моя/моё}} кресло.",
+                                        ""
+                                    ],
+                                    "guid": "mLKemvy+Y5",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::твой::твой/твоя/твоё}} календарь?",
+                                        ""
+                                    ],
+                                    "guid": "H9fpf:2-bg",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::твой::твой/твоя/твоё}} университет?",
+                                        ""
+                                    ],
+                                    "guid": "lPZ^2rWc8l",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::твоя::твой/твоя/твоё}} машина?",
+                                        ""
+                                    ],
+                                    "guid": "gq#;&4`Z<_",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::твоя::твой/твоя/твоё}} тетрадь?",
+                                        ""
+                                    ],
+                                    "guid": "juEHuQL?,d",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::твоё::твой/твоя/твоё}} бюро?",
+                                        ""
+                                    ],
+                                    "guid": "I@rZ*,0|9q",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это {{c1::твоё::твой/твоя/твоё}} пиво?",
+                                        ""
+                                    ],
+                                    "guid": "LaP?>UVqnP",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: Это Игорь, а это ____ рюкзак. - Это Игорь, а это его рюкзак.<br><br>Это Анна, а это&nbsp;{{c1::её}} учебник.",
+                                        ""
+                                    ],
+                                    "guid": "hy!Ed,4le6",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: Это Игорь, а это ____ рюкзак. - Это Игорь, а это его рюкзак.<br><br>Это Лидия, а это&nbsp;{{c1::её}} кресло.",
+                                        ""
+                                    ],
+                                    "guid": "ga75#~]_3u",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: Это Игорь, а это ____ рюкзак. - Это Игорь, а это его рюкзак.<br><br>Это Леонид, а это&nbsp;{{c1::его}} машина.",
+                                        ""
+                                    ],
+                                    "guid": "h|Nvvdu1Lx",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Модель: Это Игорь, а это ____ рюкзак. - Это Игорь, а это его рюкзак.<br><br>Это Пётр Иванович, а это&nbsp;{{c1::его}} пиво.",
+                                        ""
+                                    ],
+                                    "guid": "oWp^MD1<+0",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         }
@@ -7314,6 +10021,7 @@
                                     "guid": "c:L$,-L(2}",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
                                     "tags": [
+                                        "leech",
                                         "Russisch::A1::Kapitel07",
                                         "Russisch::A2::Kapitel02",
                                         "Russisch::Vokabel",
@@ -24180,7 +26888,7 @@
                                         "учен<font color=\"#ff0004\">и</font>к",
                                         "",
                                         "Schüler",
-                                        "",
+                                        "Schule, älter?",
                                         "",
                                         ""
                                     ],
@@ -25112,7 +27820,7 @@
                                         "п<font color=\"#ff0004\">а</font>лочка",
                                         "",
                                         "Stäbchen",
-                                        "",
+                                        "Auch: Kleiner Zweig",
                                         "",
                                         ""
                                     ],
@@ -26174,7 +28882,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "к<font color=\"#ff0004\">е</font>рды",
+                                        "к<font color=\"#ff0004\">е</font>ды",
                                         "",
                                         "Sportschuhe, Chucks",
                                         "",
@@ -28812,7 +31520,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "хв<font color=\"#ff0000\">а</font>ити",
+                                        "хв<font color=\"#ff0000\">а</font>тит",
                                         "",
                                         "genug",
                                         "kurz",
@@ -29668,7 +32376,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Russisch::Schreibschrift",
+            "name": "Russisch::Aufgabe (Schreibschrift)",
             "req": [
                 [
                     0,
@@ -29708,6 +32416,108 @@
                     "name": "Übung: Schreib>Druck",
                     "ord": 1,
                     "qfmt": "Schreibe in Druckschrift:\n{{Schreibschrift}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Russisch::Aufgabe (Cloze)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "d90e165d-83b2-11ec-9d9f-0c7a15ee466f",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Russisch::Aufgabe (Basic)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
                 }
             ],
             "type": 0
