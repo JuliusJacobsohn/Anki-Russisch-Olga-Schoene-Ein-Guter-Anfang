@@ -7855,6 +7855,66 @@
                                         "Russisch::A1::Kapitel04",
                                         "Russisch::Satz"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Извини, как по-русски \"Schrank\"?",
+                                        "Entschuldigung, was heißt \"Schrank\" auf Russisch?"
+                                    ],
+                                    "guid": "p;dy[33%s2",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Извини, я не знаю!",
+                                        "Entschuldigung, ich weiß nicht!"
+                                    ],
+                                    "guid": "n-*BKNhaCg",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Чей это дом?<br>Это мой дом.",
+                                        "Wessen Haus ist das?<br>Das ist mein Haus."
+                                    ],
+                                    "guid": "GzSY1K`<0#",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Чьё это место?<br>Это моё место.",
+                                        "Wessen Platz ist das?<br>Das ist mein Platz."
+                                    ],
+                                    "guid": "F(]3g1LjXd",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Чья это машина?<br>Это моя машина.",
+                                        "Wessen Auto ist das?<br>Das ist mein Auto."
+                                    ],
+                                    "guid": "u2}g_UDT^Z",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Чьи это очки?<br>Это мои очки.",
+                                        "Wessen Brille ist das?<br>Das ist meine Brille."
+                                    ],
+                                    "guid": "f+N{qNQ-KR",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         },
@@ -8828,7 +8888,418 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "03 Sätze und Phrasen",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Простите, это библиотека?<br>Да, это библиотека.",
+                                        "Entschuldigung, ist das die Bibliothek?<br>Ja, das ist die Bibliothek."
+                                    ],
+                                    "guid": "m+{wxuTz1=",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Алексей - русский. Марина тоже русская.",
+                                        "Aleksey ist Russe. Marina ist auch Russin."
+                                    ],
+                                    "guid": "imxHL#m$+M",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они русские.",
+                                        "Sie sind Russen."
+                                    ],
+                                    "guid": "s8RkD`.xVe",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он говорит по-русски.",
+                                        "Er spricht auf Russisch."
+                                    ],
+                                    "guid": "n`m)DYkH./",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Она тоже говорит по-русски.",
+                                        "Sie spricht auch auf Russisch."
+                                    ],
+                                    "guid": "y:W{WMfzy0",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они говорят по-русски.",
+                                        "Sie sprechen auf Russisch."
+                                    ],
+                                    "guid": "mjF+4v@|Ps",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Йонас - немец. Марта тоже немка.",
+                                        "Jonas ist Deutscher. Marta ist auch Deutsche."
+                                    ],
+                                    "guid": "OG8o#~J@zQ",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они&nbsp;немцы.",
+                                        "Sie sind Deutsche."
+                                    ],
+                                    "guid": "h7GaBGjM5f",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он говорит по-немецки. Она тоже говорит по-немецки.",
+                                        "Er spricht auf Deutsch. Sie spricht auch auf Deutsch."
+                                    ],
+                                    "guid": "jA`63vU[{E",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они говорят по-немецки.",
+                                        "Sie sprechen auf Deutsch."
+                                    ],
+                                    "guid": "e;nq==;Oi-",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Йонас, ты говоришь по-русски?",
+                                        "Jonas, sprichst du Russisch?"
+                                    ],
+                                    "guid": "E#sxV6/R:;",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, я немного говорю по-русски.",
+                                        "Ja, ich spreche ein bisschen Russisch."
+                                    ],
+                                    "guid": "bbh`/l~nW[",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Марина и Алексей, вы говорите по-немецки?",
+                                        "Marina und Aleksey, sprecht ihr Deutsch?"
+                                    ],
+                                    "guid": "KM;r7Unv-E",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, мы немного говорим по-немецки.",
+                                        "Ja, wir sprechen ein bisschen Deutsch."
+                                    ],
+                                    "guid": "Lyk{=<uTl0",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я хорошо понимаю по-русски!",
+                                        "Ich verstehe Russisch gut!"
+                                    ],
+                                    "guid": "vol+uvWE4v",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Марта хорошо говорит по-русски.",
+                                        "Marta spricht gut Russisch."
+                                    ],
+                                    "guid": "iC$[mdEe`3",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Она читает журнал по-русски.",
+                                        "Sie liest ein Magazin auf Russisch."
+                                    ],
+                                    "guid": "giuPGpwa(h",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "И она хорошо понимает, что говорит Марина.",
+                                        "Und sie versteht gut, was Marina sagt."
+                                    ],
+                                    "guid": "cfxKn+>4Y<",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Йонас не очень хорошо говорит по-русски.",
+                                        "Jonas spricht nicht sehr gut Russisch."
+                                    ],
+                                    "guid": "wIr~QqGaEj",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он читает журнал не по-русски, а по-немецки.",
+                                        "Er liest das Magazin nicht auf Russisch, sondern auf Deutsch."
+                                    ],
+                                    "guid": "Pev2gp5M|a",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "И он плохо понимает, что говорят Марина и Алексей.",
+                                        "Und er versteht schlecht, was Marina und Aleksey sagen."
+                                    ],
+                                    "guid": "LvTHBs)KXS",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Марина и Алексей немного понимают по-немецки.",
+                                        "Marina und Aleksey verstehen ein bisschen Deutsch."
+                                    ],
+                                    "guid": "g/F3zSLOGx",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они немного читают и говорят по-немецки.",
+                                        "Sie lesen und sprechen ein wenig auf Deutsch."
+                                    ],
+                                    "guid": "P:axEm-.{/",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Йонас, ты знаешь, как по-русски \"das Land\"?",
+                                        "Jonas, weißt du, was auf Russisch \"das Land\" heißt?"
+                                    ],
+                                    "guid": "yyn2yh7uv*",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Извини, я не знаю. Но Марта знает.",
+                                        "Entschuldigung, weiß ich nicht. Aber Marta weiß (es)."
+                                    ],
+                                    "guid": "li&m>E-it;",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "\"Das Land Hessen\" - это «страна Гессен». Правилно?",
+                                        "\"Das Land Hessen\" - ist «страна&nbsp;Гессен». Richtig?"
+                                    ],
+                                    "guid": "g}*MvP.jq*",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, \"страна\" - это Германия, а Гессен - это&nbsp;\"земля\".",
+                                        "Nein, \"страна\" - ist Deutschland. Und Hessen - das ist \"земля\"."
+                                    ],
+                                    "guid": "qR(mLZp=A6",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Понимаю! Спасибо!",
+                                        "Verstehe! Danke!"
+                                    ],
+                                    "guid": "wNmjO?7!.B",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты понимаешь по-русски?",
+                                        "Verstehst du Russisch?"
+                                    ],
+                                    "guid": "z;7>{R7m$=",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А ты читаешь по-русски?",
+                                        "Und liest du auf Russisch?"
+                                    ],
+                                    "guid": "w4XIke)c3b",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты знаешь, как по-русски «China»?",
+                                        "Weißt du, was \"China\" auf Russisch heißt?"
+                                    ],
+                                    "guid": "PKRRcb=CAC",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Твой сосед хорошо понимает по-русски?",
+                                        "Versteht dein Nachbar gut Russisch?"
+                                    ],
+                                    "guid": "iX,~i)eJ85",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он читает по-русски?",
+                                        "Liest er auf Russisch?"
+                                    ],
+                                    "guid": "wnemtw_POZ",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Твоя соседка хорошо читает по-русски?",
+                                        "Liest deine Nachbarin gut auf Russisch?"
+                                    ],
+                                    "guid": "L=>nR5d!q^",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "- Екатерина!<br>- Что?",
+                                        "- Ekaterina!<br>- Was?"
+                                    ],
+                                    "guid": "v7;iUxmcM(",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Чья это книга? Твоя?",
+                                        "Wessen Buch ist das? Deins?"
+                                    ],
+                                    "guid": "AeWN[KLCX-",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, это не моя книга.",
+                                        "Nein, das ist nicht mein Buch."
+                                    ],
+                                    "guid": "ny.qX#N.)_",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А чей это журнал? Твой?",
+                                        "Und wessen Zeitschrift ist das? Deine?"
+                                    ],
+                                    "guid": "y!Z*yf9O+x",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, это не мой журнал.",
+                                        "Nein, das ist nicht meine Zeitschrift."
+                                    ],
+                                    "guid": "n{-y$g,4wZ",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А чьи это очки?",
+                                        "Und wessen Brille ist das?"
+                                    ],
+                                    "guid": "I2/]>TrS<}",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я ничего не знаю!",
+                                        "Ich weiß nichts!"
+                                    ],
+                                    "guid": "cE?c1||l<v",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
@@ -9451,6 +9922,586 @@
                                         "Russisch::A1::Kapitel06",
                                         "Russisch::Satz"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Простите, где университет?",
+                                        "Entschuldigung, wo ist die Universität?"
+                                    ],
+                                    "guid": "N]lQ_4~pf~",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Университет там.",
+                                        "Die Universität ist dort."
+                                    ],
+                                    "guid": "pip_2j+ozh",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Извините, где станция метро?",
+                                        "Entschuldigung, wo ist die U-Bahn Station?"
+                                    ],
+                                    "guid": "C<z53-d7+D",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Станция метро здесь.",
+                                        "Die U-Bahn Station ist hier."
+                                    ],
+                                    "guid": "I}kRa`e;@2",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "- Спасибо!<br>- Не за что!",
+                                        "- Danke!<br>- Nicht dafür!"
+                                    ],
+                                    "guid": "zLq)so;)IM",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Наташа, где ты живёшь?",
+                                        "Natascha, wo lebst du?"
+                                    ],
+                                    "guid": "P6oIoD%37]",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я живу в Москве.",
+                                        "Ich lebe in Moskau."
+                                    ],
+                                    "guid": "e^n*#e*B%6",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где живёт Сара?",
+                                        "Wo lebt Sara?"
+                                    ],
+                                    "guid": "fASX{=@|2V",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Она живёт во Франкфурте.",
+                                        "Sie lebt in Frankfurt."
+                                    ],
+                                    "guid": "gMD(}z>Xy}",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А где живёт Алексей?",
+                                        "Und wo lebt Aleksey?"
+                                    ],
+                                    "guid": "AifE{SqzG*",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он живёт в Петербурге.",
+                                        "Er lebt in St. Petersburg."
+                                    ],
+                                    "guid": "M@/&u&3-$_",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Марта и йонас, где вы живёте?",
+                                        "Marta und Jonas, wo lebt ihr?"
+                                    ],
+                                    "guid": "Q.{vC|2[*n",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мы живём в Гамбурге.",
+                                        "Wir leben in Hamburg."
+                                    ],
+                                    "guid": "Q5A*Bb9oGI",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А где живут Марина и Алексей?",
+                                        "Und wo leben Marina und Aleksey?"
+                                    ],
+                                    "guid": "pq9*<6PMvj",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они живут в Петербурге.",
+                                        "Sie leben in St. Petersburg."
+                                    ],
+                                    "guid": "l4nCYZH^sp",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Алексей и Марина - русские.",
+                                        "Aleksey und Marina sind Russen."
+                                    ],
+                                    "guid": "C_PxC]?4A",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они живут в России, в Петербурге.",
+                                        "Sie leben in Russland, in St. Petersburg."
+                                    ],
+                                    "guid": "s?6v-AOV0$",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Марта и Йонас - немцы.",
+                                        "Marta und Jonas sind Deutsch."
+                                    ],
+                                    "guid": "LPeyKs!X>W",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они живут в Германии, в Гамбурге.",
+                                        "Sie leben in Deutschland, in Hamburg."
+                                    ],
+                                    "guid": "MbIaromb,r",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Поль и Эстер - французы.",
+                                        "Paul und Ester sind Franzosen."
+                                    ],
+                                    "guid": "Am.}y[XoW>",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они живут во Франции, в Париже.",
+                                        "Sie leben in Frankreiich, in Paris."
+                                    ],
+                                    "guid": "l3xs]H3`:T",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Анхель и Изабель - испанцы.",
+                                        "Angel und Isabell sind Spanier."
+                                    ],
+                                    "guid": "D>)3dy(9FI",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они живут в Испании, в Мадриде.",
+                                        "Sie leben in Spanien, in Madrid."
+                                    ],
+                                    "guid": "N%:mRh,UFI",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Айше и Али - турки.",
+                                        "Aische und Ali sind Türken."
+                                    ],
+                                    "guid": "C78):%ic0m",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они живут в Турции, в Стамбуле.",
+                                        "Sie leben in der Türkei, in Istanbul."
+                                    ],
+                                    "guid": "bte![21_R`",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ли Сяо и Май-Лин - китайцы.",
+                                        "Li Cjao und May-Lin sind Chinesen."
+                                    ],
+                                    "guid": "i8<BRJNmaz",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они живут в Китае, в Пекине.",
+                                        "Sie leben in China, in Peking."
+                                    ],
+                                    "guid": "y&SCjI;0B^",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Том и Джейн - американцы.",
+                                        "Tom und Jane sind Amerikaner."
+                                    ],
+                                    "guid": "q!n~;G:f7",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они живут в Америке, в Нью-Йорке.",
+                                        "Sie leben in Amerika, in New York."
+                                    ],
+                                    "guid": "CQ#Pmu+%e6",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Лена, ты работаешь?",
+                                        "Lena, arbeitest du?"
+                                    ],
+                                    "guid": "kIuJa}%(,v",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, я не работаю. Я студентка.",
+                                        "Nein, ich arbeite nicht. Ich bin Studentin."
+                                    ],
+                                    "guid": "KEexOASK+w",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ирина Сергеевна, где Вы работаете?",
+                                        "Irina Cergeevna, wo arbeiten Sie?"
+                                    ],
+                                    "guid": "qf?<sv.)jz",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я работаю в университете.",
+                                        "Ich arbeite in der Universität."
+                                    ],
+                                    "guid": "p-W%IY;g08",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Саша, где работает твой отец?",
+                                        "Sascha, wo arbeitet dein Vater?"
+                                    ],
+                                    "guid": "Cw$.R<@S()",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мой отец - инженер. Он работает на заводе.",
+                                        "Mein Vater ist Ingeneur. Er arbeitet im Betrieb."
+                                    ],
+                                    "guid": "g7$tDZDiGt",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А твоя мама работает?",
+                                        "Und arbeitet deine Mutter?"
+                                    ],
+                                    "guid": "xs.%Fp(lj*",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, она работает в школе, она учительница.",
+                                        "Ja, sie arbeitet in der Schule, sie ist Lehrerin."
+                                    ],
+                                    "guid": "JeL:r>:(:y",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кто твой друг?",
+                                        "Was ist dein Freund (von Beruf)?"
+                                    ],
+                                    "guid": "RdX&u[r=<x",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он врач. Он работает в больнице.",
+                                        "Er ist Arzt. Er arbeitet in der Klinik."
+                                    ],
+                                    "guid": "I<4z?@XmNr",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А твоя подруга тоже работает?",
+                                        "Und arbeitet deine Freundin auch?"
+                                    ],
+                                    "guid": "wu@&P}oK,T",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, она не работает. Она студентка.",
+                                        "Nein, sie arbeitet nicht. Sie ist Studentin."
+                                    ],
+                                    "guid": "KfhBfJtl0f",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Твои бабушка и дедушка ещё работают?",
+                                        "Arbeiten deine Großmutter und dein Großvater noch?"
+                                    ],
+                                    "guid": "lk{5JT8?m<",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, мои бабушка и дедушка уже не работают.",
+                                        "Nein, meine Großmutter und mein Großvater arbeiten nicht mehr."
+                                    ],
+                                    "guid": "L#=JO6A?I=",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они на пенсии.",
+                                        "Sie sind in Rente."
+                                    ],
+                                    "guid": "B!0qTD%)A1",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где работает Андрей?",
+                                        "Wo arbeitet Andrej?"
+                                    ],
+                                    "guid": "n1lN</ADal",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он журналист и работает на радио.",
+                                        "Er ist Journalist und arbeitet beim Radio."
+                                    ],
+                                    "guid": "g)2CU@#jt9",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мой друг Георг - студент. ",
+                                        "Mein Freund Georg ist Student."
+                                    ],
+                                    "guid": "G*VfehF1n+",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он живёт в Германии, в Гамбурге.",
+                                        "Er lebt in Deutschland, in Hamburg."
+                                    ],
+                                    "guid": "iA#YJs8p!!",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он говорит по-немецки, по-английски и немного по-русски.",
+                                        "Er spricht Deutsch, Englisch und ein bisschen Russisch."
+                                    ],
+                                    "guid": "GMLHm7HE_",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Она русская.",
+                                        "Sie ist Russin."
+                                    ],
+                                    "guid": "H;3cocz6=,",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Маша тоже студентка.",
+                                        "Mascha ist auch Studentin."
+                                    ],
+                                    "guid": "AYp$:}Wa]/",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "И она тоже живёт в Гамбурге",
+                                        "Und sie lebt auch in Hamburg."
+                                    ],
+                                    "guid": "BBcBj30,Ro",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Она хорошо говорит по-русски и по-немецки.",
+                                        "Sie spricht gut Russisch und Deutsch."
+                                    ],
+                                    "guid": "yx2=%0mk_@",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А ещё она немного говорит по-английски.",
+                                        "Und außerdem spricht sie ein bisschen Englisch."
+                                    ],
+                                    "guid": "g3[y!6m,Fx",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Георг и Маша - студенты,&nbsp;но они работают.",
+                                        "Georg und Mascha sind Studenten, aber sie arbeiten."
+                                    ],
+                                    "guid": "vb1*X0K<vf",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Маша работает в кафе, а Георг - в лаборатории.",
+                                        "Mascha arbeitet im Café, und Georg im Labor."
+                                    ],
+                                    "guid": "AQTW~%Ap^g",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У них есть друзья.",
+                                        "Sie haben Freunde."
+                                    ],
+                                    "guid": "ubsM{Z4=Lo",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Их зовут Марта и йонас. Они тоже студенты.",
+                                        "Sie heißen Marta und Jonas. Sie sind auch Studenten."
+                                    ],
+                                    "guid": "wb)EO|T4~%",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         },
@@ -10459,6 +11510,506 @@
                                         "Russisch::A1::Kapitel07",
                                         "Russisch::Satz"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Алло, Марина?",
+                                        "Hallo, Marina? (am Telefon)"
+                                    ],
+                                    "guid": "t:[#Bk8DSS",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты сейчас дома?",
+                                        "Bist du jetzt zu Hause?"
+                                    ],
+                                    "guid": "w&!`kDf_=4",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, я сейчас в университете.",
+                                        "Nein, ich bin jetzt in der Universität."
+                                    ],
+                                    "guid": "PzF[h4MN+1",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Рита, что ты сейчас делаешь?",
+                                        "Rita, was machst du jetzt?"
+                                    ],
+                                    "guid": "fB2c_3p#{G",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я читаю.",
+                                        "Ich lese."
+                                    ],
+                                    "guid": "lYF/;e,@0O",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А что ты читаешь?",
+                                        "Und was liest du?"
+                                    ],
+                                    "guid": "Fyipo(D>lZ",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я читаю журнал.",
+                                        "Ich lese eine Zeitschrift."
+                                    ],
+                                    "guid": "hxbau2jwWC",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мама, что делают Таня и Маша?",
+                                        "Mama, was machen Tanja und Mascha?"
+                                    ],
+                                    "guid": "OaZ&eu(82<",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они играют в теннис.",
+                                        "Sie spielen Tennis."
+                                    ],
+                                    "guid": "C4K[N`XgGJ",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Вера, что делает Андрей?",
+                                        "Vera, was macht Andrej?"
+                                    ],
+                                    "guid": "AB`=(%wMrU",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он делает уроки.",
+                                        "Er macht Unterrichtsaufgaben."
+                                    ],
+                                    "guid": "G!LO_Cf)[F",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Саша и Миша, что вы делаете?",
+                                        "Sascha und Mischa, was macht ihr?"
+                                    ],
+                                    "guid": "t@>gq0)TH~",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мы смотрим телевизор.",
+                                        "Wir schauen Fernsehen."
+                                    ],
+                                    "guid": "O+!|EpN7b|",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А что вы смотрите?",
+                                        "Und was schaut ihr?"
+                                    ],
+                                    "guid": "cB!S!os1Mr",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Анна Ивановна, где Вы сейчас?",
+                                        "Anna Ivanovna, wo sind Sie gerade?"
+                                    ],
+                                    "guid": "nsjb[;s*b.",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я сейчас дома.",
+                                        "Ich bin gerade zu Hause."
+                                    ],
+                                    "guid": "bps#wnp,PL",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А что Вы делаете?",
+                                        "Und was machen Sie?"
+                                    ],
+                                    "guid": "t58HT3Y89p",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ничего! Я отдыхаю.",
+                                        "(Ich mache) Nichts! Ich ruhe aus."
+                                    ],
+                                    "guid": "suxuU)~=rz",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что делает Виктор?",
+                                        "Was macht Viktor?"
+                                    ],
+                                    "guid": "AeLCxgvdQA",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он читает.",
+                                        "Er liest."
+                                    ],
+                                    "guid": "Q84!)bi^m+",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он много читает?",
+                                        "Liest er viel?"
+                                    ],
+                                    "guid": "hY7!,@OZ8h",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, он много читает. Он любит читать.",
+                                        "Ja, er liest viel. Er liebt Lesen."
+                                    ],
+                                    "guid": "or+R};.qqT",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что ты делаешь?",
+                                        "Was machst du?"
+                                    ],
+                                    "guid": "BS9Lq3w4FT",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я готовлю борщ.",
+                                        "Ich bereite Borschtsch vor."
+                                    ],
+                                    "guid": "jkt8*vD>f@",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Борщ?! О! Ты любишь готовить?",
+                                        "Borschtsch?! Oh! Liebst du das Vorbereiten (von Essen)?"
+                                    ],
+                                    "guid": "i]CNE!wG/Q",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, я очень люблю готовить.",
+                                        "Ja, ich liebe (Essen) zubereiten sehr."
+                                    ],
+                                    "guid": "r$N/iFHbc*",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Вы любите смотреть телевизор?",
+                                        "Liebt ihr, Fernsehen zu schauen?"
+                                    ],
+                                    "guid": "J]QYr%S0a!",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, я не люблю смотреть телевизор.",
+                                        "Nein, ich liebe Fernsehen schauen nicht."
+                                    ],
+                                    "guid": "c/a>Jt(Ay%",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я очень редко смотрю телевизор.",
+                                        "Ich schaue sehr selten Fernsehen."
+                                    ],
+                                    "guid": "Qz@UST0*4-",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Марина сейчас на практике в Англии.",
+                                        "Marina ist jetzt beim Praktikum in England."
+                                    ],
+                                    "guid": "cj0y3_Boak",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        " В Лондоне она ещё недавно.",
+                                        "Sie ist noch nicht lange in London."
+                                    ],
+                                    "guid": "JNY=GJzluX",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Марина пишет имейл домой.",
+                                        "Marina schreibt eine Email nach Hause."
+                                    ],
+                                    "guid": "N{u@_W^sao",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Дорогая мама, привет!",
+                                        "Teure (liebe) Mama, Hallo!"
+                                    ],
+                                    "guid": "eJh+V^AX#/",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Прости, что редко пишу.",
+                                        "Entschuldige, dass ich selten schreibe."
+                                    ],
+                                    "guid": "s#U^!L0}?!",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты знаешь, я не очень люблю писать письма.",
+                                        "Du weißt, ich liebe es nicht sehr, Briefe zu schreiben."
+                                    ],
+                                    "guid": "ck/,8(<xh%",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сейчас я много работаю и мало отдыхаю.",
+                                        "Jetzt (im Moment) arbeite ich viel und entspanne wenig."
+                                    ],
+                                    "guid": "B;n2c(lEau",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я редко смотрю фильмы и читаю книги.",
+                                        "Ich schaue selten Filme und lese Bücher."
+                                    ],
+                                    "guid": "Re9qOha.vp",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Но я часто гуляю в&nbsp;Лондоне, в центре.",
+                                        "Aber ich spaziere oft in London, im Zentrum."
+                                    ],
+                                    "guid": "k:#&hHhLd#",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Здесь очень красиво!",
+                                        "Hier ist es sehr schön!"
+                                    ],
+                                    "guid": "Cx1so7RNkw",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Как ты думаешь, где я на фотографии?",
+                                        "Was denkst du, wo ich auf dem Foto bin?"
+                                    ],
+                                    "guid": "bg?#d#h9Hy",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Правильно, я в Гайд-парке!",
+                                        "Richtig, ich bin im Hyde Park!"
+                                    ],
+                                    "guid": "m}S?G=J7RI",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "[...]<br>Обнимаю, целую!<br>- Марина",
+                                        "[...]<br>Ich umarme (dich), ich küsse&nbsp;(dich)!<br>- Marina<br><br>(Als Verabschiedung beim Brief an ihre Mutter)"
+                                    ],
+                                    "guid": "G|;fL9=P?t",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что ты любишь делать?",
+                                        "Was liebst du zu tun?"
+                                    ],
+                                    "guid": "nqmbdN|+nG",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А что ты не любишь делать?",
+                                        "Und was liebst du nicht, zu tun?"
+                                    ],
+                                    "guid": "P@kdx3Qj[.",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты много гуляешь?",
+                                        "Gehst du viel spazieren?"
+                                    ],
+                                    "guid": "l{||F^>3nS",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где ты гуляешь?",
+                                        "Wo spazierst du?"
+                                    ],
+                                    "guid": "N9_T(VHW5,",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А ты много отдыхаешь?",
+                                        "Und ruhst du dich viel aus?"
+                                    ],
+                                    "guid": "Cr(}6po!R6",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты любишь готовить?",
+                                        "Liebst du das Zubereiten (von Essen)?"
+                                    ],
+                                    "guid": "On2eT|3Y,@",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты часто пишешь письма?",
+                                        "Schreibst du oft Briefe?"
+                                    ],
+                                    "guid": "yYsO]}~[Ms",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что пишут русские в конце письма?",
+                                        "Was schreiben Russen am Briefende?"
+                                    ],
+                                    "guid": "K8[<,ape}a",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         },
@@ -11575,6 +13126,406 @@
                                         "Russisch::A1::Kapitel08",
                                         "Russisch::Satz"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя сегодня есть лекции и семинары?",
+                                        "Hast du heute Unterricht (Lektionen) und Seminare?"
+                                    ],
+                                    "guid": "E8Snm>8q[d",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, есть. У меня сегодня русский язык.",
+                                        "Ja, habe ich. Ich habe heute Russisch."
+                                    ],
+                                    "guid": "j&eeu7@-R*",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А когда? Утром, днём или вечером?",
+                                        "Und wann? Morgens, tagsüber oder abends?"
+                                    ],
+                                    "guid": "K65,`gmGFG",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты сегодня вечером дома?",
+                                        "Bist du heute abend zu Hause?"
+                                    ],
+                                    "guid": "XB,wr@!7t",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, сегодня вечером я в спортзале.",
+                                        "Nein, ich bin heute abend in der Sporthalle."
+                                    ],
+                                    "guid": "L4n]KUddt^",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У меня тренировка.",
+                                        "Ich habe Training."
+                                    ],
+                                    "guid": "qh}aI8Bx|.",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что ты делаешь сегодня вечером?",
+                                        "Was machst du heute abend?"
+                                    ],
+                                    "guid": "l*__&A^6Cq",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Когда у тебя обычно лекции и семинары?",
+                                        "Wann hast du gewöhnlich Lektionen und Seminare?"
+                                    ],
+                                    "guid": "GM4WprUbWg",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя есть сегодня тренировка? Когда?",
+                                        "Hast du heute Training? Wann?"
+                                    ],
+                                    "guid": "n:j?<A8#jk",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что ты обычно делаешь вечером?",
+                                        "Was machst du gewöhnlich abends?"
+                                    ],
+                                    "guid": "F)9G.`;aS;",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Когда ты читаешь газеты?",
+                                        "Wann liest du Zeitung?"
+                                    ],
+                                    "guid": "MM3$d-mo?,",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Когда ты смотришь телевизор?",
+                                        "Wann schaust du Fernsehen?"
+                                    ],
+                                    "guid": "p%.z(4<cT}",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Когда ты обычно гуляешь и где?",
+                                        "Wann spazierst du gewöhnlich und wohin?"
+                                    ],
+                                    "guid": "Ni8]dY]t3|",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты работаешь ночью?",
+                                        "Arbeitest du nachts?"
+                                    ],
+                                    "guid": "qq!WZI@7W;",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Андрей, что ты читаешь?",
+                                        "Andrej, was liest du?"
+                                    ],
+                                    "guid": "LUS{{Eolgi",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Лена, ты делаешь уроки?",
+                                        "Lena, machst du Unterrichtsaufgaben?"
+                                    ],
+                                    "guid": "H2bl*t7dz3",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, я делаю задание.",
+                                        "Ja, ich mache eine Aufgabe."
+                                    ],
+                                    "guid": "mx&~JiG$0b",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я слушаю музыку.",
+                                        "Ich höre Musik."
+                                    ],
+                                    "guid": "m;^OrzlW^n",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А что делают твои друзья?",
+                                        "Und was machen deine Freunde?"
+                                    ],
+                                    "guid": "u{J~9Y>uNC",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они смотрят комедию.",
+                                        "Sie schauen eine Komödie."
+                                    ],
+                                    "guid": "HxgRxr-ma",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Русские очень любят играть в шахматы.",
+                                        "Russen lieben es sehr, Schach zu spielen."
+                                    ],
+                                    "guid": "s!3br1o)X2",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Алексей и его отец Виктор тоже часто играют в шахматы.",
+                                        "Aleksey und sein Vater Viktor spielen auch häufig Schach."
+                                    ],
+                                    "guid": "H%[K*HPO@p",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Виктор Васильевич очень хорошо играет.",
+                                        "Viktor Vasilievich spielt sehr gut."
+                                    ],
+                                    "guid": "fFWX)RCPd7",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он шахматист в клубе.",
+                                        "Er ist Schachspieler in einem Club."
+                                    ],
+                                    "guid": "Kn-K,v^C:i",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Алексей тоже хорошо играет.",
+                                        "Aleksey spielt auch gut."
+                                    ],
+                                    "guid": "rt{zqD9X;+",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А его брат Игорь и сестра Наташа ещё плохо играют.",
+                                        "Aber sein Bruder Igor und Schwester Natascha spielen noch nicht gut."
+                                    ],
+                                    "guid": "B:I`fOxP?U",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Обычно они играют вечером, потому что днём Алексей - в университете, Игорь и Наташа - в школе, а их отец - на работе.",
+                                        "Gewöhnlich spielen sie abends, weil tagsüber ist Aleksey in der Universität, Igor und Natascha in der Schule und ihr Vater auf der Arbeit."
+                                    ],
+                                    "guid": "r5@S)sfBJ_",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Но сегодня вечером родители - в ресторане, а Алексей - в спортзале.",
+                                        "Aber heute abend sind die Eltern im Restaurant und Aleksey in der Sporthalle."
+                                    ],
+                                    "guid": "c?2r1o,bGi",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Игорь спрашивает...",
+                                        "Igor fragt..."
+                                    ],
+                                    "guid": "Zj-p;uieN",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Наташа, где шахматы?",
+                                        "Natascha, wo ist das Schachspiel?"
+                                    ],
+                                    "guid": "sErnUE@omt",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они здесь, но я сегодня не играю&nbsp;- отвечает Наташа.",
+                                        "(das Schachspiel) Es ist hier, aber ich spiele heute nicht - antwortet Natascha."
+                                    ],
+                                    "guid": "EGUDCu<Seg",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Потому что ты плохо играешь!",
+                                        "Weil du schlecht spielst!"
+                                    ],
+                                    "guid": "Loh<N3u5}c",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Как ты дома отдыхаешь?",
+                                        "Wie ruhst du dich zu Hause aus?"
+                                    ],
+                                    "guid": "f?HAu@TPrr",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты смотришь телевизор?",
+                                        "Schaust du Fernsehen?"
+                                    ],
+                                    "guid": "qXu<q%wv|r",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты любишь читать детективы?",
+                                        "Liebst du es, Krimis zu lesen?"
+                                    ],
+                                    "guid": "H`*>{;{|uQ",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты слушаешь музыку?",
+                                        "Hörst du Musik?"
+                                    ],
+                                    "guid": "oBifh2eLgl",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты слушаешь рок, поп или классику?",
+                                        "Hörst du Rock, Pop oder Klassik?"
+                                    ],
+                                    "guid": "u+xw<:v+,-",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты играешь в шахматы? А в футбол?",
+                                        "Spielst du Schach? Oder Fußball?"
+                                    ],
+                                    "guid": "M(9|v/*;,i",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты играешь на гитаре?",
+                                        "Spielst du auf der Gitarre?"
+                                    ],
+                                    "guid": "jlR0BBw+BH",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты часто играешь на компьютере?",
+                                        "Spielst du oft am Computer?"
+                                    ],
+                                    "guid": "J~k6;)Nok`",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         },
@@ -12633,6 +14584,356 @@
                                         "Russisch::A1::Kapitel09",
                                         "Russisch::Satz"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Вот, пожалуйста, Ваш шницель!",
+                                        "Hier, bitte, Ihr Schnitzel!"
+                                    ],
+                                    "guid": "iZ,3@Yu!Ci",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что ты ешь и пьёшь на завтрак?",
+                                        "Was isst und trinkst du zum Frühstück?"
+                                    ],
+                                    "guid": "JNQq[2oLos",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я ем хлеб, масло и сыр и пью кофе.",
+                                        "Ich esse Brot, Butter und Käse und trinke Kaffee."
+                                    ],
+                                    "guid": "vCaV<fYCx6",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А твоя сестра тоже ест бутерброды и пьёт кофе?",
+                                        "Und isst deine Schwester auch Butterbrote und trinkt Kaffee?"
+                                    ],
+                                    "guid": "w8$}&|bfbt",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, она ест мюсли и пьёт молоко.",
+                                        "Nein, sie isst Müsli und trinkt Milch."
+                                    ],
+                                    "guid": "Bk$COWl*kZ",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что Вы едите на обед?",
+                                        "Was essen Sie zum Mittagessen?"
+                                    ],
+                                    "guid": "Q~Ciq]4?l",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я ем салат и суп.",
+                                        "Ich esse Salat und Suppe."
+                                    ],
+                                    "guid": "KhdC]v.p5:",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "- А мясо?<br>- Нет, я не ем мясо!",
+                                        "- Und Fleisch?<br>- Nein, ich esse kein Fleisch!"
+                                    ],
+                                    "guid": "lEf&8XtL&%",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты любишь шоколад?",
+                                        "Liebst du Schokolade?"
+                                    ],
+                                    "guid": "LxQWY9v1fW",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, я люблю фрукты: бананы, виноград и яблоки!",
+                                        "Nein, ich liebe Früchte: Bananen, Weintrauben und Äpfel."
+                                    ],
+                                    "guid": "x6vAYFFkMM",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что ты ешь на ужин?",
+                                        "Was isst du zum Abendessen?"
+                                    ],
+                                    "guid": "d5?N[~hNhD",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "На ужин я ем хлеб, сыр и салат.",
+                                        "Zum Abendessen esse ich Brot, Käse und Salat."
+                                    ],
+                                    "guid": "KGv(27%z)j",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты любишь пирожки?",
+                                        "Liebst du Piroggen (Kuchen)?"
+                                    ],
+                                    "guid": "g~!b22b(cV",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, конечно, я очень люблю пирожки, пельмени, блины&nbsp;и вареники!",
+                                        "Ja, herzlich, ich liebe Piroggen (Kuchen), Fleischtaschen, Pfannkuchen und süße Taschen sehr!"
+                                    ],
+                                    "guid": "GKVAZe!=>-",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Как русские завтракают, обедают и ужинают.",
+                                        "Wie Russen frühstücken, mittagessen und abendessen."
+                                    ],
+                                    "guid": "tPB>gxRGO{",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Как и немцы, русские едят три раза в день.",
+                                        "Wie die Deutschen, essen die Russen drei Mal am Tag."
+                                    ],
+                                    "guid": "p;Jr:r&xg}",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Утром на завтрак они часто едят кашу и пьют чай.",
+                                        "Morgens zum Frühstück essen sie häufig Brei und trinken Tee."
+                                    ],
+                                    "guid": "AEd.}5RC|L",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "На обед они любят есть борщ, картофель, мясо или рыбу.",
+                                        "Zum Mittagessen lieben sie es Borschtsch, Kartoffeln, Fleisch oder Fisch zu essen."
+                                    ],
+                                    "guid": "gCWhGX5taX",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "После обеда они тоже пьют чай.",
+                                        "Nach dem Mittagessen trinken sie auch Tee."
+                                    ],
+                                    "guid": "G6N}0M}uv[",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Вечером на ужин русские готовят лапшу или макароны и снова пьют чай.",
+                                        "Abends zum Abendessen bereiten die Russen Nudeln oder Makkaroni vor und trinken wieder Tee."
+                                    ],
+                                    "guid": "Nl+jo)=,[>",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, они очень часто пьют чай!",
+                                        "Ja, sie trinken sehr häufig Tee!"
+                                    ],
+                                    "guid": "c#?rg_*]3q",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Как в Германии люди обычно завтракают, обедают и ужинают?",
+                                        "Wie frühstücken, mittag-essen und abend-essen die Leute in Deutschland gewöhnlich?"
+                                    ],
+                                    "guid": "mTBp]A:|*K",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где ты обедаешь?",
+                                        "Wo isst du mittag?"
+                                    ],
+                                    "guid": "M!qa1ySt{7",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где ты обычно завтракаешь, дома или в университете?",
+                                        "Wo frühstückst du gewöhnlich, zu Hause oder in der Universität?"
+                                    ],
+                                    "guid": "n>aRR8).n|",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я завтракаю дома. А где ты завтракаешь?",
+                                        "Ich frühstücke zu Hause. Und wo frühstückst du?"
+                                    ],
+                                    "guid": "vE(O<mi5%X",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я никогда не завтракаю!",
+                                        "Ich frühstücke nie!"
+                                    ],
+                                    "guid": "DFD2(:l#Q@",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты часто ужинаешь в ресторане?",
+                                        "Isst du oft im Restaurant zu abend?"
+                                    ],
+                                    "guid": "pCw}2ssQj-",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, я ужинаю дома, а ты?",
+                                        "Nein, ich esse zu abend zu Hause, und du?"
+                                    ],
+                                    "guid": "H{9^7c!&6l",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Его&nbsp;отец - шеф-повар в ресторане.",
+                                        "Sein Vater ist Chefkoch in einem Restaurant."
+                                    ],
+                                    "guid": "fwg^UZPIQt",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они&nbsp;часто&nbsp;ужинают&nbsp;в&nbsp;ресторане!",
+                                        "Sie essen häufig im Restaurant zu abend."
+                                    ],
+                                    "guid": "vJV9w}t8?u",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты завтракаешь дома?",
+                                        "Frühstückst du zu Hause?"
+                                    ],
+                                    "guid": "o-#y8KDADB",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты обедаешь в ресторане?",
+                                        "Isst du zu mittag im Restaurant?"
+                                    ],
+                                    "guid": "bD3s2jLUv8",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что ты ешь на обед?",
+                                        "Was isst du zu mittag?"
+                                    ],
+                                    "guid": "s3x,:M(C-i",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где ты ужинаешь?",
+                                        "Wo isst du zu abend?"
+                                    ],
+                                    "guid": "my;Jqo*k5H",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что ты никогда не ешь?",
+                                        "Was isst du nie?"
+                                    ],
+                                    "guid": "do4i@5:=7H",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         },
