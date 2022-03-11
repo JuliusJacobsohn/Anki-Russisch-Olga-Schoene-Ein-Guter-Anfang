@@ -23834,26 +23834,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>\n<div>\n<div>\n<div>\n<div>Приятно познакомиться!<br>\n</div>\n</div>\n</div>\n</div></div>",
-                                        "Freut mich, dich kennenzulernen!"
-                                    ],
-                                    "guid": "rX_~~oPbxq",
-                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<div>\n<div>\n<div>\n<div>\n<div>Мне тоже!</div>\n</div>\n</div>\n</div></div>",
-                                        "Mir auch!"
-                                    ],
-                                    "guid": "v#UKJKsG9l",
-                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "<div>\n<div>\n<div>\n<div>\n<div>Анна Ивановна, познакомьтесь, это\nМатиас. Матиас, это Анна Ивановна.&nbsp;</div>\n</div>\n</div>\n</div></div>",
                                         "Anna Iwanowna, lernen Sie Matthias kennen. Matthias, das ist Anna Iwanowna."
                                     ],
@@ -23934,17 +23914,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>\n<div>\n<div>\n<div>\n<div>Кто это?<br>\n</div>\n</div>\n</div>\n</div></div>",
-                                        "Wer ist das?"
-                                    ],
-                                    "guid": "fyoL3|9aQx",
-                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<div>\n<div>\n<div>\n<div>\n<div>это наши соседи.&nbsp;</div>\n</div>\n</div>\n</div></div>",
+                                        "<div>\n<div>\n<div>\n<div>\n<div>Это наши соседи.&nbsp;</div>\n</div>\n</div>\n</div></div>",
                                         "Das sind unsere Nachbarn."
                                     ],
                                     "guid": "icxfpe-gU-",
@@ -23994,7 +23964,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>\n<div>\n<div>\n<div>\n<div>это ваши дочери?&nbsp;</div>\n</div>\n</div>\n</div></div>",
+                                        "\n<div>\n<div>\n<div><div>Это ваши дочери?&nbsp;</div>\n</div>\n</div>\n</div>",
                                         "Sind das deine Töchter?"
                                     ],
                                     "guid": "d0duebN7/P",
@@ -24044,18 +24014,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>\n<div>\n<div>\n<div>\n<div>Да, есть.</div>\n</div>\n</div>\n</div></div>",
-                                        "Ja, hab ich."
-                                    ],
-                                    "guid": "N]swtHeZ0p",
-                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "<div>\n<div>\n<div>\n<div>\n<div>Как их зовут?<br>\n</div>\n</div>\n</div>\n</div></div>",
-                                        "Wie heißen sie? (sie = pl)"
+                                        "Wie heißen sie?"
                                     ],
                                     "guid": "c8b5^>~Nw>",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -24094,16 +24054,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "у меня&nbsp;-&nbsp;синий.",
-                                        "Bei mir - himmel blau"
-                                    ],
-                                    "guid": "GO$CzQw<qO",
-                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "Твоя машина&nbsp;новая?&nbsp;",
                                         "Ist dein Auto neu?"
                                     ],
@@ -24128,16 +24078,6 @@
                                         "Was ist das für ein Bier?"
                                     ],
                                     "guid": "OKkz%;)`p:",
-                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<div>\n<div>\n<div>\n<div>Русское.&nbsp;</div>\n</div>\n</div></div>",
-                                        "Russisches."
-                                    ],
-                                    "guid": "C)$i6mmY@I",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
                                     "tags": []
                                 },
@@ -24174,8 +24114,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "\n<div>\n<div>\n<div>\n<div>Итак, мы уже познакомились: я Лина Иванова. А это моя лучшая подруга Катя Петрова.<br></div>\n</div>\n</div>\n</div>",
-                                        "So, wir haben uns also schon kennen gelernt: Ich bin Lina Ivanova. Und das ist meine beste Freundin Katya Petrova."
+                                        "\n<div>\n<div>\n<div>\n<div>Итак, мы уже познакомились.<br></div>\n</div>\n</div>\n</div>",
+                                        "Also, wir haben uns schon kennen gelernt."
                                     ],
                                     "guid": "w7g5^5Psi0",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -24184,8 +24124,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>\n<div>\n<div>\n<div>\n<div>Мы живём в Петербурге. Это&nbsp;наш родной город. Мы студентки и учимся в университете.</div></div></div>\n</div></div>",
-                                        "Wir leben in Petersburg. Das ist unsere Heimatstadt. Wir sind Studenten und lernen in der Universität."
+                                        "<div>\n<div>\n<div>\n<div>\n<div>Мы живём в Петербурге.</div></div></div>\n</div></div>",
+                                        "Wir leben in St. Petersburg."
                                     ],
                                     "guid": "dtp/mSI6O^",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -24194,8 +24134,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>\n<div>\n<div>\n<div>\n<div>А это наш новый знакомый. Его зовут Матиас Заксенхаузер.&nbsp;</div>\n</div>\n</div>\n</div></div>",
-                                        "Und das ist unser neuer Bekannter. Er heißt Matthias Sachsenhauser."
+                                        "<div>\n<div>\n<div>\n<div>\n<div>А это наш новый знакомый.</div>\n</div>\n</div>\n</div></div>",
+                                        "Und das ist unser neuer Bekannter."
                                     ],
                                     "guid": "F{oVmeZHAs",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -24314,70 +24254,40 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "\n<div>\n<div>\n<div>\n<div>Петербург - очень большой&nbsp;и&nbsp;очень красивый город.</div>\n</div>\n</div>\n</div>",
-                                        "Petersburg - ist eine sehr große und sehr schöne Stadt."
+                                        "Это&nbsp;наш родной город.",
+                                        "Das ist unsere Heimatstadt."
                                     ],
-                                    "guid": "C5v]w5k?~b",
+                                    "guid": "K7WQQA=#80",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
                                     "tags": []
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "\n<div>\n<div>\n<div>\n<div>Он (Петербург)&nbsp;не такой старый, как Москва, но такой же известный.</div>\n</div>\n</div>\n</div>",
-                                        "Er (Petersburg) ist nicht so alt, wie Moskau, aber genauso berühmt."
+                                        "Мы студентки и учимся в университете.",
+                                        "Wir sind Studenten und lernen in der Universität."
                                     ],
-                                    "guid": "J0*;ru0sBv",
+                                    "guid": "yLyLFD4Y|D",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
                                     "tags": []
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>\n<div>\n<div>\n<div>\n<div>Петербург&nbsp;- северный город. Говорят, что Петербург- это\nсеверная столица России.</div>\n</div>\n</div>\n</div></div>",
-                                        "Petersburg&nbsp;<span style=\"color: rgb(100, 101, 95);\">-&nbsp;</span>ist eine nördliche Stadt. Man sagt, dass Petersburg -&nbsp; die nördlichste Stadt Russlands ist."
+                                        "Я Лина Иванова. А это моя лучшая подруга Катя Петрова.",
+                                        "Ich bin Lina Ivanova. Und das ist meine beste Freundin Katya Petrova."
                                     ],
-                                    "guid": "c+PO0O?33#",
+                                    "guid": "i]M>K`te;}",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
                                     "tags": []
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>\n<div>\n<div>\n<div>\n<div>Вот карта Петербурга. Вот река Нева и Финский залив.&nbsp;</div>\n</div>\n</div>\n</div></div>",
-                                        "Hier ist eine Karte von Petersburg. Hier ist der Fluss Newa und der Finnische Meerbusen."
+                                        "Его зовут Матиас Заксенхаузер.&nbsp;",
+                                        "Er heißt Matthias Sachsenhauser."
                                     ],
-                                    "guid": "N<_TAfmQ6l",
-                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "\n<div>\n<div>\n<div>\n<div>Петербург - это острова,&nbsp;мосты&nbsp;и каналы. и вода, вода, вода...&nbsp;<br></div>\n</div>\n</div>\n</div>",
-                                        "Petersburg - das sind Inseln, Brücken und Kanälen. Und Wasser, Wasser, Wasser..."
-                                    ],
-                                    "guid": "BnWA0owNG}",
-                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<div>\n<div>\n<div>\n<div>\n<div>Главная улица Петербурга называется Невский проспект.&nbsp;</div>\n</div>\n</div>\n</div></div>",
-                                        "Die Hauptstraße von Petersburg heißt Newski-Prospekt."
-                                    ],
-                                    "guid": "l+bB-_z=CZ",
-                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<div>\n<div>\n<div>\n<div>\n<div>Главная площадь - Дворцовая площадь. Там находится Зимний\nдворец. Здесь прекрасный большой музей - Эрмитаж.&nbsp;</div>\n</div>\n</div>\n</div></div>",
-                                        "Der Hauptplatz - ist der Schlossplatz. Da befindet sich der Winterpalast. Hier ist ein wunderbares großes Museum - die Eremitage."
-                                    ],
-                                    "guid": "MJRKzh`S|T",
+                                    "guid": "G15WM-7rlr",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
                                     "tags": []
                                 }
@@ -35423,13 +35333,17 @@
             "req": [
                 [
                     0,
-                    "none",
-                    []
+                    "any",
+                    [
+                        0
+                    ]
                 ],
                 [
                     1,
-                    "none",
-                    []
+                    "any",
+                    [
+                        1
+                    ]
                 ]
             ],
             "sortf": 0,
