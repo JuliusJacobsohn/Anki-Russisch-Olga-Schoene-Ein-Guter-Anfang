@@ -21514,7 +21514,598 @@
                     "extendRev": 0,
                     "media_files": [],
                     "name": "Kapitel 01",
-                    "notes": []
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 31, 31);\">Давайте познакомимся! </span><span style=\"color: rgb(31, 31, 31);\">Меня </span><span style=\"color: rgb(31, 31, 31);\">зовут\nЛена</span><span style=\"color: rgb(71, 69, 68);\">.<br>\n</span></div>\n</div>\n</div>\n</div></div>",
+                                "Lasst uns bekannt machen Ich heiße Lena."
+                            ],
+                            "guid": "Aa=5|Hm0/W",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 31, 31);\">Очень </span><span style=\"color: rgb(31, 31, 31);\">приятно! </span><span style=\"color: rgb(31, 31, 31);\">А </span><span style=\"color: rgb(31, 31, 31);\">я Матйас.<br>\n</span></div>\n</div>\n</div>\n</div></div>",
+                                "(Kontext: Lass uns kennen lernen, ich bin Lena)<br>Sehr angenehm! Und ich bin Mathias"
+                            ],
+                            "guid": "D=iCN#>+Jv",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 31, 31);\">Добро </span><span style=\"color: rgb(31, 31, 31);\">пожаловать</span><span style=\"color: rgb(71, 69, 68);\">, </span><span style=\"color: rgb(31, 31, 31);\">Матйас.&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Willkommen Mathias."
+                            ],
+                            "guid": "pW8J5p$[qU",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 31, 31);\">Катя</span><span style=\"color: rgb(71, 69, 68);\">, </span><span style=\"color: rgb(31, 31, 31);\">познакомься</span><span style=\"color: rgb(71, 69, 68);\">, </span><span style=\"color: rgb(31, 31, 31);\">это </span><span style=\"color: rgb(31, 31, 31);\">Матйас</span><span style=\"color: rgb(91, 90, 87);\">.\n</span><span style=\"color: rgb(31, 31, 31);\">Матйас, это Катя.<br>\n</span></div>\n</div>\n</div>\n</div></div>",
+                                "Katja, lernen Sie Mathias kennen. Matthias, das ist Katja."
+                            ],
+                            "guid": "p;-2q;/O;r",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 31, 31);\">Приятно познакомиться!<br>\n</span></div>\n</div>\n</div>\n</div></div>",
+                                "Freut mich, dich kennenzulernen!"
+                            ],
+                            "guid": "rX_~~oPbxq",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 31, 31);\">Мне </span><span style=\"color: rgb(31, 31, 31);\">тоже!&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Mir auch!"
+                            ],
+                            "guid": "v#UKJKsG9l",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 31, 31);\">Анна Ивановна, </span><span style=\"color: rgb(31, 31, 31);\">познакомьтесь, это\nМатиас</span><span style=\"color: rgb(71, 69, 68);\">. </span><span style=\"color: rgb(31, 31, 31);\">Матиас, это Анна Ивановна</span><span style=\"color: rgb(71, 69, 68);\">.&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Anna Iwanowna, lernen Sie Matthias kennen. Matthias, das ist Anna Iwanowna."
+                            ],
+                            "guid": "sOP_h|:~@K",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 31, 31);\">Очень </span><span style=\"color: rgb(31, 31, 31);\">рада познакомиться!<br>\n</span></div>\n</div>\n</div>\n</div></div>",
+                                "Sehr froh dich kennen zu lernen!"
+                            ],
+                            "guid": "H_Lx)daK_|",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 31, 31);\">Мне </span><span style=\"color: rgb(31, 31, 31);\">тоже очень приятно.&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Ich bin auch sehr angenehm."
+                            ],
+                            "guid": "Je8>?!*C>G",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 30, 31);\">Привет! </span><span style=\"color: rgb(31, 30, 31);\">Меня </span><span style=\"color: rgb(31, 30, 31);\">зовут Костя</span><span style=\"color: rgb(68, 68, 68);\">. </span><span style=\"color: rgb(31, 30, 31);\">А </span><span style=\"color: rgb(31, 30, 31);\">это </span><span style=\"color: rgb(31, 30, 31);\">наша </span><span style=\"color: rgb(31, 30, 31);\">семья:&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Hallo! Mein Name ist Kostya. Und das ist unsere Familie:"
+                            ],
+                            "guid": "Ovc30P$:hQ",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 30, 31);\">моя </span><span style=\"color: rgb(31, 30, 31);\">сестра Катя</span><span style=\"color: rgb(68, 68, 68);\">, </span><span style=\"color: rgb(31, 30, 31);\">дедушка Максим </span><span style=\"color: rgb(31, 30, 31);\">и </span><span style=\"color: rgb(31, 30, 31);\">бабушка </span><span style=\"color: rgb(31, 30, 31);\">Зина, </span><span style=\"color: rgb(31, 30, 31);\">папа </span><span style=\"color: rgb(31, 30, 31);\">и </span><span style=\"color: rgb(31, 30, 31);\">мама, дядя </span><span style=\"color: rgb(31, 30, 31);\">Коля и тётя </span><span style=\"color: rgb(31, 30, 31);\">Лид</span><span style=\"color: rgb(31, 30, 31);\">а</span><span style=\"color: rgb(86, 86, 86);\">.&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Meine Schwester Katya, Großvater Maxim und Großmutter Sina, Vater und Mutter, Onkel Kolya und Tante Lida."
+                            ],
+                            "guid": "DmFy(%Uxf7",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 30, 31);\">Так вот</span><span style=\"color: rgb(68, 68, 68);\">, </span><span style=\"color: rgb(31, 30, 31);\">я </span><span style=\"color: rgb(31, 30, 31);\">сын</span><span style=\"color: rgb(68, 68, 68);\">, </span><span style=\"color: rgb(31, 30, 31);\">брат, внук, </span><span style=\"color: rgb(31, 30, 31);\">племянник </span><span style=\"color: rgb(31, 30, 31);\">и кузен</span><span style=\"color: rgb(68, 68, 68);\">. </span><span style=\"color: rgb(31, 30, 31);\">Вот так!&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Also, ich bin Sohn, Bruder, Enkel, Neffe und Cousin. So!"
+                            ],
+                            "guid": "O9Q>ih7~$2",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 30, 31);\">Э</span><span style=\"color: rgb(1, 1, 1);\">т</span><span style=\"color: rgb(31, 30, 31);\">о твой сёстры?&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Sind das deine Schwestern?"
+                            ],
+                            "guid": "J>r%;(h~T8",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 30, 31);\">Нет</span><span style=\"color: rgb(68, 68, 68);\">, </span><span style=\"color: rgb(51, 50, 51);\">это </span><span style=\"color: rgb(31, 30, 31);\">мой </span><span style=\"color: rgb(31, 30, 31);\">подруги.&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Nein, das sind meine Freunde."
+                            ],
+                            "guid": "Emdf8V&f9!",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 30, 31);\">Кто </span><span style=\"color: rgb(51, 50, 51);\">это?<br>\n</span></div>\n</div>\n</div>\n</div></div>",
+                                "Wer ist das?"
+                            ],
+                            "guid": "fyoL3|9aQx",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 30, 31);\">это </span><span style=\"color: rgb(31, 30, 31);\">наши соседи</span><span style=\"color: rgb(68, 68, 68);\">.&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Das sind unsere Nachbarn."
+                            ],
+                            "guid": "icxfpe-gU-",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 30, 31);\">Это </span><span style=\"color: rgb(31, 30, 31);\">ваши </span><span style=\"color: rgb(31, 30, 31);\">братья?&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Sind das eure Brüder?"
+                            ],
+                            "guid": "eK{>E#)Ns^",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 30, 31);\">Нет, </span><span style=\"color: rgb(51, 50, 51);\">это </span><span style=\"color: rgb(31, 30, 31);\">наши друзья</span><span style=\"color: rgb(1, 1, 1);\">.&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "\n<div>\n<div>\n<div>\nNein, das sind unsere Freunde.<br>\n</div>\n</div>\n</div>"
+                            ],
+                            "guid": "Q4_7~E0n0!",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 30, 31);\">Это твой </span><span style=\"color: rgb(51, 50, 51);\">соседи?<br>\n</span></div>\n</div>\n</div>\n</div></div>",
+                                "Sind das deine Nachbarn?"
+                            ],
+                            "guid": "lKECoI)*(}",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 30, 31);\">Нет, </span><span style=\"color: rgb(51, 50, 51);\">это </span><span style=\"color: rgb(31, 30, 31);\">мой </span><span style=\"color: rgb(31, 30, 31);\">роди</span><span style=\"color: rgb(1, 1, 1);\">т</span><span style=\"color: rgb(31, 30, 31);\">ели.&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Nein, das sind meine Eltern."
+                            ],
+                            "guid": "D];@}v_1I",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 30, 31);\">это </span><span style=\"color: rgb(31, 30, 31);\">ваши </span><span style=\"color: rgb(31, 30, 31);\">дочери?&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Sind das deine Töchter?"
+                            ],
+                            "guid": "d0duebN7/P",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 30, 31);\">Да, </span><span style=\"color: rgb(31, 30, 31);\">это мой дочери.&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Ja, das sind meine Töchter."
+                            ],
+                            "guid": "*eKJ|HS38",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(51, 50, 51);\">Это </span><span style=\"color: rgb(31, 30, 31);\">ваши </span><span style=\"color: rgb(31, 30, 31);\">братья и сёстры?&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Sind das eure Brüder und Schwestern?"
+                            ],
+                            "guid": "p]_R0r+TV?",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 30, 31);\">Не</span><span style=\"color: rgb(1, 1, 1);\">т</span><span style=\"color: rgb(68, 68, 68);\">, </span><span style=\"color: rgb(31, 30, 31);\">это наши </span><span style=\"color: rgb(51, 50, 51);\">кузены </span><span style=\"color: rgb(31, 30, 31);\">и </span><span style=\"color: rgb(51, 50, 51);\">кузины.&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Nein, das sind unsere Cousins ​​und Cousinen."
+                            ],
+                            "guid": "s~AMQf[^NW",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 30, 31);\">У </span><span style=\"color: rgb(31, 30, 31);\">тебя есть </span><span style=\"color: rgb(31, 30, 31);\">братья </span><span style=\"color: rgb(31, 30, 31);\">и </span><span style=\"color: rgb(31, 30, 31);\">сёстры?&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Hast du einen Brüder und Schwestern?"
+                            ],
+                            "guid": "e^_/JJ55>?",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 30, 31);\">Да, есть.&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Ja, hab ich."
+                            ],
+                            "guid": "N]swtHeZ0p",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 30, 31);\">Как их зовут?<br>\n</span></div>\n</div>\n</div>\n</div></div>",
+                                "Wie heißen sie? (sie = pl)"
+                            ],
+                            "guid": "c8b5^>~Nw>",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(31, 30, 31);\">Их зовут Иван </span><span style=\"color: rgb(31, 30, 31);\">и </span><span style=\"color: rgb(31, 30, 31);\">Маша&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Sie heißen Ivan und Mascha."
+                            ],
+                            "guid": "h|g6~*$zX<",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(22, 22, 22);\">Какой&nbsp;</span><span style=\"color: rgb(43, 43, 43);\">у&nbsp;</span><span style=\"color: rgb(43, 43, 43);\">тебя&nbsp;</span><span style=\"color: rgb(22, 22, 22);\">рюкзак?&nbsp;</span>",
+                                "Welchen Rucksack hast du?"
+                            ],
+                            "guid": "9YK)wgqN.",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(22, 22, 22);\">Чёрный</span><span style=\"color: rgb(83, 82, 82);\">.&nbsp;</span><span style=\"color: rgb(43, 43, 43);\">А&nbsp;</span><span style=\"color: rgb(43, 43, 43);\">у&nbsp;</span><span style=\"color: rgb(43, 43, 43);\">тебя?&nbsp;</span>",
+                                "Schwarzen. Und bei dir?"
+                            ],
+                            "guid": "mcC[ra9md6",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(43, 43, 43);\">у меня&nbsp;</span><span style=\"color: rgb(62, 62, 62);\">-&nbsp;</span><span style=\"color: rgb(43, 43, 43);\">синий</span>.&nbsp;",
+                                "Bei mir - himmel blau"
+                            ],
+                            "guid": "GO$CzQw<qO",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(43, 43, 43);\">Твоя машина&nbsp;</span><span style=\"color: rgb(22, 22, 22);\">новая?&nbsp;</span>",
+                                "Ist dein Auto neu?"
+                            ],
+                            "guid": "nak0YUrx+i",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(43, 43, 43);\">Нет</span><span style=\"color: rgb(83, 82, 82);\">,&nbsp;</span><span style=\"color: rgb(43, 43, 43);\">что ты! Старая</span><span style=\"color: rgb(83, 82, 82);\">.&nbsp;</span>",
+                                "(Kontext: Ist dein Auto neu?)<br>Nein, was ist mit dir! Alt."
+                            ],
+                            "guid": "CUk}y%T]_(",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div><span style=\"color: rgb(43, 43, 43);\">Какое это </span><span style=\"color: rgb(22, 22, 22);\">пиво?&nbsp;</span></div>\n</div>\n</div></div>",
+                                "Was ist das für ein Bier?"
+                            ],
+                            "guid": "OKkz%;)`p:",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div><span style=\"color: rgb(22, 22, 22);\">Русское.&nbsp;</span></div>\n</div>\n</div></div>",
+                                "Russisches."
+                            ],
+                            "guid": "C)$i6mmY@I",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(43, 43, 43);\">Ваши дети уже большие?&nbsp;</span>",
+                                "Sind eure Kinder schon groß?"
+                            ],
+                            "guid": "FK=Hk@/:vs",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(22, 22, 22);\">Нет</span><span style=\"color: rgb(62, 62, 62);\">,&nbsp;</span><span style=\"color: rgb(43, 43, 43);\">наши дети&nbsp;</span><span style=\"color: rgb(43, 43, 43);\">ещё&nbsp;</span><span style=\"color: rgb(43, 43, 43);\">маленькие.&nbsp;</span>",
+                                "Nein, unsere Kinder sind noch klein."
+                            ],
+                            "guid": "tMU_:*97ZI",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(18, 18, 18);\">Наши новые знакомые.&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Unsere neuen Bekanntschaften."
+                            ],
+                            "guid": "sc}W?K!Oj-",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\n<div>\n<div>\n<div>\n<div>Итак, мы уже познакомились: я Лина Иванова. А это моя лучшая подруга Катя Петрова.<br></div>\n</div>\n</div>\n</div>",
+                                "So, wir haben uns also schon kennen gelernt: Ich bin Lina Ivanova. Und das ist meine beste Freundin Katya Petrova."
+                            ],
+                            "guid": "w7g5^5Psi0",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(18, 18, 18);\">Мы </span><span style=\"color: rgb(18, 18, 18);\">живём </span><span style=\"color: rgb(18, 18, 18);\">в Петербурге. Это&nbsp;</span><span style=\"color: rgb(18, 18, 18);\">наш родной город. </span><span style=\"color: rgb(18, 18, 18);\">Мы </span><span style=\"color: rgb(18, 18, 18);\">студентки и учимся в университете.</span></div></div></div>\n</div></div>",
+                                "Wir leben in Petersburg. Das ist unsere Heimatstadt. Wir sind Studenten und lernen in der Universität."
+                            ],
+                            "guid": "dtp/mSI6O^",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(18, 18, 18);\">А </span><span style=\"color: rgb(18, 18, 18);\">это </span><span style=\"color: rgb(18, 18, 18);\">наш </span><span style=\"color: rgb(18, 18, 18);\">новый знакомый</span><span style=\"color: rgb(70, 70, 70);\">. </span><span style=\"color: rgb(18, 18, 18);\">Его зовут Матиас Заксенхаузер</span><span style=\"color: rgb(51, 51, 51);\">.&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Und das ist unser neuer Bekannter. Er heißt Matthias Sachsenhauser."
+                            ],
+                            "guid": "F{oVmeZHAs",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(18, 18, 18);\">Сейчас Матиас </span><span style=\"color: rgb(18, 18, 18);\">тоже </span><span style=\"color: rgb(35, 34, 35);\">живёт </span><span style=\"color: rgb(18, 18, 18);\">и учится </span><span style=\"color: rgb(18, 18, 18);\">в </span><span style=\"color: rgb(18, 18, 18);\">Петербурге.&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Jetzt lebt und studiert Matthias auch&nbsp;in St. Petersburg."
+                            ],
+                            "guid": "c0n1;K)n_h",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(18, 18, 18);\">Но </span><span style=\"color: rgb(18, 18, 18);\">его родной\nгород </span><span style=\"color: rgb(18, 18, 18);\">- </span><span style=\"color: rgb(18, 18, 18);\">это </span><span style=\"color: rgb(18, 18, 18);\">небольшой, </span><span style=\"color: rgb(18, 18, 18);\">но очень </span><span style=\"color: rgb(18, 18, 18);\">красивый немецкий </span><span style=\"color: rgb(18, 18, 18);\">город&nbsp;</span><span style=\"color: rgb(18, 18, 18);\">Гейдельберг.</span></div><div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(18, 18, 18);\"><br>\n</span></div>\n</div>\n</div>\n</div></div></div></div><div><div><div><span style=\"color: rgb(18, 18, 18);\"><br>\n</span></div>\n</div>\n</div>\n</div>",
+                                "Aber seine Heimatstadt - ist eine kleine, aber sehr schöne deutsche Stadt Heidelberg."
+                            ],
+                            "guid": "na)<hv:Q2!",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(18, 18, 18);\">Кто Лена </span><span style=\"color: rgb(35, 34, 35);\">и </span><span style=\"color: rgb(18, 18, 18);\">Катя?<br>\n</span></div>\n</div>\n</div>\n</div></div>",
+                                "Wer sind Lena und Katja?"
+                            ],
+                            "guid": "J~0EK{QHE4",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(18, 18, 18);\">Где они живут?<br>\n</span></div>\n</div>\n</div>\n</div></div>",
+                                "Wo leben sie?"
+                            ],
+                            "guid": "bW>,eTINil",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(18, 18, 18);\">Это их родной город?<br>\n</span></div>\n</div>\n</div>\n</div></div>",
+                                "Ist das ihre Heimatstadt?"
+                            ],
+                            "guid": "se&2YWvb[M",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(18, 18, 18);\">Кто </span><span style=\"color: rgb(35, 34, 35);\">Матиас?&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Wer ist Matthias?"
+                            ],
+                            "guid": "sP0YS5:m[x",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(18, 18, 18);\">Где он сейчас живёт?&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "\n<div>\n<div>\n<div>\nWo wohnt er jetzt?<br>\n</div>\n</div>\n</div>"
+                            ],
+                            "guid": "EFYO[@8.VK",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(18, 18, 18);\">Какой его родной город?&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Was ist seine Heimatstadt?"
+                            ],
+                            "guid": "jN8MjywzK@",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div><span style=\"color: rgb(27, 26, 27);\">Как это </span><span style=\"color: rgb(27, 26, 27);\">называется?&nbsp;</span></div>\n</div>\n</div></div>",
+                                "Wie wird das genannt? /&nbsp;Wie heißt es?"
+                            ],
+                            "guid": "O,[sbtvqp]",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div><span style=\"color: rgb(49, 49, 49);\">Это </span><span style=\"color: rgb(49, 49, 49);\">мой родной </span><span style=\"color: rgb(49, 49, 49);\">гброд</span><span style=\"color: rgb(96, 96, 96);\">. </span><span style=\"color: rgb(49, 49, 49);\">Он </span><span style=\"color: rgb(49, 49, 49);\">называется Гамбург.&nbsp;</span></div>\n</div>\n</div></div>",
+                                "Das ist meine Heimatstadt. Sie heißt Hamburg."
+                            ],
+                            "guid": "v5;[i~5M<R",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\n<div>\n<div><div>Это мой лучший друг. Его зовут Саша.<span style=\"color: rgb(49, 49, 49);\"><br>\n</span></div>\n</div>\n</div>",
+                                "Das ist mein bester Freund. Er heißt ist Sascha."
+                            ],
+                            "guid": "e):wdw}_c>",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\n<div>\n<div>\n<div>\n<div>Петербург - очень большой&nbsp;<span style=\"color: rgb(42, 41, 41);\">и&nbsp;</span>очень красивый город.</div>\n</div>\n</div>\n</div>",
+                                "Petersburg - ist eine sehr große und sehr schöne Stadt."
+                            ],
+                            "guid": "C5v]w5k?~b",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(42, 41, 41);\">Он (</span><span style=\"color: rgb(58, 57, 57);\">Петербург)&nbsp;</span><span style=\"color: rgb(58, 57, 57);\">не </span><span style=\"color: rgb(42, 41, 41);\">такой старый</span><span style=\"color: rgb(75, 75, 73);\">, </span><span style=\"color: rgb(42, 41, 41);\">как Москва, но такой </span><span style=\"color: rgb(42, 41, 41);\">же </span><span style=\"color: rgb(42, 41, 41);\">известный.</span></div>\n</div>\n</div>\n</div>",
+                                "Er (Petersburg) ist nicht so alt, wie Moskau, aber genauso berühmt."
+                            ],
+                            "guid": "J0*;ru0sBv",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(75, 75, 73);\">Петербу</span><span style=\"color: rgb(42, 41, 41);\">рг&nbsp;</span><span style=\"color: rgb(100, 101, 95);\">- </span><span style=\"color: rgb(58, 57, 57);\">северный </span><span style=\"color: rgb(42, 41, 41);\">город. </span><span style=\"color: rgb(19, 19, 19);\">Говорят</span><span style=\"color: rgb(58, 57, 57);\">, </span><span style=\"color: rgb(42, 41, 41);\">что Петербург</span><span style=\"color: rgb(75, 75, 73);\">- </span><span style=\"color: rgb(58, 57, 57);\">это\nсеверная </span><span style=\"color: rgb(42, 41, 41);\">столица России.</span></div>\n</div>\n</div>\n</div></div>",
+                                "Petersburg&nbsp;<span style=\"color: rgb(100, 101, 95);\">-&nbsp;</span>ist eine nördliche Stadt. Man sagt, dass Petersburg -&nbsp; die nördlichste Stadt Russlands ist."
+                            ],
+                            "guid": "c+PO0O?33#",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(42, 41, 41);\">Вот </span><span style=\"color: rgb(42, 41, 41);\">к</span><span style=\"color: rgb(75, 75, 73);\">а</span><span style=\"color: rgb(42, 41, 41);\">рта Петербурга</span><span style=\"color: rgb(75, 75, 73);\">. </span><span style=\"color: rgb(19, 19, 19);\">Вот </span><span style=\"color: rgb(42, 41, 41);\">река Нева и Финский </span><span style=\"color: rgb(58, 57, 57);\">залив.&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Hier ist eine Karte von Petersburg. Hier ist der Fluss Newa und der Finnische Meerbusen."
+                            ],
+                            "guid": "N<_TAfmQ6l",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(42, 41, 41);\">П</span><span style=\"color: rgb(75, 75, 73);\">е</span><span style=\"color: rgb(42, 41, 41);\">тербург </span><span style=\"color: rgb(42, 41, 41);\">- </span><span style=\"color: rgb(75, 75, 73);\">эт</span><span style=\"color: rgb(42, 41, 41);\">о острова,&nbsp;</span>мосты<span style=\"color: rgb(42, 41, 41);\">&nbsp;</span><span style=\"color: rgb(42, 41, 41);\">и каналы</span><span style=\"color: rgb(100, 101, 95);\">. </span><span style=\"color: rgb(42, 41, 41);\">и вода</span><span style=\"color: rgb(75, 75, 73);\">, </span><span style=\"color: rgb(42, 41, 41);\">вода, вода</span><span style=\"color: rgb(58, 57, 57);\">...&nbsp;</span><br></div>\n</div>\n</div>\n</div>",
+                                "Petersburg - das sind Inseln, Brücken und Kanälen. Und Wasser, Wasser, Wasser..."
+                            ],
+                            "guid": "BnWA0owNG}",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(42, 41, 41);\">Главная улица Петербурга называется Невский проспект</span><span style=\"color: rgb(75, 75, 73);\">.&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Die Hauptstraße von Petersburg heißt Newski-Prospekt."
+                            ],
+                            "guid": "l+bB-_z=CZ",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\n<div>\n<div>\n<div>\n<div><span style=\"color: rgb(58, 57, 57);\">Главная </span><span style=\"color: rgb(58, 57, 57);\">площадь </span><span style=\"color: rgb(100, 101, 95);\">- </span><span style=\"color: rgb(42, 41, 41);\">Дворцовая </span><span style=\"color: rgb(42, 41, 41);\">площадь. </span><span style=\"color: rgb(42, 41, 41);\">Там </span><span style=\"color: rgb(42, 41, 41);\">находится </span><span style=\"color: rgb(42, 41, 41);\">Зимний\n</span><span style=\"color: rgb(58, 57, 57);\">дворец. Здесь прекрасный </span><span style=\"color: rgb(42, 41, 41);\">большой </span><span style=\"color: rgb(42, 41, 41);\">музей </span><span style=\"color: rgb(58, 57, 57);\">- </span><span style=\"color: rgb(42, 41, 41);\">Эрмитаж</span><span style=\"color: rgb(75, 75, 73);\">.&nbsp;</span></div>\n</div>\n</div>\n</div></div>",
+                                "Der Hauptplatz - ist der Schlossplatz. Da befindet sich der Winterpalast. Hier ist ein wunderbares großes Museum - die Eremitage."
+                            ],
+                            "guid": "MJRKzh`S|T",
+                            "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
                 },
                 {
                     "__type__": "Deck",
