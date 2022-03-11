@@ -12625,7 +12625,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "За здор<font color=\"#ff0000\">о</font>вье!",
-                                        "Auf dein Wohl!"
+                                        "Auf dein Wohl! (Prost)"
                                     ],
                                     "guid": "C?mw3c<#]}",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -18922,7 +18922,7 @@
                                         "уч<font color=\"#ff0000\">и</font>ться",
                                         "",
                                         "studieren, lernen",
-                                        "Fähigkeiten",
+                                        "Fähigkeiten, Refl.",
                                         "",
                                         ""
                                     ],
@@ -19489,7 +19489,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "До встр<font color=\"#ff0000\">е</font>чи!",
-                                        "Auf Wiedersehen!"
+                                        "Auf Wiedersehen! (Treffen)"
                                     ],
                                     "guid": "AFG$XFB5b)",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -20497,7 +20497,7 @@
                                         "назв<font color=\"#ff0000\">а</font>ние",
                                         "",
                                         "Name, Benennung",
-                                        "",
+                                        "Gebäude, Orte",
                                         "",
                                         ""
                                     ],
@@ -21464,7 +21464,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Там находится Зимний дворец.",
+                                        "Там находится зимний дворец.",
                                         "Dort befindet sich&nbsp;<span style=\"color: var(--field-fg); background: var(--field-bg);\">der Winterpalast.</span>"
                                     ],
                                     "guid": "hK^KV<)Y<f",
@@ -21669,7 +21669,7 @@
                                     "fields": [
                                         "вчер<font color=\"#ff0000\">а</font>шний",
                                         "",
-                                        "von gestern",
+                                        "von gestern/gestrig",
                                         "",
                                         "",
                                         ""
@@ -28922,7 +28922,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "И Вас т<font color=\"#ff0004\">а</font>кже!",
-                                        "Ebenso!"
+                                        "Ebenso! (Und Ihnen auch!)"
                                     ],
                                     "guid": "y1]x7.z)N_",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -31125,7 +31125,7 @@
                                         "дост<font color=\"#ff0004\">а</font>точно",
                                         "",
                                         "genug",
-                                        "lang",
+                                        "Adv.",
                                         "+ Fall? + Verbform?",
                                         "+ Gen. + Inf."
                                     ],
@@ -32055,8 +32055,8 @@
                                     "fields": [
                                         "хв<font color=\"#ff0000\">а</font>тит",
                                         "",
-                                        "genug",
-                                        "kurz",
+                                        "(Es) genügt",
+                                        "3. Sg.",
                                         "",
                                         ""
                                     ],
