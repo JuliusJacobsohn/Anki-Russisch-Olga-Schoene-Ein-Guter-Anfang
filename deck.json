@@ -35400,7 +35400,7 @@
                 {
                     "description": "",
                     "font": "Arial",
-                    "name": "Front",
+                    "name": "Russisch",
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
@@ -35409,7 +35409,7 @@
                 {
                     "description": "",
                     "font": "Arial",
-                    "name": "Back",
+                    "name": "Deutsch",
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
@@ -35423,23 +35423,19 @@
             "req": [
                 [
                     0,
-                    "any",
-                    [
-                        0
-                    ]
+                    "none",
+                    []
                 ],
                 [
                     1,
-                    "any",
-                    [
-                        1
-                    ]
+                    "none",
+                    []
                 ]
             ],
             "sortf": 0,
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Deutsch}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -35447,10 +35443,10 @@
                     "did": null,
                     "name": "Satz: Russisch>Deutsch",
                     "ord": 0,
-                    "qfmt": "{{Front}}"
+                    "qfmt": "{{Russisch}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Russisch}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -35458,7 +35454,7 @@
                     "did": null,
                     "name": "Satz: Deutsch>Russisch",
                     "ord": 1,
-                    "qfmt": "{{Back}}"
+                    "qfmt": "{{Deutsch}}"
                 }
             ],
             "type": 0
