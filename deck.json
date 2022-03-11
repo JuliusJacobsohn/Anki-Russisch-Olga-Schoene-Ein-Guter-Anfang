@@ -12972,6 +12972,7 @@
                                     "guid": "pjWA(CcCKO",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
                                     "tags": [
+                                        "leech",
                                         "Russisch::A1::Kapitel10",
                                         "Russisch::A2::Kapitel01",
                                         "Russisch::Vokabel"
@@ -13203,6 +13204,7 @@
                                     "guid": "lGv+bVr}yd",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
                                     "tags": [
+                                        "leech",
                                         "Russisch::A1::Kapitel10",
                                         "Russisch::A2::Kapitel04",
                                         "Russisch::Vokabel"
@@ -19353,6 +19355,7 @@
                                     "guid": "e&kCM,QV3h",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
                                     "tags": [
+                                        "leech",
                                         "Russisch::A1::Kapitel18",
                                         "Russisch::A2::Kapitel03",
                                         "Russisch::Vokabel"
@@ -23858,6 +23861,7 @@
                                     "guid": "otuNOPz:U3",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
                                     "tags": [
+                                        "leech",
                                         "Russisch::A2::Kapitel03",
                                         "Russisch::Vokabel"
                                     ]
@@ -26752,6 +26756,7 @@
                                     "guid": "F7sDkSDOtQ",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
                                     "tags": [
+                                        "leech",
                                         "Russisch::A2::Kapitel05",
                                         "Russisch::Vokabel"
                                     ]
@@ -32410,7 +32415,7 @@
             "maxTaken": 60,
             "name": "Russisch::Sätze und Phrasen",
             "new": {
-                "bury": false,
+                "bury": true,
                 "delays": [
                     1.0,
                     10.0
@@ -32422,7 +32427,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 1
+                "perDay": 5
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -32430,7 +32435,7 @@
             "newSortOrder": 0,
             "replayq": true,
             "rev": {
-                "bury": false,
+                "bury": true,
                 "ease4": 1.3,
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
