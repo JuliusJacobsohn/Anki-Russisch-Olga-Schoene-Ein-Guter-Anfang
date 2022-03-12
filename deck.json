@@ -24290,6 +24290,116 @@
                                     "guid": "G15WM-7rlr",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
                                     "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Как называется столица России?",
+                                        "Wie heißt die Hauptstadt Russlands?"
+                                    ],
+                                    "guid": "gE^1/tm+)+",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А как называется столица Германии?",
+                                        "Und wie heißt die Hauptstadt Deutschlands?"
+                                    ],
+                                    "guid": "nMr<_xVwf2",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Как называется большая река в Петербурге?",
+                                        "Wie heißt der große Fluss in St. Petersburg?"
+                                    ],
+                                    "guid": "r(%+G{B2:v",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что находится в центре города?",
+                                        "Was befindet sich im Zentrum der Stadt?"
+                                    ],
+                                    "guid": "N14lt#8+=V",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какие улицы находятся в центре Петербурга?",
+                                        "Welche Straßen befinden sich im Zentrum St. Petersburgs?"
+                                    ],
+                                    "guid": "m?][s2@yW2",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какой твой родной город?",
+                                        "Wie ist deine Heimatstadt?"
+                                    ],
+                                    "guid": "QPeN/H6S4`",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это большой город или маленькая деревня?",
+                                        "Ist es eine große Stadt oder ein kleines Dorf?"
+                                    ],
+                                    "guid": "Jki-E5P@sh",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это старый город?",
+                                        "Ist es eine alte Stadt?"
+                                    ],
+                                    "guid": "BN1TM[@=LG",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Как называется главная улица?",
+                                        "Wie heißt die Hauptstrasse?"
+                                    ],
+                                    "guid": "JMXyF7U;_7",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Там есть река?",
+                                        "Ist dort ein Fluss?"
+                                    ],
+                                    "guid": "dn89c}3j2i",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какие там есть магазины, кафе и рестораны?",
+                                        "Welche Läden sind dort, Kaffees und Restaurants?"
+                                    ],
+                                    "guid": "f5/JB*FJyz",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         },
