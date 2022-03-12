@@ -16176,6 +16176,546 @@
                                         "Russisch::A1::Kapitel10",
                                         "Russisch::Satz"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Здравствуйте, Иван Иванович!",
+                                        "Hallo, Ivan Ivanovich! (höflich)"
+                                    ],
+                                    "guid": "GOb(dA2C!B",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Доброе утро, Василий Петрович!",
+                                        "Guten Morgen, Vasiliy Petrovich!"
+                                    ],
+                                    "guid": "n!gQS:;S9_",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У меня тоже всё в порядке.",
+                                        "Bei mir ist auch alles in Ordnung."
+                                    ],
+                                    "guid": "l,`G=L`(~M",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какой это чай? Чёрный?",
+                                        "Welcher Tee ist das? Schwarz?"
+                                    ],
+                                    "guid": "FEh/aw@qt0",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, это зелёный чай.",
+                                        "Nein, das ist grüner Tee."
+                                    ],
+                                    "guid": "s^bi9wYc;M",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какое это вино? Красное?",
+                                        "Welcher Wein ist das? Rot?"
+                                    ],
+                                    "guid": "H-cjC9X!90",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, это белое вино.",
+                                        "Nein, das ist weißer Wein."
+                                    ],
+                                    "guid": "kv_XE)U9N:",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какая это рыба? Красная?",
+                                        "Was ist das für ein Fisch? Rot?"
+                                    ],
+                                    "guid": "rPb&ZwBk#L",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, это красная рыба.",
+                                        "Ja, das ist ein roter Fisch."
+                                    ],
+                                    "guid": "B].%Zs/r+q",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какие это конфеты?",
+                                        "Was sind das für Süßigkeiten?"
+                                    ],
+                                    "guid": "lH<BVW0Iaz",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это шоколадные конфеты.",
+                                        "Das sind Schokoladen-Süßigkeiten."
+                                    ],
+                                    "guid": "ON!P@Gc}Us",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какое мороженое ты любишь, клубничное или шоколадное?",
+                                        "Welche Eiscreme liebst du, erdbeerige oder schokoladige?"
+                                    ],
+                                    "guid": "rI0d_WF$&i",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какой сок ты любишь, яблочный или виноградный?",
+                                        "Welchen Saft liebst du, Apfel- oder Weintrauben-?"
+                                    ],
+                                    "guid": "Oi|u=0;0[f",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какие конфеты ты любишь, шоколадные или карамель?",
+                                        "Welche Süßigkeiten liebst du, schokoladige oder karamellige?"
+                                    ],
+                                    "guid": "ETFb-Wy|I@",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какой твой любимый десерт?",
+                                        "Welches ist dein Lieblingsdessert?"
+                                    ],
+                                    "guid": "A|Z(GYV|s$",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какая твоя любимая книга?",
+                                        "Welches ist dein Lieblingsbuch?"
+                                    ],
+                                    "guid": "F)jXkFZ`$E",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какой твой любимый фильм?",
+                                        "Welcher ist dein Lieblingsfilm?"
+                                    ],
+                                    "guid": "rGe-s=,tnS",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Господин Фишер в Петербурге",
+                                        "Herr Fischer in St. Petersburg"
+                                    ],
+                                    "guid": "kVrk|LqcNo",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это господин Фишер. Он немец.",
+                                        "Das ist Herr Fischer. Er ist Deutscher."
+                                    ],
+                                    "guid": "LSulH~~{ny",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Господин Фишер живёт и работает в Гамбурге.",
+                                        "Herr Fischer lebt und arbeitet in Hamburg."
+                                    ],
+                                    "guid": "bsn~}<|PcI",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У него есть жена Аннепе, сын Йонас и дочь Лаура.",
+                                        "Er hat eine Frau Anette, einen Sohn Jonas und eine Tochter Laura."
+                                    ],
+                                    "guid": "lz:|,*GpJ]",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Его фирма открывает филиал в России.",
+                                        "Seine Firma öffnet eine Filiale in Russland."
+                                    ],
+                                    "guid": "jRpaA_$0dk",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А господин Фишер неплохо говорит по-русски.",
+                                        "Und Herr Fischer spricht nicht schlecht Russisch."
+                                    ],
+                                    "guid": "sll]XL>CT3",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Поэтому сейчас он в России, в Петербурге.",
+                                        "Deshalb ist er jetzt in Russland, in St. Petersburg."
+                                    ],
+                                    "guid": "t)+P#W]#*k",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Господин Фишер любит Петербург.",
+                                        "Herr Fischer liebt St. Petersburg."
+                                    ],
+                                    "guid": "PR~52,J00(",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это красивый город.",
+                                        "Es ist eine schöne Stadt."
+                                    ],
+                                    "guid": "iXiJTK$_M/",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он любит здесь гулять, смотреть на реку Неву, на мосты и каналы.",
+                                        "Er liebt es dort zu spazieren, auf den Fluss Neva, auf die Brücken und Kanäle zu schauen."
+                                    ],
+                                    "guid": "MfMVxy*U?r",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А ещё он любит есть пирожки и пельмени.",
+                                        "Und außerdem liebt er süße Teigtaschen und Fleischtaschen zu essen."
+                                    ],
+                                    "guid": "L^+?,3bp{P",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это&nbsp;очень&nbsp;вкусно.",
+                                        "Es ist sehr lecker."
+                                    ],
+                                    "guid": "ezmKS}dW!9",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где живёт и работает господин Фишер?",
+                                        "Wo lebt und arbeitet Herr Fischer?"
+                                    ],
+                                    "guid": "s=BA4;L$Pz",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У него есть семья?",
+                                        "Hat er Familie?"
+                                    ],
+                                    "guid": "cQ4lUd=LN_",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он говорит по-русски?",
+                                        "Spricht er Russisch?"
+                                    ],
+                                    "guid": "e.<{];%D{n",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Почему он сейчас в Петербурге?",
+                                        "Warum ist er jetzt in St. Petersburg?"
+                                    ],
+                                    "guid": "Me`*0b%=e0",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что он любит делать в Петербурге?",
+                                        "Was liebt er in St. Petersburg zu tun?"
+                                    ],
+                                    "guid": "gOx$YCUY3e",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты знаешь Гамбург?",
+                                        "Kennst du Hamburg?"
+                                    ],
+                                    "guid": "J6F~,BSmry",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это красивый город?",
+                                        "Ist es eine schöne Stadt?"
+                                    ],
+                                    "guid": "ErB:XU?Xs(",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Господин Фишер говорит по-русски.",
+                                        "Herr Fischer spricht Russisch."
+                                    ],
+                                    "guid": "f+qQd/:lye",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он изучает русский язык.",
+                                        "Er studiert die russische Sprache."
+                                    ],
+                                    "guid": "s2Im7^u!jY",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Госпожа Фишер хорошо знает испанский и французский&nbsp;язык.",
+                                        "Frau Fischer kennt die spanische und französische Sprache gut."
+                                    ],
+                                    "guid": "Mv$~2H>LW{",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Она хорошо говорит по-испански и по-французски.",
+                                        "Sie spricht gut auf Spanisch und auf Französisch."
+                                    ],
+                                    "guid": "Oz[6WLIG;E",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Алексей и Марина живут в Петербурге.",
+                                        "Aleksey und Marina leben in St. Petersburg."
+                                    ],
+                                    "guid": "b~*8Gz0Ml)",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У них очень маленькая квартира в центре.",
+                                        "Sie haben eine sehr kleine Wohnung im Zentrum."
+                                    ],
+                                    "guid": "j@Fox~dXQ!",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Большие квартиры в Петербурге - дорогие, но и маленькие тоже не очень дешёвые.",
+                                        "Große Wohnungen in St. Petersburg sind teuer, aber auch kleine sind nicht billig."
+                                    ],
+                                    "guid": "nvforFs5h%",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты живёшь в центре?",
+                                        "Lebst du im Zentrum?"
+                                    ],
+                                    "guid": "HzX=>9!_?w",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя квартира или комната?",
+                                        "Hast du eine Wohnung oder ein Zimmer?"
+                                    ],
+                                    "guid": "bo=]4]zk(v",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какая у тебя квартира, большая или маленькая?",
+                                        "Welche Wohnung hast du, eine große oder eine kleine?"
+                                    ],
+                                    "guid": "E:1%?{~KRi",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Твоя квартира дорогая или дешёвая?",
+                                        "Ist deine Wohnung teuer oder billig?"
+                                    ],
+                                    "guid": "LR[DA<_{u.",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что ты хочешь делать?",
+                                        "Was möchtest du machen?"
+                                    ],
+                                    "guid": "s4oXZeyA}#",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Саша, мы хотим играть в шахматы.",
+                                        "Sascha, wir wollen Schach spielen."
+                                    ],
+                                    "guid": "PAx~c|1#N3",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А ты хочешь?",
+                                        "Und willst du?"
+                                    ],
+                                    "guid": "n^0~st+Aep",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, не хочу!",
+                                        "Nein, will nicht! (umgs.)"
+                                    ],
+                                    "guid": "j![)Ou.mD6",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я хочу смотреть фильм.",
+                                        "Ich möchte einen Film schauen."
+                                    ],
+                                    "guid": "F^mG:nq]rF",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты хочешь есть?",
+                                        "Möchtest du essen?"
+                                    ],
+                                    "guid": "E$MfEs#0cn",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, спасибо, но я очень хочу пить.",
+                                        "Nein, danke, aber ich möchte sehr trinken."
+                                    ],
+                                    "guid": "s<>WS)y4b;",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         },
