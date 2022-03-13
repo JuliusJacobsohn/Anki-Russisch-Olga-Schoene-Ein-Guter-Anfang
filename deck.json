@@ -26432,6 +26432,526 @@
                                         "Russisch::A2::Kapitel02",
                                         "Russisch::Satz"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где ты сейчас находишься?",
+                                        "Wo befindest du dich jetzt?"
+                                    ],
+                                    "guid": "wcs=*l~s__",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я сейчас в магазине.",
+                                        "Ich bin gerade im Laden."
+                                    ],
+                                    "guid": "f+102.qwik",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А я в университете.",
+                                        "Und ich bin in der Universität."
+                                    ],
+                                    "guid": "gbq:R|LzT^",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Катя, где мы сейчас находимся?",
+                                        "Katja, wo befinden wir uns gerade?"
+                                    ],
+                                    "guid": "M0q^sk!bl[",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это Садовая улица, Матиас.",
+                                        "Das ist die Gartenstraße, Matthias."
+                                    ],
+                                    "guid": "nG8LkhtoXv",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Здесь недалеко&nbsp;Невский проспект.",
+                                        "Hier ist nicht weit von der Newski Prospekt."
+                                    ],
+                                    "guid": "O9A$zFSZL:",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В гостях у Лены",
+                                        "Zu Gast bei Lena."
+                                    ],
+                                    "guid": "IXOP{b$lC3",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я здесь живу.",
+                                        "Ich lebe hier."
+                                    ],
+                                    "guid": "tl&=l[~%.$",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Моя комната очень маленькая: стол, стул, шкаф и большой диван.",
+                                        "Mein Zimmer ist sehr klein: Tisch, Stuhl, Schrank und großes Sofa."
+                                    ],
+                                    "guid": "tDV6DtHg79",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Днём на нём можно сидеть, а ночью - спать.",
+                                        "Tagsüber kann man darauf (dem Sofa) sitzen, und Nachts - schlafen."
+                                    ],
+                                    "guid": "Qgv~o+aeCZ",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "На полках лежат книги и журналы, на стенах висят фотографии и постеры.",
+                                        "Auf den Regalen liegen Bücher und Journale, an den Wänden hängen Fotos und Poster."
+                                    ],
+                                    "guid": "oz@uN7F;L7",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А на фотографиях - любимые друзья!",
+                                        "Und auf den Fotos - Lieblingsfreunde!"
+                                    ],
+                                    "guid": "h]>`&L;|x&",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "На полу лежит красный ковёр, а в углу стоит лампа.",
+                                        "Auf dem Boden liegt ein roter Teppich und in der Ecke steht eine Lampe."
+                                    ],
+                                    "guid": "EF?18l>.EZ",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какая комната у Лены, большая или маленькая?",
+                                        "Was für ein Zimmer hat Lena, groß oder klein?"
+                                    ],
+                                    "guid": "din?nJe89_",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что есть в комнате у Лены?",
+                                        "Was ist in dem Zimmer von Lena?"
+                                    ],
+                                    "guid": "T&V>jtl}v",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что лежит на полу?",
+                                        "Was liegt auf dem Boden?"
+                                    ],
+                                    "guid": "G>1:l,:+)v",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А что стоит в углу?",
+                                        "Und was steht in der Ecke?"
+                                    ],
+                                    "guid": "fSZ;HNxP*%",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где висят фотографии и постеры?",
+                                        "Wo hängen die Fotos und Poster?"
+                                    ],
+                                    "guid": "Oooj(i(Y65",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где лежат книги и журналы?",
+                                        "Wo liegen die Bücher und Journale?"
+                                    ],
+                                    "guid": "fgh~F7M{IT",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя в комнате есть стол и стул?",
+                                        "Ist bei dir im Zimmer ein Tisch und ein Stuhl?"
+                                    ],
+                                    "guid": "DI]%H5l:%B",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А что ещё есть в твоей комнате?",
+                                        "Und was ist noch in deinem Zimmer?"
+                                    ],
+                                    "guid": "P@/cB0^4S]",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя в комнате на стенах есть картины?",
+                                        "Hast du im Zimmer an den Wänden Gemälde?"
+                                    ],
+                                    "guid": "l@)a///7.&",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя есть шкаф в комнате?",
+                                        "Hast du in deinem Zimmer einen Schrank?"
+                                    ],
+                                    "guid": "5UP</S2Gt",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что лежит на полу в твоей комнате?",
+                                        "Was liegt auf dem Boden in deinem Zimmer?"
+                                    ],
+                                    "guid": "lm8$FTj~ZG",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В каком доме ты живёшь?",
+                                        "In was für einem Haus lebst du?"
+                                    ],
+                                    "guid": "f`WbW|*cKB",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я живу в новом доме.",
+                                        "Ich lebe in einem neuen Haus."
+                                    ],
+                                    "guid": "wip=/9YER1",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В каком здании ты работаешь?",
+                                        "In was für Gebäuden arbeitest du?"
+                                    ],
+                                    "guid": "gj;k@s}7Ap",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я работаю в старом здании.",
+                                        "Ich arbeite in alten Gebäuden."
+                                    ],
+                                    "guid": "Q30{D;K?h|",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А в какой квартире ты живёшь?",
+                                        "Und in was für einer Wohnung lebst du?"
+                                    ],
+                                    "guid": "t3Y6;P?VI3",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я живу в большой квартире.",
+                                        "Ich lebe in einer großen Wohnung."
+                                    ],
+                                    "guid": "S[W<?M#=t",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В каких комнатах живут студенты?",
+                                        "In was für Zimmern leben Studenten?"
+                                    ],
+                                    "guid": "J<WUDrQ4>G",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они живут в маленьких комнатах.",
+                                        "Sie leben in kleinen Zimmern."
+                                    ],
+                                    "guid": "HvKhF0ic>K",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где живут наши новые друзья?",
+                                        "Wo leben unsere neuen Freunde?"
+                                    ],
+                                    "guid": "Llst^jVK|v",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Катя живёт в Центральном районе Петербурга, в большой квартире в старом доме на Пушкинской улице.",
+                                        "Katja lebt in einem zentralen Stadtteil von St. Petersburg, in einer großen Wohnung in einem alten Haus in der Puschkin-Straße."
+                                    ],
+                                    "guid": "M|ze{d2ycP",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Лена тоже живёт в&nbsp;центре, но не в большой, а в очень маленькой квартире.",
+                                        "Lena lebt auch im Zentrum, aber nicht in einer großen, sondern in einer sehr kleinen Wohnung."
+                                    ],
+                                    "guid": "tbUH6{Ql0T",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В Гейдельберге Матиас и его родители живут на улице Бахштрассе в доме номер шесть.",
+                                        "In Heidelberg leben Matthias und seine Eltern in der Bachstraße im Haus Nummer 6."
+                                    ],
+                                    "guid": "PMhs6c4Ir5",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А в Петербурге Матиас живёт в&nbsp;студенческом общежитии.",
+                                        "Und in St. Petersburg lebt Matthias im Studentenwohnheim."
+                                    ],
+                                    "guid": "yL^:rKOawn",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Там у него небольшая и не очень уютная комната на пятом этаже.",
+                                        "Dort hat er ein kleines und nicht sehr gemütliches Zimmer in der 5. Etage."
+                                    ],
+                                    "guid": "B8SE4O`*sw",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В каком районе живёт Катя?",
+                                        "In was für einem Stadtteil lebt Katja?"
+                                    ],
+                                    "guid": "f;vP?7Qn|P",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В каком доме она живёт?",
+                                        "In was für einem Haus lebt sie?"
+                                    ],
+                                    "guid": "DKeGxkN|+R",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где живёт Матиас в Гейдельберге?",
+                                        "Wo lebt Matthias in Heidelberg?"
+                                    ],
+                                    "guid": "g)~XZ;-[7F",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "На каком этаже он живёт?",
+                                        "In welcher Etage lebt er?"
+                                    ],
+                                    "guid": "ve3%PB)V@0",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "На каком факультете они учатся?",
+                                        "In welcher Fakultät lernen sie?"
+                                    ],
+                                    "guid": "f1ZWqC$>Q8",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Петербургский университет - очень большой.",
+                                        "Die St. Petersburger Universität ist sehr groß."
+                                    ],
+                                    "guid": "F:W^U{Tp@8",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Там есть разные факультеты: медицинский, юридический, экономический, исторический и многие другие.",
+                                        "Dort sind verschiedene Fakultäten: die medizinische, jura-, wirtschaft-, geschichts- und viele andere."
+                                    ],
+                                    "guid": "I/8K?<yB=y",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Катя, Лена и Матиас учатся на экономическом факультете в Петербургском университете.",
+                                        "Katja, Lena und Matthias lernen an der Betriebswirtschaftsfakultät an der St. Petersburger Universität."
+                                    ],
+                                    "guid": "Chdf*%+m66",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У Кати есть брат.",
+                                        "Katja hat einen Bruder."
+                                    ],
+                                    "guid": "Du!(orY#mk",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он тоже студент в Петербурге.",
+                                        "Er ist auch Student in St. Petersburg."
+                                    ],
+                                    "guid": "JC$jo!9=Mt",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он учится на медицинском факультете.",
+                                        "Er lernt an der Medizinfakultät."
+                                    ],
+                                    "guid": "z.y{!A9Lo>",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Она учится на юридическом факультете.",
+                                        "Sie studiert an der Jurafakultät."
+                                    ],
+                                    "guid": "qow+8Q)#E6",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они учатся в Петербургском университете?",
+                                        "Studieren sie in der St. Petersburger Universität?"
+                                    ],
+                                    "guid": "ecu&Vo)_i-",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Лена учится на медицинском факультете?",
+                                        "Studiert Lena an der Medizinfakultät?"
+                                    ],
+                                    "guid": "yj:}.9&E&8",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         },
