@@ -17486,7 +17486,748 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "03 Sätze und Phrasen",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Иван Петрович, хотите кофе?",
+                                        "Ivan Petrovich, wollen Sie Kaffee?"
+                                    ],
+                                    "guid": "kr_%<:oFSF",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, спасибо, с удовольствием!",
+                                        "Ja, danke, mit Vergnügen!"
+                                    ],
+                                    "guid": "iOy<~[>I/J",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Анна Ивановна, а Вы?",
+                                        "Anna Ivanovna, und Sie?"
+                                    ],
+                                    "guid": "ADS0kv~KL]",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, спасибо, не сейчас!",
+                                        "Nein, danke, nicht jetzt!"
+                                    ],
+                                    "guid": "jA4;wp%oll",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Таня, что ты любишь делать?",
+                                        "Tanja, was liebst du zu tun?"
+                                    ],
+                                    "guid": "zdAiKepL8=",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я с удовольствнем слушаю музыку!",
+                                        "Ich höre mit Vergnügen Musik!"
+                                    ],
+                                    "guid": "d]dkE$Y%Ab",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Антон, ты вчера работал?",
+                                        "Anton, hast du gestern gearbeitet?"
+                                    ],
+                                    "guid": "ms3IJwK?W~",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, вчера я не работал.",
+                                        "Nein, ich habe gestern nicht gearbeitet."
+                                    ],
+                                    "guid": "Aq]*piZ)`)",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что ты вчера делала, Лиза?",
+                                        "Was hast du gestern gemacht, Lisa?"
+                                    ],
+                                    "guid": "lFy(B]wm3.",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Вчера я писала реферат.",
+                                        "Gestern habe ich eine Referat geschrieben."
+                                    ],
+                                    "guid": "n!i1PoOhx`",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где вы вчера обедали?",
+                                        "Wo habt ihr gestern zu mittag gegessen?"
+                                    ],
+                                    "guid": "L--wsMP%I<",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Вчера мы варили борщ и обедали дома.",
+                                        "Gestern haben wir Borschtsch gekocht und zu Hause mittaggegessen."
+                                    ],
+                                    "guid": "b45#CY4Tt!",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что ты вчера делал?",
+                                        "Was hast du gestern gemacht?"
+                                    ],
+                                    "guid": "rgj;{r63Yy",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где ты вчера ужинал?",
+                                        "Wo hast du gestern zu Abend gegessen?"
+                                    ],
+                                    "guid": "yyIt:3waGD",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты сегодня завтракал?",
+                                        "Hast du heute gefrühstückt?"
+                                    ],
+                                    "guid": "o~`lt$w7Fp",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты вчера гулял в парке?",
+                                        "Warst du gestern im Park spazieren?"
+                                    ],
+                                    "guid": "H880svH(%e",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты вчера варил борщ?",
+                                        "Hast du gestern Borschtsch gekocht?"
+                                    ],
+                                    "guid": "NhJZq02;7]",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что ты сегодня утром делал?",
+                                        "Was hast du heute morgen gemacht?"
+                                    ],
+                                    "guid": "y.b`Hjqo}u",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Вчера Алексей и его друзья вместе&nbsp;ужинали.",
+                                        "Gestern haben Aleksey und seine Freunde zusammen zu Abend gegessen."
+                                    ],
+                                    "guid": "Bl-`.,qcFo",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кто готовил?",
+                                        "Wer hat zubereitet?"
+                                    ],
+                                    "guid": "z;XBL+ZEPP",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Марина и Алексей готовили.",
+                                        "Marina und Aleksey haben (es) zubereitet."
+                                    ],
+                                    "guid": "iW}USc:k99",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они очень любят готовить.",
+                                        "Sie lieben es sehr (Essen) zuzubereiten."
+                                    ],
+                                    "guid": "bi);W(wmR>",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сначала друзья ели картошку, овощи, мясо и салат.",
+                                        "Zuerst aßen die Freunde Kartoffeln, Gemüse, Fleisch und Salat."
+                                    ],
+                                    "guid": "z:.zB6|co6",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они пили красное вино и воду.",
+                                        "Sie tranken Rotwein und Wasser."
+                                    ],
+                                    "guid": "uSb+!;M~w+",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А на десерт они ели торт.",
+                                        "Und zum Dessert aßen sie Torte."
+                                    ],
+                                    "guid": "w$bs#xu.L(",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А потом они играли на гитаре и пели.",
+                                        "Und danach spielten sie auf der Gitarre und sangen."
+                                    ],
+                                    "guid": "Kt9*?g}{O(",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где ужинали друзья, дома или в ресторане?",
+                                        "Wo aßen die Freunde zu abend, zu Hause oder im Restaurant?"
+                                    ],
+                                    "guid": "qLn[wSDbBL",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кто готовил ужин?",
+                                        "Wer hat das Abendessen vorbereitet?"
+                                    ],
+                                    "guid": "uBmk7w!g?1",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Друзья ели борщ?",
+                                        "Aßen die Freunde Borschtsch?"
+                                    ],
+                                    "guid": "u/-RhYo*JW",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какое вино они пили?",
+                                        "Welchen Wein tranken die Freunde?"
+                                    ],
+                                    "guid": "zld9(3O(-~",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А что они ели на десерт?",
+                                        "Und was aßen sie zum Dessert?"
+                                    ],
+                                    "guid": "pm9,%0=38:",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А что ты потом делал?",
+                                        "Und was hast du danach gemacht?"
+                                    ],
+                                    "guid": "K+ZvE3ZE(9",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты уже xopoшo&nbsp;говоришь по-русски?",
+                                        "Sprichst du schon gut auf Russisch?"
+                                    ],
+                                    "guid": "N0)-#ntWT>",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я говорю ещё медленно.",
+                                        "Ich spreche noch langsam."
+                                    ],
+                                    "guid": "pQ6L{w3.G;",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты хорошо понимаешь, что говорит доцент?",
+                                        "Verstehst du gut, was der Dozent sagt?"
+                                    ],
+                                    "guid": "Ad`>Eu/1R4",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты уже быстро читаешь по-русски?",
+                                        "Liest du schon schnell auf Russisch?"
+                                    ],
+                                    "guid": "x>([1fh)e9",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А ты уже давно там живёшь?",
+                                        "Und lebst du dort schon seit langem?"
+                                    ],
+                                    "guid": "l@~@_IxcT}",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где ты сейчас?",
+                                        "Wo bist du gerade?"
+                                    ],
+                                    "guid": "o.9(|3h&RD",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А я в библиотеке.",
+                                        "Und ich bin in der Bibliothek."
+                                    ],
+                                    "guid": "Cn7#O,J69.",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где ты был вчера вечером?",
+                                        "Wo warst du gestern abend?"
+                                    ],
+                                    "guid": "eIZfM1dN;w",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Вчера вечером я был дома.",
+                                        "Gestern abend war ich zu Hause."
+                                    ],
+                                    "guid": "DJKT=.JQRZ",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мой друг был в Австралии.",
+                                        "Mein Freund war in Australien."
+                                    ],
+                                    "guid": "oR^w&JMdXi",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где ты вчера был?",
+                                        "Wo warst du gestern?"
+                                    ],
+                                    "guid": "L4V7W~3>4Y",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А где была твоя подруга?",
+                                        "Und wo war deine Freundin?"
+                                    ],
+                                    "guid": "k`85Vp]g=Y",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты уже был в России?",
+                                        "Warst du schon in Russland?"
+                                    ],
+                                    "guid": "sb2Bm}qlW2",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Алексей никогда не был в Берлине.",
+                                        "Aleksey war (noch) nie in Berlin."
+                                    ],
+                                    "guid": "DBkyQRv9W6",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где ты будешь завтра?",
+                                        "Wo wirst du morgen sein?"
+                                    ],
+                                    "guid": "kDvF2#xdb{",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Марина и Катя - подруги.",
+                                        "Marina und Katja sind Freundinnen."
+                                    ],
+                                    "guid": "rd4?#u#~Jd",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Марина долго была в Лондоне на практике.",
+                                        "Marina war lange in London beim Praktikum."
+                                    ],
+                                    "guid": "bMhf!K9G._",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Катя, ты завтра будешь дома?",
+                                        "Katja, bist du morgen zu Hause?"
+                                    ],
+                                    "guid": "Pp)S/y<pD9",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, завтра мы будем на даче.",
+                                        "Nein, morgen sind wir im Sommerhaus."
+                                    ],
+                                    "guid": "lMfL%,I1d|",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А почему ты спрашиваешь?",
+                                        "Und warum fragst du?"
+                                    ],
+                                    "guid": "P246-czr.u",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Помнишь, я была в Лондоне?",
+                                        "Erinnerst du dich, ich war in London?"
+                                    ],
+                                    "guid": "Pya!gmMCxy",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У меня есть очень красивые фотографии.",
+                                        "Ich habe sehr schöne Fotos."
+                                    ],
+                                    "guid": "k56[vk[gWG",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Если хочешь, ...",
+                                        "Wenn du willst, ..."
+                                    ],
+                                    "guid": "EK?::sf0rL",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Знаешь что?",
+                                        "Weißt du was?"
+                                    ],
+                                    "guid": "v22#BoWO$w",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мы будем смотреть твои фотографии у нас на даче!",
+                                        "Wir werden deine Fotos bei uns im Sommerhaus schauen!"
+                                    ],
+                                    "guid": "y+f8XAJ_W+",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Прекрасная идея!",
+                                        "Wunderschöne Idee!"
+                                    ],
+                                    "guid": "dR-pO@KbK3",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где была Марина?",
+                                        "Wo war Marina?"
+                                    ],
+                                    "guid": "M/wcVlj^IL",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где завтра будет Катя?",
+                                        "Wo ist Katja morgen?"
+                                    ],
+                                    "guid": "pL(qm:tJZd",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что они будут делать на даче?",
+                                        "Was werden sie im Sommerhaus machen?"
+                                    ],
+                                    "guid": "jk2h&e%F)A",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какой сегодня день?",
+                                        "Welcher Tag ist heute?"
+                                    ],
+                                    "guid": "d7s{TF$Cg`",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сегодня вторник!",
+                                        "Heute ist Dienstag!"
+                                    ],
+                                    "guid": "d^om)_d`xE",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Катя, что ты будешь делать в субботу?",
+                                        "Katja, was wirst du am Samstag machen?"
+                                    ],
+                                    "guid": "c>^Wk},7Zr",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ещё не знаю, может быть, мы будем на дискотеке.",
+                                        "Weiß noch nicht, kann sein, (dass) wir in der Disko sind."
+                                    ],
+                                    "guid": "ej9D9r9Fa)",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где ты был в воскресенье?",
+                                        "Wo warst du am Sonntag?"
+                                    ],
+                                    "guid": "H0V)_.tRu<",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я был в Калуге.",
+                                        "Ich war in Kaluga."
+                                    ],
+                                    "guid": "dk!/[L^iT$",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Там живут мои родители.",
+                                        "Dort leben meine Eltern."
+                                    ],
+                                    "guid": "qI_Xo2t[84",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Когда вы будете отдыхать на даче, в пятницу или в субботу?",
+                                        "Wann werdet ihr euch am Sommerhaus erholen, am Freitag oder am Samstag?"
+                                    ],
+                                    "guid": "lDHNI2SKsj",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мы будем на даче в пятницу, в субботу и в воскресенье.",
+                                        "Wir sind am Sommerhaus am Freitag, am Samstag und am Sonntag."
+                                    ],
+                                    "guid": "Dj+r=ab{5F",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Вы работаете в понедельник?",
+                                        "Arbeiten Sie am Montag?"
+                                    ],
+                                    "guid": "CS#}EPn=06",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Лена была в Эрмитаже в пятницу?",
+                                        "War Lena am Freitag in der Eremitage?"
+                                    ],
+                                    "guid": "zH>BeuUZaV",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты будешь в Гамбурге в воскресенье?",
+                                        "Wirst du am Sonntag in Hamburg sein?"
+                                    ],
+                                    "guid": "tspw$0`5v8",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Виктор и Анна были в Москве в четверг?",
+                                        "Werden Viktor und Anna in Moskau sein am Donnerstag?"
+                                    ],
+                                    "guid": "Md(yOYv_Tb",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
