@@ -19365,7 +19365,688 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "03 Sätze und Phrasen",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Скажите, пожалуйста, какая это улица?",
+                                        "Sagen Sie, bitte, was ist das für eine Straße?"
+                                    ],
+                                    "guid": "sJp8cWJ)y9",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это улица Чехова.",
+                                        "Das ist die Tschechow-Straße."
+                                    ],
+                                    "guid": "ci/3Ew_G#|",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Большое спасибо!",
+                                        "Vielen Dank!"
+                                    ],
+                                    "guid": "sQQ?`Qw4qt",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Привет, ты куда?",
+                                        "Hallo, wohin (gehst) du?"
+                                    ],
+                                    "guid": "q]-*JG`2H&",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я в институт на лекцию, а ты?",
+                                        "Ich (gehe) zu einer Vorlesung ins Institut, und du?"
+                                    ],
+                                    "guid": "y&MxsM%n-8",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А я в библиотеку.",
+                                        "Und ich (gehe) in die Bibliothek."
+                                    ],
+                                    "guid": "LoHH/1.0Sl",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Привет, ты куда едешь?",
+                                        "Hallo, wohin fährst du?"
+                                    ],
+                                    "guid": "fU3tS41{/)",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В Гейдельберг.",
+                                        "Nach Heidelberg."
+                                    ],
+                                    "guid": "IKmZkn`J6Z",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Там живут мои&nbsp;друзья.",
+                                        "Dort leben meine Freunde."
+                                    ],
+                                    "guid": "ES[%4%!UNM",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Куда ты идёшь?",
+                                        "Wohin gehst du?"
+                                    ],
+                                    "guid": "e:l?f:)/GI",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сегодня четверг и я иду в бассейн.",
+                                        "Heute ist Donnerstag und ich gehe ins Schwimmbad."
+                                    ],
+                                    "guid": "AFqh/E4%(s",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты каждый четверг ходишь в бассейн?",
+                                        "Gehst du jeden Donnerstag ins Schwimmbad?"
+                                    ],
+                                    "guid": "Q8Nxso]GQV",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, каждый четверг.",
+                                        "Ja, jeden Donnerstag."
+                                    ],
+                                    "guid": "pcvN.l9f=)",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Завтра мы едем в Ригу.",
+                                        "Morgen fahren wir nach Riga."
+                                    ],
+                                    "guid": "R5Qhf&Tp0",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Вы часто туда ездите?",
+                                        "Fahrt ihr dort oft hin?"
+                                    ],
+                                    "guid": "KOZ$RTLFn0",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, не очень часто, но иногда ездим.",
+                                        "Nein, nicht sehr oft, aber manchmal fahren wir."
+                                    ],
+                                    "guid": "MWANBJ6xmS",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Куда ты часто ходишь?",
+                                        "Wohin gehst du häufig?"
+                                    ],
+                                    "guid": "vYUgIhnkUe",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Куда ты часто ездишь?",
+                                        "Wohin fährst du häufig?"
+                                    ],
+                                    "guid": "P;%@8!~,&1",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты каждый день ходишь в магазин?",
+                                        "Gehst du jeden Tag in den Laden?"
+                                    ],
+                                    "guid": "Koeg]%p8hA",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Куда ты никогда не ходишь?",
+                                        "Wohin gehst du nie?"
+                                    ],
+                                    "guid": "KtQnQba]Q;",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Куда ты идёшь в субботу?",
+                                        "Wohin gehst du am Samstag?"
+                                    ],
+                                    "guid": "Cxpdy6mkBw",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты часто туда ходишь?",
+                                        "Gehst du oft dorthin?"
+                                    ],
+                                    "guid": "sXgM;?TnMq",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Куда ты скоро едешь?",
+                                        "Wo fährst du selten hin?"
+                                    ],
+                                    "guid": "E<@@8-r,i2",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты сегодня идёшь в банк?",
+                                        "Gehst du heute zur Bank?"
+                                    ],
+                                    "guid": "kwXYfV$gHM",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "На чём ты ездишь в институт?",
+                                        "Womit fährst du zum Institut?"
+                                    ],
+                                    "guid": "dy`xk7?.*Q",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я езжу в институт на автобусе.",
+                                        "Ich fahre mit dem Bus zum Institut."
+                                    ],
+                                    "guid": "E[$R{t]x;W",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он ездит в университет на трамвае.",
+                                        "Er fährt mit der Straßenbahn zum Institut."
+                                    ],
+                                    "guid": "e3`*]G(aGj",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Куда вы едете в субботу?",
+                                        "Wo fahrt ihr Samstag hin?"
+                                    ],
+                                    "guid": "n=).tuw!%#",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мы едем в Москву.",
+                                        "Wir fahren nach Moskau."
+                                    ],
+                                    "guid": "CZyzUI#DEU",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты ездишь в институт или ходишь пешком?",
+                                        "Fährst du ins Institut oder gehst du zu Fuß?"
+                                    ],
+                                    "guid": "AOe^Sce`c0",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты ходишь на тренировки?",
+                                        "Gehst du zum Training?"
+                                    ],
+                                    "guid": "cznjzDq#5B",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Куда ты ездишь на велосипеде?",
+                                        "Wohin fährst du auf dem Fahrrad?"
+                                    ],
+                                    "guid": "Nsw-NZX;G&",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Куда мы едем летом?",
+                                        "Wohin fahren wir im Sommer?"
+                                    ],
+                                    "guid": "GPr(@E&h:<",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сегодня вечером Виктор и Ирина Кузнецовы дома.",
+                                        "Heute Abend sind Viktor und Irina Kuznetsov zu Hause."
+                                    ],
+                                    "guid": "=[pMdn&n5",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Их дети тоже здесь.",
+                                        "Ihre Kinder sind auch hier."
+                                    ],
+                                    "guid": "n(O-6!rS0y",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ирина спрашивает: ...",
+                                        "Irina fragt: ..."
+                                    ],
+                                    "guid": "xd9p-p%G<#",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Виктор, скоро лето, отпуск и каникулы.",
+                                        "Viktor, bald ist Sommer, Urlaub und Ferien."
+                                    ],
+                                    "guid": "ju&WHm*Q)`",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где мы будем отдыхать?",
+                                        "Wo werden wir uns erholen?"
+                                    ],
+                                    "guid": "eJFt98$45@",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, я серьёзно.",
+                                        "Nein, ich mein's ernst."
+                                    ],
+                                    "guid": "fPSO9_t~NB",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мы ещё не были в Испании.",
+                                        "Wir waren noch nie in Spanien."
+                                    ],
+                                    "guid": "dw(;9TRN49",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Хочешь в Испанию?",
+                                        "Willst du nach Spanien?"
+                                    ],
+                                    "guid": "JqL8]*;Cg5",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я хочу в Испанию!",
+                                        "Ich will nach Spanien!"
+                                    ],
+                                    "guid": "i-u$m4;L<[",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Хорошо, тогда решено, летом на каникулах мы едем в Испанию.",
+                                        "Gut, dann ist es abgemacht, im Sommer in den Ferien fahren wir nach Spanien."
+                                    ],
+                                    "guid": "eNG.z8%#j)",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А Марина и Алексей тоже едут?",
+                                        "Und fahren Marina und Aleksey auch?"
+                                    ],
+                                    "guid": "tt~Js~Vp_R",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, они едут в Германию.",
+                                        "Nein, sie fahren nach Deutschland."
+                                    ],
+                                    "guid": "lR1ohR]5w0",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где они ещё не были на отдыхе?",
+                                        "Wo waren sie noch nicht im Urlaub?"
+                                    ],
+                                    "guid": "LV&zBG;E$V",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они сегодня вечером работают?",
+                                        "Arbeiten sie heute abend?"
+                                    ],
+                                    "guid": "JZw&(@(XU>",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Куда они хотят поехать летом?",
+                                        "Wohin wollen sie im Sommer fahren?"
+                                    ],
+                                    "guid": "shjO0G$lx8",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где их дети?",
+                                        "Wo sind ihre Kinder?"
+                                    ],
+                                    "guid": "C:a*lomiaI",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где будут отдыхать Марина и Алексей?",
+                                        "Wo werden sich Marina und Aleksey erholen?"
+                                    ],
+                                    "guid": "wv~`_t5P[N",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что спрашивает Ирина?",
+                                        "Was fragt Irina?"
+                                    ],
+                                    "guid": "Fb[HR<2.%W",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Когда у тебя отпуск?",
+                                        "Wann hast du Urlaub?"
+                                    ],
+                                    "guid": "m5eA4StCNC",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя скоро отпуск?",
+                                        "Hast du bald Urlaub?"
+                                    ],
+                                    "guid": "G2qAJT&lT{",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, уже скоро, в мае.",
+                                        "Ja, schon bald, im Mai."
+                                    ],
+                                    "guid": "Or_X9*U91u",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мы едем в Италию.",
+                                        "Wir fahren nach Italien."
+                                    ],
+                                    "guid": "jWkH5.I+!9",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где ты любишь отдыхать зимой?",
+                                        "Wo liebst du es, im Winter auszuruhen?"
+                                    ],
+                                    "guid": "rf+AXywq=;",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Зимой я люблю отдыхать в Австрии.",
+                                        "Im Winter liebe ich es, in Österreich auszuruhen."
+                                    ],
+                                    "guid": "z&7lc[3N&l",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А летом?",
+                                        "Und im Sommer?"
+                                    ],
+                                    "guid": "Fs@lmx3p5K",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Куда вы едете летом?",
+                                        "Wohin fahrt ihr im Sommer?"
+                                    ],
+                                    "guid": "iQDw:EEej>",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В июле мы будем дома, а в августе мы едем отдыхать в Хорватию.",
+                                        "Im Juli werden wir zu Hause sein, aber im August fahren wir (zum) erholen nach Kroatien."
+                                    ],
+                                    "guid": "LF:WE[~$@?",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты часто ездишь в отпуск?",
+                                        "Fährst du häufig in den Urlaub?"
+                                    ],
+                                    "guid": "u=&E.wKD=#",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А куда ты обычно ездишь?",
+                                        "Und wohin fährst du gewöhnlich?"
+                                    ],
+                                    "guid": "z(Y!M&aVPD",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где ты отдыхал на каникулах?",
+                                        "Wo ruhtest du dich in den Ferien aus?"
+                                    ],
+                                    "guid": "leqleV@rYf",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Когда у тебя каникулы?",
+                                        "Wann hast du Ferien?"
+                                    ],
+                                    "guid": "q7WJX^tO|u",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А где ты будешь в августе?",
+                                        "Und wo wirst du im August sein?"
+                                    ],
+                                    "guid": "LUF#$#oQA=",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Когда ты любишь ездить в отпуск, зимой, весной, летом или осенью?",
+                                        "Wann liebst du es, in den Urlaub zu fahren, im Winter, im Frühling, im Sommer oder im Herbst?"
+                                    ],
+                                    "guid": "c^n>eyQb;S",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какой сейчас месяц?",
+                                        "Welcher Monat ist jetzt?"
+                                    ],
+                                    "guid": "sW]l$s0ad;",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А какое время года сейчас?",
+                                        "Und welche Jahreszeit ist gerade?"
+                                    ],
+                                    "guid": "N~wx&E6lu",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
