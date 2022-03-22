@@ -20757,7 +20757,418 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "03 Sätze und Phrasen",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя сегодня есть тренировка?",
+                                        "Hast du heute Training?"
+                                    ],
+                                    "guid": "nxoLHUDrx)",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, у меня сегодня есть тренировка.",
+                                        "Ja, ich habe heute Training."
+                                    ],
+                                    "guid": "AV2zmY2PW/",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У вас сегодня есть лекции и семинары?",
+                                        "Habt ihr heute Vorlesungen und Seminare?"
+                                    ],
+                                    "guid": "hFC!IB5xf4",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А какие?",
+                                        "Und welche?"
+                                    ],
+                                    "guid": "h#=2KrGW$G",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У нас сегодня русский язык.",
+                                        "Wir haben heute Russisch."
+                                    ],
+                                    "guid": "kup]dK8gqJ",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сегодня суббота. Света сегодня работает?",
+                                        "Heute ist Samstag. Arbeitet Sveta heute?"
+                                    ],
+                                    "guid": "J@qUV%[{zt",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, у неё сегодня рабочий день.",
+                                        "Ja, sie hat heute einen Arbeitstag."
+                                    ],
+                                    "guid": "L?HdPSvB2>",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А какая?",
+                                        "Und was für ein (Auto)?"
+                                    ],
+                                    "guid": "e<ISeA4g16",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А у тебя какая машина?",
+                                        "Und was hast du für ein Auto?"
+                                    ],
+                                    "guid": "fs;gDZTBUn",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Чей это ноутбук? Твой?",
+                                        "Wessen Laptop ist das? Deiner?"
+                                    ],
+                                    "guid": "K&EhV7>vkM",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это ноутбук Светы.",
+                                        "Der Laptop (gehört) Sveta."
+                                    ],
+                                    "guid": "pLZ]j]Ixwt",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У неё новый ноутбук?",
+                                        "Sie hat einen neuen Laptop?"
+                                    ],
+                                    "guid": "fU-R|y@<+#",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, у Светы новый ноутбук.",
+                                        "Ja, Sveta hat einen neuen Laptop."
+                                    ],
+                                    "guid": "B_VbP=-xWc",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, это машина Андрея.",
+                                        "Nein, das Auto (gehört) Andrej."
+                                    ],
+                                    "guid": "n{B-VIpE^?",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У Андрея новая машина?",
+                                        "Andrej hat ein neues Auto?"
+                                    ],
+                                    "guid": "K1V;>-B}wb",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, у него новая машина.",
+                                        "Ja, er hat ein neues Auto."
+                                    ],
+                                    "guid": "tQ1!n|7ht5",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, у меня синяя сумка!",
+                                        "Nein, ich habe eine blaue Tasche!"
+                                    ],
+                                    "guid": "MH7<*</D2v",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя красная сумка?",
+                                        "Hast du eine rote Tasche?"
+                                    ],
+                                    "guid": "kNA7]mEh7|",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "у вас белая машина?",
+                                        "Habt ihr ein weißes Auto?"
+                                    ],
+                                    "guid": "KA>|;l7NxC",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У Кати зелёные джинсы?",
+                                        "Hat Katja grüne Jeans?"
+                                    ],
+                                    "guid": "HFrSv#jm:c",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У Андрея чёрный велосипед?",
+                                        "Hat Andrej ein schwarzes Fahrrad?"
+                                    ],
+                                    "guid": "PiG.BA|;b:",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У Макса и Линды жёлтый дом?",
+                                        "Haben Max und Linda ein gelbes Haus?"
+                                    ],
+                                    "guid": "dAHMf9ZLH<",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У Лены оранжевая футболка?",
+                                        "Hat Lena ein orangenes T-Shirt?"
+                                    ],
+                                    "guid": "E]^N53I7iH",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А у тебя новый или старый ноутбук?",
+                                        "Und hast du einen oder alten Laptop?"
+                                    ],
+                                    "guid": "yl,(Z=>;Rn",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя есть кресло в комнате?",
+                                        "Hast du einen Sessel im Zimmer?"
+                                    ],
+                                    "guid": "x5.oP}u5v4",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя синее, красное или чёрное кресло?",
+                                        "Hast du einen blauen, roten oder schwarzen Sessel?"
+                                    ],
+                                    "guid": "mxB[@GfzI.",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты не знаешь, у Филиппа есть машина?",
+                                        "Weißt du nicht, (ob) Philipp ein Auto hat?"
+                                    ],
+                                    "guid": "L;f`w(QHgT",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А какая у него машина?",
+                                        "Und was für ein Auto hat er?"
+                                    ],
+                                    "guid": "Px2e|.Cy)`",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У вас дома есть телевизор?",
+                                        "Habt ihr einen Fernseher zu Hause?"
+                                    ],
+                                    "guid": "r2T8d/Hwtu",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А какой у вас телевизор, хороший или плохой?",
+                                        "Und was für einen Fernseher habt ihr, gut oder schlecht?"
+                                    ],
+                                    "guid": "O)%y4ng6I]",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Иду в магазин покупать продукты и вино.",
+                                        "(Ich) gehe in den Laden, Lebensmittel und Wein kaufen."
+                                    ],
+                                    "guid": "D++*@.hoUm",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У нас завтра будут гости из Германии.",
+                                        "Wir haben morgen Gäste aus Deutschland."
+                                    ],
+                                    "guid": "yVD(Ima{)r",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А откуда конкретно?",
+                                        "Und woher (kommen sie) genau?"
+                                    ],
+                                    "guid": "EL$9@r^rQ4",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А что ты завтра делаешь?",
+                                        "Und was machst du morgen?"
+                                    ],
+                                    "guid": "OU?|TGNTa~",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Из Гамбурга.",
+                                        "Aus Hamburg."
+                                    ],
+                                    "guid": "Q%QuG-TEWE",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У меня тоже завтра после обеда будут гости.",
+                                        "Ich habe morgen nach dem Mittagessen auch Gäste."
+                                    ],
+                                    "guid": "uZa<owtuGn",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Но не из Гамбурга, а из Ярославля.",
+                                        "Aber nicht aus Hamburg, sondern aus Jaroslawl."
+                                    ],
+                                    "guid": "Fa>T5G`-/0",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Скажи, пожалуйста, откуда ты?",
+                                        "Sag, bitte, woher (kommst) du?"
+                                    ],
+                                    "guid": "ubu$}|k9zH",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты не знаешь, откуда твой сосед?",
+                                        "Weißt du nicht, wo dein Nachbar her (kommt)?"
+                                    ],
+                                    "guid": "kSW5.OW{`T",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Извини, откуда твоя подруга и твой друг?",
+                                        "Entschuldige, woher (kommen) deine Freundin und dein Freund?"
+                                    ],
+                                    "guid": "dpBpWsM|0L",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты не знаешь, у кого есть красная ручка?",
+                                        "Weißt du nicht, wer einen roten Stift hat?"
+                                    ],
+                                    "guid": "s6)a-V)vDE",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
@@ -21298,6 +21709,356 @@
                                         "Russisch::Fragewort",
                                         "Russisch::Satz"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Алексей Иванович, это Маша, моя сестра.",
+                                        "Aleksey Ivanovich, das ist Mascha, meine Schwester."
+                                    ],
+                                    "guid": "Ck#z/z_=@5",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кого ты ждёшь?",
+                                        "Auf wen wartest du?"
+                                    ],
+                                    "guid": "mKLT>|yUgp",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я жду Машу.",
+                                        "Ich warte auf Mascha."
+                                    ],
+                                    "guid": "hvwz7%AW]_",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Почему Ирина не идёт в кафе?",
+                                        "Warum geht Irina nicht ins Café?"
+                                    ],
+                                    "guid": "iu<K,6Hr`e",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Она ждёт Юлию.",
+                                        "Sie wartet auf Julia."
+                                    ],
+                                    "guid": "Dgt_tFg9P[",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кого вы ждёте?",
+                                        "Auf wen wartet ihr?"
+                                    ],
+                                    "guid": "slSC&b1e/7",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мы ждём Сергея.",
+                                        "Wir warten auf Sergey."
+                                    ],
+                                    "guid": "zt9K=&BG=r",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кого ждут студенты?",
+                                        "Auf wen warten die Studenten?"
+                                    ],
+                                    "guid": "cc{47}nIj)",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они ждут доцента.",
+                                        "Sie warten auf den Dozenten."
+                                    ],
+                                    "guid": "fp>n94gnJ9",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где Наташа? Я уже давно её жду!",
+                                        "Wo ist Natascha? Ich warte schon lange auf sie!"
+                                    ],
+                                    "guid": "LGA!&0NTP*",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А почему ты её ждёшь?",
+                                        "Und warum wartest du auf sie?"
+                                    ],
+                                    "guid": "u@2;X}?@^d",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мы хотим идти в кафе.",
+                                        "Wir wollen ins&nbsp;Café gehen."
+                                    ],
+                                    "guid": "sl%hm61p*5",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какой у тебя номер телефона?",
+                                        "Was für eine Telefonnummer hast du?"
+                                    ],
+                                    "guid": "oV3Qjb&-I$",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Скажите, пожалуйста, который час?",
+                                        "Sagen Sie, bitte, wie viel Uhr ist es?"
+                                    ],
+                                    "guid": "ppZ@AKiC|%",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Во сколько ты будешь дома сегодня вечером?",
+                                        "Um wie viel Uhr wirst du heute abend zu Hause sein?"
+                                    ],
+                                    "guid": "J$giT$1hx/",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сегодня вечером? В восемь.",
+                                        "Heute abend? Um 8."
+                                    ],
+                                    "guid": "wWFLR;t3Wm",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сколько сейчас времени?",
+                                        "Wie viel Uhr ist es jetzt?"
+                                    ],
+                                    "guid": "n2a<>W@gPr",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Во сколько у тебя сегодня русский язык?",
+                                        "Um wie viel Uhr hast du heute Russisch?"
+                                    ],
+                                    "guid": "n0h,0eSKrB",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Во сколько ты идёшь домой?",
+                                        "Um wie viel Uhr gehst du heute nach Hause?"
+                                    ],
+                                    "guid": "d/aQJsgI)(",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Во сколько ты сегодня будешь дома?",
+                                        "Um wie viel Uhr wirst du heute zu Hause sein?"
+                                    ],
+                                    "guid": "K=B__Vi*.p",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Скоро, уже в субботу, у Кати будет день рождения.",
+                                        "Bald, schon am Samstag, wird Katja Geburtstag haben."
+                                    ],
+                                    "guid": "i?]n5?,$:Z",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сегодня понедельник.",
+                                        "Heute ist Montag."
+                                    ],
+                                    "guid": "t=c_0SZMNv",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Катя пишет приглашения на вечер.",
+                                        "Katja schreibt Einladungen am Abend."
+                                    ],
+                                    "guid": "vqa%cgikc@",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Она приглашает Марину, Алексея, Олега, Сергея, Надю, Лену и Веру.",
+                                        "Sie lädt Marina, Aleksey, Oleg, Sergey, Nadja, Lena und Vera ein."
+                                    ],
+                                    "guid": "p>CQGW8%-q",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Дорогая Марина, скоро у меня день рождения.",
+                                        "Liebe Marina, bald habe ich Geburtstag."
+                                    ],
+                                    "guid": "FU|vE2ndwG",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Приглашаю тебя на вечер!",
+                                        "Ich lade dich zum Abend ein!"
+                                    ],
+                                    "guid": "Gh{d:~=jiX",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где? У меня: улица Пушкина, дом 7, квартира 2.",
+                                        "Wo? Bei mir: Puschkinstraße, Haus 7, Wohnung 2."
+                                    ],
+                                    "guid": "v9Rslz93!$",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Когда? В эту субботу в 18.00.",
+                                        "Wann? An diesem Samstag um 18:00."
+                                    ],
+                                    "guid": "ek8Kxl6o_S",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Буду очень рада тебя видеть!",
+                                        "Werde mich sehr freuen, dich zu sehen!"
+                                    ],
+                                    "guid": "HrfdxY}Y;J",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кто пишет приглашение?",
+                                        "Wer schreibt die Einladung?"
+                                    ],
+                                    "guid": "gy(xFc@.Cn",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В какой день недели будет вечер?",
+                                        "An welchem Tag der Woche wird der Abend sein? (Geburtstagsfeier)"
+                                    ],
+                                    "guid": "yXS`Ex8-t1",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кого&nbsp;Катя приглашает на вечер?",
+                                        "Wen lädt Katja zum Abend ein?"
+                                    ],
+                                    "guid": "n-gM.9W`+0",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А что ты делаешь после ужина?",
+                                        "Und was machst du nach dem Abendessen?"
+                                    ],
+                                    "guid": "t)^uF+($s@",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя сегодня будут гости?",
+                                        "Wirst du heute Gäste haben?"
+                                    ],
+                                    "guid": "C4n>kaa5^:",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кого ты часто приглашаешь в гости?",
+                                        "Wen lädst du oft zu Gast ein?"
+                                    ],
+                                    "guid": "NqT+V0z+a]",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         },
@@ -25918,7 +26679,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>\n<div>\n<div>\n<div>\n<div>Нет, это мой родители.&nbsp;</div>\n</div>\n</div>\n</div></div>",
+                                        "<div>\n<div>\n<div>\n<div>\n<div>Нет, это мои родители.&nbsp;</div>\n</div>\n</div>\n</div></div>",
                                         "Nein, das sind meine Eltern."
                                     ],
                                     "guid": "D];@}v_1I",
