@@ -22577,7 +22577,298 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "03 Sätze und Phrasen",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Извините, здесь можно курить?",
+                                        "Entschuldigung, darf man hier rauchen?"
+                                    ],
+                                    "guid": "z;zP7RFG%|",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, можно!",
+                                        "Ja, darf man!"
+                                    ],
+                                    "guid": "Q4N^gjYqH:",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Извините, нельзя!",
+                                        "Entschuldigen Sie, darf man nicht!"
+                                    ],
+                                    "guid": "GyT=eYaR|L",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В университете можно курить?",
+                                        "Darf man in der Universität rauchen?"
+                                    ],
+                                    "guid": "gzIa8t+pnh",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В&nbsp;аудитории можно есть и пить?",
+                                        "Darf man im Hörsaal essen und trinken?"
+                                    ],
+                                    "guid": "fH5T_BCRD)",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В библиотеке можно слушать музыку?",
+                                        "Darf man in der Bibliothek Musik hören?"
+                                    ],
+                                    "guid": "DS_[(;t)P&",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В ресторане можно пить алкоголь?",
+                                        "Darf man im Restaurant Alkohol trinken?"
+                                    ],
+                                    "guid": "p(!&HuIvCx",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сколько тебе лет?",
+                                        "Wie alt bist du?"
+                                    ],
+                                    "guid": "C*9r&Y[:Aq",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мне двадцать один год, а тебе?",
+                                        "Ich bin 21 Jahre, und du?"
+                                    ],
+                                    "guid": "M+2+y~2fPT",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мне двадцать четыре года.",
+                                        "Ich bin 24 Jahre alt."
+                                    ],
+                                    "guid": "pKyY.fBA-@",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сколько ей лет?",
+                                        "Wie alt ist sie?"
+                                    ],
+                                    "guid": "I/-^Glb(ZZ",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ей шестнадцать лет.",
+                                        "Sie ist 16 Jahre alt."
+                                    ],
+                                    "guid": "n%<K>.lB}U",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сколько ему лет?",
+                                        "Wie alt ist er?"
+                                    ],
+                                    "guid": "P-5I!`U2og",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ему, как и мне, двадцать лет.",
+                                        "Er ist, wie auch ich, 20 Jahre alt."
+                                    ],
+                                    "guid": "x`$`S&7T[0",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Твоя бабушка молодая или старая?",
+                                        "Ist deine Großmutter jung oder alt?"
+                                    ],
+                                    "guid": "LXN8X<vwwP",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А твой дедушка тоже ещё не старый?",
+                                        "Und ist dein Großvater auch noch nicht alt?"
+                                    ],
+                                    "guid": "q6!.6rwxl%",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Саша, вы в воскресенье будете дома?",
+                                        "Sascha, werdet ihr Sonntag zu Hause sein?"
+                                    ],
+                                    "guid": "gtgOOPmf4[",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, мы едем в гости к бабушке.",
+                                        "Nein, wir fahren zu Gast zu Großmutter."
+                                    ],
+                                    "guid": "X5SXI_s5(",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "- Куда ты идёшь?<br>- К Виктору.",
+                                        "- Wohin gehst du?<br>- Zu Viktor."
+                                    ],
+                                    "guid": "IM6vyl!t/*",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "К кому? К Виктору?",
+                                        "Zu wem? Zu Viktor?"
+                                    ],
+                                    "guid": "MHUjjR/,tj",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Пишу имейл.",
+                                        "(Ich) lese Email(s)."
+                                    ],
+                                    "guid": "OL2>MihC5%",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "К кому ты часто ходишь в гости?",
+                                        "Zu wem gehst du oft zu Gast?"
+                                    ],
+                                    "guid": "z*Ur].=^o8",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А к кому ты часто ездишь?",
+                                        "Und zu wem fährst du oft?"
+                                    ],
+                                    "guid": "q@!%b*rxc(",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кому ты часто пишешь письма?",
+                                        "Wem schreibst du oft Briefe?"
+                                    ],
+                                    "guid": "E/mjF9z3]B",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кому ты покупаешь цветы?",
+                                        "Wem kaufst du Blumen?"
+                                    ],
+                                    "guid": "uEr#M7wdj`",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В субботу у Кати день рождения.",
+                                        "Am Samstag hat Katja Geburtstag."
+                                    ],
+                                    "guid": "AXQf`^CCrj",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В среду Марина пишет ей открытку: ...",
+                                        "Am Mittwoch schreibt Marina ihr eine Postkarte: ..."
+                                    ],
+                                    "guid": "MVXt@]WA[O",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Дорогая Катя,<br>сердечно поздравляю тебя с днём рождения!",
+                                        "Liebe Katja,<br>ich gratuliere dir herzlich zum heutigen Geburtstag!"
+                                    ],
+                                    "guid": "t!e6/KVj*C",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Желаю счастья, здоровья, удачи и много-много радости!",
+                                        "(Ich) wünsche Fröhlichkeit, Gesundheit, Glück und viel viel Freude!"
+                                    ],
+                                    "guid": "jH_pW!^yQn",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
