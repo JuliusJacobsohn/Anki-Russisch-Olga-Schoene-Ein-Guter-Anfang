@@ -26520,7 +26520,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<div>\n<div>\n<div>\n<div>\n<div>Давайте познакомимся! Меня зовут\nЛена.<br>\n</div>\n</div>\n</div>\n</div></div>",
-                                        "Lasst uns bekannt machen Ich heiße Lena."
+                                        "Lasst uns bekannt machen! Ich heiße Lena."
                                     ],
                                     "guid": "Aa=5|Hm0/W",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -26539,7 +26539,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>\n<div>\n<div>\n<div>\n<div>Добро пожаловать, Матйас.&nbsp;</div>\n</div>\n</div>\n</div></div>",
+                                        "<div>\n<div>\n<div>\n<div>\n<div>Добро пожаловать, Матиас.&nbsp;</div>\n</div>\n</div>\n</div></div>",
                                         "Willkommen Mathias."
                                     ],
                                     "guid": "pW8J5p$[qU",
@@ -26600,7 +26600,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<div>\n<div>\n<div>\n<div>\n<div>моя сестра Катя, дедушка Максим и бабушка Зина, папа и мама, дядя Коля и тётя Лида.&nbsp;</div>\n</div>\n</div>\n</div></div>",
-                                        "Meine Schwester Katya, Großvater Maxim und Großmutter Sina, Vater und Mutter, Onkel Kolya und Tante Lida."
+                                        "Meine Schwester Katya, Großvater Maxim und Großmutter Sina, Papa und Mama, Onkel Kolya und Tante Lida."
                                     ],
                                     "guid": "DmFy(%Uxf7",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -26619,7 +26619,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>\n<div>\n<div>\n<div>\n<div>Это твой сёстры?&nbsp;</div>\n</div>\n</div>\n</div></div>",
+                                        "<div>\n<div>\n<div>\n<div>\n<div>Это твои сёстры?&nbsp;</div>\n</div>\n</div>\n</div></div>",
                                         "Sind das deine Schwestern?"
                                     ],
                                     "guid": "J>r%;(h~T8",
@@ -26629,7 +26629,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>\n<div>\n<div>\n<div>\n<div>Нет, это мой подруги.&nbsp;</div>\n</div>\n</div>\n</div></div>",
+                                        "<div>\n<div>\n<div>\n<div>\n<div>Нет, это мои&nbsp;подруги.&nbsp;</div>\n</div>\n</div>\n</div></div>",
                                         "Nein, das sind meine Freunde."
                                     ],
                                     "guid": "Emdf8V&f9!",
@@ -26669,7 +26669,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>\n<div>\n<div>\n<div>\n<div>Это твой соседи?<br>\n</div>\n</div>\n</div>\n</div></div>",
+                                        "<div>\n<div>\n<div>\n<div>\n<div>Это твои соседи?<br>\n</div>\n</div>\n</div>\n</div></div>",
                                         "Sind das deine Nachbarn?"
                                     ],
                                     "guid": "lKECoI)*(}",
@@ -26699,7 +26699,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>\n<div>\n<div>\n<div>\n<div>Да, это мой дочери.&nbsp;</div>\n</div>\n</div>\n</div></div>",
+                                        "<div>\n<div>\n<div>\n<div>\n<div>Да, это мои дочери.&nbsp;</div>\n</div>\n</div>\n</div></div>",
                                         "Ja, das sind meine Töchter."
                                     ],
                                     "guid": "*eKJ|HS38",
@@ -26959,7 +26959,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>\n<div>\n<div>\n<div>Это мой родной гброд. Он называется Гамбург.&nbsp;</div>\n</div>\n</div></div>",
+                                        "<div>\n<div>\n<div>\n<div>Это мой родной город. Он называется Гамбург.&nbsp;</div>\n</div>\n</div></div>",
                                         "Das ist meine Heimatstadt. Sie heißt Hamburg."
                                     ],
                                     "guid": "v5;[i~5M<R",
