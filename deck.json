@@ -23755,6 +23755,756 @@
                                         "Russisch::A1::Kapitel16",
                                         "Russisch::Satz"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Давай пить чай!",
+                                        "Lass uns Tee trinken!"
+                                    ],
+                                    "guid": "l5}[DMnNE?",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Давайте завтра отдыхать у нас на даче!",
+                                        "Lasst uns morgen in unserem Sommerhaus ausruhen!"
+                                    ],
+                                    "guid": "c2pXpaKog7",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "К сожалению, я не могу.",
+                                        "Leider (mit Bedauern) kann ich nicht."
+                                    ],
+                                    "guid": "P2v8N&LlJz",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Игорь, давай играть в футбол!",
+                                        "Igor, lass uns Fußball spielen!"
+                                    ],
+                                    "guid": "vC=3<.n8d}",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Извини, я не могу!",
+                                        "Entschuldige, ich kann nicht!"
+                                    ],
+                                    "guid": "qwc:$wBzc6",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты что, не хочешь?",
+                                        "Was, du willst nicht?"
+                                    ],
+                                    "guid": "lH8NnM|VS[",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, я хочу, но я не могу.",
+                                        "Nein, ich will, aber ich kann nicht."
+                                    ],
+                                    "guid": "v=&<C@y:|z",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я должен писать реферат!",
+                                        "Ich muss ein Referat schreiben!"
+                                    ],
+                                    "guid": "gcHH4C<{f",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Наташа, почему ты смотришь телевизор?",
+                                        "Natascha, warum schaust du Fernsehen?"
+                                    ],
+                                    "guid": "dtxCT69tmU",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты ведь должна делать уроки.",
+                                        "Du musst doch Unterrichtsaufgaben machen."
+                                    ],
+                                    "guid": "hGW9EZ4qxn",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, должна, но я не могу!",
+                                        "Ja, muss ich, aber ich will nicht!"
+                                    ],
+                                    "guid": "N+y35M-2`&",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Почему же ты не можешь?",
+                                        "Warum willst du dann nicht?"
+                                    ],
+                                    "guid": "Ri(:)BEoD3",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Потому что мой учебник у Лены.",
+                                        "Weil mein Lehrbuch bei Lena ist."
+                                    ],
+                                    "guid": "y>6#z+{:UD",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты умеешь готовить?",
+                                        "Kannst du kochen (zubereiten)?"
+                                    ],
+                                    "guid": "B-IWredCx:",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Марта и Йонас сегодня в гостях у Марины и&nbsp;Алексея.",
+                                        "Marta und Jonas sind heute zu Gast bei Marina und Aleksey."
+                                    ],
+                                    "guid": "e<Il@s}X@e",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Алексей, ты хорошо готовишь?",
+                                        "Aleksey, kochst (zubereiten) du gut?"
+                                    ],
+                                    "guid": "zPY^`?S8]o",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, к сожалению, нет!",
+                                        "Nein, mit Bedauern, nein!"
+                                    ],
+                                    "guid": "J#ORI5{iqo",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я умею готовить только&nbsp;спагетти и томатный соус.",
+                                        "Ich kann nur Spaghetti und Tomatensauce kochen (zubereiten)."
+                                    ],
+                                    "guid": "Lv<qb7OCte",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А Марина хорошо умеет готовить?",
+                                        "Und Marina kann gut kochen (zubereiten)?"
+                                    ],
+                                    "guid": "cEwG<%y[Yh",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А она умеет варить борщ?",
+                                        "Und kann sie Borschtsch kochen?"
+                                    ],
+                                    "guid": "DP(9%&sn^=",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я тоже хочу уметь варить борщ!",
+                                        "Ich will auch Borschtsch kochen können!"
+                                    ],
+                                    "guid": "h%3^%[s)q_",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А что ты умеешь готовить?",
+                                        "Und was kannst du kochen (zubereiten)?"
+                                    ],
+                                    "guid": "vvw/?h&%Ht",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Твоя подруга умеет петь?",
+                                        "Kann deine Freundin singen?"
+                                    ],
+                                    "guid": "gE+|N8R)pT",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А ты умеешь играть на гитаре?",
+                                        "Und kannst du Gitarre spielen?"
+                                    ],
+                                    "guid": "f-F>xz+~Ft",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты хорошо умеешь говорить по-русски?",
+                                        "Kannst du gut Russisch sprechen?"
+                                    ],
+                                    "guid": "Q>hOWCJ]WA",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты умеешь играть в баскетбол?",
+                                        "Kannst du Basketball spielen?"
+                                    ],
+                                    "guid": "id|/a]-hOb",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я уже сделал уроки!",
+                                        "Ich habe schon Hausaufgaben gemacht!"
+                                    ],
+                                    "guid": "uJV5b#Z%?L",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Игорь, почему ты не делаешь уроки?",
+                                        "Igor, warum machst du keine Hausaufgaben?"
+                                    ],
+                                    "guid": "G2BL6wPh|D",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Потому что я их уже сделал!",
+                                        "Weil ich sie schon gemacht hab! (Hausaufgaben)"
+                                    ],
+                                    "guid": "F5/%Ba)wFJ",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Алексей, почему ты не читаешь письмо Марты?",
+                                        "Aleksey, warum liest du nicht den Brief von Marta?"
+                                    ],
+                                    "guid": "FOVD1Hs>BA",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я уже прочитал его!",
+                                        "Ich hab ihn schon gelesen! (Brief)"
+                                    ],
+                                    "guid": "uDv0:ALzi^",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Алексей, давай ужинать!",
+                                        "Aleksey, lass uns abendessen!"
+                                    ],
+                                    "guid": "suqoyX/Wup",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Спасибо, я уже поужинал!",
+                                        "Danke, ich habe schon zu Abend gegessen!"
+                                    ],
+                                    "guid": "s(htj2Fk:`",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мама, я хочу есть.",
+                                        "Mama, ich will essen."
+                                    ],
+                                    "guid": "fhM0M^kwCh",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Когда ты будешь готовить?",
+                                        "Wann wirst du kochen (zubereiten)?"
+                                    ],
+                                    "guid": "y8^;;A9O_{",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я уже приготовила обед!",
+                                        "Ich habe schon Mittagessen zubereitet!"
+                                    ],
+                                    "guid": "lOSpfC8T(u",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<ul><li>Почему ты не покупаешь билет?</li><li>Я уже купил.</li></ul>",
+                                        "<ul><li>Warum kaufst du kein Ticket?</li><li>Ich habe schon (eins) gekauft.</li></ul>"
+                                    ],
+                                    "guid": "y}%[geo.qC",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Раньше мы всегда покупали французское вино, но вчера купили итальянское.",
+                                        "Früher haben wir immer französischen Wein gekauft, aber gestern kauften wir italienischen."
+                                    ],
+                                    "guid": "Br4>su)1[5",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В четверг я долго делала уроки, но я не всё сделала.",
+                                        "Am Donnerstag habe ich lange Hausaufgaben gemacht, aber ich habe nicht alles gemacht."
+                                    ],
+                                    "guid": "lMd4p#|#J_",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Иван Иванович обычно приглашал соседа играть в шахматы, но на этот раз не пригласил.",
+                                        "Ivan Ivanowitsch lud gewöhnlich (seinen) Nachbarn (zum) Schachspielen ein, aber dieses mal lud (er ihn) nicht ein."
+                                    ],
+                                    "guid": "s(=:hA/L*c",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какие продукты ты обычно покупаешь?",
+                                        "Welche Produkte kaufst du gewöhnlich?"
+                                    ],
+                                    "guid": "B$^+hmwSrV",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А что ты вчера купил?",
+                                        "Und was kauftest du gestern?"
+                                    ],
+                                    "guid": "qh]7!e@5Iw",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты смотрел вчера фильмы?",
+                                        "Hast du gestern Filme gesehen?"
+                                    ],
+                                    "guid": "j+R|C]WCmY",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А какой фильм ты посмотрел?",
+                                        "Und welchen Film hast du gesehen?"
+                                    ],
+                                    "guid": "w$&?IO>rgA",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты пишешь работу?",
+                                        "Schreibst du eine (Klassen)arbeit?"
+                                    ],
+                                    "guid": "QSqry8vi:Q",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А ты уже много написал?",
+                                        "Und hast du schon viel geschrieben?"
+                                    ],
+                                    "guid": "z,r{n/bO|j",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты каждый день готовишь?",
+                                        "Kochst&nbsp;(zubereiten)&nbsp;du jeden Tag?"
+                                    ],
+                                    "guid": "i,yi;L8b&d",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А что ты вчера приготовил?",
+                                        "Und was hast du gestern gekocht (zubereitet)?"
+                                    ],
+                                    "guid": "ss>SQ}^K:K",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты часто приглашаешь подругу в кино или в ресторан?",
+                                        "Lädst du (deine) Freundin oft ins Kino oder ins Restaurant ein?"
+                                    ],
+                                    "guid": "j7OY<QJ2*[",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Куда ты её вчера пригласил?",
+                                        "Wohin hast du sie gestern eingeladen?"
+                                    ],
+                                    "guid": "Jy;:@MwGeT",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Скоро у Кати день рождения.",
+                                        "Bald hat Katja Geburtstag."
+                                    ],
+                                    "guid": "D>hKhk.ax",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Катя пригласила Марину на вечер.",
+                                        "Katja lud Marina zum Abend ein."
+                                    ],
+                                    "guid": "l9;DYCtzyN",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Марина должна купить подарок для Кати.",
+                                        "Marina muss ein ein Geschenk für Katja kaufen."
+                                    ],
+                                    "guid": "svs0<>D`&I",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сегодня у Марины была только одна лекция.",
+                                        "Heute hatte Marina nur eine Vorlesung."
+                                    ],
+                                    "guid": "O?s9mW7:X!",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "После лекции она идёт в центр.",
+                                        "Nach der Vorlesung fährt sie ins Zentrum."
+                                    ],
+                                    "guid": "{Ot),CxKe",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В центре, недалеко от станции метро, есть большой магазин «Пассаж».",
+                                        "Im Zentrum, nicht weit von der U-Bahn Station ist das große Geschäft \"Passage\"."
+                                    ],
+                                    "guid": "A^H7Ebq~_C",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Там можно купить хороший подарок.",
+                                        "Dort kann man (ein) gutes Geschenk kaufen."
+                                    ],
+                                    "guid": "P%IL9g9o@h",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Марина идёт в центр, а навстречу ей - Вера.",
+                                        "Marina geht ins Zentrum, und Vera kommt ihr entgegen."
+                                    ],
+                                    "guid": "bgV)t{tV0{",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Иду в «Пассаж».",
+                                        "(Ich) gehe in die \"Passage\"."
+                                    ],
+                                    "guid": "HGn|lK=/5}",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Хочу купить Кате подарок.",
+                                        "Ich will Katja (ein) Geschenk kaufen."
+                                    ],
+                                    "guid": "FC=YcVe|-}",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Она тебя тоже пригласила?",
+                                        "Hat sie dich auch eingeladen?"
+                                    ],
+                                    "guid": "dKtqB)OL&k",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, она меня пригласила.",
+                                        "Ja, sie hat mich eingeladen."
+                                    ],
+                                    "guid": "qOV~(6cW<U",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "И я уже купила ей подарок!",
+                                        "Und ich habe ihr schon (ein) Geschenk gekauft!"
+                                    ],
+                                    "guid": "m=r5s|%Np~",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что ты хочешь подарить Кате?",
+                                        "Was willst du Katja schenken?"
+                                    ],
+                                    "guid": "PfOTu0+2fj",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я хочу подарить ей новые диски.",
+                                        "Ich will ihr eine neue CD schenken."
+                                    ],
+                                    "guid": "o2[yYP)Ck*",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я хочу купить ей косметику.",
+                                        "Ich will ihr Kosmetik kaufen."
+                                    ],
+                                    "guid": "ARLd}D@k9~",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ну, пока, я должна идти.",
+                                        "Nun, tschüss, ich muss gehen."
+                                    ],
+                                    "guid": "Rh@k`:$l?V",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У кого скоро день рождения?",
+                                        "Wer hat bald Geburtstag?"
+                                    ],
+                                    "guid": "v^l=mRU5yF",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кто пригласил Марину на вечер?",
+                                        "Wer lädt Marina zum Abend ein?"
+                                    ],
+                                    "guid": "s&ris0j4*N",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Для кого Марина должна купить подарок?",
+                                        "Für wen muss Marina ein Geschenk kaufen?"
+                                    ],
+                                    "guid": "L1+5msJCF4",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Когда она идёт в центр?",
+                                        "Wann geht sie ins Zentrum?"
+                                    ],
+                                    "guid": "JGE5[f5OR1",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какой магазин есть в центре?",
+                                        "Welches Geschäft ist im Zentrum?"
+                                    ],
+                                    "guid": "Dy=Vd@^keE",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кто идёт Марине навстречу?",
+                                        "Wer geht Marina entgegen?"
+                                    ],
+                                    "guid": "LhNHzU)[2R",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что хочет купить Марина для Кати?",
+                                        "Was will Marina für Katja kaufen?"
+                                    ],
+                                    "guid": "CB|:=E[ts8",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что купила Вера Кате?",
+                                        "Was kaufte Vera Katja?"
+                                    ],
+                                    "guid": "dGr9qY*t7I",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         },
