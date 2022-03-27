@@ -27591,7 +27591,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<div>\n<div>\n<div>\n<div>\n<div>Катя, познакомься, это Матйас.\nМатйас, это Катя.<br>\n</div>\n</div>\n</div>\n</div></div>",
-                                        "Katja, lernen Sie Mathias kennen. Matthias, das ist Katja."
+                                        "Katja, machen Sie sich bekannt, das ist Matthias. Matthias, das ist Katja."
                                     ],
                                     "guid": "p;-2q;/O;r",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -27981,7 +27981,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<div>\n<div>\n<div>\n<div>\n<div>Какой его родной город?</div>\n</div>\n</div>\n</div></div>",
-                                        "Was ist seine Heimatstadt?"
+                                        "Was (für eine) ist seine Heimatstadt?"
                                     ],
                                     "guid": "jN8MjywzK@",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -28111,7 +28111,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Какой твой родной город?",
-                                        "Wie ist deine Heimatstadt?"
+                                        "Was (für eine) ist deine Heimatstadt?"
                                     ],
                                     "guid": "QPeN/H6S4`",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
