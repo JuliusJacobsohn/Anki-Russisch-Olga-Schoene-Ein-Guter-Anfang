@@ -25567,6 +25567,296 @@
                                         "Russisch::A1::Kapitel18",
                                         "Russisch::Satz"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты изучаешь геологию?",
+                                        "Du studierst Geologie?"
+                                    ],
+                                    "guid": "efS`hu/mok",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, я хочу стать геологом.",
+                                        "Ja, ich will Geologe werden."
+                                    ],
+                                    "guid": "Nk$+r&7%$0",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я изучаю математику и хочу работать учительницей.",
+                                        "Ich studiere Mathematik und will (als) Lehrer arbeiten."
+                                    ],
+                                    "guid": "wtTvbJ*BqA",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты занимаешься спортом?",
+                                        "Interessierst du dich für Sport?"
+                                    ],
+                                    "guid": "oU0Sckd^E8",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, я хожу на плавание.",
+                                        "Ja, ich gehe zum Schwimmen."
+                                    ],
+                                    "guid": "xOP(a_r7vI",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я на тренировку.",
+                                        "Ich (gehe) zum Training."
+                                    ],
+                                    "guid": "jTTPL5/z+^",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<ul><li>А чем ты занимаешься?</li><li>Баскетболом.</li></ul>",
+                                        "<ul><li>Und womit beschäftigst du dich?</li><li>Basketball.</li></ul>"
+                                    ],
+                                    "guid": "c~TI>i3+?s",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты сегодня будешь смотреть футбол?",
+                                        "Wirst du heute Fußball schauen?"
+                                    ],
+                                    "guid": "EiB9jO_=z5",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, я не интересуюсь футболом.",
+                                        "Nein, ich interessiere mich nicht für Fußball."
+                                    ],
+                                    "guid": "JJz5=W@|67",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Чем ты интересуешься?",
+                                        "Was interessiert dich?"
+                                    ],
+                                    "guid": "xR;`711wYs",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты ходишь на волейбол?",
+                                        "Gehst du zum Volleyball?"
+                                    ],
+                                    "guid": "kK$X{N>/wR",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты часто смотришь футбольные матчи?",
+                                        "Schaust du häufig Fußballmatches?"
+                                    ],
+                                    "guid": "KWGzz6NHIQ",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Твой друг интересуется политикой?",
+                                        "Interessiert sich dein Freund für Politik?"
+                                    ],
+                                    "guid": "s+uw[HP!xm",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты интересуешься культурой и искусством?",
+                                        "Interessierst du dich an Kultur und Kunst?"
+                                    ],
+                                    "guid": "N[O8<F&xqa",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Скоро они едут домой.",
+                                        "Bald fahren sie nach Hause."
+                                    ],
+                                    "guid": "G__a/97AYb",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Марта, вы уже купили сувениры?",
+                                        "Marta, habt ihr schon Souverniers gekauft?"
+                                    ],
+                                    "guid": "p[RyS;B25Z",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мы уже купили красивый календарь, зефир и матрёшку для мамы и папы.",
+                                        "Wir haben schon einen schönen Kalender, russische Schaumküsse und eine Matroschka für Mama und Papa gekauft."
+                                    ],
+                                    "guid": "ht-QklV#ZV",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А ещё мы хотим купить хороший русско-немецкий словарь для мамы и папы Йонаса.",
+                                        "Und außerdem wollen wir ein gutes Russisch-Deutsch Wörterbuch für die Mama und Papa von Jonas kaufen."
+                                    ],
+                                    "guid": "PZ}pIcr:p3",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Йонас, а твои родители интересуются историей?",
+                                        "Jonas, und deine Eltern interessieren sich für Geschichte?"
+                                    ],
+                                    "guid": "mYuzTvnl2w",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У меня есть очень интересная книга: «Война с Наполеоном».",
+                                        "Ich habe ein sehr interessentas Buch: \"Der Krieg mit Napoleon\"."
+                                    ],
+                                    "guid": "F/Yaw-31xb",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, они очень интересуются историей.",
+                                        "Ja, sie interessieren sich sehr für Geschichte."
+                                    ],
+                                    "guid": "HB4fx<eZ06",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ну вот и прекрасно!",
+                                        "Nun, das ist wunderschön!"
+                                    ],
+                                    "guid": "PZ|bq2[fV,",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это будет подарок от нас!",
+                                        "Das wird das Geschenk von uns!"
+                                    ],
+                                    "guid": "iByB4l0y]$",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Куда они скоро едут?",
+                                        "Wohin fahren sie bald?"
+                                    ],
+                                    "guid": "dJo!4YuArt",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какие сувениры они уже купили?",
+                                        "Welche Souverniers haben sie schon gekauft?"
+                                    ],
+                                    "guid": "kZ;,)$b:+c",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Для кого они хотят купить русско-немецкий словарь?",
+                                        "Für wen wollten sie ein Russisch-Deutsch Wörterbuch kaufen?"
+                                    ],
+                                    "guid": "P9a`QKj~Xp",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какая книга есть у&nbsp;Марины?",
+                                        "Was für ein Buch hat Marina?"
+                                    ],
+                                    "guid": "ne&)wHQq,.",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Эта книга по-русски?",
+                                        "Ist das Buch auf Russisch?"
+                                    ],
+                                    "guid": "nWlqdyjDpV",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Чем интересуются родители Йонаса?",
+                                        "Was interessiert die Eltern von Jonas?"
+                                    ],
+                                    "guid": "O09$HLexVT",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         },
