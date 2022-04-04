@@ -10037,7 +10037,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Марта и йонас, где вы живёте?",
+                                        "Марта и Йонас, где вы живёте?",
                                         "Marta und Jonas, wo lebt ihr?"
                                     ],
                                     "guid": "Q.{vC|2[*n",
@@ -28061,7 +28061,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<div>\n<div>\n<div>\n<div>\n<div>У тебя есть братья и сёстры?&nbsp;</div>\n</div>\n</div>\n</div></div>",
-                                        "Hast du einen Brüder und Schwestern?"
+                                        "Hast du Brüder und Schwestern?"
                                     ],
                                     "guid": "e^_/JJ55>?",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
