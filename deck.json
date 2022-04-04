@@ -39696,6 +39696,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
+            "buryInterdayLearning": false,
             "crowdanki_uuid": "2660121f-2d30-11ec-975e-0c7a15ee466f",
             "dyn": false,
             "interdayLearningMix": 0,
@@ -39744,6 +39745,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
+            "buryInterdayLearning": false,
             "crowdanki_uuid": "33f77b33-a24d-11ec-9a12-0c7a15ee466f",
             "dyn": false,
             "interdayLearningMix": 0,
@@ -39792,6 +39794,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
+            "buryInterdayLearning": false,
             "crowdanki_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
             "dyn": false,
             "interdayLearningMix": 0,
@@ -39840,6 +39843,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
+            "buryInterdayLearning": false,
             "crowdanki_uuid": "721d8527-8426-11ec-bf7f-0c7a15ee466f",
             "dyn": false,
             "interdayLearningMix": 0,
@@ -39888,6 +39892,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
+            "buryInterdayLearning": false,
             "crowdanki_uuid": "721f32ce-8426-11ec-9122-0c7a15ee466f",
             "dyn": false,
             "interdayLearningMix": 0,
@@ -39936,6 +39941,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
+            "buryInterdayLearning": false,
             "crowdanki_uuid": "722043f1-8426-11ec-b909-0c7a15ee466f",
             "dyn": false,
             "interdayLearningMix": 0,
@@ -39984,6 +39990,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
+            "buryInterdayLearning": false,
             "crowdanki_uuid": "7221a385-8426-11ec-a063-0c7a15ee466f",
             "dyn": false,
             "interdayLearningMix": 0,
@@ -40032,6 +40039,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
+            "buryInterdayLearning": false,
             "crowdanki_uuid": "347d2b80-a24d-11ec-ad35-0c7a15ee466f",
             "dyn": false,
             "interdayLearningMix": 0,
@@ -40718,6 +40726,7 @@
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
             "flds": [
                 {
+                    "description": "",
                     "font": "Arial",
                     "name": "Text",
                     "ord": 0,
@@ -40726,6 +40735,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Arial",
                     "name": "Back Extra",
                     "ord": 1,
@@ -40769,6 +40779,7 @@
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
             "flds": [
                 {
+                    "description": "",
                     "font": "Arial",
                     "name": "Front",
                     "ord": 0,
@@ -40777,6 +40788,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Arial",
                     "name": "Back",
                     "ord": 1,
@@ -40820,6 +40832,7 @@
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
             "flds": [
                 {
+                    "description": "",
                     "font": "Arial",
                     "name": "Text",
                     "ord": 0,
@@ -40828,6 +40841,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Arial",
                     "name": "Back Extra",
                     "ord": 1,
