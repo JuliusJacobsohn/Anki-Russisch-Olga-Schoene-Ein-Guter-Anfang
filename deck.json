@@ -25018,6 +25018,596 @@
                                         "Russisch::A1::Kapitel17",
                                         "Russisch::Satz"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Приходите к нам в воскресенье!",
+                                        "Besuchen Sie uns am Sonntag!"
+                                    ],
+                                    "guid": "u{@wzelfH,",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Иван Иванович, господин Кох уже ждёт Вас.",
+                                        "Ivan Ivanovich, Herr Koch wartet schon auf Sie."
+                                    ],
+                                    "guid": "gLe0L`JG_)",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Спасибо за информацию, Зина!",
+                                        "Danke für die Info, Sina!"
+                                    ],
+                                    "guid": "hIl(ck8.>$",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Марина, ты позвонила Кате?",
+                                        "Marina, hast du Katja angerufen?"
+                                    ],
+                                    "guid": "poR|`>]qw;",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, я ей звонила, но она не отвечает.",
+                                        "Ja, ich habe sie angerufen, aber sie antwortet nicht."
+                                    ],
+                                    "guid": "G#Y^u*w-_E",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Позвони ещё раз!",
+                                        "Ruf nochmal an!"
+                                    ],
+                                    "guid": "f9.`5`1!A=",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты можешь мне позвонить?",
+                                        "Kannst du mich anrufen?"
+                                    ],
+                                    "guid": "iKM2r5hhP-",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, конечно!",
+                                        "Ja, gerne!"
+                                    ],
+                                    "guid": "usP`8F)ooc",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какой у тебя номер?",
+                                        "Was ist deine (Telefon)nummer?"
+                                    ],
+                                    "guid": "q^Rr|N_O,X",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Скажи мне, пожалуйста, твой номер телефона.",
+                                        "Sage mir, bitte, deine Telefonnummer."
+                                    ],
+                                    "guid": "rRe|&Db_5;",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Кому ты сегодня должен позвонить?",
+                                        "Wen sollst du heute anrufen?"
+                                    ],
+                                    "guid": "C:,ePqEV3<",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты часто звонишь им?",
+                                        "Rufst du sie (Pl.) oft an?"
+                                    ],
+                                    "guid": "E|YG1<Gy0Y",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Марина говорит с мамой по телефону.",
+                                        "Marina spricht mit (ihrer) Mutter am Telefon."
+                                    ],
+                                    "guid": "C+lfb+[{{K",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Привет, мамочка!",
+                                        "Hallo, Mutti!"
+                                    ],
+                                    "guid": "u%!!5g7R^p",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Марина, где вы будете в субботу вечером?",
+                                        "Marina, wo werdet ihr Samstag abend sein?"
+                                    ],
+                                    "guid": "rY{#5rLs@y",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В субботу вечером мы идём в гости к Кате.",
+                                        "Am Samstag abend gehen wir zu Gast zu Katja."
+                                    ],
+                                    "guid": "E*2zWS%/?A",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У&nbsp;неё будет день рождения.",
+                                        "Sie wird Geburtstag haben."
+                                    ],
+                                    "guid": "jD|!|]5/.P",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они тоже идут с нами.",
+                                        "Sie gehen auch mit uns."
+                                    ],
+                                    "guid": "lM}5`@<4^M",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А что ты хотела?",
+                                        "Und was wolltest du (f.)?"
+                                    ],
+                                    "guid": "Kz0oCa<G~:",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В субботу вечером мы с папой идём в театр.",
+                                        "Am Samstag abend gehen wir mit Papa ins Theater."
+                                    ],
+                                    "guid": "PPw(6N6>;q",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Спасибо, мама, в другой раз!",
+                                        "Danke, Mama, an einem anderen Mal!"
+                                    ],
+                                    "guid": "n5$7a}_ija",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "С кем Марина говорит по телефону?",
+                                        "Mit wem redet Marina am Telefon?"
+                                    ],
+                                    "guid": "fime79,Vmt",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "С кем она идёт на День рождения?",
+                                        "Mit wem geht sie zum Geburtstag?"
+                                    ],
+                                    "guid": "Jlm/oiV[ws",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Куда идут её родители в субботу вечером?",
+                                        "Wohin gehen ihre Eltern am Samstag abend?"
+                                    ],
+                                    "guid": "i_j#00*fH=",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Почему позвонила мама Марины?",
+                                        "Warum rief Mama Marina an?"
+                                    ],
+                                    "guid": "dTv^LG<c*^",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "С чем ты ешь бутерброды?",
+                                        "Womit (belegt) isst du Butterbrote?"
+                                    ],
+                                    "guid": "CU{e+G_03F",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "С колбасой и с сыром?",
+                                        "Mit Wurst und mit Käse?"
+                                    ],
+                                    "guid": "MO|<8St$Y=",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я ем с сыром, но без колбасы.",
+                                        "Ich esse (Brote) mit Käse, aber ohne Wurst."
+                                    ],
+                                    "guid": "N=b;q=+rNZ",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты будешь кофе с молоком и с сахаром?",
+                                        "Willst du Kaffee mit Milch oder mit Zucker?"
+                                    ],
+                                    "guid": "dHG_hp+_v.",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я пью с молоком, но без сахара.",
+                                        "Ich trinke (Kaffee) mit Milch, aber ohne Zucker."
+                                    ],
+                                    "guid": "F74Ns3KN{m",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я люблю чёрный чай с лимоном.",
+                                        "Ich liebe schwarzen Tee mit Zitrone."
+                                    ],
+                                    "guid": "drti:<!!n6",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я тоже пью с лимоном.",
+                                        "Ich trinke (Tee) auch&nbsp;mit Zitrone."
+                                    ],
+                                    "guid": "Po|/[AJs|7",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Лена, ты где учишься?",
+                                        "Lena, wo studierst du?"
+                                    ],
+                                    "guid": "vYCNoy_.Ub",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я учусь в университете.",
+                                        "Ich studiere an der Universität."
+                                    ],
+                                    "guid": "l|t_vK)u!w",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А что ты изучаешь?",
+                                        "Und was lernst du?"
+                                    ],
+                                    "guid": "KqF{dx5sZw",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я изучаю экономику.",
+                                        "Ich lerne Betriebswirtschaftslehre."
+                                    ],
+                                    "guid": "FC$I~&Y>2{",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Твой друг уже работает?",
+                                        "Arbeitet dein Freund schon?"
+                                    ],
+                                    "guid": "Kn49^_TA|4",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, он ещё учится.",
+                                        "Nein, er studiert noch."
+                                    ],
+                                    "guid": "M4V?[rjVE/",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Скажи, ты учишься или работаешь?",
+                                        "Sag (mir), studierst oder arbeitest du?"
+                                    ],
+                                    "guid": "oltXnY;O22",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какой предмет ты изучаешь?",
+                                        "Welches Fach studierst du?"
+                                    ],
+                                    "guid": "LF8LY8CXM,",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где учится твоя подруга?",
+                                        "Wo studiert deine Freundin?"
+                                    ],
+                                    "guid": "HgVj)v`lY:",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какой предмет она изучает?",
+                                        "Welches Fach studiert sie?"
+                                    ],
+                                    "guid": "Q^qRm-NNcC",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Твой друг учится в Гейдельберге?",
+                                        "Studiert dein Freund in Heidelberg?"
+                                    ],
+                                    "guid": "Q_EBCmq9>|",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он изучает медицину.",
+                                        "Er studiert Medizin."
+                                    ],
+                                    "guid": "PdTzh5jA^H",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мама Марины - учительница.",
+                                        "Die Mutter Marinas ist Lehrerin."
+                                    ],
+                                    "guid": "B_e4S7NoH}",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Её зовут Нина&nbsp;Петровна.",
+                                        "Sie heißt Nina Petrovna."
+                                    ],
+                                    "guid": "q`vl}0|67V",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сейчас она работает в гимназии.",
+                                        "Jetzt arbeitet sie im Gymnasium."
+                                    ],
+                                    "guid": "M?uT4?ct^7",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нина Петровна училась в Петербурге в университете.",
+                                        "Nina Petrovna studierte in St. Petersburg in der Universität."
+                                    ],
+                                    "guid": "-tVgsL]`8",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Она изучала русский язык и литературу.",
+                                        "Sie studierte Russisch und Literatur."
+                                    ],
+                                    "guid": "x~G9q=bDMV",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Её муж и отец Марины, Павел Иванович, тоже учился в университете в Петербурге.",
+                                        "Ihr Mann und der Vater Marinas, Pavel Ivanovich, studierte auch an der Universität in St. Petersburg."
+                                    ],
+                                    "guid": "Fm4_}{Hc>m",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Но он изучал не филологию, а математику.",
+                                        "Aber er studierte nicht Philologie, sondern Mathematik."
+                                    ],
+                                    "guid": "FZ_PjZr[*A",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Павел дружил с Ниной уже в университете.",
+                                        "Pavel war schon in der Universität mit Nina befreundet."
+                                    ],
+                                    "guid": "f`>u=ri8O#",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А на каникулах они часто вместе ездили отдыхать.",
+                                        "Und in den Ferien fuhren sie oft zusammen erholen."
+                                    ],
+                                    "guid": "gwGy[T@*^z",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где учились Нина и Павел?",
+                                        "Wo studierten Nina und Pavel?"
+                                    ],
+                                    "guid": "KhG^V]_}!y",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какой предмет изучала Нина?",
+                                        "Welche Fächer studierte Nina?"
+                                    ],
+                                    "guid": "F=2]+[hTNB",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какой предмет изучал Павел?",
+                                        "Welches Fach studierte Pavel?"
+                                    ],
+                                    "guid": "M2xNY52|%-",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "С кем Павел часто отдыхал на каникулах?",
+                                        "Mit wem erholte sich Pavel oft in den Ferien?"
+                                    ],
+                                    "guid": "fq:z-fe)2.",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "С кем ты дружишь?",
+                                        "Mit wem bist du befreundet?"
+                                    ],
+                                    "guid": "l:)-SKZOr%",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "С кем ты часто отдыхаешь на каникулах?",
+                                        "Mit wem ruhst du dich oft in den Ferien aus?"
+                                    ],
+                                    "guid": "Q3yO6gf-U0",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         },
