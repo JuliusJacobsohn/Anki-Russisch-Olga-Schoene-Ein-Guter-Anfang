@@ -9,16 +9,13 @@ Zudem werden diverse Grammatikfragen, Konjugationen und auch ganze Sätze abgefr
 ## Installation
 
 1. Anki herunterladen https://apps.ankiweb.net/
-2. CrowdAnki installieren https://ankiweb.net/shared/info/17886707782
+2. CrowdAnki installieren https://ankiweb.net/shared/info/1788670778
 3. In Anki via "CrowdAnki: Import from git repository" importieren, URL: https://github.com/JuliusJacobsohn/Anki-Russisch-Olga-Schoene-Ein-Guter-Anfang/
 
 ## Todo
 
-* Klare Trennung zwischen Vokabel und Grammatik. Alle mit "Extra Fragen" in andere Notes extrahieren.
-* Verben in neues Format umwandeln
-* 
+* Verben in neues Format umwandeln* 
 * Texte vom Buch eintragen
-* TTS für Sätze
 * Cloze Aufgaben für Grammatikaufgaben
 * Andere Aufgaben auch übertragen
 * Auf ankiweb publishen
