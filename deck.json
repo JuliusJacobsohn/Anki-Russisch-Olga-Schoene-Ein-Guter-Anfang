@@ -45393,7 +45393,7 @@
                 {
                     "description": "",
                     "font": "Arial",
-                    "name": "Front",
+                    "name": "Russisch",
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
@@ -45402,7 +45402,7 @@
                 {
                     "description": "",
                     "font": "Arial",
-                    "name": "Front Extra",
+                    "name": "Russisch Extra",
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
@@ -45411,7 +45411,7 @@
                 {
                     "description": "",
                     "font": "Arial",
-                    "name": "Back",
+                    "name": "Deutsch",
                     "ord": 2,
                     "rtl": false,
                     "size": 20,
@@ -45420,7 +45420,7 @@
                 {
                     "description": "",
                     "font": "Arial",
-                    "name": "Back Extra",
+                    "name": "Deutsch Extra",
                     "ord": 3,
                     "rtl": false,
                     "size": 20,
@@ -45429,7 +45429,7 @@
                 {
                     "description": "",
                     "font": "Arial",
-                    "name": "Both Extra Question",
+                    "name": "Beidseitige Frage",
                     "ord": 4,
                     "rtl": false,
                     "size": 20,
@@ -45438,7 +45438,7 @@
                 {
                     "description": "",
                     "font": "Arial",
-                    "name": "Both Extra Answer",
+                    "name": "Beidseitige Antwort",
                     "ord": 5,
                     "rtl": false,
                     "size": 20,
@@ -45460,21 +45460,13 @@
             "req": [
                 [
                     0,
-                    "any",
-                    [
-                        0,
-                        1,
-                        4
-                    ]
+                    "none",
+                    []
                 ],
                 [
                     1,
-                    "any",
-                    [
-                        2,
-                        3,
-                        4
-                    ]
+                    "none",
+                    []
                 ]
             ],
             "sortf": 0,
@@ -45486,7 +45478,7 @@
             ],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}{{#Back Extra}}<p class=\"small\">&nbsp;{{Back Extra}}{{/Back Extra}}{{#Both Extra Answer}}<p class=\"small\">&nbsp;{{Both Extra Answer}}{{/Both Extra Answer}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Deutsch}}{{#Deutsch Extra}}<p class=\"small\">&nbsp;{{Deutsch Extra}}{{/Deutsch Extra}}{{#Beidseitige Antwort}}<p class=\"small\">&nbsp;{{Beidseitige Antwort}}{{/Beidseitige Antwort}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -45494,11 +45486,11 @@
                     "did": null,
                     "name": "Russisch>Deutsch",
                     "ord": 0,
-                    "qfmt": "{{Front}}{{#Front Extra}}<p class=\"small\">&nbsp;{{Front Extra}}{{/Front Extra}}{{#Both Extra Question}}<p class=\"small\">&nbsp;{{Both Extra Question}}{{/Both Extra Question}}",
+                    "qfmt": "{{Russisch}}{{#Russisch Extra}}<p class=\"small\">&nbsp;{{Russisch Extra}}{{/Russisch Extra}}{{#Beidseitige Frage}}<p class=\"small\">&nbsp;{{Beidseitige Frage}}{{/Beidseitige Frage}}",
                     "scratchPad": false
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}{{#Front Extra}}<p class=\"small\">&nbsp;{{Front Extra}}{{/Front Extra}}{{#Both Extra Answer}}<p class=\"small\">&nbsp;{{Both Extra Answer}}</p>{{/Both Extra Answer}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Russisch}}{{#Russisch Extra}}<p class=\"small\">&nbsp;{{Russisch Extra}}{{/Russisch Extra}}{{#Beidseitige Antwort}}<p class=\"small\">&nbsp;{{Beidseitige Antwort}}</p>{{/Beidseitige Antwort}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -45506,7 +45498,7 @@
                     "did": null,
                     "name": "Deutsch>Russisch",
                     "ord": 1,
-                    "qfmt": "{{Back}}{{#Back Extra}}<p class=\"small\">&nbsp;{{Back Extra}}</p>{{/Back Extra}}{{#Both Extra Question}}<p class=\"small\">&nbsp;{{Both Extra Question}}</p>{{/Both Extra Question}}",
+                    "qfmt": "{{Deutsch}}{{#Deutsch Extra}}<p class=\"small\">&nbsp;{{Deutsch Extra}}</p>{{/Deutsch Extra}}{{#Beidseitige Frage}}<p class=\"small\">&nbsp;{{Beidseitige Frage}}</p>{{/Beidseitige Frage}}",
                     "scratchPad": true
                 }
             ],
@@ -45520,7 +45512,7 @@
                 {
                     "description": "",
                     "font": "Arial",
-                    "name": "Front",
+                    "name": "Grammatikfrage",
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
@@ -45529,7 +45521,7 @@
                 {
                     "description": "",
                     "font": "Arial",
-                    "name": "Back",
+                    "name": "Grammatikantwort",
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
@@ -45543,16 +45535,14 @@
             "req": [
                 [
                     0,
-                    "any",
-                    [
-                        0
-                    ]
+                    "none",
+                    []
                 ]
             ],
             "sortf": 0,
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Grammatikantwort}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -45560,7 +45550,7 @@
                     "did": null,
                     "name": "Grammatik",
                     "ord": 0,
-                    "qfmt": "{{Front}}"
+                    "qfmt": "{{Grammatikfrage}}"
                 }
             ],
             "type": 0
@@ -45855,7 +45845,7 @@
                 {
                     "description": "",
                     "font": "Arial",
-                    "name": "Front",
+                    "name": "Aufgabe",
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
@@ -45864,7 +45854,7 @@
                 {
                     "description": "",
                     "font": "Arial",
-                    "name": "Back",
+                    "name": "Antwort",
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
@@ -45878,16 +45868,14 @@
             "req": [
                 [
                     0,
-                    "any",
-                    [
-                        0
-                    ]
+                    "none",
+                    []
                 ]
             ],
             "sortf": 0,
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Antwort}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -45895,7 +45883,7 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "{{Front}}"
+                    "qfmt": "{{Aufgabe}}"
                 }
             ],
             "type": 0
