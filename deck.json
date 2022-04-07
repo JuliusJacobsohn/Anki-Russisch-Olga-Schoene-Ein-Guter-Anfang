@@ -45351,9 +45351,62 @@
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
-    "media_files": [],
+    "media_files": [
+        "paste-eb854e5bc17ad43d3c0976ea07224306c314043e.jpg"
+    ],
     "name": "Russisch - Olga Schöne - Ein guter Anfang",
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "9f8c420a-b6af-11ec-ac80-0c7a15ee466f",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Russisch::Intro",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -46135,5 +46188,16 @@
             "type": 0
         }
     ],
-    "notes": []
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Willkommen zu Russisch A1 und A2 von Olga Schöne<br><br>Aktueller Status:<br>A1<br>Vokabeln: fertig<br>Grammatik: kaum<br>Aufgaben: nur die ersten paar<br>Sätze: fertig<br><br>A2<br>Vokabeln: fertig<br>Grammatik: nichts<br>Aufgaben: nichts<br>Sätze: angefangen<br><br>Falls die Sätze zu viel sind kann einfach im Deck Browser (am PC) nach dem Kartentyp \"Russisch::Satz\" gesucht werden, um diese zu suspenden.<br><br>Man kann bei diesem Deck auf GitHub mithelfen!<br><a href=\"https://github.com/JuliusJacobsohn/Anki-Russisch-Olga-Schoene-Ein-Guter-Anfang\"><b style=\"background-color: rgb(170, 0, 127);\">https://github.com/JuliusJacobsohn/Anki-Russisch-Olga-Schoene-Ein-Guter-Anfang</b></a><br>Pullrequests werden angenommen.<br><br>Kontakt: julius.jacobsohn@udo.edu<br>Bei Fehlern/Anmerkungen/Fragen gerne melden.<br>Copyright sämtlicher Inhalte liegt bei Olga Schöne!",
+                "Um diese Karte loszuwerden, einfach auf \"Suspend Note\" klicken:<br><br><img src=\"paste-eb854e5bc17ad43d3c0976ea07224306c314043e.jpg\">"
+            ],
+            "guid": "fP.h)0#Yu~",
+            "note_model_uuid": "9f8c420a-b6af-11ec-ac80-0c7a15ee466f",
+            "tags": []
+        }
+    ]
 }
