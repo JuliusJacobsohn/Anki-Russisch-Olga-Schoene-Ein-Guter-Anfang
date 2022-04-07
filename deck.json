@@ -45347,7 +45347,8 @@
                     0,
                     "any",
                     [
-                        0
+                        0,
+                        2
                     ]
                 ],
                 [
@@ -45355,6 +45356,13 @@
                     "any",
                     [
                         1
+                    ]
+                ],
+                [
+                    2,
+                    "any",
+                    [
+                        2
                     ]
                 ]
             ],
@@ -45369,10 +45377,10 @@
                     "did": null,
                     "name": "Satz: Russisch>Deutsch",
                     "ord": 0,
-                    "qfmt": "{{Russisch}}"
+                    "qfmt": "{{Russisch}}\n{{#TTS}}<br>{{TTS}}{{/TTS}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Russisch}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Russisch}}\n{{#TTS}}<br>{{TTS}}{{/TTS}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -45381,6 +45389,17 @@
                     "name": "Satz: Deutsch>Russisch",
                     "ord": 1,
                     "qfmt": "{{Deutsch}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Russisch}}\n\n<hr>\n\n{{Deutsch}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Satz: Russisch Audio>Deutsch",
+                    "ord": 2,
+                    "qfmt": "{{#TTS}}\nWie lautet die Übersetzung?<br>\n{{TTS}}\n{{/TTS}}"
                 }
             ],
             "type": 0
@@ -45464,7 +45483,8 @@
                     [
                         0,
                         1,
-                        4
+                        4,
+                        6
                     ]
                 ],
                 [
@@ -45494,11 +45514,11 @@
                     "did": null,
                     "name": "Russisch>Deutsch",
                     "ord": 0,
-                    "qfmt": "{{Russisch}}{{#Russisch Extra}}<p class=\"small\">&nbsp;{{Russisch Extra}}{{/Russisch Extra}}{{#Beidseitige Frage}}<p class=\"small\">&nbsp;{{Beidseitige Frage}}{{/Beidseitige Frage}}",
+                    "qfmt": "{{Russisch}}{{#Russisch Extra}}<p class=\"small\">&nbsp;{{Russisch Extra}}{{/Russisch Extra}}{{#Beidseitige Frage}}<p class=\"small\">&nbsp;{{Beidseitige Frage}}{{/Beidseitige Frage}}\n{{#TTS}}<br>{{TTS}}{{/TTS}}",
                     "scratchPad": false
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Russisch}}{{#Russisch Extra}}<p class=\"small\">&nbsp;{{Russisch Extra}}{{/Russisch Extra}}{{#Beidseitige Antwort}}<p class=\"small\">&nbsp;{{Beidseitige Antwort}}</p>{{/Beidseitige Antwort}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Russisch}}{{#Russisch Extra}}<p class=\"small\">&nbsp;{{Russisch Extra}}{{/Russisch Extra}}{{#Beidseitige Antwort}}<p class=\"small\">&nbsp;{{Beidseitige Antwort}}</p>{{/Beidseitige Antwort}}\n{{#TTS}}<br>{{TTS}}{{/TTS}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
