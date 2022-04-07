@@ -45055,7 +45055,7 @@
         },
         {
             "__type__": "DeckConfig",
-            "autoplay": true,
+            "autoplay": false,
             "buryInterdayLearning": false,
             "crowdanki_uuid": "721d8527-8426-11ec-bf7f-0c7a15ee466f",
             "dyn": false,
