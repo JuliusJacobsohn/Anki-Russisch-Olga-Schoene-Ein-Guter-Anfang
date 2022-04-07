@@ -4444,10 +4444,10 @@
                                 "googletts-ba03d417-ffe9ecc7-e590256f-60a62162-0dafcb20.mp3",
                                 "googletts-bc11f89c-b228f400-59b438b1-ecc08156-0b254784.mp3",
                                 "googletts-c643ae9c-acbfa834-b50054a5-9f0b06a7-f3423dbe.mp3",
-                                "googletts-dba8db50-c9d4ea92-ae1c1829-1ed23019-69c6b5dc.mp3",
                                 "googletts-e10aeb9f-b3e57642-e69e8d8f-323ad276-245ffd9d.mp3",
                                 "googletts-e47d29f0-e98249d7-19bc8957-d8c0e66b-25be35da.mp3",
                                 "googletts-ee6ccb9d-99e99f14-907b696c-ed59e679-b7e6ef2f.mp3",
+                                "googletts-efe71c27-dba59835-601846d6-0e66692c-13c539e0.mp3",
                                 "googletts-f3e54122-26eb6100-16a7c61d-832d02c5-0210eb24.mp3",
                                 "googletts-f5398dcd-5fa97a56-867bcfca-7940a502-53d4d719.mp3",
                                 "googletts-fe1bb4c2-47e1da8a-50341e96-de560bf8-cd3a5187.mp3"
@@ -4761,9 +4761,9 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Привет. Меня зовут Алексей. Я студент. д это моя семья.",
+                                        "Привет. Меня зовут Алексей. Я студент. А это моя семья.",
                                         "Hallo. Ich heiße Alexey. Ich bin Student. Und das ist meine Familie.",
-                                        " [sound:googletts-dba8db50-c9d4ea92-ae1c1829-1ed23019-69c6b5dc.mp3]"
+                                        "[sound:googletts-efe71c27-dba59835-601846d6-0e66692c-13c539e0.mp3]"
                                     ],
                                     "guid": "L<%T86bUg|",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
