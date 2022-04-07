@@ -14,11 +14,8 @@ Zudem werden diverse Grammatikfragen, Konjugationen und auch ganze Sätze abgefr
 
 ## Todo
 
-* Klare Trennung zwischen Vokabel und Grammatik. Alle mit "Extra Fragen" in andere Notes extrahieren.
-* Verben in neues Format umwandeln
-* 
+* Verben in neues Format umwandeln* 
 * Texte vom Buch eintragen
-* TTS für Sätze
 * Cloze Aufgaben für Grammatikaufgaben
 * Andere Aufgaben auch übertragen
 * Auf ankiweb publishen
