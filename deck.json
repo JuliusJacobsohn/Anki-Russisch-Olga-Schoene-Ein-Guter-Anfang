@@ -33988,7 +33988,374 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "02 Grammatik",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "нах<font color=\"#ff0000\">о</font>диться",
+                                        "sich befinden",
+                                        "нахож<font color=\"#ff0000\">у</font>сь",
+                                        "нах<font color=\"#ff0000\">о</font>дишься",
+                                        "нах<font color=\"#ff0000\">о</font>дится",
+                                        "нах<font color=\"#ff0000\">о</font>димся",
+                                        "нах<font color=\"#ff0000\">о</font>дитесь",
+                                        "нах<font color=\"#ff0000\">о</font>дятся"
+                                    ],
+                                    "guid": "ltDhu^&Qz]",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Bei welchen Endungen endet der Präpositiv Singular <b>nicht </b>auf -е, sondern auf и oder ии?",
+                                        "ии, ия, ь (f.), ие"
+                                    ],
+                                    "guid": "B?[^fgzAhP",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von проспект?",
+                                        "проспекте"
+                                    ],
+                                    "guid": "qOlltTk-ff",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von улица?",
+                                        "улице"
+                                    ],
+                                    "guid": "rKC;6pL[r}",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von место?",
+                                        "месте"
+                                    ],
+                                    "guid": "CdKd@P5c|6",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von музей?",
+                                        "музее"
+                                    ],
+                                    "guid": "GbX]LWf*rE",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von словарь?",
+                                        "словаре"
+                                    ],
+                                    "guid": "KHrvza(ak;",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von галерея?",
+                                        "галерее"
+                                    ],
+                                    "guid": "y(4;(0Yo(A",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von море?",
+                                        "море"
+                                    ],
+                                    "guid": "vFN|53,U?`",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von санаторий?",
+                                        "санатории"
+                                    ],
+                                    "guid": "C{OOeJ9M^^",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von лекция?",
+                                        "лекции"
+                                    ],
+                                    "guid": "viw!~xHJmn",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von площадь?",
+                                        "площади"
+                                    ],
+                                    "guid": "fL*H*!HlFZ",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von здание?",
+                                        "здании"
+                                    ],
+                                    "guid": "lnQ>Fk<__e",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von стены?",
+                                        "стенах"
+                                    ],
+                                    "guid": "IaP&/R;JU)",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von журналы?",
+                                        "журналах"
+                                    ],
+                                    "guid": "l#xCVp(]%~",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von полки?",
+                                        "полках"
+                                    ],
+                                    "guid": "sM%&B`p|[y",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von площади?",
+                                        "площадях"
+                                    ],
+                                    "guid": "jS~`6+T+<,",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von фотографии?",
+                                        "фотографиях"
+                                    ],
+                                    "guid": "h!UE$W|lCD",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Welche Ausnahme gilt für weibliche Substantive mit Endung auf ь, wenn sie in den Präpositiv gesetzt werden?",
+                                        "Sie enden auf и."
+                                    ],
+                                    "guid": "z&q.$==Ag|",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Welche Ausnahme gilt für einsilbige (und manchmal auch kurze zweisilbige) Substantive im Präpositiv?",
+                                        "Sie enden auf у."
+                                    ],
+                                    "guid": "wjT9~C7QzN",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von пол?",
+                                        "полу"
+                                    ],
+                                    "guid": "q[P!RKXQQ]",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von угол?",
+                                        "углу"
+                                    ],
+                                    "guid": "t3$0(HFb@{",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von берег?",
+                                        "берегу"
+                                    ],
+                                    "guid": "JN0X@(;rzi",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von мост?",
+                                        "мосту"
+                                    ],
+                                    "guid": "d4ha0..L/?",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von сад?",
+                                        "саду"
+                                    ],
+                                    "guid": "AE<a;KkFC[",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Wie übersetzt man \"In was für einem...\"? (m., n., f. und Pl.)",
+                                        "в каком? (m., n.)<br>в какой? (f.)<br>в&nbsp;каких? (Pl.)"
+                                    ],
+                                    "guid": "D*eh3w;)}7",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von большая?",
+                                        "большой"
+                                    ],
+                                    "guid": "QiQkY(C(:_",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von новый?",
+                                        "новом"
+                                    ],
+                                    "guid": "F5t&h1>PG7",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von новая?",
+                                        "новой"
+                                    ],
+                                    "guid": "MkjFQMY_DR",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von новое?",
+                                        "новом"
+                                    ],
+                                    "guid": "xb$H*5Y|nw",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von новые?",
+                                        "новых"
+                                    ],
+                                    "guid": "n{gdp:=P?G",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von хороший?",
+                                        "хорошем"
+                                    ],
+                                    "guid": "oNB{pF3ivU",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von хорошое?",
+                                        "хорошем"
+                                    ],
+                                    "guid": "z;DmKs>BAc",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von хорошая?",
+                                        "хорошей"
+                                    ],
+                                    "guid": "y/@,;fc_E{",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Präpositiv von хорошые?",
+                                        "хороших"
+                                    ],
+                                    "guid": "xgW564ovK",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Unterschied zwischen Площадь und Место?",
+                                        "Площадь - der Stadtplatz - ist groß, Место eher kleiner."
+                                    ],
+                                    "guid": "iiFnZ/I{Is",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
@@ -34656,6 +35023,94 @@
                                     "guid": "yj:}.9&E&8",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
                                     "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Вчера вечером мы долго сидели в маленькой и уютной комнате&nbsp;Лены.",
+                                        "Gestern Abend saßen wir lange in der kleinen und gemütlichen Wohnung von Lena.",
+                                        ""
+                                    ],
+                                    "guid": "gD@9=Y6]_v",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сначала я рассказывал о жизни в Гейдельберге и об университете.",
+                                        "Zuerst erzählte ich vom Leben in Heidelberg und von der Universität.",
+                                        ""
+                                    ],
+                                    "guid": "g.~Ji=3zRh",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А \nдевушки рассказывали о доцентах и студентах университета и о своих друзьях \nи подругах.",
+                                        "Und die Mädels erzählten von Dozenten und Studenten der Universität und von Freunden und Freundinnnen.",
+                                        ""
+                                    ],
+                                    "guid": "cjDy$=l6*U",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А потом мы спорили о планах на завтра.",
+                                        "Und danach diskutierten wir über die Pläne von morgen.",
+                                        ""
+                                    ],
+                                    "guid": "K?e3m68,=`",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Катя хотела показать мне \nЭрмитаж.",
+                                        "Katja wollte mir die Eremitage zeigen.",
+                                        ""
+                                    ],
+                                    "guid": "f/FAC5|%:J",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А Лена сказала, что завтра будет хорошая погода.",
+                                        "Und Lena sagte, dass morgen das Wetter gut sein wird.",
+                                        ""
+                                    ],
+                                    "guid": "sHB*RVnml<",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Она предложила \nпогулять в Летнем саду и на Марсовом поле.",
+                                        "Sie schlug vor, im Zentrum des Gartens auf dem Marsfeld spazieren zu gehen.",
+                                        ""
+                                    ],
+                                    "guid": "l5Y#(vdv_f",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А я сказал, что предлагаю \nсначала погулять, а потом посидеть в баре на Невском проспекте.",
+                                        "Und ich sagte, dass ich vorschlage, zuerst spazieren zu gehen und danach in eine Bar im Newskiy Prospekt.",
+                                        ""
+                                    ],
+                                    "guid": "uAok|CEPdn",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         },
@@ -34670,7 +35125,88 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "04 Aufgaben",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "большая квартира - в {{c1::большой}} {{c2::квартире}}",
+                                        ""
+                                    ],
+                                    "guid": "eCf@`UY/R%",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "синий диван - на {{c1::синем}} {{c2::диване}}",
+                                        ""
+                                    ],
+                                    "guid": "B]>MYr$$o+",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "хорошая школа - в {{c1::хорошей}} {{c2::школе}}",
+                                        ""
+                                    ],
+                                    "guid": "r5g*WhpdEv",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "русские города - в {{c1::русских}} {{c2::городах}}",
+                                        ""
+                                    ],
+                                    "guid": "m{sCGADj1S",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Пушкинская улица - на {{c1::Пушкинской}} {{c2::улице}}",
+                                        ""
+                                    ],
+                                    "guid": "BL*bf7wodM",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "старое кресло - в {{c1::старом}} {{c2::кресле}}",
+                                        ""
+                                    ],
+                                    "guid": "kYW~,b-,/(",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "интересная лекция - на {{c1::интересной}} {{c2::лекции}}",
+                                        ""
+                                    ],
+                                    "guid": "Nr&K*)hrrK",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "новые аудитории - в {{c1::новых}} {{c2::аудиториях}}",
+                                        ""
+                                    ],
+                                    "guid": "wyuzBo}?[<",
+                                    "note_model_uuid": "d906271b-83b2-11ec-9fea-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
                         }
                     ],
                     "crowdanki_uuid": "403eb0b6-47b1-11ec-a915-0c7a15ee466f",
