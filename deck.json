@@ -34356,6 +34356,16 @@
                                     "guid": "iiFnZ/I{Is",
                                     "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
                                     "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was sind die Personalpronomen im Präpositiv?",
+                                        "обо мне<br>о тебе<br>о нём, о ней<br>о нас<br>о вас<br>о них"
+                                    ],
+                                    "guid": "nY:RcxEuO{",
+                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         },
