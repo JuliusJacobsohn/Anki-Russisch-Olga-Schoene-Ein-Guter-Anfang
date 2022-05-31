@@ -37677,6 +37677,1319 @@
                                         "Russisch::A2::Kapitel03",
                                         "Russisch::Satz"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ручка двери",
+                                        "",
+                                        "Türknauf",
+                                        "\nKnauf der Tür",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "k$Kd&(9q4y",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя много книг?",
+                                        "Hast du viele Bücher?",
+                                        ""
+                                    ],
+                                    "guid": "!Y_Pn2p<W",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя дома много книг и журналов?",
+                                        "Hast du zu Hause viele Bücher und Journale?",
+                                        ""
+                                    ],
+                                    "guid": "yiO2d5H|<C",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, у нас большая библиотека.",
+                                        "Ja, wir haben eine große Bibliothek.",
+                                        ""
+                                    ],
+                                    "guid": "x_C!mTR24w",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Здесь много фотографий!",
+                                        "Hier sind viele Fotos!",
+                                        ""
+                                    ],
+                                    "guid": "dkiaGPBuW&",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Да, я люблю фотографии.",
+                                        "Ja, ich liebe Fotos.",
+                                        ""
+                                    ],
+                                    "guid": "QXl.NeyTqL",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Матиас, у тебя много друзёй?",
+                                        "Mathias, hast du viele Freunde?",
+                                        ""
+                                    ],
+                                    "guid": "wVv/Iu3;!T",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У вас сегодня много лекций и семинаров?",
+                                        "Habt ihr heute viele Vorlesungen und Seminare?",
+                                        ""
+                                    ],
+                                    "guid": "wC>0O0G?ZB",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, не очень много, только пара.",
+                                        "Nein, nicht so viele, nur ein paar.",
+                                        ""
+                                    ],
+                                    "guid": "sn4*V{DV2?",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сколько у тебя комнат?",
+                                        "Wie viele Zimmer hast du?",
+                                        ""
+                                    ],
+                                    "guid": "x-(`nlma5T",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя большйе окна в комнате?",
+                                        "Hast du große Fenster im Zimmer?",
+                                        ""
+                                    ],
+                                    "guid": "I`r:;fp.f3",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сколько у тебя окон?",
+                                        "Wie viele Fenster hast du?",
+                                        ""
+                                    ],
+                                    "guid": "r3Xc9$Q^r`",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя есть шкафы и полки дома?",
+                                        "Hast du Schränke und Regale zu Hause?",
+                                        ""
+                                    ],
+                                    "guid": "uQce*r>~0O",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сколько у тебя шкафов?",
+                                        "Wie viele Schränke hast du?",
+                                        ""
+                                    ],
+                                    "guid": "bFOJ(^Y,SP",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сколько у тебя полок?",
+                                        "Wie viele Regale hast du?",
+                                        ""
+                                    ],
+                                    "guid": "OD&Hx,n];R",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты живёшь в большом доме?",
+                                        "Lebst du in einem großen Haus?",
+                                        ""
+                                    ],
+                                    "guid": "PjMSSVns2E",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сколько в нём этажей?",
+                                        "Wie viele Etagen sind darin? (In dem Haus)",
+                                        ""
+                                    ],
+                                    "guid": "qQ.8J[HR!",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты не знаешь, сколько сейчас времени?",
+                                        "Weißt du (nicht), wie viel Uhr gerade ist?",
+                                        ""
+                                    ],
+                                    "guid": "Q!zlzL1q:x",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сейчас пять часов одна минута.",
+                                        "Gerade ist 5:01 Uhr.",
+                                        ""
+                                    ],
+                                    "guid": "m`.QD]PsjM",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Скажйте, пожалуйста, который час?",
+                                        "Sagen Sie bitte, wie viel Uhr es ist?",
+                                        ""
+                                    ],
+                                    "guid": "zLdA{ymrAd",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сейчас три часа пятнадцать минут.",
+                                        "Gerade ist es 3:15 Uhr.",
+                                        ""
+                                    ],
+                                    "guid": "z@)?bNUn=S",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Во сколько у тебя&nbsp;сегодня первая лекция?",
+                                        "Um wie viel Uhr hast du heute die erste Vorlesung?",
+                                        ""
+                                    ],
+                                    "guid": "nPimR-;5:5",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В девять часов.",
+                                        "Um 9 Uhr.",
+                                        ""
+                                    ],
+                                    "guid": "BV86VlsPSO",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Во сколько у тебя обычно урок русского языка?",
+                                        "Um wie viel Uhr hast du gewöhnlich die Russischunterrichtsstunde?",
+                                        ""
+                                    ],
+                                    "guid": "IWQ5b6O2uE",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Во сколько твоя тренировка?",
+                                        "Um wie viel Uhr ist dein Training?",
+                                        ""
+                                    ],
+                                    "guid": "q<-Kw4uD<d",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сколько это стоит?",
+                                        "Wie viel kostet es?",
+                                        ""
+                                    ],
+                                    "guid": "hVCy0LBl(!",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сколько стоит этот журнал?",
+                                        "Wie viel kostet dieses Journal?",
+                                        ""
+                                    ],
+                                    "guid": "fz[m0I&hMH",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сколько стоит это вино?",
+                                        "Wie viel kostet dieser Wein?",
+                                        ""
+                                    ],
+                                    "guid": "uA|RB7/NnX",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он стоит три доллара.",
+                                        "(Das Journal) Es kostet drei Dollar.",
+                                        ""
+                                    ],
+                                    "guid": "hNAYb*;6*@",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Оно&nbsp;стоит двадцать один доллар.",
+                                        "(Der Wein) Er kostet 21 Dollar.",
+                                        ""
+                                    ],
+                                    "guid": "DFNiAb$ov4",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сколько стоит эта картина?",
+                                        "Wie viel kostet dieses Bild?",
+                                        ""
+                                    ],
+                                    "guid": "A9mtW^bwT{",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Она стоит пятьдесят долларов.",
+                                        "(Das Bild) Es kostet 50 Dollar.",
+                                        ""
+                                    ],
+                                    "guid": "uSUV,}E2[9",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сколько стоят эти книги?",
+                                        "Wie viel kosten diese Bücher?",
+                                        ""
+                                    ],
+                                    "guid": "I/:ZB87>a<",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Они стоят шестьдесят долларов.",
+                                        "Sie kosten 60 Dollar.",
+                                        ""
+                                    ],
+                                    "guid": "e9BDO(Rpzi",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сегодня у меня важное дело.",
+                                        "Heute habe ich eine wichtige Aufgabe.",
+                                        ""
+                                    ],
+                                    "guid": "bM<csv}ZEc",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я должен обменять деньги.",
+                                        "Ich muss Geld wechseln.",
+                                        ""
+                                    ],
+                                    "guid": "u7/.*;([0y",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В интернете я нашёл, что пункт обмена находится на вокзале.",
+                                        "Im Internet habe ich gefunden, dass der (Geld-)Wechselpunkt sich am Bahnhof befindet.",
+                                        ""
+                                    ],
+                                    "guid": "l;#E}Jm:_w",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Но девушки сказали, что менять деньги на вокзале — дорого.",
+                                        "Aber die Mädels sagten, dass Geld wechseln am Bahnhof teuer ist.",
+                                        ""
+                                    ],
+                                    "guid": "d.G)-gCReD",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Лучше обменять их на небольшой улице недалеко от центра.",
+                                        "Besser (ist es), es (=das Geld) in einer kleinen Straße nicht weit vom Zentrum zu wechseln.",
+                                        ""
+                                    ],
+                                    "guid": "z*E)rr5gKj",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В пункте обмена на табло&nbsp;было&nbsp;информация.",
+                                        "Am (Geld-)Wechselpunkt auf dem Tableu waren Informationen.",
+                                        ""
+                                    ],
+                                    "guid": "x%n`@{{bN4",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Один евро&nbsp;стоит сорок девять рублей и пятьдесят копеек.",
+                                        "Ein Euro kostet 49 Rubel und 50 Kopeken.",
+                                        ""
+                                    ],
+                                    "guid": "cS(zKIs3hH",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я иду в кассу.",
+                                        "Ich gehe zur Kasse.",
+                                        ""
+                                    ],
+                                    "guid": "WHuYgzA8h",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Обменяйте, пожалуйста, пятьдесят евро.",
+                                        "Wechseln Sie, bitte, 50€.",
+                                        ""
+                                    ],
+                                    "guid": "tKS2`=f2*P",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какое важное дело сегодня у Матиаса?",
+                                        "Welche wichtige Aufgabe hat Mathias heute?",
+                                        ""
+                                    ],
+                                    "guid": "yxfp:Sn+/Y",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где Матиас хотел обменять деньги?",
+                                        "Wo wollte Mathias Geld wechseln?",
+                                        ""
+                                    ],
+                                    "guid": "L&0JY#G2aZ",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что сказали девушки, где лучше обменять деньги?",
+                                        "Was sagten die Mädels, wo (man) besser Geld wechselt?",
+                                        ""
+                                    ],
+                                    "guid": "KGLHuZt2E6",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сколько стоил один евро?",
+                                        "Wie viel kostete ein Euro?",
+                                        ""
+                                    ],
+                                    "guid": "EbW)?D<f(6",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Найдите в Интернете актуальный курс рубля.",
+                                        "Finde im Internet den aktuellen Kurs für Rubel.",
+                                        ""
+                                    ],
+                                    "guid": "wzY`r1%ilK",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "После пункта обмена мы были в магазине одежды.",
+                                        "Nach dem (Geld-)Wechselpunkt waren wir in einem Kleidungsgeschäft.",
+                                        ""
+                                    ],
+                                    "guid": "DiGq8d_mD-",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Лена, смотри, какой красивый костюм.",
+                                        "Lena, schau, was für ein schöner Anzug.",
+                                        ""
+                                    ],
+                                    "guid": "GzA7RpG4+O",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Простите, сколько стоит этот костюм?",
+                                        "Entschuldigen Sie, wie viel kostet dieser Anzug?",
+                                        ""
+                                    ],
+                                    "guid": "o[XW2>33jU",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Он стоит шесть тысяч сто тридцать три рубля.",
+                                        "Er kostet 6133 Rubel.",
+                                        ""
+                                    ],
+                                    "guid": "p~_y<$aaKv",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Как дорого!",
+                                        "Wie teuer!",
+                                        ""
+                                    ],
+                                    "guid": "d~y]Xq6[9K",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, сегодня я не буду покупать костюм за шесть тысяч рублей!",
+                                        "Nein, heute werde ich keinen Anzug für 6000 Rubel kaufen!",
+                                        ""
+                                    ],
+                                    "guid": "t:0Xcjz04N",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Матиас увидел куртку и спросил продавца...",
+                                        "Mathias sah eine Jacke und fragte den Verkäufer...",
+                                        ""
+                                    ],
+                                    "guid": "vk&q1TP<T5",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сколько стоит эта куртка?",
+                                        "Wie viel kostet diese Jacke?",
+                                        ""
+                                    ],
+                                    "guid": "fD(cxCYbF.",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Она стоит две тысячи шестьсот рублей.",
+                                        "Sie kostet 2600 Rubel.",
+                                        ""
+                                    ],
+                                    "guid": "bjela+ac~o",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "- Хотите примерить?<br>- Нет, спасибо!",
+                                        "- Wollen Sie (die Jacke) anprobieren?<br>- Nein, danke!",
+                                        ""
+                                    ],
+                                    "guid": "H5v(8]UjKw",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В каком магазине были Матиас и девушки?",
+                                        "In was für einem Laden waren Mathias und die Mädels?",
+                                        ""
+                                    ],
+                                    "guid": "QqNFBv%2;m",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сколько стоил костюм?",
+                                        "Was kostete der Anzug?",
+                                        ""
+                                    ],
+                                    "guid": "c;d&,(!L0q",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сколько стоила куртка?",
+                                        "Was kostete die Jacke?",
+                                        ""
+                                    ],
+                                    "guid": "k%h}+x_16w",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Почему Матиас не примерил куртку?",
+                                        "Warum hat Mathias die Jacke nicht anprobiert?",
+                                        ""
+                                    ],
+                                    "guid": "L/T00{(XX^",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "- Сколько стоит этот шарф?<br>- Сто двадцать рублей.",
+                                        "- Was kostet dieser Schal?<br>- 120 Rubel.",
+                                        ""
+                                    ],
+                                    "guid": "rKL=80^B.z",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "- Сколько стоят эти сапоги?<br>- Пять тысяч рублей.",
+                                        "- Wie viel kosten diese Stiefel?<br>- 5000 Rubel.",
+                                        ""
+                                    ],
+                                    "guid": "jU>!m,8%`/",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Вчера я купила шарф за 12 евро.",
+                                        "Gestern kaufte ich einen Schal für 12€.",
+                                        ""
+                                    ],
+                                    "guid": "tR{^DTj~q%",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я купил костюм за шесть тысяч рублей.",
+                                        "Ich kaufte einen Anzug für 6000 Rubel.",
+                                        ""
+                                    ],
+                                    "guid": "L9b7p79>(T",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У меня нет времени.",
+                                        "Ich habe keine Zeit.",
+                                        ""
+                                    ],
+                                    "guid": "mYzw-DJlne",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Катя, мы идём сегодня в бар.",
+                                        "Katja, wir gehen heute in eine Bar.",
+                                        ""
+                                    ],
+                                    "guid": "jw_o5!70I@",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Идёшь с нами?",
+                                        "Gehst du mit uns?",
+                                        ""
+                                    ],
+                                    "guid": "~IkX2.gxZ",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, у меня сегодня нет времени.",
+                                        "Nein, ich habe heute keine Zeit.",
+                                        ""
+                                    ],
+                                    "guid": "mxA*8OV2n-",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У нас скоро будет контрольная работа.",
+                                        "Wir haben bald eine Kontrollarbeit.",
+                                        ""
+                                    ],
+                                    "guid": "bE}0L*dn.l",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Лена, у тебя сегодня вечером есть время?",
+                                        "Lena, hast du heute abend Zeit?",
+                                        ""
+                                    ],
+                                    "guid": "gf[s8O!|}v",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мы идём в бар. Ты с нами?",
+                                        "Wir gehen in eine Bar. (Kommst) du mit uns?",
+                                        ""
+                                    ],
+                                    "guid": "xD/JX6W|+>",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У Кати были экзамены.",
+                                        "Katja hatte Examen.",
+                                        ""
+                                    ],
+                                    "guid": "f+XLqsN3b3",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У меня нет красного жакета!",
+                                        "Ich habe kein schönes Jacket!",
+                                        ""
+                                    ],
+                                    "guid": "c_VX@H_+O,",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя есть красный жакет?",
+                                        "Hast du ein rotes Jacket?",
+                                        ""
+                                    ],
+                                    "guid": "LAXN8#xvxU",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, у меня нет красного жакета.",
+                                        "Nein, ich habe kein rotes Jacket.",
+                                        ""
+                                    ],
+                                    "guid": "xK>(;%<Nds",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, у меня нет синего жакета.",
+                                        "Nein, ich habe kein blaues Jacket.",
+                                        ""
+                                    ],
+                                    "guid": "hs*})HR&vb",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, у нас нет красного кресла.",
+                                        "Nein, wir haben keinen roten Sessel.",
+                                        ""
+                                    ],
+                                    "guid": "nAbYKMRwIc",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, у меня нет красной ручки.",
+                                        "Nein, ich habe keinen roten Stift.",
+                                        ""
+                                    ],
+                                    "guid": "Ff4]*;.yB_",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя есть&nbsp;синяя ручка?",
+                                        "Hast du einen blauen Stift?",
+                                        ""
+                                    ],
+                                    "guid": "x:6ZP&v7J6",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, синей тоже нет.",
+                                        "Nein, einen blauen (Stift) (habe ich) auch nicht.",
+                                        ""
+                                    ],
+                                    "guid": "NcZf@N.?O-",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У тебя есть красные туфли?",
+                                        "Hast du rote feine Schuhe?",
+                                        ""
+                                    ],
+                                    "guid": "hl[&w=N2/V",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Нет, у меня нет красных туфель.",
+                                        "Nein, ich habe keine roten feinen Schuhe.",
+                                        ""
+                                    ],
+                                    "guid": "LpaSGA}*Z_",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У нас не было красного вина.",
+                                        "Wir hatten keinen Rotwein.",
+                                        ""
+                                    ],
+                                    "guid": "c(-[Ih*[i>",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У студентов не было больших денег.",
+                                        "Die Studenten hatten nicht viel Geld.",
+                                        ""
+                                    ],
+                                    "guid": "QZn5IA}B{-",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У Лены не было&nbsp;хорошей работы.",
+                                        "Lena hatte keine schöne Arbeit.",
+                                        ""
+                                    ],
+                                    "guid": "Q=hWV%P#OL",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У Кати не&nbsp;было хорошего велосипеда.",
+                                        "Katja hatte kein gutes Fahrrad.",
+                                        ""
+                                    ],
+                                    "guid": "Drig[sK&nc",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У Матиаса нет русско-немецкого словаря.",
+                                        "Mathias hat kein russisch-deutsches Wörterbuch.",
+                                        ""
+                                    ],
+                                    "guid": "HHTV1Rl=5S",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Матиас уже&nbsp;неплохо говорит по-русски.",
+                                        "Mathias spricht schon nicht schlecht auf Russisch.",
+                                        ""
+                                    ],
+                                    "guid": "ERbq-*VE{?",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Но в Германии он редко читал русские газеты и журналы.",
+                                        "Aber in Deutschland las er selten russische Zeitungen und Journals.",
+                                        ""
+                                    ],
+                                    "guid": "s6_}VckC|0",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Здесь, в&nbsp;Петербурге,&nbsp;он должен много читать по-русски.",
+                                        "Hier, in St. Petersburg, muss er viel auf Russisch lesen.",
+                                        ""
+                                    ],
+                                    "guid": "b_dpoA&Hdg",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У него ещё нет хорошего русско-немецкого словаря.",
+                                        "Er hat noch kein gutes russisch-deutsches Wörterbuch.",
+                                        ""
+                                    ],
+                                    "guid": "qIg1=ELFNE",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Поэтому он спросил меня...",
+                                        "Deshalb fragte er mich...",
+                                        ""
+                                    ],
+                                    "guid": "eQDbjh<##+",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Лена, где можно купить хороший словарь?",
+                                        "Lena, wo kann man ein gutes Wörterbuch kaufen?",
+                                        ""
+                                    ],
+                                    "guid": "NcewwB2P^<",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это на Невском проспекте.",
+                                        "(Das Geschäft) Es ist im Newskiy-Prospekt.",
+                                        ""
+                                    ],
+                                    "guid": "OL*l|g}R}&",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Если хочешь, можем пойти туда вместе.",
+                                        "Wenn du willst, können wir dort zusammen hin gehen.",
+                                        ""
+                                    ],
+                                    "guid": "o[apKh=iGa",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В Доме книги есть отдел иностранной литературы и иностранных языков.",
+                                        "Im \"Bücherhaus\" ist eine Abteilung für ausländische Literatur und ausländische Sprachen.",
+                                        ""
+                                    ],
+                                    "guid": "JFp@}844@F",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Здесь много интересных книг.",
+                                        "Hier sind viele interessante Bücher.",
+                                        ""
+                                    ],
+                                    "guid": "Dz=D.&|%e)",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Посмотрите на полке немецкого языка. Вон там, справа.",
+                                        "Schauen Sie ins Regal der deutschen Sprache. Dort, nach rechts.",
+                                        ""
+                                    ],
+                                    "guid": "GWGlF8(/H}",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "На полке я увидел этот словарь.",
+                                        "Im Regal sah ich dieses Wörterbuch.",
+                                        ""
+                                    ],
+                                    "guid": "qp!A7nmX/M",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Простите, сколько стоит этот словарь?",
+                                        "Entschuldigen Sie, wie viel kostet dieses Wörterbuch?",
+                                        ""
+                                    ],
+                                    "guid": "cV}^VsyaV{",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Пятьсот тридцать пять рублей.",
+                                        "535 Rubel.",
+                                        ""
+                                    ],
+                                    "guid": "ExO|X7g?4m",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Это десять евро! Прекрасно!",
+                                        "Das sind 9€! Wunderbar!",
+                                        ""
+                                    ],
+                                    "guid": "ObshE:e;[f",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А сколько здесь тысяч слов?",
+                                        "Und wie viele 1000 Wörter sind hier (im Wörterbuch)?",
+                                        ""
+                                    ],
+                                    "guid": "xMNy`r1Oq(",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В каком магазине можно купйть хороший словарь?",
+                                        "In welchem Geschäft kann man gute Wörterbücher kaufen?",
+                                        ""
+                                    ],
+                                    "guid": "NyWgMJzEs%",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где находится «Дом кнйги»?",
+                                        "Wo befindet sich das \"Haus der Bücher\"?",
+                                        ""
+                                    ],
+                                    "guid": "G9Y_4gRO9_",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В каком отделе можно купить словарь?",
+                                        "In welcher Abteilung kann man ein Wörterbuch kaufen?",
+                                        ""
+                                    ],
+                                    "guid": "J`a3V_u+Fz",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какой словарь видит Матиас?",
+                                        "Welches Wörterbuch sieht Mathias?",
+                                        ""
+                                    ],
+                                    "guid": "rgkO*;|0_o",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Матиас, откуда твои родители?",
+                                        "Mathias, woher sind deine Eltern?",
+                                        ""
+                                    ],
+                                    "guid": "lj9?}?0aJ;",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Из какой страны твои родители?",
+                                        "Aus welchem Land sind deine Eltern?",
+                                        ""
+                                    ],
+                                    "guid": "iMWlgnJb:3",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Из какого города твоя мама?",
+                                        "Aus welcher Stadt ist deine Mutter?",
+                                        ""
+                                    ],
+                                    "guid": "G~]xc}UKXE",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "В каком городе ты живёшь?",
+                                        "In welcher Stadt lebst du?",
+                                        ""
+                                    ],
+                                    "guid": "B;p:^]u^~|",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "На какой улице ты живёшь?",
+                                        "In welcher Straße lebst du?",
+                                        ""
+                                    ],
+                                    "guid": "uTPqM-v7%t",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Твой дом находится далеко от автобусной остановки?",
+                                        "Befindet sich dein Haus weit (entfernt) von einer Bushaltestelle?",
+                                        ""
+                                    ],
+                                    "guid": "O[/;I+Wwi8",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ты хочешь жить недалеко&nbsp;от центра города?",
+                                        "Willst du nicht weit vom Zentrum der Stadt leben?",
+                                        ""
+                                    ],
+                                    "guid": "n@Yfz9/]cw",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А в центре города дорогие квартиры?",
+                                        "Und sind im Zentrum der Stadt teure Wohnungen?",
+                                        ""
+                                    ],
+                                    "guid": "z8[qh/=!ZY",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что ты будешь делать после зимних каникул?",
+                                        "Und was wirst du nach den Winterferien machen?",
+                                        ""
+                                    ],
+                                    "guid": "O2+{k*6{Cc",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Без каких продуктов ты не можешь жить?",
+                                        "Ohne welche Produkte könntest du nicht leben?",
+                                        ""
+                                    ],
+                                    "guid": "O-6K*+-NAD",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         },
