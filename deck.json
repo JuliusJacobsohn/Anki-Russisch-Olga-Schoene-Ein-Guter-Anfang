@@ -1589,12 +1589,12 @@
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "googletts-30bab718-b1d134b0-585957ff-f0b081f8-52a71b82-992362ca2028312d5825e1658673fab9066d367f.mp3",
-                                "googletts-465c5632-2ac1be28-3475e856-51b052a9-60972e0d-006fa45167d60855f262d99cc2c7480f98c58bbd.mp3",
-                                "googletts-b0e292d4-e185b44e-67f2ce47-92bd10d9-d5f31bf6-94feceaf3447a2aed7f27cf585d62e36ea51b707.mp3",
-                                "googletts-be5c58a5-be1923e7-1a75b43b-c81b5370-09dc7e8d-9ded81493d6c807f14fa4a5b12d655bd484efb99.mp3",
+                                "googletts-30bab718-b1d134b0-585957ff-f0b081f8-52a71b82.mp3",
+                                "googletts-465c5632-2ac1be28-3475e856-51b052a9-60972e0d.mp3",
+                                "googletts-b0e292d4-e185b44e-67f2ce47-92bd10d9-d5f31bf6.mp3",
+                                "googletts-be5c58a5-be1923e7-1a75b43b-c81b5370-09dc7e8d.mp3",
                                 "googletts-ebc6a6b0-a4a6146a-81434211-a2c067df-c8dc6bce-83f647b10c739043dc418dd9f735a439129eef42.mp3",
-                                "googletts-f4ca9232-ee40c7bf-7466668b-8dcf1208-28d1e49d-9f720d5bf75e0407ea439935f315b520cb9bc4c4.mp3"
+                                "googletts-f4ca9232-ee40c7bf-7466668b-8dcf1208-28d1e49d.mp3"
                             ],
                             "name": "03 Sätze und Phrasen",
                             "notes": [
@@ -1614,7 +1614,7 @@
                                     "fields": [
                                         "Это Анна и Сергей.",
                                         "Das sind Anna und Sergey.",
-                                        "[sound:googletts-f4ca9232-ee40c7bf-7466668b-8dcf1208-28d1e49d-9f720d5bf75e0407ea439935f315b520cb9bc4c4.mp3]"
+                                        "[sound:googletts-f4ca9232-ee40c7bf-7466668b-8dcf1208-28d1e49d.mp3]"
                                     ],
                                     "guid": "s*yG?N8m/p",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -1625,7 +1625,7 @@
                                     "fields": [
                                         "Кто это? Это Анна.",
                                         "Wer ist das? Das ist Anna.",
-                                        "[sound:googletts-30bab718-b1d134b0-585957ff-f0b081f8-52a71b82-992362ca2028312d5825e1658673fab9066d367f.mp3]"
+                                        "[sound:googletts-30bab718-b1d134b0-585957ff-f0b081f8-52a71b82.mp3]"
                                     ],
                                     "guid": "J!UxO@dTE,",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -1636,7 +1636,7 @@
                                     "fields": [
                                         "А это кто? Это Сергей.",
                                         "Und wer ist das? Das ist Sergey.",
-                                        "[sound:googletts-be5c58a5-be1923e7-1a75b43b-c81b5370-09dc7e8d-9ded81493d6c807f14fa4a5b12d655bd484efb99.mp3]"
+                                        "[sound:googletts-be5c58a5-be1923e7-1a75b43b-c81b5370-09dc7e8d.mp3]"
                                     ],
                                     "guid": "g{qs>kUTrC",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -1647,7 +1647,7 @@
                                     "fields": [
                                         "Я Саша. А ты?<br>А я Лена!",
                                         "Ich bin Sascha. Und du?<br>Und ich bin Lena.",
-                                        "[sound:googletts-b0e292d4-e185b44e-67f2ce47-92bd10d9-d5f31bf6-94feceaf3447a2aed7f27cf585d62e36ea51b707.mp3]"
+                                        "[sound:googletts-b0e292d4-e185b44e-67f2ce47-92bd10d9-d5f31bf6.mp3]"
                                     ],
                                     "guid": "eA.X2ft`(#",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -1658,7 +1658,7 @@
                                     "fields": [
                                         "Я Сергей. А Вы?<br>А я Анна!",
                                         "Ich bin Sergey. Und Sie?<br>Und ich bin Anna.",
-                                        "[sound:googletts-465c5632-2ac1be28-3475e856-51b052a9-60972e0d-006fa45167d60855f262d99cc2c7480f98c58bbd.mp3]"
+                                        "[sound:googletts-465c5632-2ac1be28-3475e856-51b052a9-60972e0d.mp3]"
                                     ],
                                     "guid": "HHTL>d<dnN",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4416,40 +4416,40 @@
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "googletts-0440a66d-9636747c-6d055eaf-6910535e-b04dbc5f-ebda91c04d8a5d63c218a29e13a94bf02f7fca69.mp3",
-                                "googletts-1904dc3e-d9eb4d23-e0e8889f-9a64d44a-39805d24-3bd1b1c6fc3b420b0ca898cc65892bdb48fdd037.mp3",
-                                "googletts-1fdebbdc-f87a0d6f-0bbd4a78-ae60cf38-7016d1e4-531afff179b2bcd262b6e8ece2a365a51197161d.mp3",
-                                "googletts-397bbc85-c02293f0-cdb8a45b-f8aa62a6-ae1c43ec-c31178a325d41eea74e75bd0122e08639b4370fa.mp3",
-                                "googletts-433f2ba9-ca01a76a-5ff6bc3b-a4a0575e-377d153e-53177b94ef9443733d9dededfdefa9ef0ab94ae6.mp3",
-                                "googletts-499cdc3f-94d76d1f-8594191d-9c1a8c8b-fbe89780-776867fbfa91d157d8da35cd4a8f3c3f6d2c715d.mp3",
+                                "googletts-0440a66d-9636747c-6d055eaf-6910535e-b04dbc5f.mp3",
+                                "googletts-1904dc3e-d9eb4d23-e0e8889f-9a64d44a-39805d24.mp3",
+                                "googletts-1fdebbdc-f87a0d6f-0bbd4a78-ae60cf38-7016d1e4.mp3",
+                                "googletts-397bbc85-c02293f0-cdb8a45b-f8aa62a6-ae1c43ec.mp3",
+                                "googletts-433f2ba9-ca01a76a-5ff6bc3b-a4a0575e-377d153e.mp3",
+                                "googletts-499cdc3f-94d76d1f-8594191d-9c1a8c8b-fbe89780.mp3",
                                 "googletts-4f297ee4-e51c6dfa-4924a9ff-ee3c28be-7c07447d.mp3",
-                                "googletts-55637ca8-2632f464-8f35e99d-d0b11702-ea203438-7af35d7bae0adc6e6d8b5a976efa0408d3dd72dc.mp3",
-                                "googletts-5ac5963b-24d13cf9-89168201-80a0a24c-75f15243-486a3195ca98dec8af741e3e102886e1c1deb49f.mp3",
-                                "googletts-63bde5ab-51c8ecb4-e8ee6ab2-b5808c5b-fc92ced2-1834a9490c0d0607c1dccf6e765e156126800c0f.mp3",
-                                "googletts-64a41323-b4b98332-aa43aa26-7b878fa8-0051d1f8-29ec2e38982325e33558980f8393fd1e2b8c34d2.mp3",
-                                "googletts-6db06afb-c9007923-011dfe46-a6844a66-7cc3bcae-99d0f13f37333cfce45bed47277fa70e5b54e008.mp3",
-                                "googletts-7afddb48-56b3f4f6-dff1d7c1-0856add3-79b248e9-7caed73cba9eeb92ac938693afafaa336eb4a17d.mp3",
-                                "googletts-7e0b26ff-57b75719-5ec2651c-d1a145d0-bf77a596-de581eddbf304effa9c84e8cd2186ea5246e815d.mp3",
-                                "googletts-7e97ec4a-06429c74-f0a4948c-a1f1b067-09174bf6-282e6f6cba39f563da6951a43b38443e25ea1dfa.mp3",
-                                "googletts-893abbd9-5f77cdb9-a69f5274-d99f9025-04aef6d2-4fe5ac9ffe5d15e4eb85c2be2c84859074e0f1d1.mp3",
-                                "googletts-8f2e28d6-16fe8379-b5a7997a-fb90e8d6-84edd345-70f47295b57b511deb2e608c61a3d8c66291cc7a.mp3",
-                                "googletts-9007faf5-311e08e8-0a6effcc-8ee8fd8e-a0d3ac15-dad6c60a4b70bca02628dbd8747a3558e5cae0e0.mp3",
+                                "googletts-55637ca8-2632f464-8f35e99d-d0b11702-ea203438.mp3",
+                                "googletts-5ac5963b-24d13cf9-89168201-80a0a24c-75f15243.mp3",
+                                "googletts-63bde5ab-51c8ecb4-e8ee6ab2-b5808c5b-fc92ced2.mp3",
+                                "googletts-64a41323-b4b98332-aa43aa26-7b878fa8-0051d1f8.mp3",
+                                "googletts-6db06afb-c9007923-011dfe46-a6844a66-7cc3bcae.mp3",
+                                "googletts-7afddb48-56b3f4f6-dff1d7c1-0856add3-79b248e9.mp3",
+                                "googletts-7e0b26ff-57b75719-5ec2651c-d1a145d0-bf77a596.mp3",
+                                "googletts-7e97ec4a-06429c74-f0a4948c-a1f1b067-09174bf6.mp3",
+                                "googletts-893abbd9-5f77cdb9-a69f5274-d99f9025-04aef6d2.mp3",
+                                "googletts-9007faf5-311e08e8-0a6effcc-8ee8fd8e-a0d3ac15.mp3",
                                 "googletts-93a5a690-233653b0-089c2495-f48315b3-58f05e70.mp3",
-                                "googletts-96f00130-759a7576-347a6a12-87a5078a-f8d16fd6-95116ce6c4243ca8eabf5c495100cb09a496522c.mp3",
-                                "googletts-a18a2edf-254bc695-a3e24576-741fdef9-7fe7ca0a-5ea61ff20ebdd9218ff7cd348078336c5979598b.mp3",
-                                "googletts-a3b1f737-cf041617-9a5fd45a-982b53f5-855b8e32-b200de0b49398f082cf9210353c6768ccf634323.mp3",
-                                "googletts-ad080759-a2dbb2e0-1742bf43-6cbf00b5-60d5b328-d7cc18709b07d0636195a1f847b0ac0ce076fc7f.mp3",
-                                "googletts-b1703bd6-edb74d0e-67b8295b-19bc316f-82281e42-877e653ee4a10c15d5dffb3f4f9a917e16612546.mp3",
+                                "googletts-96f00130-759a7576-347a6a12-87a5078a-f8d16fd6.mp3",
+                                "googletts-a18a2edf-254bc695-a3e24576-741fdef9-7fe7ca0a.mp3",
+                                "googletts-a3b1f737-cf041617-9a5fd45a-982b53f5-855b8e32.mp3",
+                                "googletts-ad080759-a2dbb2e0-1742bf43-6cbf00b5-60d5b328.mp3",
+                                "googletts-b1703bd6-edb74d0e-67b8295b-19bc316f-82281e42.mp3",
                                 "googletts-b5678e84-0f5e4b5d-c86a556a-04dc79c5-78217a12.mp3",
-                                "googletts-ba03d417-ffe9ecc7-e590256f-60a62162-0dafcb20-605d0bbecad5f3b86290931c6066286b404738c1.mp3",
-                                "googletts-bc11f89c-b228f400-59b438b1-ecc08156-0b254784-d17a3420137dfb5e5a171dc39beb2b02a1273610.mp3",
+                                "googletts-ba03d417-ffe9ecc7-e590256f-60a62162-0dafcb20.mp3",
+                                "googletts-bc11f89c-b228f400-59b438b1-ecc08156-0b254784.mp3",
                                 "googletts-c643ae9c-acbfa834-b50054a5-9f0b06a7-f3423dbe.mp3",
-                                "googletts-e10aeb9f-b3e57642-e69e8d8f-323ad276-245ffd9d-c92242a941a3bcb51b8bfac7a1c1f28673418844.mp3",
-                                "googletts-e47d29f0-e98249d7-19bc8957-d8c0e66b-25be35da-b893527a9065662ff540f6ee644c3ac1c9968f09.mp3",
-                                "googletts-ee6ccb9d-99e99f14-907b696c-ed59e679-b7e6ef2f-710efcdb87493915f8fb97af2e72f587afa9e086.mp3",
-                                "googletts-efe71c27-dba59835-601846d6-0e66692c-13c539e0-df138bb0a975e3a1fa897af640101db09ebf0aa9.mp3",
-                                "googletts-f3e54122-26eb6100-16a7c61d-832d02c5-0210eb24-f214b845d6d57029d59a732e875260ee8558b923.mp3",
-                                "googletts-f5398dcd-5fa97a56-867bcfca-7940a502-53d4d719-d0326ea9ed8927e7e0d968a303fadc1768b0a620.mp3",
+                                "googletts-d948ee36-4a3bcf02-1d218c08-5745cf69-e0cb3093.mp3",
+                                "googletts-e10aeb9f-b3e57642-e69e8d8f-323ad276-245ffd9d.mp3",
+                                "googletts-e47d29f0-e98249d7-19bc8957-d8c0e66b-25be35da.mp3",
+                                "googletts-ee6ccb9d-99e99f14-907b696c-ed59e679-b7e6ef2f.mp3",
+                                "googletts-efe71c27-dba59835-601846d6-0e66692c-13c539e0.mp3",
+                                "googletts-f3e54122-26eb6100-16a7c61d-832d02c5-0210eb24.mp3",
+                                "googletts-f5398dcd-5fa97a56-867bcfca-7940a502-53d4d719.mp3",
                                 "googletts-fe1bb4c2-47e1da8a-50341e96-de560bf8-cd3a5187.mp3"
                             ],
                             "name": "03 Sätze und Phrasen",
@@ -4496,7 +4496,7 @@
                                     "fields": [
                                         "Мен<font color=\"#ff0000\">я</font> зов<font color=\"#ff0000\">у</font>т...",
                                         "Ich heiße...",
-                                        "[sound:googletts-5ac5963b-24d13cf9-89168201-80a0a24c-75f15243-486a3195ca98dec8af741e3e102886e1c1deb49f.mp3]"
+                                        "[sound:googletts-5ac5963b-24d13cf9-89168201-80a0a24c-75f15243.mp3]"
                                     ],
                                     "guid": "pb|/8Siy|[",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4510,7 +4510,7 @@
                                     "fields": [
                                         "нас зов<font color=\"#ff0000\">у</font>т...",
                                         "Wir heißen...",
-                                        "[sound:googletts-9007faf5-311e08e8-0a6effcc-8ee8fd8e-a0d3ac15-dad6c60a4b70bca02628dbd8747a3558e5cae0e0.mp3]"
+                                        "[sound:googletts-9007faf5-311e08e8-0a6effcc-8ee8fd8e-a0d3ac15.mp3]"
                                     ],
                                     "guid": "nT7rw.h3;4",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4524,7 +4524,7 @@
                                     "fields": [
                                         "<font color=\"#ff0000\">О</font>чень при<font color=\"#ff0000\">я</font>тно!",
                                         "Sehr angenehm!",
-                                        "[sound:googletts-f5398dcd-5fa97a56-867bcfca-7940a502-53d4d719-d0326ea9ed8927e7e0d968a303fadc1768b0a620.mp3]"
+                                        "[sound:googletts-f5398dcd-5fa97a56-867bcfca-7940a502-53d4d719.mp3]"
                                     ],
                                     "guid": "B-p+;w_*5F",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4558,7 +4558,7 @@
                                     "fields": [
                                         "как теб<font color=\"#ff0000\">я</font> зов<font color=\"#ff0000\">у</font>т?",
                                         "Wie heißt du?",
-                                        "[sound:googletts-397bbc85-c02293f0-cdb8a45b-f8aa62a6-ae1c43ec-c31178a325d41eea74e75bd0122e08639b4370fa.mp3]"
+                                        "[sound:googletts-397bbc85-c02293f0-cdb8a45b-f8aa62a6-ae1c43ec.mp3]"
                                     ],
                                     "guid": "DV^$zr?oi*",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4572,7 +4572,7 @@
                                     "fields": [
                                         "как Вас зов<font color=\"#ff0000\">у</font>т?",
                                         "Wie heißen Sie?",
-                                        "[sound:googletts-7e0b26ff-57b75719-5ec2651c-d1a145d0-bf77a596-de581eddbf304effa9c84e8cd2186ea5246e815d.mp3]"
+                                        "[sound:googletts-7e0b26ff-57b75719-5ec2651c-d1a145d0-bf77a596.mp3]"
                                     ],
                                     "guid": "tLY#>pJ?Q-",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4586,7 +4586,7 @@
                                     "fields": [
                                         "как его зов<font color=\"#ff0000\">у</font>т?",
                                         "Wie heißt er?",
-                                        "[sound:googletts-a3b1f737-cf041617-9a5fd45a-982b53f5-855b8e32-b200de0b49398f082cf9210353c6768ccf634323.mp3]"
+                                        "[sound:googletts-a3b1f737-cf041617-9a5fd45a-982b53f5-855b8e32.mp3]"
                                     ],
                                     "guid": "nt<WtWRzV/",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4600,7 +4600,7 @@
                                     "fields": [
                                         "как её зов<font color=\"#ff0000\">у</font>т?",
                                         "Wie heißt sie?",
-                                        "[sound:googletts-e10aeb9f-b3e57642-e69e8d8f-323ad276-245ffd9d-c92242a941a3bcb51b8bfac7a1c1f28673418844.mp3]"
+                                        "[sound:googletts-e10aeb9f-b3e57642-e69e8d8f-323ad276-245ffd9d.mp3]"
                                     ],
                                     "guid": "e[VvD)LFxK",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4614,7 +4614,7 @@
                                     "fields": [
                                         "как их зов<font color=\"#ff0000\">у</font>т?",
                                         "Wie heißen sie?",
-                                        "[sound:googletts-7e97ec4a-06429c74-f0a4948c-a1f1b067-09174bf6-282e6f6cba39f563da6951a43b38443e25ea1dfa.mp3]"
+                                        "[sound:googletts-7e97ec4a-06429c74-f0a4948c-a1f1b067-09174bf6.mp3]"
                                     ],
                                     "guid": "s&=E4K/~~/",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4664,7 +4664,7 @@
                                     "fields": [
                                         "Привет, Лена!",
                                         "Hallo, Lena! (Umgangssprachlich)",
-                                        "[sound:googletts-bc11f89c-b228f400-59b438b1-ecc08156-0b254784-d17a3420137dfb5e5a171dc39beb2b02a1273610.mp3]"
+                                        "[sound:googletts-bc11f89c-b228f400-59b438b1-ecc08156-0b254784.mp3]"
                                     ],
                                     "guid": "qg|:TZJm1)",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4675,7 +4675,7 @@
                                     "fields": [
                                         "Пока, Лена!",
                                         "Tschüss, Lena! (Umgangssprachlich)",
-                                        "[sound:googletts-ba03d417-ffe9ecc7-e590256f-60a62162-0dafcb20-605d0bbecad5f3b86290931c6066286b404738c1.mp3]"
+                                        "[sound:googletts-ba03d417-ffe9ecc7-e590256f-60a62162-0dafcb20.mp3]"
                                     ],
                                     "guid": "hRa5tf9^Kb",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4686,7 +4686,7 @@
                                     "fields": [
                                         "Здравствуйте, Анна!",
                                         "Hallo, Anna! (Höflich)",
-                                        "[sound:googletts-893abbd9-5f77cdb9-a69f5274-d99f9025-04aef6d2-4fe5ac9ffe5d15e4eb85c2be2c84859074e0f1d1.mp3]"
+                                        "[sound:googletts-893abbd9-5f77cdb9-a69f5274-d99f9025-04aef6d2.mp3]"
                                     ],
                                     "guid": "lK<mnnxr=.",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4697,7 +4697,7 @@
                                     "fields": [
                                         "До свидания, Анна!",
                                         "Auf wiedersehen, Anna! (Höflich)",
-                                        "[sound:googletts-64a41323-b4b98332-aa43aa26-7b878fa8-0051d1f8-29ec2e38982325e33558980f8393fd1e2b8c34d2.mp3]"
+                                        "[sound:googletts-64a41323-b4b98332-aa43aa26-7b878fa8-0051d1f8.mp3]"
                                     ],
                                     "guid": "EO|s~3XZ)-",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4708,7 +4708,7 @@
                                     "fields": [
                                         "Привет, как тебя зовут?",
                                         "Hallo, wie heißt du?",
-                                        "[sound:googletts-f3e54122-26eb6100-16a7c61d-832d02c5-0210eb24-f214b845d6d57029d59a732e875260ee8558b923.mp3]"
+                                        "[sound:googletts-f3e54122-26eb6100-16a7c61d-832d02c5-0210eb24.mp3]"
                                     ],
                                     "guid": "D@7QaJ2VI(",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4719,7 +4719,7 @@
                                     "fields": [
                                         "Привет! Меня зовут Иван. А тебя?",
                                         "Hallo! Mein Name ist Ivan. Und deiner?",
-                                        "[sound:googletts-433f2ba9-ca01a76a-5ff6bc3b-a4a0575e-377d153e-53177b94ef9443733d9dededfdefa9ef0ab94ae6.mp3]"
+                                        "[sound:googletts-433f2ba9-ca01a76a-5ff6bc3b-a4a0575e-377d153e.mp3]"
                                     ],
                                     "guid": "p)6WyVB.5,",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4730,7 +4730,7 @@
                                     "fields": [
                                         "Здравствуйте! Меня зовут Сергей Петрович.<br>А как Вас зовут?",
                                         "Hallo! Mein Name ist Sergey Petrovich.<br>Und wie heißen Sie?",
-                                        "[sound:googletts-ad080759-a2dbb2e0-1742bf43-6cbf00b5-60d5b328-d7cc18709b07d0636195a1f847b0ac0ce076fc7f.mp3]"
+                                        "[sound:googletts-ad080759-a2dbb2e0-1742bf43-6cbf00b5-60d5b328.mp3]"
                                     ],
                                     "guid": "EztB5hq&a}",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4741,7 +4741,7 @@
                                     "fields": [
                                         "Кто это?<br>Это Маша.<br>Кто она?<br>Она медсестра.",
                                         "Wer ist das?<br>Das ist Mascha.<br>Was ist sie (von Beruf)?<br>Sie ist Krankenschwester.",
-                                        "[sound:googletts-b1703bd6-edb74d0e-67b8295b-19bc316f-82281e42-877e653ee4a10c15d5dffb3f4f9a917e16612546.mp3]"
+                                        "[sound:googletts-b1703bd6-edb74d0e-67b8295b-19bc316f-82281e42.mp3]"
                                     ],
                                     "guid": "f.U)LTydyA",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4752,7 +4752,7 @@
                                     "fields": [
                                         "Кто это?<br>Это Александр.<br>Кто он?<br>Он инженер.",
                                         "Wer ist das?<br>Das ist Aleksander.<br>Was ist er (von Beruf)?<br>Er ist Ingenieur.",
-                                        "[sound:googletts-e47d29f0-e98249d7-19bc8957-d8c0e66b-25be35da-b893527a9065662ff540f6ee644c3ac1c9968f09.mp3]"
+                                        "[sound:googletts-e47d29f0-e98249d7-19bc8957-d8c0e66b-25be35da.mp3]"
                                     ],
                                     "guid": "kBDr03#!(N",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4763,7 +4763,7 @@
                                     "fields": [
                                         "Привет. Меня зовут Алексей. Я студент. А это моя семья.",
                                         "Hallo. Ich heiße Alexey. Ich bin Student. Und das ist meine Familie.",
-                                        "[sound:googletts-efe71c27-dba59835-601846d6-0e66692c-13c539e0-df138bb0a975e3a1fa897af640101db09ebf0aa9.mp3]"
+                                        "[sound:googletts-efe71c27-dba59835-601846d6-0e66692c-13c539e0.mp3]"
                                     ],
                                     "guid": "L<%T86bUg|",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4774,7 +4774,7 @@
                                     "fields": [
                                         "Это мой отец. Его зовут Виктор. Он инженер.",
                                         "Das ist mein Vater. Er heißt Viktor. Er ist Ingenieur.",
-                                        "[sound:googletts-96f00130-759a7576-347a6a12-87a5078a-f8d16fd6-95116ce6c4243ca8eabf5c495100cb09a496522c.mp3]"
+                                        "[sound:googletts-96f00130-759a7576-347a6a12-87a5078a-f8d16fd6.mp3]"
                                     ],
                                     "guid": "xtg^Kd2mEb",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4783,9 +4783,9 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "д это моя мать.<br>Её зовут Ирина. Она учительница.",
+                                        "А это моя мать.<br>Её зовут Ирина. Она учительница.",
                                         "Und das ist meine Mutter.<br>Sie heißt Irina. Sie ist Lehrerin.",
-                                        "[sound:googletts-8f2e28d6-16fe8379-b5a7997a-fb90e8d6-84edd345-70f47295b57b511deb2e608c61a3d8c66291cc7a.mp3]"
+                                        "[sound:googletts-d948ee36-4a3bcf02-1d218c08-5745cf69-e0cb3093.mp3]"
                                     ],
                                     "guid": "e<`C++dBql",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4796,7 +4796,7 @@
                                     "fields": [
                                         "Это мой дедушка.<br>Его зовут Василий. Он пенсионер.",
                                         "Das ist mein Großvater.<br>Er heißt Vasili. Er ist Rentner.",
-                                        "[sound:googletts-ee6ccb9d-99e99f14-907b696c-ed59e679-b7e6ef2f-710efcdb87493915f8fb97af2e72f587afa9e086.mp3]"
+                                        "[sound:googletts-ee6ccb9d-99e99f14-907b696c-ed59e679-b7e6ef2f.mp3]"
                                     ],
                                     "guid": "zD9oB9OsDb",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4807,7 +4807,7 @@
                                     "fields": [
                                         "А это моя бабушка. Её зовут Екатерина. Она тоже пенсионерка.",
                                         "Und das ist meine Großmutter. Sie heißt Ekaterina. Sie ist auch Rentnerin.",
-                                        "[sound:googletts-499cdc3f-94d76d1f-8594191d-9c1a8c8b-fbe89780-776867fbfa91d157d8da35cd4a8f3c3f6d2c715d.mp3]"
+                                        "[sound:googletts-499cdc3f-94d76d1f-8594191d-9c1a8c8b-fbe89780.mp3]"
                                     ],
                                     "guid": "tZI^Kv)f>4",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4818,7 +4818,7 @@
                                     "fields": [
                                         "Это мой брат. Его зовут Игорь. Он школьник.",
                                         "Das ist mein Bruder. Er heißt Igor. Er ist Schüler.",
-                                        "[sound:googletts-a18a2edf-254bc695-a3e24576-741fdef9-7fe7ca0a-5ea61ff20ebdd9218ff7cd348078336c5979598b.mp3]"
+                                        "[sound:googletts-a18a2edf-254bc695-a3e24576-741fdef9-7fe7ca0a.mp3]"
                                     ],
                                     "guid": "rjrjrZWUEA",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4829,7 +4829,7 @@
                                     "fields": [
                                         "А это моя сестра. Её зовут Наташа.<br>Она тоже школьница.",
                                         "Und das ist meine Schwester. Sie heißt Natascha.<br>Sie ist auch Schülerin.",
-                                        "[sound:googletts-55637ca8-2632f464-8f35e99d-d0b11702-ea203438-7af35d7bae0adc6e6d8b5a976efa0408d3dd72dc.mp3]"
+                                        "[sound:googletts-55637ca8-2632f464-8f35e99d-d0b11702-ea203438.mp3]"
                                     ],
                                     "guid": "xT@.=P}R3z",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4840,7 +4840,7 @@
                                     "fields": [
                                         "Это твой отец?<br>Да, это мой отец.",
                                         "Ist das dein Vater?<br>Ja, das ist mein Vater.",
-                                        "[sound:googletts-1904dc3e-d9eb4d23-e0e8889f-9a64d44a-39805d24-3bd1b1c6fc3b420b0ca898cc65892bdb48fdd037.mp3]"
+                                        "[sound:googletts-1904dc3e-d9eb4d23-e0e8889f-9a64d44a-39805d24.mp3]"
                                     ],
                                     "guid": "uj_+PkKU~g",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4851,7 +4851,7 @@
                                     "fields": [
                                         "А это твоя сестра?<br>Нет, это моя подруга.",
                                         "Und ist das deine Schwester?<br>Nein, das ist meine Freundin.",
-                                        "[sound:googletts-7afddb48-56b3f4f6-dff1d7c1-0856add3-79b248e9-7caed73cba9eeb92ac938693afafaa336eb4a17d.mp3]"
+                                        "[sound:googletts-7afddb48-56b3f4f6-dff1d7c1-0856add3-79b248e9.mp3]"
                                     ],
                                     "guid": "yl/8=!-cG@",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4862,7 +4862,7 @@
                                     "fields": [
                                         "Это твой друг?<br>Да, это мой друг.<br>Как его зовут?<br>Его зовут Сергей.",
                                         "Ist das dein Freund?<br>Ja, das ist mein Freund.<br>Wie heißt er?<br>Er heißt Sergey.",
-                                        "[sound:googletts-0440a66d-9636747c-6d055eaf-6910535e-b04dbc5f-ebda91c04d8a5d63c218a29e13a94bf02f7fca69.mp3]"
+                                        "[sound:googletts-0440a66d-9636747c-6d055eaf-6910535e-b04dbc5f.mp3]"
                                     ],
                                     "guid": "w&j`I5;$Me",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4873,7 +4873,7 @@
                                     "fields": [
                                         "Как её зовут?<br>Её зовут Марина.",
                                         "Wie heißt sie?<br>Sie heißt Marina.",
-                                        "[sound:googletts-6db06afb-c9007923-011dfe46-a6844a66-7cc3bcae-99d0f13f37333cfce45bed47277fa70e5b54e008.mp3]"
+                                        "[sound:googletts-6db06afb-c9007923-011dfe46-a6844a66-7cc3bcae.mp3]"
                                     ],
                                     "guid": "e3S0$e^NT`",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4884,7 +4884,7 @@
                                     "fields": [
                                         "Кто это?<br>Это мой сосед и моя соседка.",
                                         "Wer ist das?<br>Das ist mein Nachbar und meine Nachbarin.",
-                                        "[sound:googletts-63bde5ab-51c8ecb4-e8ee6ab2-b5808c5b-fc92ced2-1834a9490c0d0607c1dccf6e765e156126800c0f.mp3]"
+                                        "[sound:googletts-63bde5ab-51c8ecb4-e8ee6ab2-b5808c5b-fc92ced2.mp3]"
                                     ],
                                     "guid": "rk#Sr<*buP",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -4894,8 +4894,8 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Как их зовут?<br>Их зовут Александр и Мария.",
-                                        "Wie heißen sie?<br>Sie heißen Aleksander und Marina.",
-                                        "[sound:googletts-1fdebbdc-f87a0d6f-0bbd4a78-ae60cf38-7016d1e4-531afff179b2bcd262b6e8ece2a365a51197161d.mp3]"
+                                        "Wie heißen sie?<br>Sie heißen Aleksander und Maria.",
+                                        "[sound:googletts-1fdebbdc-f87a0d6f-0bbd4a78-ae60cf38-7016d1e4.mp3]"
                                     ],
                                     "guid": "o64zDbEKFs",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -6551,38 +6551,38 @@
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "googletts-0b43cb2f-b9ccb60f-4f5c7c7d-1947ba75-c0e62a39-836b3854059e776b70b68b5700c0de575ac64cc9.mp3",
+                                "googletts-0b43cb2f-b9ccb60f-4f5c7c7d-1947ba75-c0e62a39.mp3",
                                 "googletts-0c715606-3c38b39b-df46fca7-3a1681c4-dd80e609-4a6351e2099a58765ddd02fda720ea75347af929.mp3",
                                 "googletts-0f309d7b-2c2d259a-508c1fd0-c7b50190-fe7248d6-d010e55c8158e75902d9b71085d43a1a7d876bc9.mp3",
                                 "googletts-0fb669b4-8f3234a9-3a808d5d-43bed5f4-d029ee6b-9ffc2b54e2b532b621f93ad3946653ffc017ebdc.mp3",
                                 "googletts-190576f3-7fc13e5e-e50a7337-47f23bef-6d60f600-be6028e7c2df7ee629a3b31d4a8604525759ca31.mp3",
-                                "googletts-19abf38b-bca85796-bf31506a-50da562a-0507a937-59d30afa0e4efa3dc2e3a4a82dacd442bcffa2a0.mp3",
+                                "googletts-19abf38b-bca85796-bf31506a-50da562a-0507a937.mp3",
                                 "googletts-1a9c440b-ced31358-738c591d-552056a6-ce662cc0-a7fe748f5a0009ddca06aed63ee42063c58f6fe2.mp3",
                                 "googletts-2b787c02-b4728048-8080ce73-a29be5af-512d346a-f3e6c75397caf031e9b4374d2e016a57dfcab7b1.mp3",
-                                "googletts-3929243b-fd5528b9-ccd92e05-d7fda7ab-ea542560-99040a4880b057807fe87da68161bb4f56f94418.mp3",
+                                "googletts-3929243b-fd5528b9-ccd92e05-d7fda7ab-ea542560.mp3",
                                 "googletts-3bd9c631-81f2dff2-29b1d292-ce811c24-6d0ce689-d5f567d23727b44b479cdc58e79a237cad421e40.mp3",
                                 "googletts-3e482f72-587d73e8-177ee624-15db3236-9c6b0b9b-1c15d58726ccb04cc3d169c0f28e0ffc56f2ac6c.mp3",
-                                "googletts-478617e0-d833de8d-7942f6f6-d3e48c24-f6d777b4-e699f63d62392351beba94cdda94efa472ab6adb.mp3",
+                                "googletts-478617e0-d833de8d-7942f6f6-d3e48c24-f6d777b4.mp3",
                                 "googletts-5b33933a-ae6410ae-290ec3d3-a0a74a74-b4c2eec9-40f3c8c2500811e198f9ee81e1c7c04df5f2a642.mp3",
-                                "googletts-66dba201-09f6b392-387f7814-d6464b34-d3de3e8c-3cdbd2746d3fe4e4fec5d346f0b1ff1c0788a993.mp3",
+                                "googletts-66dba201-09f6b392-387f7814-d6464b34-d3de3e8c.mp3",
                                 "googletts-6babd91e-4337d99b-fc722bc4-0a5e605f-127ffe44.mp3",
-                                "googletts-720fea9a-757698a5-6ddb720e-e1f13537-1dbe0678-e95f8dfb9562ed30b41600d8cad3d604f32b9c4a.mp3",
-                                "googletts-7ce85fe4-161988fe-442766ce-420cfc59-79bd4f01-bc4eafaf060ebabd8b3e11d96f1b1f6a1c2be5d2.mp3",
+                                "googletts-720fea9a-757698a5-6ddb720e-e1f13537-1dbe0678.mp3",
+                                "googletts-7ce85fe4-161988fe-442766ce-420cfc59-79bd4f01.mp3",
                                 "googletts-7f9423ef-e773bc6d-f79ee6d8-3f1aeecf-ae8bbbb8-639ee7269b0d56110492984629faf80b7294801f.mp3",
-                                "googletts-82a11dcd-ee12a33d-bcf5af1f-dc949252-2878c7fd-54d12809e58a995bdeb8522f3dbaa621a288c6fe.mp3",
+                                "googletts-82a11dcd-ee12a33d-bcf5af1f-dc949252-2878c7fd.mp3",
                                 "googletts-82d88933-ba1dc880-d97b0e77-c3e6ed2c-978c9ef4-8e2bdfc20b4da26b2318e079bc0779cdc4305742.mp3",
                                 "googletts-84b715a2-4bc859f6-700be5f9-742aa0ee-f8de0a6d-6e7dabca5b6e0d1c8462db41bc76ea986a460c8d.mp3",
-                                "googletts-8bc99f89-a3374cbb-49db222c-55e36f29-9f314128-8c241198463626dc9c97bc79a30602a58f1803b9.mp3",
+                                "googletts-8bc99f89-a3374cbb-49db222c-55e36f29-9f314128.mp3",
                                 "googletts-9c7a7c48-dc882720-044e80d5-c63b3035-a513ce97-7b40bfe6d5c960842a5ff804566b58e21974f140.mp3",
-                                "googletts-a0a0cdf3-4bab8f8d-4a89e02d-646ec8eb-7a8ff3aa-bc8043d4bca9649b2d91f6804a391c0d5326d652.mp3",
+                                "googletts-a0a0cdf3-4bab8f8d-4a89e02d-646ec8eb-7a8ff3aa.mp3",
                                 "googletts-a5ebbaef-3fd5d22a-da4b879e-4e6b9127-a3f0725d-63b4fdb1d77f03e44fd5f1e527a21ab3f4362ba1.mp3",
-                                "googletts-a8992258-606af95b-3bb53c40-d70c5389-e9f6ca69-f8c478f15e6c76f93e739d0bf465b4bab1577b8f.mp3",
-                                "googletts-a9e1db72-a0454fa4-5a7d2fb0-78d3d83a-79861354-8a88b461390e38fcb9da4dbd5d0f9b8fc4600af4.mp3",
-                                "googletts-b25f003b-f350752d-8aeb9bcc-22d6fb80-c242d429-0610af99f42b7f8ca0d5ebbbc90f3052aeac9fda.mp3",
+                                "googletts-a8992258-606af95b-3bb53c40-d70c5389-e9f6ca69.mp3",
+                                "googletts-a9e1db72-a0454fa4-5a7d2fb0-78d3d83a-79861354.mp3",
+                                "googletts-b25f003b-f350752d-8aeb9bcc-22d6fb80-c242d429.mp3",
                                 "googletts-b2ff48d3-5f86874d-b867776f-1af3673c-cb21e7f6-792e4c189897cd8d7f4599c1b5c3c7bd9536386a.mp3",
                                 "googletts-b3a41d0b-c07d2aee-77efbc4b-32d5fa6f-316dd028-62e392380456d76ab70f7182cd599bd1c79ea517.mp3",
                                 "googletts-b85be9a3-0ad245e1-f1f85cd8-42d59313-0bd0bcb0-77efdfe0228d2ed39c07145493c070f184be65f3.mp3",
-                                "googletts-c4f7c85a-ae15b341-fb87467b-c37b746d-945ead81-789c8713eadfc59531df4a8a3095c98e84763570.mp3",
+                                "googletts-c4f7c85a-ae15b341-fb87467b-c37b746d-945ead81.mp3",
                                 "googletts-cba12f36-e265782e-734eb2a5-77518872-1c0e0adc-54212e3d4b6a176f34b496857a9d91109f5c09b0.mp3",
                                 "googletts-cc3d1913-9c142fa6-57f39684-fdff9d82-fd59ea45-dc4ac3e5527bfaaa009381cfc5768857e13b4dfc.mp3",
                                 "googletts-ce50477c-f16e8418-1e16db27-268147a2-44099548-47a8c4ae6cac84ee396410c6301d3e068afa0e40.mp3",
@@ -6597,7 +6597,7 @@
                                     "fields": [
                                         "Как дел<font color=\"#ff0000\">а</font>?",
                                         "Wie geht's?",
-                                        "[sound:googletts-c4f7c85a-ae15b341-fb87467b-c37b746d-945ead81-789c8713eadfc59531df4a8a3095c98e84763570.mp3]"
+                                        "[sound:googletts-c4f7c85a-ae15b341-fb87467b-c37b746d-945ead81.mp3]"
                                     ],
                                     "guid": "ckooF2-k`w",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -6629,7 +6629,7 @@
                                     "fields": [
                                         "а ещё...",
                                         "Und außerdem...",
-                                        "[sound:googletts-82a11dcd-ee12a33d-bcf5af1f-dc949252-2878c7fd-54d12809e58a995bdeb8522f3dbaa621a288c6fe.mp3]"
+                                        "[sound:googletts-82a11dcd-ee12a33d-bcf5af1f-dc949252-2878c7fd.mp3]"
                                     ],
                                     "guid": "P]za$I~Yg<",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -6643,7 +6643,7 @@
                                     "fields": [
                                         "у теб<font color=\"#ff0000\">я</font> <font color=\"#ff0000\">е</font>сть...?",
                                         "Hast du ... ?",
-                                        "[sound:googletts-7ce85fe4-161988fe-442766ce-420cfc59-79bd4f01-bc4eafaf060ebabd8b3e11d96f1b1f6a1c2be5d2.mp3]"
+                                        "[sound:googletts-7ce85fe4-161988fe-442766ce-420cfc59-79bd4f01.mp3]"
                                     ],
                                     "guid": "wQi0+8BC@D",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -6657,7 +6657,7 @@
                                     "fields": [
                                         "да, у мен<font color=\"#ff0000\">я</font> есть",
                                         "Ja, habe ich.",
-                                        "[sound:googletts-478617e0-d833de8d-7942f6f6-d3e48c24-f6d777b4-e699f63d62392351beba94cdda94efa472ab6adb.mp3]"
+                                        "[sound:googletts-478617e0-d833de8d-7942f6f6-d3e48c24-f6d777b4.mp3]"
                                     ],
                                     "guid": "d})/x5)6oI",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -6671,7 +6671,7 @@
                                     "fields": [
                                         "Нет, у мен<font color=\"#ff0000\">я</font> нет.",
                                         "Nein, habe ich nicht.",
-                                        "[sound:googletts-720fea9a-757698a5-6ddb720e-e1f13537-1dbe0678-e95f8dfb9562ed30b41600d8cad3d604f32b9c4a.mp3]"
+                                        "[sound:googletts-720fea9a-757698a5-6ddb720e-e1f13537-1dbe0678.mp3]"
                                     ],
                                     "guid": "D$f&I+##I%",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -6685,7 +6685,7 @@
                                     "fields": [
                                         "у нег<font color=\"#ff0000\">о</font> есть...",
                                         "Er hat ...",
-                                        "[sound:googletts-66dba201-09f6b392-387f7814-d6464b34-d3de3e8c-3cdbd2746d3fe4e4fec5d346f0b1ff1c0788a993.mp3]"
+                                        "[sound:googletts-66dba201-09f6b392-387f7814-d6464b34-d3de3e8c.mp3]"
                                     ],
                                     "guid": "N$UlN?B~nr",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -6699,7 +6699,7 @@
                                     "fields": [
                                         "у неё есть...",
                                         "Sie hat ...",
-                                        "[sound:googletts-8bc99f89-a3374cbb-49db222c-55e36f29-9f314128-8c241198463626dc9c97bc79a30602a58f1803b9.mp3]"
+                                        "[sound:googletts-8bc99f89-a3374cbb-49db222c-55e36f29-9f314128.mp3]"
                                     ],
                                     "guid": "uL?k,te7)x",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -6713,7 +6713,7 @@
                                     "fields": [
                                         "Как дела?<br>Спасибо, хорошо!",
                                         "Wie geht's?<br>Danke, gut!",
-                                        "[sound:googletts-3929243b-fd5528b9-ccd92e05-d7fda7ab-ea542560-99040a4880b057807fe87da68161bb4f56f94418.mp3]"
+                                        "[sound:googletts-3929243b-fd5528b9-ccd92e05-d7fda7ab-ea542560.mp3]"
                                     ],
                                     "guid": "G@F=,WDmEM",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -6724,7 +6724,7 @@
                                     "fields": [
                                         "У тебя есть велосипед?",
                                         "Hast du ein Fahrrad?",
-                                        "[sound:googletts-a8992258-606af95b-3bb53c40-d70c5389-e9f6ca69-f8c478f15e6c76f93e739d0bf465b4bab1577b8f.mp3]"
+                                        "[sound:googletts-a8992258-606af95b-3bb53c40-d70c5389-e9f6ca69.mp3]"
                                     ],
                                     "guid": "F+Ntoy_23a",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -6735,7 +6735,7 @@
                                     "fields": [
                                         "Да, у меня есть.",
                                         "Ja, habe ich.",
-                                        "[sound:googletts-a0a0cdf3-4bab8f8d-4a89e02d-646ec8eb-7a8ff3aa-bc8043d4bca9649b2d91f6804a391c0d5326d652.mp3]"
+                                        "[sound:googletts-a0a0cdf3-4bab8f8d-4a89e02d-646ec8eb-7a8ff3aa.mp3]"
                                     ],
                                     "guid": "dLlG(a)(4Y",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -6746,7 +6746,7 @@
                                     "fields": [
                                         "А машина у тебя есть?",
                                         "Und hast du ein Auto?",
-                                        "[sound:googletts-0b43cb2f-b9ccb60f-4f5c7c7d-1947ba75-c0e62a39-836b3854059e776b70b68b5700c0de575ac64cc9.mp3]"
+                                        "[sound:googletts-0b43cb2f-b9ccb60f-4f5c7c7d-1947ba75-c0e62a39.mp3]"
                                     ],
                                     "guid": "AV6#^JZ<=+",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -6757,7 +6757,7 @@
                                     "fields": [
                                         "У тебя есть брат?<br>Да, у меня есть брат.",
                                         "Hast du einen Bruder?<br>Ja, ich habe einen Bruder.",
-                                        "[sound:googletts-b25f003b-f350752d-8aeb9bcc-22d6fb80-c242d429-0610af99f42b7f8ca0d5ebbbc90f3052aeac9fda.mp3]"
+                                        "[sound:googletts-b25f003b-f350752d-8aeb9bcc-22d6fb80-c242d429.mp3]"
                                     ],
                                     "guid": "Q=3%K]3HIt",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -6768,7 +6768,7 @@
                                     "fields": [
                                         "Как его зовут?<br>Его зовут Игорь.",
                                         "Wie heißt er?<br>Er heißt Igor.",
-                                        "[sound:googletts-a9e1db72-a0454fa4-5a7d2fb0-78d3d83a-79861354-8a88b461390e38fcb9da4dbd5d0f9b8fc4600af4.mp3]"
+                                        "[sound:googletts-a9e1db72-a0454fa4-5a7d2fb0-78d3d83a-79861354.mp3]"
                                     ],
                                     "guid": "r&8YvSBu|u",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -6779,7 +6779,7 @@
                                     "fields": [
                                         "Твой брат - студент?<br>Нет, он школьник.",
                                         "Dein Bruder - ist er Student?<br>Nein, er ist Schüler.",
-                                        "[sound:googletts-19abf38b-bca85796-bf31506a-50da562a-0507a937-59d30afa0e4efa3dc2e3a4a82dacd442bcffa2a0.mp3]"
+                                        "[sound:googletts-19abf38b-bca85796-bf31506a-50da562a-0507a937.mp3]"
                                     ],
                                     "guid": "N_U0U(BE~[",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -25495,6 +25495,7 @@
                                     "guid": "CRy8wH?~e&",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
                                     "tags": [
+                                        "leech",
                                         "Russisch::A1::Kapitel16",
                                         "Russisch::A2::Kapitel05",
                                         "Russisch::Vokabel"
