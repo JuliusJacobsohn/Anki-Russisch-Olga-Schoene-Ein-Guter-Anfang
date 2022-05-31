@@ -34230,7 +34230,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Was ist der Präpositiv von мост?",
-                                        "мосту"
+                                        "мост<font color=\"#ff453a\">у</font>"
                                     ],
                                     "guid": "d4ha0..L/?",
                                     "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
@@ -34850,7 +34850,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "В Гейдельберге Матиас и его родители живут на улице Бахштрассе в доме номер шесть.",
-                                        "In Heidelberg leben Matthias und seine Eltern in der Bachstraße im Haus Nummer 6.",
+                                        "In Heidelberg leben Matthias und seine Eltern in der Straße \"Bachstraße\" im Haus Nummer 6.",
                                         "[sound:googletts-5ae77c4e-16f31dfb-1bc46c1a-206d0351-653e68ba-758beccbc0056b4dd5dfcd9dbf71d6f3bca4305f.mp3]"
                                     ],
                                     "guid": "PMhs6c4Ir5",
@@ -35103,7 +35103,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Она предложила \nпогулять в Летнем саду и на Марсовом поле.",
-                                        "Sie schlug vor, im Zentrum des Gartens auf dem Marsfeld spazieren zu gehen.",
+                                        "Sie schlug vor, im Sommergartens und auf dem Marsfeld spazieren zu gehen.",
                                         "[sound:googletts-9d6f5364-7fcac2d5-4dc18a41-b4e3b3f3-b672c300.mp3]"
                                     ],
                                     "guid": "l5Y#(vdv_f",
@@ -35114,7 +35114,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "А я сказал, что предлагаю \nсначала погулять, а потом посидеть в баре на Невском проспекте.",
-                                        "Und ich sagte, dass ich vorschlage, zuerst spazieren zu gehen und danach in eine Bar im Newskiy Prospekt.",
+                                        "Und ich sagte, dass ich vorschlage, zuerst spazieren zu gehen und danach in eine Bar im Newskiy Prospekt setzen.",
                                         "[sound:googletts-5aa76ef8-e343cdb2-f2a2012e-6c3a70b0-7c56e5b3.mp3]"
                                     ],
                                     "guid": "uAok|CEPdn",
@@ -40153,7 +40153,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "яп<font color=\"#ff0004\">о</font>ниский",
+                                        "яп<font color=\"#ff0004\">о</font>нский",
                                         "",
                                         "japanisch",
                                         "",
