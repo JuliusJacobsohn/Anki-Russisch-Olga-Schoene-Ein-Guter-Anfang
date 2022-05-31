@@ -35131,6 +35131,325 @@
                                     "guid": "uAok|CEPdn",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
                                     "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где друзья были вечером?",
+                                        "Wo waren die Freunde abends?",
+                                        ""
+                                    ],
+                                    "guid": "rk|J=0.f>u",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "О чём рассказывал Матиас?",
+                                        "Über was erzählte Mathias?",
+                                        ""
+                                    ],
+                                    "guid": "u2!d])*xs$",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "О ком рассказывали девушки?",
+                                        "Über wen erzählten die Mädchen?",
+                                        ""
+                                    ],
+                                    "guid": "zTMozoKb)m",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "О чём спорили друзья?",
+                                        "Über was diskutierten die Freunde?",
+                                        ""
+                                    ],
+                                    "guid": "n&d/-=@Q<e",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что хотела делать Катя?",
+                                        "Was wollte Katja machen?",
+                                        ""
+                                    ],
+                                    "guid": "h8x{*yp~p;",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Что предложил Матиас?",
+                                        "Was schlug Mathias vor?",
+                                        ""
+                                    ],
+                                    "guid": "ys%c:)j8V_",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какие у тебя планы на завтра?",
+                                        "Welche Pläne hast du für Morgen?",
+                                        ""
+                                    ],
+                                    "guid": "vk9I7uvvy9",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Я вам о нём рассказывал.",
+                                        "Ich habe euch von ihm erzählt.",
+                                        ""
+                                    ],
+                                    "guid": "ua@^1F!X$b",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мы говорим о летних каникулах.",
+                                        "Wir reden über die Sommerferien.",
+                                        ""
+                                    ],
+                                    "guid": "mR!/@B7?U>",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Мы говорим о погоде!",
+                                        "Wir reden übers Wetter!",
+                                        ""
+                                    ],
+                                    "guid": "f{lbR$k-8]",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Светит солнце.",
+                                        "Die Sonne scheint.",
+                                        ""
+                                    ],
+                                    "guid": "eQ>P_3WZ42",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Идёт дождь.",
+                                        "Es regnet.",
+                                        ""
+                                    ],
+                                    "guid": "l)x9#F^ckj",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Идёт снег.",
+                                        "Es schneit.",
+                                        ""
+                                    ],
+                                    "guid": "fNE+beQ1?S",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Дует ветер.",
+                                        "Der Wind bläst.",
+                                        ""
+                                    ],
+                                    "guid": "F.OiebEP~I",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какая сегодня погода?",
+                                        "Welches Wetter ist heute?",
+                                        ""
+                                    ],
+                                    "guid": "okGR^`h+$;",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сегодня прекрасная погода!",
+                                        "Heute ist wunderschönes Wetter!",
+                                        ""
+                                    ],
+                                    "guid": "FRkY=sc5@R",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У нас светит солнце и очень тепло.",
+                                        "Bei uns scheint die Sonne und es ist sehr warm.",
+                                        ""
+                                    ],
+                                    "guid": "KcWp#zk8v*",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А вчера тоже была хорошая погода?",
+                                        "Und gestern war auch gutes Wetter?",
+                                        ""
+                                    ],
+                                    "guid": "pS&z0+R6d[",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Вчера днём было облачно.",
+                                        "Tagsüber war es gestern wolkig.",
+                                        ""
+                                    ],
+                                    "guid": "B-x0o,Y&!^",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А вечером шёл дождь.",
+                                        "Und abends regnete es.",
+                                        ""
+                                    ],
+                                    "guid": "D9~077,RqK",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "У нас сегодня ужасная погода: холодно, ветер дует и дождь идёт. Бр-р-р!",
+                                        "Bei uns ist heute schreckliches Wetter: (Es ist) kalt, der Wind bläst und es regnet. Brrr!",
+                                        ""
+                                    ],
+                                    "guid": "zZN0%v(RnX",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "А у нас тепло и солнечно.",
+                                        "Bei uns ist es warm und sonnig.",
+                                        ""
+                                    ],
+                                    "guid": "rk$HJ.=%[v",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сегодня тёплая погода.",
+                                        "Heute ist warmes Wetter.",
+                                        ""
+                                    ],
+                                    "guid": "m0`M40NPdT",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сеrодня тепло.",
+                                        "Heute ist es warm.",
+                                        ""
+                                    ],
+                                    "guid": "GcwAXR1@KR",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "какая сейчас погода, хорошая или плохая?",
+                                        "Welches Wetter ist heute, gutes oder schlechtes?",
+                                        ""
+                                    ],
+                                    "guid": "MtP3|M8~Ra",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Сейчас светит солнце или идёт дождь?",
+                                        "Scheint jetzt die Sonne oder regnet es?",
+                                        ""
+                                    ],
+                                    "guid": "Q9tJnlf,Kz",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Где вы были на летних каникулах?",
+                                        "Wo waren sie in den Sommerferien?",
+                                        ""
+                                    ],
+                                    "guid": "b0<~#c2,^.",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Какая была погода?",
+                                        "Wie war das Wetter?",
+                                        ""
+                                    ],
+                                    "guid": "IzI*Sn@mE/",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Солнечная и тёплая или холодная и дождливая?",
+                                        "(Das Wetter war...) Sonnig und warm, oder kalt und regnerisch?",
+                                        ""
+                                    ],
+                                    "guid": "D@Kvsi5V.q",
+                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
+                                    "tags": []
                                 }
                             ]
                         },
