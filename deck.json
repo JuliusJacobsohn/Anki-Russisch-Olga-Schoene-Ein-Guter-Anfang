@@ -34388,6 +34388,7 @@
                                 "googletts-0db9b3c0-5c21d98d-374076ac-607fdc67-70e24dd4.mp3",
                                 "googletts-0f5ec060-39190a8e-75d449e1-76a621d2-04ff746b.mp3",
                                 "googletts-12186614-0513ab4c-b55a1b5b-35701d00-2d75b835.mp3",
+                                "googletts-171f4d7c-10f18ca3-da73d03a-7ee8ebb1-c1914c11.mp3",
                                 "googletts-18637fde-7be9ec04-c5a2a2a5-a2b57070-8f64f8cb.mp3",
                                 "googletts-194fb46c-1d09ceb5-2c28fe52-36498a73-9c83856a.mp3",
                                 "googletts-1cc52fcd-36a444e0-8cc108c5-5b0039a2-5a95e20b.mp3",
@@ -34438,9 +34439,9 @@
                                 "googletts-8cdf4920-6db19877-b62dad0a-8696f392-96869670.mp3",
                                 "googletts-8ff4d78d-572a4370-87927ea2-0631d170-13197487.mp3",
                                 "googletts-9056ee8c-511f5436-43c5d417-fb2a31aa-08f458b4.mp3",
+                                "googletts-93bc1d25-44c158cf-e2acc9e0-93e94908-87c4a680.mp3",
                                 "googletts-96bfbd00-bff851ca-d7999347-de99c81a-a6f5dfde.mp3",
                                 "googletts-96c326ca-fe8b4bfa-c41f5512-90f10dd5-c94c0494.mp3",
-                                "googletts-9d6f5364-7fcac2d5-4dc18a41-b4e3b3f3-b672c300.mp3",
                                 "googletts-a8a604a6-2035b9a5-c02e6989-78540691-61f6ec23.mp3",
                                 "googletts-ab359913-02fb5af0-db78049a-68fe16c6-c860b310.mp3",
                                 "googletts-ada26347-d2b063ad-fd882799-42ae579e-b87c5434.mp3",
@@ -34464,7 +34465,6 @@
                                 "googletts-f00ba7ce-d9caa9c9-821f2236-d7ea4a75-5bb35fe9.mp3",
                                 "googletts-f0e85124-2fed08c7-2ebd4d39-9a5d475e-4e076a96.mp3",
                                 "googletts-f2544192-8c6877b9-16a9ab07-1789d938-e8bda41a.mp3",
-                                "googletts-f3606ec7-31fa47fa-47ecbe86-0a6ec9bf-484f4fc2.mp3",
                                 "googletts-f5148dcd-5e286072-2b7a27b2-6ebcfb02-cb21997f.mp3",
                                 "googletts-f60c6c5d-17ea1945-dadc488b-97ba89cd-5f796902.mp3",
                                 "googletts-f726e4ab-5844c7c4-0d18643d-ca89b1ca-6d1cc149.mp3",
@@ -35142,9 +35142,9 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Она предложила \nпогулять в Летнем саду и на Марсовом поле.",
-                                        "Sie schlug vor, im Sommergartens und auf dem Marsfeld spazieren zu gehen.",
-                                        "[sound:googletts-9d6f5364-7fcac2d5-4dc18a41-b4e3b3f3-b672c300.mp3]"
+                                        "Она предложила \nпогулять в летнем саду и на Марсовом поле.",
+                                        "Sie schlug vor, im Sommergarten und auf dem Marsfeld spazieren zu gehen.",
+                                        "[sound:googletts-93bc1d25-44c158cf-e2acc9e0-93e94908-87c4a680.mp3]"
                                     ],
                                     "guid": "l5Y#(vdv_f",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -35417,9 +35417,9 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Сеrодня тепло.",
+                                        "Сегодня тепло.",
                                         "Heute ist es warm.",
-                                        "[sound:googletts-f3606ec7-31fa47fa-47ecbe86-0a6ec9bf-484f4fc2.mp3]"
+                                        "[sound:googletts-171f4d7c-10f18ca3-da73d03a-7ee8ebb1-c1914c11.mp3]"
                                     ],
                                     "guid": "GcwAXR1@KR",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -35429,7 +35429,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "какая сейчас погода, хорошая или плохая?",
-                                        "Welches Wetter ist heute, gutes oder schlechtes?",
+                                        "Welches Wetter ist gerade, gutes oder schlechtes?",
                                         "[sound:googletts-1cc52fcd-36a444e0-8cc108c5-5b0039a2-5a95e20b.mp3]"
                                     ],
                                     "guid": "MtP3|M8~Ra",
@@ -37657,7 +37657,6 @@
                                 "googletts-3a08cc66-640e7c80-8d880236-377d96ab-1f7e537e.mp3",
                                 "googletts-3ba41a4b-fd190bda-dc2a25de-e90edb1d-8d7c709e.mp3",
                                 "googletts-3eea2c30-17e10ac6-9779f473-1f8bdf50-f0396404.mp3",
-                                "googletts-408b79b5-5e42bb38-2fab7133-1a0e4186-fbbeb5b6.mp3",
                                 "googletts-40a82393-03ddde19-7a3e7d15-4663cd1b-b2aad41a.mp3",
                                 "googletts-41112787-68e24af2-89a6ae98-8739989e-84050dc8.mp3",
                                 "googletts-412ff9ae-b42d9271-81137d79-1a357272-f706562b.mp3",
@@ -37670,7 +37669,6 @@
                                 "googletts-52b0898e-0f24546a-9f089ca2-db67a773-b0a71526.mp3",
                                 "googletts-557a7ef5-8752f447-b90a71c6-0162f8ef-56ab5ff1.mp3",
                                 "googletts-58486462-4b21f2d7-098acd42-0658280e-b38a8e0d.mp3",
-                                "googletts-58881e79-678aeac0-66e4297d-8c85bd0e-cbab716b.mp3",
                                 "googletts-5994efbd-404898c5-3b707cd7-d0474a48-71773eb8.mp3",
                                 "googletts-5b068a7f-a70f4e10-8dccbab4-608ffa33-62802c3e.mp3",
                                 "googletts-5c57bed1-1b60f6ce-f1bf941d-50ca42e6-e36cb6fe.mp3",
@@ -37682,6 +37680,7 @@
                                 "googletts-60a45f06-c039aacc-93868fb4-e21b8346-978fad5c.mp3",
                                 "googletts-6117aca0-74eac66e-07449703-7addfc7c-a29fed71.mp3",
                                 "googletts-611d5525-f7bcacdb-48932fb2-ab1e8caf-f07bf059.mp3",
+                                "googletts-6155a474-8a40214c-7c2bdfbd-77e2a70a-da55af2a.mp3",
                                 "googletts-66053767-6a6f519d-4adc8223-c07f0382-c742accf.mp3",
                                 "googletts-67ec7121-7eba2433-880d51d8-6ee512f6-bf390b41.mp3",
                                 "googletts-6960ecec-9c3400f3-f631cbe9-d538eb2e-4f3f8e79.mp3",
@@ -37714,9 +37713,9 @@
                                 "googletts-9e960711-5f5cf406-0593d98f-bfa78a08-6a993a7e.mp3",
                                 "googletts-9f7bb783-53645a2a-a9050786-b904987b-eadf9cba.mp3",
                                 "googletts-9fa1f068-fc405fa6-c78a7983-a1e509b6-1cad2760.mp3",
-                                "googletts-a6c257e3-d5654010-05096deb-a71fefc4-dab44372.mp3",
                                 "googletts-a89b636a-67c91c71-233ddedc-0cb112b2-a3cc6928.mp3",
                                 "googletts-b48e90a3-3a13d238-262dc669-1d45d8b2-d5c4fdd7.mp3",
+                                "googletts-b4af48ad-3697a8fd-b716e4e5-088341c6-69d068d7.mp3",
                                 "googletts-b6877758-36010039-65126b17-a88b17d3-61417f4b.mp3",
                                 "googletts-b9ea0d6a-0ce4049b-7bd8797e-be131427-8ae2ca02.mp3",
                                 "googletts-ba5f2af7-64d610e0-86067048-0854eaae-4a748254.mp3",
@@ -37898,9 +37897,9 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Матиас, у тебя много друзёй?",
+                                        "Матиас, у тебя много друзей?",
                                         "Mathias, hast du viele Freunde?",
-                                        "[sound:googletts-408b79b5-5e42bb38-2fab7133-1a0e4186-fbbeb5b6.mp3]"
+                                        "[sound:googletts-b4af48ad-3697a8fd-b716e4e5-088341c6-69d068d7.mp3]"
                                     ],
                                     "guid": "wVv/Iu3;!T",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
@@ -37921,7 +37920,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Нет, не очень много, только пара.",
-                                        "Nein, nicht so viele, nur ein paar.",
+                                        "Nein, nicht sehr viele, nur ein paar.",
                                         "[sound:googletts-fb461f52-fce5ab27-ca7eb85b-f61f05f5-dc950547.mp3]"
                                     ],
                                     "guid": "sn4*V{DV2?",
@@ -37942,9 +37941,9 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "У тебя большйе окна в комнате?",
+                                        "У тебя большие окна в комнате?",
                                         "Hast du große Fenster im Zimmer?",
-                                        "[sound:googletts-58881e79-678aeac0-66e4297d-8c85bd0e-cbab716b.mp3]"
+                                        "[sound:googletts-6155a474-8a40214c-7c2bdfbd-77e2a70a-da55af2a.mp3]"
                                     ],
                                     "guid": "I`r:;fp.f3",
                                     "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
