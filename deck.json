@@ -38041,17 +38041,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Скажйте, пожалуйста, который час?",
-                                        "Sagen Sie bitte, wie viel Uhr es ist?",
-                                        "[sound:googletts-a6c257e3-d5654010-05096deb-a71fefc4-dab44372.mp3]"
-                                    ],
-                                    "guid": "zLdA{ymrAd",
-                                    "note_model_uuid": "26628340-2d30-11ec-ac9b-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "Сейчас три часа пятнадцать минут.",
                                         "Gerade ist es 3:15 Uhr.",
                                         "[sound:googletts-76637132-3cc15170-dd140922-eff049a6-8a6be9be.mp3]"
