@@ -9405,62 +9405,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Konjugation und Übersetzung: говор<font color=\"#ff0000\">и</font>ть",
-                                        "Sprechen<br><br>я говор<font color=\"#ff0000\">ю</font><br>ты говор<font color=\"#ff0000\">и</font>шь<br>он говор<font color=\"#ff0000\">и</font>т<br>мы говор<font color=\"#ff0000\">и</font>м<br>вы говор<font color=\"#ff0000\">и</font>те<br>он<font color=\"#ff0000\">и</font> говор<font color=\"#ff0000\">я</font>т"
-                                    ],
-                                    "guid": "Dt~Ok/A,/c",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel05",
-                                        "Russisch::Grammatik",
-                                        "Russisch::Verb"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Konjugation und Übersetzung: поним<font color=\"#ff0000\">а</font>ть",
-                                        "Verstehen<br><br>я поним<font color=\"#ff0000\">а</font>ю<br>ты поним<font color=\"#ff0000\">а</font>ешь<br>он поним<font color=\"#ff0000\">а</font>ет<br>мы поним<font color=\"#ff0000\">а</font>ем<br>вы поним<font color=\"#ff0000\">а</font>ете<br>он<font color=\"#ff0000\">и</font>&nbsp;поним<font color=\"#ff0000\">а</font>ют"
-                                    ],
-                                    "guid": "J.ux##!P^r",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel05",
-                                        "Russisch::Grammatik",
-                                        "Russisch::Verb"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Konjugation und Übersetzung: зн<font color=\"#ff0000\">а</font>ть",
-                                        "Wissen<br><br>я зн<font color=\"#ff0000\">а</font>ю<br>ты зн<font color=\"#ff0000\">а</font>ешь<br>он зн<font color=\"#ff0000\">а</font>ет<br>мы зн<font color=\"#ff0000\">а</font>ем<br>вы зн<font color=\"#ff0000\">а</font>ете<br>он<font color=\"#ff0000\">и</font>&nbsp;зн<font color=\"#ff0000\">а</font>ют"
-                                    ],
-                                    "guid": "iR:;tYP[f`",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel05",
-                                        "Russisch::Grammatik",
-                                        "Russisch::Verb"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Konjugation und Übersetzung: чит<font color=\"#ff0000\">а</font>ть",
-                                        "Lesen<br><br>я чит<font color=\"#ff0000\">а</font>ю<br>ты чит<font color=\"#ff0000\">а</font>ешь<br>он чит<font color=\"#ff0000\">а</font>ет<br>мы чит<font color=\"#ff0000\">а</font>ем<br>вы чит<font color=\"#ff0000\">а</font>ете<br>он<font color=\"#ff0000\">и</font>&nbsp;чит<font color=\"#ff0000\">а</font>ют"
-                                    ],
-                                    "guid": "eFVmhzFf}(",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel05",
-                                        "Russisch::Grammatik",
-                                        "Russisch::Verb"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "Endungen i-Konjugation",
                                         "-ю<br>-ишь<br>-ит<br>-им<br>-ите<br>-ят"
                                     ],
@@ -10634,34 +10578,6 @@
                             "media_files": [],
                             "name": "02 Grammatik",
                             "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Konjugation und Übersetzung: жить",
-                                        "Leben/Wohnen<br><br>я жив<font color=\"#ff0000\">у</font><br>ты живёшь<br>он живёт<br>мы живём<br>вы живёте<br>он<font color=\"#ff0000\">и</font>&nbsp;жив<font color=\"#ff0000\">у</font>т"
-                                    ],
-                                    "guid": "A3#+/!X.{>",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel06",
-                                        "Russisch::Grammatik",
-                                        "Russisch::Verb"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Konjugation und Übersetzung: раб<font color=\"#ff0000\">о</font>тать",
-                                        "Arbeiten<br><br>я раб<font color=\"#ff0000\">о</font>таю<br>ты раб<font color=\"#ff0000\">о</font>таешь<br>он раб<font color=\"#ff0000\">о</font>тает<br>мы раб<font color=\"#ff0000\">о</font>таем<br>вы раб<font color=\"#ff0000\">о</font>таете<br>он<font color=\"#ff0000\">и</font>&nbsp;раб<font color=\"#ff0000\">о</font>тают"
-                                    ],
-                                    "guid": "vToHv`4Wg,",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel06",
-                                        "Russisch::Grammatik",
-                                        "Russisch::Verb"
-                                    ]
-                                },
                                 {
                                     "__type__": "Note",
                                     "fields": [
@@ -12398,34 +12314,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Konjugation und Übersetzung: д<font color=\"#ff0000\">е</font>лать",
-                                        "Machen/Tun<br><br>я д<font color=\"#ff0000\">е</font>лаю<br>ты д<font color=\"#ff0000\">е</font>лаешь<br>он д<font color=\"#ff0000\">е</font>лает<br>мы д<font color=\"#ff0000\">е</font>лаем<br>вы д<font color=\"#ff0000\">е</font>лаете<br>он<font color=\"#ff0000\">и</font>&nbsp;д<font color=\"#ff0000\">е</font>лают"
-                                    ],
-                                    "guid": "yxxgT``kWF",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel07",
-                                        "Russisch::Grammatik",
-                                        "Russisch::Verb"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Konjugation und Übersetzung: смотр<font color=\"#ff0000\">е</font>ть",
-                                        "Schauen<br><br>я смотр<font color=\"#ff0000\">ю</font><br>ты см<font color=\"#ff0000\">о</font>тришь<br>он см<font color=\"#ff0000\">о</font>трит<br>мы см<font color=\"#ff0000\">о</font>трим<br>вы см<font color=\"#ff0000\">о</font>трите<br>он<font color=\"#ff0000\">и</font>&nbsp;см<font color=\"#ff0000\">о</font>трят"
-                                    ],
-                                    "guid": "n.dqy;W.8{",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel07",
-                                        "Russisch::Grammatik",
-                                        "Russisch::Verb"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "Konjugation von игр<font color=\"#ff0000\">а</font>ть",
                                         "e-Konjugation"
                                     ],
@@ -12478,49 +12366,10 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Konjugation und Übersetzung: люб<font color=\"#ff453a\">и</font>ть",
-                                        "Lieben<br><br>я любл<font color=\"#ff0000\">ю</font><br>ты л<font color=\"#ff0000\">ю</font>бишь<br>он л<font color=\"#ff0000\">ю</font>бит<br>мы л<font color=\"#ff0000\">ю</font>бим<br>вы л<font color=\"#ff0000\">ю</font>бите<br>он<font color=\"#ff0000\">и</font>&nbsp;л<font color=\"#ff0000\">ю</font>бят"
-                                    ],
-                                    "guid": "q9_l*8uto]",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel07",
-                                        "Russisch::Grammatik"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "Konjugation von&nbsp;гот<span style=\"caret-color: rgb(255, 0, 0); color: rgb(255, 0, 0);\">о</span>вить",
                                         "i-Konjugation, 1.Person Sg. eingeschobenes л wie bei \"lieben\":<br>гот<font color=\"#ff0000\">о</font>влю"
                                     ],
                                     "guid": "hFhqUuWq/+",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel07",
-                                        "Russisch::Grammatik"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Konjugation und Übersetzung: пис<font color=\"#ff0000\">а</font>ть",
-                                        "Schreiben<br><br>я пиш<font color=\"#ff0000\">у</font><br>ты&nbsp;&nbsp;п<font color=\"#ff0000\">и</font>шешь<br>он п<font color=\"#ff0000\">и</font>шет<br>мы п<font color=\"#ff0000\">и</font>шем<br>вы п<font color=\"#ff0000\">и</font>шете<br>он<font color=\"#ff0000\">и</font>&nbsp;п<font color=\"#ff0000\">и</font>шут"
-                                    ],
-                                    "guid": "nwjb5iBfvB",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel07",
-                                        "Russisch::Grammatik"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Konjugation und Übersetzung: обним<font color=\"#ff0000\">а</font>ть",
-                                        "e-Konjugation, Umarmen"
-                                    ],
-                                    "guid": "lpX#gYfw%d",
                                     "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
                                     "tags": [
                                         "Russisch::A1::Kapitel07",
@@ -16356,34 +16205,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Konjugation und Übersetzung: есть",
-                                        "Essen<br><br>я ем<br>ты ешь<br>он ест<br>мы ед<font color=\"#ff0000\">и</font>м<br>вы ед<font color=\"#ff0000\">и</font>те<br>он<font color=\"#ff0000\">и</font>&nbsp;ед<font color=\"#ff0000\">я</font>т"
-                                    ],
-                                    "guid": "m|,Xv)]z^6",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel09",
-                                        "Russisch::Grammatik",
-                                        "Russisch::Verb"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Konjugation und Übersetzung: пить",
-                                        "Trinken<br><br>я пью<br>ты пьёшь<br>он пьёт<br>мы пьём<br>вы пьёте<br>он<font color=\"#ff0000\">и</font>&nbsp;пьют"
-                                    ],
-                                    "guid": "vo>2C#A^sd",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel09",
-                                        "Russisch::Grammatik",
-                                        "Russisch::Verb"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "Unterschied \"есть на завтрак\" und \"завтракать\"?",
                                         "\"есть на завтрак\": Gibt an, was man gefrühstückt hat.<br>\"завтракать\": Wird verwendet um zu sagen, wo oder wie man gegessen hat."
                                     ],
@@ -18234,19 +18055,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Konjugation und Übersetzung: хот<font color=\"#ff0000\">е</font>ть",
-                                        "Wollen<br><br>я хоч<font color=\"#ff0000\">у</font><br>ты х<font color=\"#ff0000\">о</font>чешь<br>он х<font color=\"#ff0000\">о</font>чет<br>мы хот<font color=\"#ff0000\">и</font>м<br>вы хот<font color=\"#ff0000\">и</font>те<br>он<font color=\"#ff0000\">и</font>&nbsp;хот<font color=\"#ff0000\">я</font>т"
-                                    ],
-                                    "guid": "FK#/*xK1NW",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel10",
-                                        "Russisch::Grammatik"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "Wie kann хот<font color=\"#ff0000\">е</font>ть verwendet werden?",
                                         "хот<font color=\"#ff0000\">е</font>ть kann mit einem Infinitiv-Verb oder Akkusativ-Nomen stehen.<br>Я хочу есть - Ich will essen<br>Я хочу&nbsp;собаку - Ich will einen Hund"
                                     ],
@@ -19907,20 +19715,6 @@
                                     "tags": [
                                         "Russisch::A1::Kapitel11",
                                         "Russisch::Grammatik"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Konjugation und Übersetzung: быть",
-                                        "Sein<br><br>я б<font color=\"#ff0000\">у</font>ду<br>ты б<span style=\"color: rgb(255, 0, 0);\">у</span>дешь<br>он б<span style=\"color: rgb(255, 0, 0);\">у</span>дет<br>мы б<span style=\"color: rgb(255, 0, 0);\">у</span>дем<br>вы б<span style=\"color: rgb(255, 0, 0);\">у</span>дете<br>он<font color=\"#ff0000\">и</font>&nbsp;б<span style=\"color: rgb(255, 0, 0);\">у</span>дут"
-                                    ],
-                                    "guid": "Q_ws`&(?F#",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel11",
-                                        "Russisch::Grammatik",
-                                        "Russisch::Verb"
                                     ]
                                 },
                                 {
@@ -22088,62 +21882,6 @@
                                     "tags": [
                                         "Russisch::A1::Kapitel12",
                                         "Russisch::Grammatik"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Konjugation und Übersetzung: идт<font color=\"#ff0000\">и</font>",
-                                        "Gehen (einmalig)<br><br>я ид<font color=\"#ff0000\">у</font><br>ты&nbsp; идёшь<br>он идёт<br>мы идём<br>вы идёте<br>он<font color=\"#ff0000\">и</font>&nbsp;ид<font color=\"#ff0000\">у</font>т"
-                                    ],
-                                    "guid": "tEzd{A&M}@",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel12",
-                                        "Russisch::Grammatik",
-                                        "Russisch::Verb"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Konjugation und Übersetzung: <font color=\"#ff0000\">е</font>хать",
-                                        "Fahren (einmalig)<br><br>я&nbsp;<font color=\"#ff0000\">е</font>ду<br>ты&nbsp; <font color=\"#ff0000\">е</font>дешь<br>он&nbsp;<font color=\"#ff0000\">е</font>дет<br>мы&nbsp;<font color=\"#ff0000\">е</font>дем<br>вы&nbsp;<font color=\"#ff0000\">е</font>дете<br>он<font color=\"#ff0000\">и</font>&nbsp;<font color=\"#ff0000\">е</font>дут"
-                                    ],
-                                    "guid": "t]*_LfNi>b",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel12",
-                                        "Russisch::Grammatik",
-                                        "Russisch::Verb"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Konjugation und Übersetzung: ход<font color=\"#ff0000\">и</font>ть",
-                                        "Gehen (regelmäßig)<br><br>я хож<font color=\"#ff0000\">у</font><br>ты&nbsp;&nbsp;х<font color=\"#ff0000\">о</font>дишь<br>он х<font color=\"#ff0000\">о</font>дит<br>мы х<font color=\"#ff0000\">о</font>дим<br>вы х<font color=\"#ff0000\">о</font>дите<br>он<font color=\"#ff0000\">и</font>&nbsp;х<font color=\"#ff0000\">о</font>дят"
-                                    ],
-                                    "guid": "t(&AViHY<8",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel12",
-                                        "Russisch::Grammatik",
-                                        "Russisch::Verb"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Konjugation und Übersetzung: <font color=\"#ff0000\">е</font>здить",
-                                        "Fahren (regelmäßig)<br><br>я&nbsp;<font color=\"#ff0000\">е</font>зжу<br>ты&nbsp;&nbsp;<font color=\"#ff0000\">е</font>здишь<br>он&nbsp;<font color=\"#ff0000\">е</font>здит<br>мы&nbsp;<font color=\"#ff0000\">е</font>здим<br>вы&nbsp;<font color=\"#ff0000\">е</font>здите<br>он<font color=\"#ff0000\">и</font>&nbsp;<font color=\"#ff0000\">е</font>здят"
-                                    ],
-                                    "guid": "bi@]No^~:=",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel12",
-                                        "Russisch::Grammatik",
-                                        "Russisch::Verb"
                                     ]
                                 },
                                 {
@@ -27254,20 +26992,6 @@
                                     "tags": [
                                         "Russisch::A1::Kapitel16",
                                         "Russisch::Grammatik"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Konjugation und Übersetzung: мочь",
-                                        "Können (im Stande sein)<br><br>я мог<font color=\"#ff0000\">у</font><br>ты м<font color=\"#ff0000\">о</font>жешь<br>он м<font color=\"#ff0000\">о</font>жет<br>мы м<font color=\"#ff0000\">о</font>жем<br>вы м<font color=\"#ff0000\">о</font>жете<br>он<font color=\"#ff0000\">и</font>&nbsp;м<font color=\"#ff0000\">о</font>гут"
-                                    ],
-                                    "guid": "oWyo804:nD",
-                                    "note_model_uuid": "26631f8d-2d30-11ec-9583-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A1::Kapitel16",
-                                        "Russisch::Grammatik",
-                                        "Russisch::Verb"
                                     ]
                                 },
                                 {
