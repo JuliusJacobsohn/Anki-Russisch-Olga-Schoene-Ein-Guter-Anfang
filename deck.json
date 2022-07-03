@@ -33220,28 +33220,6 @@
                                     "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
                                     "tags": [
                                         "Russisch::A2::Kapitel01",
-                                        "Russisch::Vokabel",
-                                        "Russisch::Verb"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "наход<font color=\"#ff0000\">и</font>ться",
-                                        "sich befinden",
-                                        "нахож<font color=\"#ff0000\">у</font>сь",
-                                        "нах<font color=\"#ff0000\">о</font>дишься",
-                                        "нах<font color=\"#ff0000\">о</font>дится",
-                                        "нах<font color=\"#ff0000\">о</font>димся",
-                                        "нах<font color=\"#ff0000\">о</font>дитесь",
-                                        "нах<font color=\"#ff0000\">о</font>дятся"
-                                    ],
-                                    "guid": "c5d70ddd-7",
-                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A2::Kapitel01",
-                                        "Russisch::Vokabel",
-                                        "Russisch::Verb"
                                     ]
                                 }
                             ]
@@ -47971,26 +47949,6 @@
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
                                     "tags": [
                                         "Russisch::A2::Kapitel06",
-                                        "Russisch::Vokabel"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "брать",
-                                        "nehmen",
-                                        "бер<font color=\"#ff0000\">у</font>",
-                                        "берёшь",
-                                        "",
-                                        "",
-                                        "",
-                                        "бер<font color=\"#ff0000\">у</font>т"
-                                    ],
-                                    "guid": "n5yfx=`_;v",
-                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::A2::Kapitel06",
-                                        "Russisch::Verb",
                                         "Russisch::Vokabel"
                                     ]
                                 }
