@@ -53897,40 +53897,6 @@
                                     "guid": "zV<Yzh]lK-",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
                                     "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "нос<font color=\"#ff0000\">и</font>ть",
-                                        "",
-                                        "tragen",
-                                        "Kleidung, Schuhe, ...",
-                                        "",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "bXbq5QD/6`",
-                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::Verb"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "в<font color=\"#ff0000\">ы</font>глядеть",
-                                        "",
-                                        "aussehen (wie), erscheinen",
-                                        "",
-                                        "",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "i*_uMW)8}2",
-                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": [
-                                        "Russisch::Verb"
-                                    ]
                                 }
                             ]
                         },
@@ -57153,7 +57119,578 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "01 Vokabeln",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "прир<font color=\"#ff0000\">о</font>да",
+                                        "",
+                                        "Natur",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "GqcAI`lo;0",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ш<font color=\"#ff0000\">у</font>мно",
+                                        "",
+                                        "laut",
+                                        "Adv.",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "m>!u2feaB)",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ш<font color=\"#ff0000\">у</font>мный",
+                                        "",
+                                        "laut",
+                                        "Adj.",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "sRYP-hWrv}",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "пр<font color=\"#ff0000\">и</font>город",
+                                        "",
+                                        "Vorstadt",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "eQV!r~MXPP",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "как раз",
+                                        "",
+                                        "gerade, just",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "nK3BettR5M",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "л<font color=\"#ff0000\">о</font>шадь",
+                                        "",
+                                        "Pferd",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "NFkPq#KLK9",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "тр<font color=\"#ff0000\">а</font>сса",
+                                        "",
+                                        "Autobahn, Schnellstraße",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "Ad%QLL0srv",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "развлек<font color=\"#ff0000\">а</font>ться",
+                                        "",
+                                        "sich amüsieren",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "l|{_|bfBv_",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "отлич<font color=\"#ff0000\">а</font>ться",
+                                        "",
+                                        "sich unterscheiden",
+                                        "",
+                                        "+ Fall?",
+                                        "+ Gen.",
+                                        ""
+                                    ],
+                                    "guid": "u3xj8!?56.",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "друг от друга",
+                                        "",
+                                        "von einander",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "gA78j^qD|v",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ст<font color=\"#ff0000\">а</font>рость",
+                                        "",
+                                        "Alter",
+                                        "Nomen",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "qcrqB#LlX{",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "байд<font color=\"#ff0000\">а</font>рочный пох<font color=\"#ff0000\">о</font>д",
+                                        "",
+                                        "Boottour",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "x,<RhG?)5)",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "рыб<font color=\"#ff0000\">а</font>цкий л<font color=\"#ff0000\">а</font>герь",
+                                        "",
+                                        "Fischercamp",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "J~2i;@`GP0",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "остальн<font color=\"#ff0000\">о</font>й",
+                                        "",
+                                        "übrig",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "O4,!>jvk/T",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<font color=\"#ff0000\">о</font>ба",
+                                        "",
+                                        "beide",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "MA1*o&t23!",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "хоз<font color=\"#ff0000\">я</font>йство",
+                                        "",
+                                        "Hauswirtschaft",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "sRWwHP6(a",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "вперед<font color=\"#ff0000\">и</font>",
+                                        "",
+                                        "vor",
+                                        "uns",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "HnD0.N~4)@",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "провод<font color=\"#ff0000\">и</font>ть",
+                                        "",
+                                        "verbringen",
+                                        "Zeit",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "C#68pWoE[:",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "провест<font color=\"#ff0000\">и</font>",
+                                        "",
+                                        "verbringen",
+                                        "Zeit, Perf.",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "Pp`N$D}Pjn",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "кат<font color=\"#ff0000\">а</font>ться",
+                                        "",
+                                        "fahren",
+                                        "zum Vergnügen",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "u]YWUJO[%}",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "коньк<font color=\"#ff0000\">и</font>",
+                                        "",
+                                        "Schlittschuhe",
+                                        "Pl.",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "QMbl}NLG:C",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "л<font color=\"#ff0000\">ы</font>жи",
+                                        "",
+                                        "Ski",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "G`$Ci{gRk:",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "сн<font color=\"#ff0000\">о</font>уборд",
+                                        "",
+                                        "Snowboard",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "eYf<$i8ndm",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "учёба",
+                                        "",
+                                        "Studium, Lernen",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "JLLA=V_>gE",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "пораж<font color=\"#ff0000\">е</font>ние",
+                                        "",
+                                        "Niederlage",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "w#/gJ}-j`D",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "пр<font color=\"#ff0000\">о</font>бовать",
+                                        "",
+                                        "versuchen",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "J[86~t[cAJ",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "попр<font color=\"#ff0000\">о</font>бовать",
+                                        "",
+                                        "versuchen",
+                                        "Perf.",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "p#_/kBEHNH",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "штурмов<font color=\"#ff0000\">а</font>ть",
+                                        "",
+                                        "stürmen",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "x8?a.rj0;+",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "выход",
+                                        "",
+                                        "Ausgang",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "tk[JDOEIpT",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "быть вз<font color=\"#ff0000\">я</font>тым",
+                                        "",
+                                        "eingenommen werden",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "I-T%vfBz-!",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "контрол<font color=\"#ff0000\">и</font>ровать",
+                                        "",
+                                        "kontrollieren",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "D:p=f0_A[1",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "план<font color=\"#ff0000\">и</font>ровать",
+                                        "",
+                                        "planen",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "xrS[=?Tyny",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "дерев<font color=\"#ff0000\">я</font>нный",
+                                        "",
+                                        "hölzern",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "fax}q4FC;n",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "пр<font color=\"#ff0000\">я</font>мо",
+                                        "",
+                                        "direkt",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "zKtimNuJ>f",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "кон<font color=\"#ff0000\">е</font>ц",
+                                        "",
+                                        "Ende",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "OMqjFPw8{e",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "к<font color=\"#ff0000\">а</font>менный",
+                                        "",
+                                        "steinern",
+                                        "Adj.",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "iGesEbMM0w",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "знамен<font color=\"#ff0000\">и</font>тый",
+                                        "",
+                                        "berühmt",
+                                        "Adj.",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "GDYJdiKK&$",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "идт<font color=\"#ff0000\">и</font> за",
+                                        "",
+                                        "folgen",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "yf]b3+=v/&",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
