@@ -5408,7 +5408,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "{{c1::Кто::Кто/Что}}&nbsp;{{c1::он::это/он/она}}? - Это Мария.",
+                                        "{{c1::Кто::Кто/Что}}&nbsp;{{c1::это::это/он/она}}? - Это Мария.",
                                         ""
                                     ],
                                     "guid": "z|[#>c56/!",
@@ -37050,7 +37050,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Вчера вечером мы долго сидели в маленькой и уютной комнате&nbsp;Лены.",
-                                        "Gestern Abend saßen wir lange in der kleinen und gemütlichen Wohnung von Lena.",
+                                        "Gestern Abend saßen wir lange in dem kleinen und gemütlichen Zimmer von Lena.",
                                         "[sound:googletts-53e6353d-74e95f07-348b4e4d-f014769c-06a3e950.mp3]"
                                     ],
                                     "guid": "gD@9=Y6]_v",
@@ -40691,7 +40691,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Вчера я купила шарф за 12 евро.",
-                                        "Gestern kaufte ich einen Schal für 12€.",
+                                        "Gestern kaufte ich (f.) einen Schal für 12€.",
                                         "[sound:googletts-4bfbea7a-1ebb6c0e-9c867a5f-36727a23-f06955b3.mp3]"
                                     ],
                                     "guid": "tR{^DTj~q%",
@@ -40735,7 +40735,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Идёшь с нами?",
-                                        "Gehst du mit uns?",
+                                        "Gehste mit uns?",
                                         "[sound:googletts-7f124197-d5ddfb70-2407cb47-26e8f297-baa0397e.mp3]"
                                     ],
                                     "guid": "~IkX2.gxZ",
@@ -40801,7 +40801,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "У меня нет красного жакета!",
-                                        "Ich habe kein schönes Jacket!",
+                                        "Ich habe kein rotes Jacket!",
                                         "[sound:googletts-94da96b3-96c7d36d-0d2c1eb0-39d9c795-a2f2fcdb.mp3]"
                                     ],
                                     "guid": "c_VX@H_+O,",
@@ -44800,8 +44800,8 @@
                                     "fields": [
                                         "дом<font color=\"#ff0004\">а</font>шний",
                                         "",
-                                        "häusliche",
-                                        "",
+                                        "häuslich",
+                                        "Adj.",
                                         "",
                                         "",
                                         "[sound:googletts-5e4b7a45-4eef789f-12e32761-5b8bdac7-12a3d2e9-fb84a3a27db62904951bd2a96dbe12c8bc0fcad4.mp3]"
@@ -52605,7 +52605,7 @@
                                     "fields": [
                                         "протест<font color=\"#ff0000\">и</font>ровать",
                                         "testen",
-                                        "протест<font color=\"#ff0000\">и</font>р",
+                                        "протест<font color=\"#ff0000\">и</font>рую",
                                         "протест<font color=\"#ff0000\">и</font>руешь",
                                         "протест<font color=\"#ff0000\">и</font>рует",
                                         "протест<font color=\"#ff0000\">и</font>руем",
