@@ -32842,6 +32842,22 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
+                                        "наход<font color=\"#ff0000\">и</font>ться",
+                                        "sich befinden",
+                                        "нахож<font color=\"#ff0000\">у</font>сь",
+                                        "нах<font color=\"#ff0000\">о</font>дишься",
+                                        "нах<font color=\"#ff0000\">о</font>дится",
+                                        "нах<font color=\"#ff0000\">о</font>димся",
+                                        "нах<font color=\"#ff0000\">о</font>дитесь",
+                                        "нах<font color=\"#ff0000\">о</font>дятся"
+                                    ],
+                                    "guid": "ltDhu^&Qz]",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
                                         "звать",
                                         "heißen, benennen",
                                         "зов<font color=\"#ff0000\">у</font>",
@@ -35604,22 +35620,6 @@
                             "media_files": [],
                             "name": "02 Grammatik",
                             "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "наход<font color=\"#ff0000\">и</font>ться",
-                                        "sich befinden",
-                                        "нахож<font color=\"#ff0000\">у</font>сь",
-                                        "нах<font color=\"#ff0000\">о</font>дишься",
-                                        "нах<font color=\"#ff0000\">о</font>дится",
-                                        "нах<font color=\"#ff0000\">о</font>димся",
-                                        "нах<font color=\"#ff0000\">о</font>дитесь",
-                                        "нах<font color=\"#ff0000\">о</font>дятся"
-                                    ],
-                                    "guid": "ltDhu^&Qz]",
-                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
-                                    "tags": []
-                                },
                                 {
                                     "__type__": "Note",
                                     "fields": [
