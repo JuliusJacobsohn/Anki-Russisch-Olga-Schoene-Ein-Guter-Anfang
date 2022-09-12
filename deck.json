@@ -57238,7 +57238,9 @@
                                     ],
                                     "guid": "l|{_|bfBv_",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -57253,7 +57255,9 @@
                                     ],
                                     "guid": "u3xj8!?56.",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -57388,7 +57392,9 @@
                                     ],
                                     "guid": "C#68pWoE[:",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -57403,7 +57409,9 @@
                                     ],
                                     "guid": "Pp`N$D}Pjn",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -57418,7 +57426,9 @@
                                     ],
                                     "guid": "u]YWUJO[%}",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -57508,7 +57518,9 @@
                                     ],
                                     "guid": "J[86~t[cAJ",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -57523,7 +57535,9 @@
                                     ],
                                     "guid": "p#_/kBEHNH",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -57538,7 +57552,9 @@
                                     ],
                                     "guid": "x8?a.rj0;+",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -57583,7 +57599,9 @@
                                     ],
                                     "guid": "D:p=f0_A[1",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -57598,7 +57616,9 @@
                                     ],
                                     "guid": "xrS[=?Tyny",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -57703,7 +57723,188 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "02 Grammatik",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "развлек<font color=\"#ff0000\">а</font>ться",
+                                        "sich amüsieren",
+                                        "развлек<font color=\"#ff0000\">а</font>юсь",
+                                        "развлек<font color=\"#ff0000\">а</font>ешься",
+                                        "развлек<font color=\"#ff0000\">а</font>ется",
+                                        "развлек<font color=\"#ff0000\">а</font>емся",
+                                        "развлек<font color=\"#ff0000\">а</font>етесь",
+                                        "развлек<font color=\"#ff0000\">а</font>ются"
+                                    ],
+                                    "guid": "91f9d7ed-3",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "отлич<font color=\"#ff0000\">а</font>ться",
+                                        "sich unterscheiden",
+                                        "отлич<font color=\"#ff0000\">а</font>юсь",
+                                        "отлич<font color=\"#ff0000\">а</font>ешься",
+                                        "отлич<font color=\"#ff0000\">а</font>ется",
+                                        "отлич<font color=\"#ff0000\">а</font>емся",
+                                        "отлич<font color=\"#ff0000\">а</font>етесь",
+                                        "отлич<font color=\"#ff0000\">а</font>ются"
+                                    ],
+                                    "guid": "aae5e8d8-f",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "провод<font color=\"#ff0000\">и</font>ть",
+                                        "verbringen",
+                                        "провож<font color=\"#ff0000\">у</font>",
+                                        "пров<font color=\"#ff0000\">о</font>дишь",
+                                        "пров<font color=\"#ff0000\">о</font>дит",
+                                        "пров<font color=\"#ff0000\">о</font>дим",
+                                        "пров<font color=\"#ff0000\">о</font>дите",
+                                        "пров<font color=\"#ff0000\">о</font>дят"
+                                    ],
+                                    "guid": "399b7b95-1",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "провест<font color=\"#ff0000\">и</font>",
+                                        "verbringen",
+                                        "провед<font color=\"#ff0000\">у</font>",
+                                        "проведёшь",
+                                        "проведёт",
+                                        "проведём",
+                                        "проведёте",
+                                        "провед<font color=\"#ff0000\">у</font>т"
+                                    ],
+                                    "guid": "709ef518-7",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "кат<font color=\"#ff0000\">а</font>ться",
+                                        "fahren",
+                                        "кат<font color=\"#ff0000\">а</font>юсь",
+                                        "кат<font color=\"#ff0000\">а</font>ешься",
+                                        "кат<font color=\"#ff0000\">а</font>ется",
+                                        "кат<font color=\"#ff0000\">а</font>емся",
+                                        "кат<font color=\"#ff0000\">а</font>етесь",
+                                        "кат<font color=\"#ff0000\">а</font>ются"
+                                    ],
+                                    "guid": "0c57679b-8",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "пр<font color=\"#ff0000\">о</font>бовать",
+                                        "versuchen",
+                                        "пр<font color=\"#ff0000\">о</font>бую",
+                                        "пр<font color=\"#ff0000\">о</font>буешь",
+                                        "пр<font color=\"#ff0000\">о</font>бует",
+                                        "пр<font color=\"#ff0000\">о</font>буем",
+                                        "пр<font color=\"#ff0000\">о</font>буете",
+                                        "пр<font color=\"#ff0000\">о</font>буют"
+                                    ],
+                                    "guid": "20b1e7ed-1",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "попр<font color=\"#ff0000\">о</font>бовать",
+                                        "versuchen",
+                                        "попр<font color=\"#ff0000\">о</font>бую",
+                                        "попр<font color=\"#ff0000\">о</font>буешь",
+                                        "попр<font color=\"#ff0000\">о</font>бует",
+                                        "попр<font color=\"#ff0000\">о</font>буем",
+                                        "попр<font color=\"#ff0000\">о</font>буете",
+                                        "попр<font color=\"#ff0000\">о</font>буют"
+                                    ],
+                                    "guid": "68ac221f-a",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "штурмов<font color=\"#ff0000\">а</font>ть",
+                                        "stürmen",
+                                        "штурм<font color=\"#ff0000\">у</font>ю",
+                                        "штурм<font color=\"#ff0000\">у</font>ешь",
+                                        "штурм<font color=\"#ff0000\">у</font>ет",
+                                        "штурм<font color=\"#ff0000\">у</font>ем",
+                                        "штурм<font color=\"#ff0000\">у</font>ете",
+                                        "штурм<font color=\"#ff0000\">у</font>ют"
+                                    ],
+                                    "guid": "c3e6234d-d",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "контрол<font color=\"#ff0000\">и</font>ровать",
+                                        "kontrollieren",
+                                        "контрол<font color=\"#ff0000\">и</font>рую",
+                                        "контрол<font color=\"#ff0000\">и</font>руешь",
+                                        "контрол<font color=\"#ff0000\">и</font>рует",
+                                        "контрол<font color=\"#ff0000\">и</font>руем",
+                                        "контрол<font color=\"#ff0000\">и</font>руете",
+                                        "контрол<font color=\"#ff0000\">и</font>руют"
+                                    ],
+                                    "guid": "363cc94f-f",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "план<font color=\"#ff0000\">и</font>ровать",
+                                        "planen",
+                                        "план<font color=\"#ff0000\">и</font>рую",
+                                        "план<font color=\"#ff0000\">и</font>руешь",
+                                        "план<font color=\"#ff0000\">и</font>рует",
+                                        "план<font color=\"#ff0000\">и</font>руем",
+                                        "план<font color=\"#ff0000\">и</font>руете",
+                                        "план<font color=\"#ff0000\">и</font>руют"
+                                    ],
+                                    "guid": "5d20b9d1-3",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
@@ -57815,7 +58016,9 @@
                                     ],
                                     "guid": "L>I!1WcC%s",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -57830,7 +58033,9 @@
                                     ],
                                     "guid": "N[PI`HQ.Yi",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -57845,7 +58050,9 @@
                                     ],
                                     "guid": "AvalXE/h7o",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -57860,7 +58067,9 @@
                                     ],
                                     "guid": "tIdAf-Ie.o",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -57980,7 +58189,9 @@
                                     ],
                                     "guid": "f4=Eu-EBsN",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -57995,7 +58206,9 @@
                                     ],
                                     "guid": "J1%[Jy;A(f",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -58115,7 +58328,9 @@
                                     ],
                                     "guid": "CB73-Cf23{",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -58175,7 +58390,9 @@
                                     ],
                                     "guid": "J~K$xc&4r7",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -58190,7 +58407,9 @@
                                     ],
                                     "guid": "xFR{Tz&s/Q",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -58265,7 +58484,9 @@
                                     ],
                                     "guid": "g-n4c-0wFJ",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -58310,7 +58531,9 @@
                                     ],
                                     "guid": "ez|q=/BB7y",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -58325,7 +58548,9 @@
                                     ],
                                     "guid": "AeYkGO/!Y3",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -58370,7 +58595,9 @@
                                     ],
                                     "guid": "M`jt|${Cj-",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -58400,7 +58627,9 @@
                                     ],
                                     "guid": "z*g0*aMSa]",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -58430,7 +58659,260 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "02 Grammatik",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "собир<font color=\"#ff0000\">а</font>ть",
+                                        "sammeln",
+                                        "собир<font color=\"#ff0000\">а</font>ю",
+                                        "собир<font color=\"#ff0000\">а</font>ешь",
+                                        "собир<font color=\"#ff0000\">а</font>ет",
+                                        "собир<font color=\"#ff0000\">а</font>ем",
+                                        "собир<font color=\"#ff0000\">а</font>ете",
+                                        "собир<font color=\"#ff0000\">а</font>ют"
+                                    ],
+                                    "guid": "97fa3ef5-5",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "собр<font color=\"#ff0000\">а</font>ть",
+                                        "sammeln",
+                                        "собер<font color=\"#ff0000\">у</font>",
+                                        "соберёшь",
+                                        "соберёт",
+                                        "соберём",
+                                        "соберёте",
+                                        "собер<font color=\"#ff0000\">у</font>т"
+                                    ],
+                                    "guid": "93634888-3",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "составл<font color=\"#ff0000\">я</font>ть",
+                                        "zusammenstellen, verfassen, umfassen",
+                                        "составл<font color=\"#ff0000\">я</font>ю",
+                                        "составл<font color=\"#ff0000\">я</font>ешь",
+                                        "составл<font color=\"#ff0000\">я</font>ет",
+                                        "составл<font color=\"#ff0000\">я</font>ем",
+                                        "составл<font color=\"#ff0000\">я</font>ете",
+                                        "составл<font color=\"#ff0000\">я</font>ют"
+                                    ],
+                                    "guid": "e640de48-4",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "сост<font color=\"#ff0000\">а</font>вить",
+                                        "zusammenstellen, verfassen, umfassen",
+                                        "сост<font color=\"#ff0000\">а</font>влю",
+                                        "сост<font color=\"#ff0000\">а</font>вишь",
+                                        "сост<font color=\"#ff0000\">а</font>вит",
+                                        "сост<font color=\"#ff0000\">а</font>вим",
+                                        "сост<font color=\"#ff0000\">а</font>вите",
+                                        "сост<font color=\"#ff0000\">а</font>вят"
+                                    ],
+                                    "guid": "b9d75139-e",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ср<font color=\"#ff0000\">а</font>внивать",
+                                        "vergleichen",
+                                        "ср<font color=\"#ff0000\">а</font>вниваю",
+                                        "ср<font color=\"#ff0000\">а</font>вниваешь",
+                                        "ср<font color=\"#ff0000\">а</font>внивает",
+                                        "ср<font color=\"#ff0000\">а</font>вниваем",
+                                        "ср<font color=\"#ff0000\">а</font>вниваете",
+                                        "ср<font color=\"#ff0000\">а</font>внивают"
+                                    ],
+                                    "guid": "196874ea-c",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "сравн<font color=\"#ff0000\">и</font>ть",
+                                        "vergleichen",
+                                        "сравн<font color=\"#ff0000\">ю</font>",
+                                        "сравн<font color=\"#ff0000\">и</font>шь",
+                                        "сравн<font color=\"#ff0000\">и</font>т",
+                                        "сравн<font color=\"#ff0000\">и</font>м",
+                                        "сравн<font color=\"#ff0000\">и</font>те",
+                                        "сравн<font color=\"#ff0000\">я</font>т"
+                                    ],
+                                    "guid": "c2fb3456-c",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "зан<font color=\"#ff0000\">я</font>ть",
+                                        "belegen, einnehmen",
+                                        "займ<font color=\"#ff0000\">у</font>",
+                                        "займёшь",
+                                        "займёт",
+                                        "займём",
+                                        "займёте",
+                                        "займ<font color=\"#ff0000\">у</font>т"
+                                    ],
+                                    "guid": "5a6b749d-1",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "п<font color=\"#ff0000\">а</font>дать",
+                                        "fallen",
+                                        "п<font color=\"#ff0000\">а</font>даю",
+                                        "п<font color=\"#ff0000\">а</font>даешь",
+                                        "п<font color=\"#ff0000\">а</font>дает",
+                                        "п<font color=\"#ff0000\">а</font>даем",
+                                        "п<font color=\"#ff0000\">а</font>даете",
+                                        "п<font color=\"#ff0000\">а</font>дают"
+                                    ],
+                                    "guid": "0919bb53-f",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "уп<font color=\"#ff0000\">а</font>сть",
+                                        "fallen",
+                                        "упад<font color=\"#ff0000\">у</font>",
+                                        "упадёшь",
+                                        "упадёт",
+                                        "упадём",
+                                        "упадёте",
+                                        "упад<font color=\"#ff0000\">у</font>т"
+                                    ],
+                                    "guid": "21addcd8-b",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "им<font color=\"#ff0000\">е</font>ть",
+                                        "besitzen, haben",
+                                        "им<font color=\"#ff0000\">е</font>ю",
+                                        "им<font color=\"#ff0000\">е</font>ешь",
+                                        "им<font color=\"#ff0000\">е</font>ет",
+                                        "им<font color=\"#ff0000\">е</font>ем",
+                                        "им<font color=\"#ff0000\">е</font>ете",
+                                        "им<font color=\"#ff0000\">е</font>ют"
+                                    ],
+                                    "guid": "db10ed6a-1",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "исчез<font color=\"#ff0000\">а</font>ть",
+                                        "verschwinden",
+                                        "исчез<font color=\"#ff0000\">а</font>ю",
+                                        "исчез<font color=\"#ff0000\">а</font>ешь",
+                                        "исчез<font color=\"#ff0000\">а</font>ет",
+                                        "исчез<font color=\"#ff0000\">а</font>ем",
+                                        "исчез<font color=\"#ff0000\">а</font>ете",
+                                        "исчез<font color=\"#ff0000\">а</font>ют"
+                                    ],
+                                    "guid": "056b44d9-6",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "исч<font color=\"#ff0000\">е</font>знуть",
+                                        "verschwinden",
+                                        "исч<font color=\"#ff0000\">е</font>зну",
+                                        "исч<font color=\"#ff0000\">е</font>знешь",
+                                        "исч<font color=\"#ff0000\">е</font>знет",
+                                        "исч<font color=\"#ff0000\">е</font>знем",
+                                        "исч<font color=\"#ff0000\">е</font>знете",
+                                        "исч<font color=\"#ff0000\">е</font>знут"
+                                    ],
+                                    "guid": "9d7a464b-f",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "финанс<font color=\"#ff0000\">и</font>ровать",
+                                        "finanzieren",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "bb04a993-5",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "проход<font color=\"#ff0000\">и</font>ть",
+                                        "passieren",
+                                        "прохож<font color=\"#ff0000\">у</font>",
+                                        "прох<font color=\"#ff0000\">о</font>дишь",
+                                        "прох<font color=\"#ff0000\">о</font>дит",
+                                        "прох<font color=\"#ff0000\">о</font>дим",
+                                        "прох<font color=\"#ff0000\">о</font>дите",
+                                        "прох<font color=\"#ff0000\">о</font>дят"
+                                    ],
+                                    "guid": "69e3615c-3",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
@@ -58512,7 +58994,9 @@
                                     ],
                                     "guid": "f_?.1{SckJ",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -58527,7 +59011,9 @@
                                     ],
                                     "guid": "w^MwEj;=(}",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -58917,7 +59403,9 @@
                                     ],
                                     "guid": "Ml!,4el=u{",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -58932,7 +59420,9 @@
                                     ],
                                     "guid": "G:kmvb,gKI",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -58947,7 +59437,9 @@
                                     ],
                                     "guid": "K7V5%m(:*X",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -59082,7 +59574,9 @@
                                     ],
                                     "guid": "D{gSc+Iof#",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -59097,7 +59591,9 @@
                                     ],
                                     "guid": "O}15_LO[2u",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -59127,7 +59623,9 @@
                                     ],
                                     "guid": "QsPDaeh*Cs",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -59157,7 +59655,9 @@
                                     ],
                                     "guid": "gC#L!#.~1-",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -59172,7 +59672,9 @@
                                     ],
                                     "guid": "H/qTf73#:#",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -59232,7 +59734,9 @@
                                     ],
                                     "guid": "ogQS_BsgbS",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -59247,7 +59751,9 @@
                                     ],
                                     "guid": "E52++XUoIW",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -59337,7 +59843,224 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "02 Grammatik",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "пройт<font color=\"#ff0000\">и</font>",
+                                        "passieren",
+                                        "пройд<font color=\"#ff0000\">у</font>",
+                                        "пройдёшь",
+                                        "пройдёт",
+                                        "пройдём",
+                                        "пройдёте",
+                                        "пройд<font color=\"#ff0000\">у</font>т"
+                                    ],
+                                    "guid": "a82fdbf6-f",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "обоснов<font color=\"#ff0000\">а</font>ть",
+                                        "begründen",
+                                        "обосн<font color=\"#ff0000\">у</font>ю",
+                                        "обосн<font color=\"#ff0000\">у</font>ешь",
+                                        "обосн<font color=\"#ff0000\">у</font>ет",
+                                        "обосн<font color=\"#ff0000\">у</font>ем",
+                                        "обосн<font color=\"#ff0000\">у</font>ете",
+                                        "обосн<font color=\"#ff0000\">у</font>ют"
+                                    ],
+                                    "guid": "e8a253b2-f",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "вред<font color=\"#ff0000\">и</font>ть",
+                                        "schaden",
+                                        "вреж<font color=\"#ff0000\">у</font>",
+                                        "вред<font color=\"#ff0000\">и</font>шь",
+                                        "вред<font color=\"#ff0000\">и</font>т",
+                                        "вред<font color=\"#ff0000\">и</font>м",
+                                        "вред<font color=\"#ff0000\">и</font>те",
+                                        "вред<font color=\"#ff0000\">я</font>т"
+                                    ],
+                                    "guid": "0f9e448f-b",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "загрязн<font color=\"#ff0000\">я</font>ть",
+                                        "verschmutzen",
+                                        "загрязн<font color=\"#ff0000\">я</font>ю",
+                                        "загрязн<font color=\"#ff0000\">я</font>ешь",
+                                        "загрязн<font color=\"#ff0000\">я</font>ет",
+                                        "загрязн<font color=\"#ff0000\">я</font>ем",
+                                        "загрязн<font color=\"#ff0000\">я</font>ете",
+                                        "загрязн<font color=\"#ff0000\">я</font>ют"
+                                    ],
+                                    "guid": "fa248cac-a",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "очищ<font color=\"#ff0000\">а</font>ть",
+                                        "bereinigen",
+                                        "очищ<font color=\"#ff0000\">а</font>ю",
+                                        "очищ<font color=\"#ff0000\">а</font>ешь",
+                                        "очищ<font color=\"#ff0000\">а</font>ет",
+                                        "очищ<font color=\"#ff0000\">а</font>ем",
+                                        "очищ<font color=\"#ff0000\">а</font>ете",
+                                        "очищ<font color=\"#ff0000\">а</font>ют"
+                                    ],
+                                    "guid": "9d8fa342-e",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "экон<font color=\"#ff0000\">о</font>мить",
+                                        "sparen",
+                                        "экон<font color=\"#ff0000\">о</font>млю",
+                                        "экон<font color=\"#ff0000\">о</font>мишь",
+                                        "экон<font color=\"#ff0000\">о</font>мит",
+                                        "экон<font color=\"#ff0000\">о</font>мим",
+                                        "экон<font color=\"#ff0000\">о</font>мите",
+                                        "экон<font color=\"#ff0000\">о</font>мят"
+                                    ],
+                                    "guid": "2de43215-7",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "сэкон<font color=\"#ff0000\">о</font>мить",
+                                        "sparen",
+                                        "сэкон<font color=\"#ff0000\">о</font>млю",
+                                        "сэкон<font color=\"#ff0000\">о</font>мишь",
+                                        "сэкон<font color=\"#ff0000\">о</font>мит",
+                                        "сэкон<font color=\"#ff0000\">о</font>мим",
+                                        "сэкон<font color=\"#ff0000\">о</font>мите",
+                                        "сэкон<font color=\"#ff0000\">о</font>мят"
+                                    ],
+                                    "guid": "52b0ab8e-3",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "тр<font color=\"#ff0000\">а</font>тить",
+                                        "verschwenden",
+                                        "тр<font color=\"#ff0000\">а</font>чу",
+                                        "тр<font color=\"#ff0000\">а</font>тишь",
+                                        "тр<font color=\"#ff0000\">а</font>тит",
+                                        "тр<font color=\"#ff0000\">а</font>тим",
+                                        "тр<font color=\"#ff0000\">а</font>тите",
+                                        "тр<font color=\"#ff0000\">а</font>тят"
+                                    ],
+                                    "guid": "cbffe6a1-b",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "приним<font color=\"#ff0000\">а</font>ть",
+                                        "empfangen",
+                                        "приним<font color=\"#ff0000\">а</font>ю",
+                                        "приним<font color=\"#ff0000\">а</font>ешь",
+                                        "приним<font color=\"#ff0000\">а</font>ет",
+                                        "приним<font color=\"#ff0000\">а</font>ем",
+                                        "приним<font color=\"#ff0000\">а</font>ете",
+                                        "приним<font color=\"#ff0000\">а</font>ют"
+                                    ],
+                                    "guid": "c5da10a9-d",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "прин<font color=\"#ff0000\">я</font>ть",
+                                        "empfangen",
+                                        "прим<font color=\"#ff0000\">у</font>",
+                                        "пр<font color=\"#ff0000\">и</font>мешь",
+                                        "пр<font color=\"#ff0000\">и</font>мет",
+                                        "пр<font color=\"#ff0000\">и</font>мем",
+                                        "пр<font color=\"#ff0000\">и</font>мете",
+                                        "пр<font color=\"#ff0000\">и</font>мут"
+                                    ],
+                                    "guid": "3dd82db8-d",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "задерж<font color=\"#ff0000\">а</font>ть",
+                                        "aufhalten",
+                                        "задерж<font color=\"#ff0000\">у</font>",
+                                        "зад<font color=\"#ff0000\">е</font>ржишь",
+                                        "зад<font color=\"#ff0000\">е</font>ржит",
+                                        "зад<font color=\"#ff0000\">е</font>ржим",
+                                        "зад<font color=\"#ff0000\">е</font>ржите",
+                                        "зад<font color=\"#ff0000\">е</font>ржат"
+                                    ],
+                                    "guid": "cbd1cbc7-f",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "проруб<font color=\"#ff0000\">и</font>ть",
+                                        "durchbrechen",
+                                        "прорубл<font color=\"#ff0000\">ю</font>",
+                                        "прор<font color=\"#ff0000\">у</font>бишь",
+                                        "прор<font color=\"#ff0000\">у</font>бит",
+                                        "прор<font color=\"#ff0000\">у</font>бим",
+                                        "прор<font color=\"#ff0000\">у</font>бите",
+                                        "прор<font color=\"#ff0000\">у</font>бят"
+                                    ],
+                                    "guid": "33231a1b-8",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
