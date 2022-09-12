@@ -53303,7 +53303,9 @@
                                     ],
                                     "guid": "J0G<},l/ZH",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -53318,7 +53320,9 @@
                                     ],
                                     "guid": "y$4b[dDPN>",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -53333,7 +53337,9 @@
                                     ],
                                     "guid": "o}3?4J@58l",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -53618,7 +53624,9 @@
                                     ],
                                     "guid": "E5NPm~PNN;",
                                     "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
-                                    "tags": []
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -53888,7 +53896,80 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "02 Grammatik",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "род<font color=\"#ff0000\">и</font>ться",
+                                        "geboren werden",
+                                        "рож<font color=\"#ff0000\">у</font>сь",
+                                        "род<font color=\"#ff0000\">и</font>шься",
+                                        "род<font color=\"#ff0000\">и</font>тся",
+                                        "род<font color=\"#ff0000\">и</font>мся",
+                                        "род<font color=\"#ff0000\">и</font>тесь",
+                                        "род<font color=\"#ff0000\">я</font>тся"
+                                    ],
+                                    "guid": "e944030f-e",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "умир<font color=\"#ff0000\">а</font>ть",
+                                        "sterben",
+                                        "умир<font color=\"#ff0000\">а</font>ю",
+                                        "умир<font color=\"#ff0000\">а</font>ешь",
+                                        "умир<font color=\"#ff0000\">а</font>ет",
+                                        "умир<font color=\"#ff0000\">а</font>ем",
+                                        "умир<font color=\"#ff0000\">а</font>ете",
+                                        "умир<font color=\"#ff0000\">а</font>ют"
+                                    ],
+                                    "guid": "e67027af-6",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "умер<font color=\"#ff0000\">е</font>ть",
+                                        "sterben",
+                                        "умр<font color=\"#ff0000\">у</font>",
+                                        "умрёшь",
+                                        "умрёт",
+                                        "умрём",
+                                        "умрёте",
+                                        "умр<font color=\"#ff0000\">у</font>т"
+                                    ],
+                                    "guid": "7043c718-1",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "пр<font color=\"#ff0000\">а</font>вить",
+                                        "regieren",
+                                        "пр<font color=\"#ff0000\">а</font>влю",
+                                        "пр<font color=\"#ff0000\">а</font>вишь",
+                                        "пр<font color=\"#ff0000\">а</font>вит",
+                                        "пр<font color=\"#ff0000\">а</font>вим",
+                                        "пр<font color=\"#ff0000\">а</font>вите",
+                                        "пр<font color=\"#ff0000\">а</font>вят"
+                                    ],
+                                    "guid": "cbf0d189-6",
+                                    "note_model_uuid": "2687f899-2d30-11ec-b017-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Verb"
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
