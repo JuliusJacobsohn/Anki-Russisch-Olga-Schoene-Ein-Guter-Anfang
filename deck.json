@@ -52764,7 +52764,1118 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "01 Vokabeln",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "двадц<font color=\"#ff0000\">а</font>тый",
+                                        "",
+                                        "Zwanzigster",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "jyH.]yIbn7",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "девятн<font color=\"#ff0000\">а</font>дцатый",
+                                        "",
+                                        "Neunzehnter",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "gH-YeYE)+-",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "д<font color=\"#ff0000\">в</font>адцать п<font color=\"#ff0000\">е</font>рвый",
+                                        "",
+                                        "21.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "M0[wmwjQ=e",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "дв<font color=\"#ff0000\">а</font>дцать втор<font color=\"#ff0000\">о</font>й",
+                                        "",
+                                        "22.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "g2[Qr!JWDS",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "тридц<font color=\"#ff0000\">а</font>тый",
+                                        "",
+                                        "30.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "Ip7]mxqmKw",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "тр<font color=\"#ff0000\">и</font>дцать п<font color=\"#ff0000\">е</font>рвый",
+                                        "",
+                                        "31.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "NSxa%1X^{&",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "сороков<font color=\"#ff0000\">о</font>й",
+                                        "",
+                                        "40.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "iExPLRuP],",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "пятидес<font color=\"#ff0000\">я</font>тый",
+                                        "",
+                                        "50.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "wU4_/O?o1h",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "шестидес<font color=\"#ff0000\">я</font>тый",
+                                        "",
+                                        "60.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "GRa2Ot6W3r",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "семидес<font color=\"#ff0000\">я</font>тый",
+                                        "",
+                                        "70.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "bwt8Kf@2x{",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "восьмидес<font color=\"#ff0000\">я</font>тый",
+                                        "",
+                                        "80.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "Em+H:7TRhp",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "девян<font color=\"#ff0000\">о</font>стый",
+                                        "",
+                                        "90.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "O5i60$fIW|",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "с<font color=\"#ff0000\">о</font>тый",
+                                        "",
+                                        "100.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "eSekr4V9:>",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "двухс<font color=\"#ff0000\">о</font>тый",
+                                        "",
+                                        "200.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "P[!;rE8J+q",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "трёхсотый",
+                                        "",
+                                        "300.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "xVM(=lr6e_",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "четырёхс<font color=\"#ff0000\">о</font>тый",
+                                        "",
+                                        "400.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "p7]n[:YeTv",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "пятис<font color=\"#ff0000\">о</font>тый",
+                                        "",
+                                        "500.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "dFUeo7G/Je",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "шестис<font color=\"#ff0000\">о</font>тый",
+                                        "",
+                                        "600.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "LsNT+Nn<+N",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "семис<font color=\"#ff0000\">о</font>тый",
+                                        "",
+                                        "700.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "pP6UyJ+SrJ",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "восьмис<font color=\"#ff0000\">о</font>тый",
+                                        "",
+                                        "800.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "nS<Gn{URYY",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "девятис<font color=\"#ff0000\">о</font>тый",
+                                        "",
+                                        "900.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "CNF&y2/-dJ",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "т<font color=\"#ff0000\">ы</font>сячный",
+                                        "",
+                                        "1000.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "FEKKc8gsxJ",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "двухт<font color=\"#ff0000\">ы</font>сячный",
+                                        "",
+                                        "2000.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "hM}`W|eRv$",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "трёхт<font color=\"#ff0000\">ы</font>сячный",
+                                        "",
+                                        "3000.",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "IMZqkuq^mi",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zählwort"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "дв<font color=\"#ff0000\">а</font>дцать од<font color=\"#ff0000\">и</font>н",
+                                        "",
+                                        "21",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "BEH+UHhgb+",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zahl"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "дв<font color=\"#ff0000\">а</font>дцать два",
+                                        "",
+                                        "22",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "I.=hV{7-cr",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zahl"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "тр<font color=\"#ff0000\">и</font>дцать один",
+                                        "",
+                                        "31",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "v3j9|]xL?R",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zahl"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "пятьдесят",
+                                        "",
+                                        "50",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "MwBbIdBk8Y",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zahl"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "две т<font color=\"#ff0000\">ы</font>сячи",
+                                        "",
+                                        "2000",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "l-N#XQp6)B",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zahl"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "три т<font color=\"#ff0000\">ы</font>сячи",
+                                        "",
+                                        "3000",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "o=*Wo5?s*:",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": [
+                                        "Russisch::Zahl"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "числа",
+                                        "",
+                                        "Zahl",
+                                        "Gen.",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "sojJn),]q.",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "род<font color=\"#ff0000\">и</font>ться",
+                                        "",
+                                        "geboren werden",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "J0G<},l/ZH",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "умир<font color=\"#ff0000\">а</font>ть",
+                                        "",
+                                        "sterben",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "y$4b[dDPN>",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "умер<font color=\"#ff0000\">е</font>ть",
+                                        "",
+                                        "sterben",
+                                        "Perf.",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "o}3?4J@58l",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "рожд<font color=\"#ff0000\">е</font>ние",
+                                        "",
+                                        "Geburt",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "hpl];:w|JA",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "д<font color=\"#ff0000\">а</font>та рожд<font color=\"#ff0000\">е</font>ния",
+                                        "",
+                                        "Geburtsdatum",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "ghvZW#~am_",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "смерть",
+                                        "",
+                                        "Tod",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "goOv&#G~{R",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "национ<font color=\"#ff0000\">а</font>льный",
+                                        "",
+                                        "national",
+                                        "Adj.",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "rE9<_+YfO,",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "гер<font color=\"#ff0000\">о</font>й",
+                                        "",
+                                        "Held",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "n`Ez*}hscR",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "геро<font color=\"#ff0000\">и</font>ня",
+                                        "",
+                                        "Heldin",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "F~KXLud[MP",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "импер<font color=\"#ff0000\">а</font>тор",
+                                        "",
+                                        "Kaiser",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "Mi#d4IEf4s",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "императр<font color=\"#ff0000\">и</font>ца",
+                                        "",
+                                        "Kaiserin",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "lH#caK}ANx",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "по<font color=\"#ff0000\">э</font>т",
+                                        "",
+                                        "Poet, Dichter",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "zJFkhF6j6Q",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "поэт<font color=\"#ff0000\">е</font>сса",
+                                        "",
+                                        "Poetin, Dichterin",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "q(q!B|#ukV",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "жел<font color=\"#ff0000\">е</font>зный",
+                                        "",
+                                        "eisern",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "roNw@kdD_0",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "вел<font color=\"#ff0000\">и</font>кий",
+                                        "",
+                                        "groß",
+                                        "von Bedeutung",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "v}o+ivRJ7:",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "правл<font color=\"#ff0000\">е</font>ние",
+                                        "",
+                                        "Regieren",
+                                        "Nomen",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "f1|We-nAk9",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "измен<font color=\"#ff0000\">е</font>ние",
+                                        "",
+                                        "Veränderung",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "F6yuvfloUG",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<font color=\"#ff0000\">о</font>браз ж<font color=\"#ff0000\">и</font>зни",
+                                        "",
+                                        "Lebensweise",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "lfFR$O(Q7e",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "образов<font color=\"#ff0000\">а</font>ние",
+                                        "",
+                                        "Bildung",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "J!3]%|DVc}",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "мн<font color=\"#ff0000\">е</font>ние",
+                                        "",
+                                        "Meinung",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "A-EN>[H`%t",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "р<font color=\"#ff0000\">а</font>звитый",
+                                        "",
+                                        "entwickelt",
+                                        "Adj.",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "E0d/~nY[1W",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "пр<font color=\"#ff0000\">а</font>вить",
+                                        "",
+                                        "regieren",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "E5NPm~PNN;",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "самосто<font color=\"#ff0000\">я</font>тельно",
+                                        "",
+                                        "selbstständig",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "u)lnE%}@8^",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "основание",
+                                        "",
+                                        "Gründung",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "kmY7ZgF;`.",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "в теч<font color=\"#ff0000\">е</font>ние",
+                                        "",
+                                        "im Laufe",
+                                        "",
+                                        "+ Fall?",
+                                        "+ Gen.",
+                                        ""
+                                    ],
+                                    "guid": "i5?v!-AAg+",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "часть",
+                                        "",
+                                        "Teil",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "gf#s<-Bs~W",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "роль",
+                                        "",
+                                        "Rolle",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "b5_`HbkFvW",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "весь",
+                                        "",
+                                        "ganz",
+                                        "m.",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "wpVa,LAM:0",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "вся",
+                                        "",
+                                        "ganze",
+                                        "f.",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "qubM}`l3B(",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "все",
+                                        "",
+                                        "alle",
+                                        "Pl.",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "jGIy(`w>WF",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "относ<font color=\"#ff0000\">и</font>ться&nbsp;к",
+                                        "",
+                                        "sich verhalten gegenüber",
+                                        "",
+                                        "+ Fall?",
+                                        "+ Dat.",
+                                        ""
+                                    ],
+                                    "guid": "e4f}t?#Y+?",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "подв<font color=\"#ff0000\">и</font>жный",
+                                        "",
+                                        "beweglich, lebhaft",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "O?A}h_?TH3",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "рис<font color=\"#ff0000\">у</font>нок",
+                                        "",
+                                        "Zeichnung",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "L/B(F%ZxX~",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "сел<font color=\"#ff0000\">о</font>",
+                                        "",
+                                        "Dorf",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "ej/hguoukD",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "во<font color=\"#ff0000\">е</font>нный",
+                                        "",
+                                        "kriegs-",
+                                        "Adj.",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "H]+#AA/3Sc",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "с<font color=\"#ff0000\">о</font>бран",
+                                        "",
+                                        "gesammelt",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "pz#9f~{|pg",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "полк",
+                                        "",
+                                        "Regiment",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "iSD7<LP$9B",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "посто<font color=\"#ff0000\">я</font>нно",
+                                        "",
+                                        "stets",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "M^!)0FLtK!",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "кор<font color=\"#ff0000\">а</font>бль",
+                                        "",
+                                        "Schiff, Boot",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "k4i;emqZ27",
+                                    "note_model_uuid": "26628349-2d30-11ec-bba9-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
