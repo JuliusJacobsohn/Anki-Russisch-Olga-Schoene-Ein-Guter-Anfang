@@ -52751,7 +52751,7 @@
             "__type__": "Deck",
             "children": [],
             "crowdanki_uuid": "6d787831-32a8-11ed-9b71-0c7a15ee466f",
-            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+            "deck_config_uuid": "85187750-32ab-11ed-9978-0c7a15ee466f",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -53159,8 +53159,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "buryInterdayLearning": false,
-            "crowdanki_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+            "crowdanki_uuid": "85187750-32ab-11ed-9978-0c7a15ee466f",
             "dyn": false,
             "interdayLearningMix": 0,
             "lapse": {
@@ -53173,9 +53172,9 @@
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "Default",
+            "name": "Russisch::B1",
             "new": {
-                "bury": true,
+                "bury": false,
                 "delays": [
                     1.0,
                     10.0
@@ -53186,7 +53185,7 @@
                     4,
                     0
                 ],
-                "order": 0,
+                "order": 1,
                 "perDay": 20
             },
             "newGatherPriority": 0,
@@ -53195,7 +53194,7 @@
             "newSortOrder": 0,
             "replayq": true,
             "rev": {
-                "bury": true,
+                "bury": false,
                 "ease4": 1.3,
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
